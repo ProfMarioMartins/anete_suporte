@@ -267,12 +267,15 @@ Preencha nos campos abaixo:
 </script>
 ```
 
+```{=html}
 <!--
 O formulário funciona assim: O aluno preenche nome, e-mail e turma — sempre visíveis — e seleciona a etapa. O formulário exibe automaticamente apenas os campos daquela etapa, com uma nota informando que os dados anteriores já foram registrados. Ao enviar, apenas os campos da etapa selecionada são transmitidos, cada envio gera uma linha nova na planilha com a etapa identificada.
-Para adicionar uma nova etapa futuramente, você precisa fazer três coisas no código, todas marcadas com o comentário <!-- Adicione... --> 
+Para adicionar uma nova etapa futuramente, você precisa fazer três coisas no código, todas marcadas com o comentário <!-- Adicione... -->
+```
 
 <!-- ou // Adicione...:-->
 
+```{=html}
 <!--
 Acrescentar um <option> no seletor de etapas
 Acrescentar um bloco <div class="campos-etapa"> com os campos novos
@@ -280,3 +283,4 @@ Acrescentar um else if no JavaScript — tanto na função de exibição quanto 
 
 O doPost da planilha também precisará receber as novas colunas correspondentes às novas etapas. Quando chegar nessa parte, me mostre o script atual e adapto.
 -->
+```

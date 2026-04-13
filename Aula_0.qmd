@@ -2,34 +2,33 @@
 title: "Exame diagnóstico"
 ---
 
-
 ```{=html}
 <!--
 Também disponível em: https://docs.google.com/document/d/1wBoKYCaLeQmAP22tVpxj6ifQX_Vfhah9CCDLkRlD9hU/edit?tab=t.0#heading=h.elc8uruaoa
 -->
 ```
 
-## Exame Diagnóstico {-}
+## Exame Diagnóstico {.unnumbered}
 
-**Disciplina:** Análise e Expressão Textual (ANETE)  
-**Curso:** Bacharelado em Ciência e Tecnologia (C&T)  
-**Professor:** Mário Martins  
-**Semestre:** 2026.1  
-**Data:** ____ / ____ / ______  
+**Disciplina:** Análise e Expressão Textual (ANETE)\
+**Curso:** Bacharelado em Ciência e Tecnologia (C&T)\
+**Professor:** Mário Martins\
+**Semestre:** 2026.1\
+**Data:** \_\_\_\_ / \_\_\_\_ / \_\_\_\_\_\_
 
-**Discente:** _________________________________________________
+**Discente:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
----
+------------------------------------------------------------------------
 
-### Orientações {-}
+### Orientações {.unnumbered}
 
-Este exame tem caráter exclusivamente **diagnóstico** e não vale nota.  
+Este exame tem caráter exclusivamente **diagnóstico** e não vale nota.\
 Seu objetivo é identificar habilidades iniciais de leitura, escrita e argumentação, a fim de orientar a condução da disciplina ao longo do semestre.
 
-Responda com clareza e desenvolva suas explicações sempre que solicitado.  
+Responda com clareza e desenvolva suas explicações sempre que solicitado.\
 Não há respostas “certas” ou “erradas” no sentido avaliativo tradicional.
 
----
+------------------------------------------------------------------------
 
 ::: titulo-nao-numerado
 Parte I – Leitura e Análise Argumentativa
@@ -40,7 +39,7 @@ Leia o texto abaixo para responder às questões 1 a 6.
 ::: destaque
 Texto 1
 
-**No home schooling, nunca saberíamos sobre estupro de menina de 12 anos**  
+**No home schooling, nunca saberíamos sobre estupro de menina de 12 anos**\
 *Eduardo Carvalho, 26/02/2026*
 
 O recente desfecho jurídico de um caso de estupro de vulnerável em Minas Gerais não é apenas uma decisão judicial isolada; é um alerta da cegueira institucional que beira a negligência. Trata-se de uma menina de 12 anos e um homem de 35. O cenário: a escola percebe a ausência, o Conselho Tutelar é acionado, a Polícia intervém. A rede de proteção funcionou em sua base, mas desmoronou no topo.
@@ -56,7 +55,6 @@ Essa decisão envia uma mensagem devastadora: a de que o Estado pode escolher ig
 Neste ponto, o home schooling surge como uma variável alarmante. O argumento da “liberdade educacional” acaba por ignorar o papel da escola como olhar fiscalizador do Estado sobre o bem-estar da criança.
 
 **Fonte:** https://www.uol.com.br/ecoa/colunas/eduardo-carvalho/2026/02/26/home-schooling-estupro-menina-12-anos.htm
-
 :::
 
 ::: titulo-nao-numerado
@@ -64,56 +62,56 @@ Questões
 :::
 
 ::: subtitulo-nao-numerado
-1. Identifique a tese central do texto e reformule-a com suas palavras.
+1.  Identifique a tese central do texto e reformule-a com suas palavras.
 :::
 
 \vspace{4cm}
 
 ::: subtitulo-nao-numerado
-2. Que razões ou evidências o autor apresenta para sustentar essa tese? Explique como elas contribuem para fortalecer o argumento.
+2.  Que razões ou evidências o autor apresenta para sustentar essa tese? Explique como elas contribuem para fortalecer o argumento.
 :::
 
 \vspace{5cm}
 
 ::: subtitulo-nao-numerado
-3. Indique uma informação do texto que poderia ser verificada por meio de uma fonte confiável. Explique por que essa informação exige verificação.
+3.  Indique uma informação do texto que poderia ser verificada por meio de uma fonte confiável. Explique por que essa informação exige verificação.
 :::
 
 \vspace{4cm}
 
 ::: subtitulo-nao-numerado
-4. Escolha duas ideias do texto que estejam relacionadas. Explique como essa relação é construída (causa, consequência, exemplificação, contraste etc.).
+4.  Escolha duas ideias do texto que estejam relacionadas. Explique como essa relação é construída (causa, consequência, exemplificação, contraste etc.).
 :::
 
 \vspace{4cm}
 
 ::: subtitulo-nao-numerado
-5. Identifique uma ideia do texto que dependa de uma suposição implícita para fazer sentido. Explique qual é essa suposição e por que ela é importante para o argumento.
+5.  Identifique uma ideia do texto que dependa de uma suposição implícita para fazer sentido. Explique qual é essa suposição e por que ela é importante para o argumento.
 :::
 
 \vspace{4cm}
 
 ::: subtitulo-nao-numerado
-6. Posicione-se em relação à tese do texto. Escreva um parágrafo (6 a 8 linhas) defendendo sua posição com pelo menos uma justificativa desenvolvida.
+6.  Posicione-se em relação à tese do texto. Escreva um parágrafo (6 a 8 linhas) defendendo sua posição com pelo menos uma justificativa desenvolvida.
 :::
 
 \vspace{5cm}
 
----
+------------------------------------------------------------------------
 
 ::: titulo-nao-numerado
 Parte II – Produção Argumentativa Autônoma
 :::
 
 ::: subtitulo-nao-numerado
-7. Em que condições o uso de ferramentas de inteligência artificial pode contribuir para a aprendizagem universitária?
+7.  Em que condições o uso de ferramentas de inteligência artificial pode contribuir para a aprendizagem universitária?
 :::
 
 Escreva um parágrafo argumentativo (8 a 10 linhas):
 
-- Apresente uma posição clara.
-- Desenvolva pelo menos uma razão.
-- Explicite sua justificativa de modo consistente.
+-   Apresente uma posição clara.
+-   Desenvolva pelo menos uma razão.
+-   Explicite sua justificativa de modo consistente.
 
 \vspace{6cm}
 
@@ -122,21 +120,21 @@ Parte III – Experiência Prévia e Expectativas
 :::
 
 ::: subtitulo-nao-numerado
-8. Você já produziu algum texto acadêmico (resumo científico, projeto de pesquisa, relatório, artigo científico)?  
-Se sim, em qual contexto?
+8.  Você já produziu algum texto acadêmico (resumo científico, projeto de pesquisa, relatório, artigo científico)?\
+    Se sim, em qual contexto?
 :::
 
 \vspace{3cm}
 
 ::: subtitulo-nao-numerado
-9. Indique em quais aspectos você acredita que poderá ter mais dificuldade nesta disciplina:
+9.  Indique em quais aspectos você acredita que poderá ter mais dificuldade nesta disciplina:
 :::
 
-- ( ) Leitura de textos acadêmicos  
-- ( ) Escrita de textos acadêmicos  
-- ( ) Construção da argumentação  
-- ( ) Expressão oral  
-- ( ) Uso de fontes e referências  
+-   ( ) Leitura de textos acadêmicos\
+-   ( ) Escrita de textos acadêmicos\
+-   ( ) Construção da argumentação\
+-   ( ) Expressão oral\
+-   ( ) Uso de fontes e referências
 
 ::: subtitulo-nao-numerado
 10. O que você espera aprender nesta disciplina?

@@ -421,7 +421,7 @@ Apesar da grande utilidade que apresenta na *solução dos problemas diários* l
 A distinção entre conhecimento do senso comum e conhecimento científico se refere ao modo como o conhecimento é produzido e validado. A tabela abaixo sintetiza algumas dessas diferenças.
 
 | Critério | Conhecimento do senso comum | Conhecimento científico |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | Origem | Surge espontaneamente a partir da experiência cotidiana e da tradição cultural. | Surge de investigação sistemática orientada por problemas de pesquisa. |
 | Finalidade | Resolver problemas imediatos da vida prática. | Explicar fenômenos e produzir conhecimento confiável e generalizável. |
 | Método | Não segue procedimentos sistemáticos de investigação. | Utiliza métodos sistemáticos de observação, formulação de hipóteses e teste empírico. |

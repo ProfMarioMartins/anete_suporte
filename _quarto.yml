@@ -38,6 +38,7 @@ book:
     - part: "Unidade II"
       chapters:
        - Aula_8_problemapesquisa.qmd
+       - Aula_9_divulgacaocientifica.qmd
 #      - Aula_9_projeto.qmd
 #      - Aula_10_artigo.qmd
 #      - Aula_11.qmd       
@@ -63,14 +64,14 @@ book:
 #   - part: "Modelos"
 #     chapters:
 #      - modelo_plano.qmd
-#      - modelo_relatorio.qmd
+       - modelo_relatorio.qmd
 #      - modelo_video.qmd
 #      - modelo_carrossel.qmd
 
-#   - part: "Avaliações"
-#     chapters:
+    - part: "Avaliações"
+      chapters:
 #      - 1_Avaliacao.qmd
-#      - 2_Avaliacao.qmd
+       - avaliacao_segunda_2026_1.qmd
 #      - 3_Avaliacao.qmd
 
     - part: "Complementos"

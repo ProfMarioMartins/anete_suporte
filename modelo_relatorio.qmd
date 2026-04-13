@@ -1,64 +1,76 @@
 ---
-title: "Relatório reflexivo"
+title: "Relatório reflexivo de produção"
 ---
 
-::: titulo-nao-numerado
-Modelo de relatório
+::: nota-secundaria
+Este relatório será preenchido em sala de aula no dia **11 de maio de 2026**.
+Consulte os [critérios de avaliação](avaliacao_segunda_2026_1.qmd) antes de começar.
 :::
 
 ::: callout-tip
-O objetivo deste tipo de relatório é permitir que você explicite, analise e reflita sobre o processo de criação da [**mídia digital de divulgação científica**](2_Avaliacao.qmd), articulando suas decisões linguísticas, visuais e temáticas a partir de critérios de relevância, clareza e adequação comunicativa, bem como relacionando o conteúdo divulgado a seu projeto de pesquisa em desenvolvimento.
+**Para que serve este relatório?**
 
-Em particular, este relatório se realiza por meio de quatro funções comunicativas:
+O relatório reflexivo tem quatro funções comunicativas:
 
--   Documentar o processo de criação da mídia, oferecendo ao professor um relato claro e objetivo das decisões tomadas;
--   Justificar a escolha do conteúdo divulgado, com base em critérios de relevância científica, social ou institucional;
--   Analisar criticamente as estratégias de adaptação da linguagem, das imagens e do formato ao público não especializado;
--   Refletir sobre os aprendizados e desafios enfrentados durante a atividade, promovendo metacognição e consciência linguística.
+- **Documentar** o processo de criação da mídia;
+- **Justificar** a escolha do conteúdo divulgado;
+- **Analisar** criticamente as estratégias de adaptação da linguagem,
+  das imagens e do formato ao público não especializado;
+- **Refletir** sobre os aprendizados e desafios enfrentados durante a
+  atividade, promovendo consciência sobre suas próprias escolhas
+  comunicativas.
+
+Respostas vagas ou descritivas — que apenas relatam o que foi feito,
+sem explicar o porquê — não atendem aos critérios de avaliação.
 :::
 
-:::::::::: fundo-papel
-::: subtitulo-nao-numerado
-Título da mídia
-:::
-
-Escreva aqui o título da sua mídia de divulgação científica (se houver). Pode ser a frase de abertura ou a pergunta provocativa usada no post.
-
-::: subtitulo-nao-numerado
-Escolha do conteúdo
-:::
-
-Explique por que escolheu o dado ou a informação científica que aparece na sua mídia. O que motivou essa escolha? Por que esse dado é relevante para o público geral?
 
 ::: subtitulo-nao-numerado
-Relação com o plano de trabalho
+1. Escolha do conteúdo
 :::
 
-Descreva como o conteúdo divulgado está relacionado, direta ou indiretamente, com o tema do seu plano de trabalho (mesmo que isso não tenha sido explicitado no post).
+Explique por que escolheu o dado ou a informação científica que aparece na sua mídia. Responda às perguntas abaixo:
+
+- O que motivou a escolha desse dado específico?
+- Por que esse dado é relevante para o público geral — e não apenas para especialistas?
+- De onde ele vem? Qual é a fonte?
 
 ::: subtitulo-nao-numerado
-Adaptação para o público não especialista
+2. Relação com o projeto de pesquisa
 :::
 
-Comente sobre as decisões tomadas para adaptar a linguagem e o visual da sua mídia: que palavras evitou? O que simplificou? Que escolhas de cor, imagem ou estilo você fez?
+Descreva como o conteúdo divulgado se articula com o tema e a pergunta de investigação do seu projeto de pesquisa. Atenção: esta seção não deve repetir o que você escreveu na seção anterior — o foco aqui é a **conexão com sua pesquisa**, não a justificativa do dado em si.
+
+- Como o dado se relaciona com a sua pergunta de investigação?
+- Ele ilustra o problema que você está investigando, um achado
+  relevante ou uma lacuna que sua pesquisa pretende preencher?
 
 ::: subtitulo-nao-numerado
-Reflexão sobre o processo
+3. Adaptação para o público não especialista
 :::
 
-Relate brevemente como foi produzir essa mídia. O que você aprendeu sobre comunicação científica? Houve alguma dificuldade ou surpresa no processo?
+Analise as decisões que você tomou para tornar o conteúdo acessível ao público geral. Vá além de descrever o que fez — explique **por que** essas escolhas tornam o conteúdo mais compreensível para esse público.
+
+- Que termos técnicos você evitou ou substituiu? Por quê?
+- Que escolhas visuais (cor, imagem, fonte, ritmo) você fez? Qual era
+  o efeito esperado?
+- Como você equilibrou precisão científica e acessibilidade?
 
 ::: subtitulo-nao-numerado
-Link da publicação
+4. Reflexão sobre o processo
 :::
 
-Inclua o link direto para a sua postagem no Instagram, publicada em colab com o perfil do curso.
+Reflita criticamente sobre a experiência de produzir essa mídia. O foco não é descrever as etapas — é analisar o que você aprendeu a partir delas.
+
+- Que dificuldade concreta você enfrentou? Como a resolveu?
+- O que você faria de diferente se refizesse a mídia? Por quê?
+- O que essa experiência revelou sobre o desafio de comunicar ciência
+  para o público geral?
 
 ::: subtitulo-nao-numerado
 Referências
 :::
 
-SOBRENOME, Nome. *Título da obra*. Local: Editora, ano.
+Liste aqui a referência do dado apresentado na mídia, em formato ABNT.
 
-SOBRENOME, Nome. “Título do artigo”. *Nome do periódico*, v. X, n. Y, p. Z–Z, ano.
-::::::::::
+SOBRENOME, Nome...
