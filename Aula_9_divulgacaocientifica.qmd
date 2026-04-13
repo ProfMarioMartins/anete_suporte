@@ -522,6 +522,10 @@ verdadeiro, relevante e verificável. Como você vai comunicar é o
 que determina se alguém vai ouvir.
 :::
 
+::: img-central
+![@neocomciencia](img/qr_code_neocomciencia.png)
+:::
+
 ::: proxima-aula
 [Para a próxima aula:]{.proxima-aula-title}
 
