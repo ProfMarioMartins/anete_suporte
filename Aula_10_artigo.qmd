@@ -1,0 +1,322 @@
+---
+title: "O que é um artigo científico?"
+---
+
+::: nota-secundaria
+Roteiro de aula elaborado no RStudio com o auxílio da inteligência artificial, revisado e avaliado pelo autor antes de sua publicação.
+:::
+
+## Contextualização
+
+Ao final deste encontro, espera-se que você seja capaz de:
+
+-   reconhecer, em um artigo científico, a presença ou ausência de elementos fundamentais da pesquisa.
+
+::: leitura
+**Leitura indicada**
+
+**Artigo científico original e de revisão: a estrutura “Introdução, Método, Resultados e Discussão” (IMRD)** (p. 48–65), capítulo do livro *Redação de artigos científicos*, de João Bosco Medeiros e Carolina Tomasi. Disponível na Minha Biblioteca.
+:::
+
+## Aprendizagem prática
+
+```{=html}
+<style>
+  #form-analise-artigo {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    max-width: 900px;
+    margin: auto;
+  }
+
+  #form-analise-artigo fieldset {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 6px;
+    background-color: #ffffff;
+    margin-bottom: 1.5rem;
+  }
+
+  #form-analise-artigo legend {
+    font-weight: bold;
+    color: #243E6A;
+  }
+
+  #form-analise-artigo .bloco-pergunta {
+    margin-bottom: 1.8rem;
+    padding-bottom: 0.8rem;
+    border-bottom: 1px solid #e6e6e6;
+  }
+
+  #form-analise-artigo .bloco-pergunta:last-of-type {
+    border-bottom: none;
+  }
+
+  #form-analise-artigo p {
+    margin: 0 0 0.6rem 0;
+    font-weight: bold;
+    font-size: 1.02em;
+    color: #243E6A;
+  }
+
+  #form-analise-artigo .exemplo {
+    display: block;
+    margin-top: 0.35rem;
+    font-size: 0.94em;
+    font-weight: normal;
+    color: #555;
+    line-height: 1.4;
+  }
+
+  #form-analise-artigo .opcoes {
+    margin-left: 0.8rem;
+  }
+
+  #form-analise-artigo .opcoes label {
+    display: block;
+    margin-bottom: 0.35rem;
+    font-weight: normal;
+    color: #222;
+  }
+
+  #form-analise-artigo input[type="text"],
+  #form-analise-artigo select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 1rem;
+  }
+
+  #form-analise-artigo button {
+    background-color: #243E6A;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 6px;
+    font-size: 1em;
+    cursor: pointer;
+  }
+
+  #form-analise-artigo button:hover {
+    background-color: #1b2f4d;
+  }
+</style>
+
+<form id="form-analise-artigo">
+
+  <fieldset>
+    <legend>Identificação</legend>
+
+    <label>Nome do aluno:</label>
+    <input type="text" name="aluno1" required>
+
+    <label>Nome do segundo aluno (opcional):</label>
+    <input type="text" name="aluno2">
+
+    <label>Título do artigo:</label>
+    <input type="text" name="titulo" required>
+
+    <label>Tipo de artigo percebido:</label>
+    <select name="tipo_artigo" required>
+      <option value="" disabled selected>Selecione</option>
+      <option value="original">Artigo original</option>
+      <option value="revisao">Artigo de revisão</option>
+      <option value="revisao_sistematica">Revisão sistemática</option>
+      <option value="metanalise">Metanálise</option>
+      <option value="teorico">Estudo teórico</option>
+      <option value="observacional">Estudo observacional</option>
+      <option value="experimental">Estudo experimental</option>
+      <option value="nao_sei">Não sei identificar</option>
+    </select>
+  </fieldset>
+
+  <fieldset>
+    <legend>Bloco analítico</legend>
+
+    <!-- MODELO DE PERGUNTA -->
+    <!-- Replicado para todas -->
+
+    <div class="bloco-pergunta">
+      <p>1. O artigo explicita o tema delimitado?</p>
+      <span class="exemplo">Exemplo: indica fenômeno, população, contexto ou recorte específico.</span>
+      <div class="opcoes">
+        <label><input type="radio" name="q1" value="sim" required> Sim</label>
+        <label><input type="radio" name="q1" value="parcialmente"> Parcialmente</label>
+        <label><input type="radio" name="q1" value="nao"> Não</label>
+      </div>
+    </div>
+
+    <div class="bloco-pergunta">
+      <p>2. O artigo apresenta um problema de pesquisa?</p>
+      <span class="exemplo">Exemplo: questão, lacuna ou dificuldade investigada.</span>
+      <div class="opcoes">
+        <label><input type="radio" name="q2" value="sim" required> Sim</label>
+        <label><input type="radio" name="q2" value="parcialmente"> Parcialmente</label>
+        <label><input type="radio" name="q2" value="nao"> Não</label>
+      </div>
+    </div>
+
+    <div class="bloco-pergunta">
+      <p>3. O artigo apresenta hipóteses?</p>
+      <span class="exemplo">Exemplo: respostas provisórias ou previsões da pesquisa.</span>
+      <div class="opcoes">
+        <label><input type="radio" name="q3" value="sim" required> Sim</label>
+        <label><input type="radio" name="q3" value="parcialmente"> Parcialmente</label>
+        <label><input type="radio" name="q3" value="nao"> Não</label>
+      </div>
+    </div>
+
+    <div class="bloco-pergunta">
+      <p>4. O artigo apresenta objetivo geral com verbo no infinitivo?</p>
+      <span class="exemplo">Exemplo: analisar, investigar, comparar, descrever.</span>
+      <div class="opcoes">
+        <label><input type="radio" name="q4" value="sim" required> Sim</label>
+        <label><input type="radio" name="q4" value="parcialmente"> Parcialmente</label>
+        <label><input type="radio" name="q4" value="nao"> Não</label>
+      </div>
+    </div>
+
+    <div class="bloco-pergunta">
+      <p>5. O artigo apresenta justificativa da pesquisa?</p>
+      <span class="exemplo">Exemplo: relevância científica, social ou prática.</span>
+      <div class="opcoes">
+        <label><input type="radio" name="q5" value="sim" required> Sim</label>
+        <label><input type="radio" name="q5" value="parcialmente"> Parcialmente</label>
+        <label><input type="radio" name="q5" value="nao"> Não</label>
+      </div>
+    </div>
+
+    <div class="bloco-pergunta">
+      <p>6. O artigo cita um ou mais autores que parecem sustentar a discussão principal do texto?</p>
+      <span class="exemplo">Exemplo: autores recorrentes que estruturam a discussão.</span>
+      <div class="opcoes">
+        <label><input type="radio" name="q6" value="sim" required> Sim</label>
+        <label><input type="radio" name="q6" value="parcialmente"> Parcialmente</label>
+        <label><input type="radio" name="q6" value="nao"> Não</label>
+      </div>
+    </div>
+
+    <div class="bloco-pergunta">
+      <p>7. O artigo explicita o tipo de pesquisa?</p>
+      <span class="exemplo">Exemplo: qualitativa, quantitativa, estudo de caso etc.</span>
+      <div class="opcoes">
+        <label><input type="radio" name="q7" value="sim" required> Sim</label>
+        <label><input type="radio" name="q7" value="parcialmente"> Parcialmente</label>
+        <label><input type="radio" name="q7" value="nao"> Não</label>
+      </div>
+    </div>
+
+    <div class="bloco-pergunta">
+      <p>8. O artigo utiliza instrumentos de pesquisa identificáveis?</p>
+      <span class="exemplo">Exemplo: questionário, entrevista, software, experimento.</span>
+      <div class="opcoes">
+        <label><input type="radio" name="q8" value="sim" required> Sim</label>
+        <label><input type="radio" name="q8" value="parcialmente"> Parcialmente</label>
+        <label><input type="radio" name="q8" value="nao"> Não</label>
+      </div>
+    </div>
+
+    <div class="bloco-pergunta">
+      <p>9. O artigo indica a população ou corpus estudado?</p>
+      <span class="exemplo">Exemplo: participantes, textos, dados analisados.</span>
+      <div class="opcoes">
+        <label><input type="radio" name="q9" value="sim" required> Sim</label>
+        <label><input type="radio" name="q9" value="parcialmente"> Parcialmente</label>
+        <label><input type="radio" name="q9" value="nao"> Não</label>
+      </div>
+    </div>
+
+    <div class="bloco-pergunta">
+      <p>10. O artigo apresenta resultados da pesquisa?</p>
+      <span class="exemplo">Exemplo: dados, achados, categorias ou tendências.</span>
+      <div class="opcoes">
+        <label><input type="radio" name="q10" value="sim" required> Sim</label>
+        <label><input type="radio" name="q10" value="parcialmente"> Parcialmente</label>
+        <label><input type="radio" name="q10" value="nao"> Não</label>
+      </div>
+    </div>
+
+    <div class="bloco-pergunta">
+      <p>11. O artigo apresenta contribuições da pesquisa?</p>
+      <span class="exemplo">Exemplo: implicações teóricas, práticas ou sociais.</span>
+      <div class="opcoes">
+        <label><input type="radio" name="q11" value="sim" required> Sim</label>
+        <label><input type="radio" name="q11" value="parcialmente"> Parcialmente</label>
+        <label><input type="radio" name="q11" value="nao"> Não</label>
+      </div>
+    </div>
+
+    <div class="bloco-pergunta">
+      <p>12. O artigo explicita o referencial teórico?</p>
+      <span class="exemplo">Exemplo: autores e conceitos que orientam a análise.</span>
+      <div class="opcoes">
+        <label><input type="radio" name="q12" value="sim" required> Sim</label>
+        <label><input type="radio" name="q12" value="parcialmente"> Parcialmente</label>
+        <label><input type="radio" name="q12" value="nao"> Não</label>
+      </div>
+    </div>
+
+    <div class="bloco-pergunta">
+      <p>13. O artigo apresenta dados quantitativos?</p>
+<span class="exemplo">Exemplo: números, porcentagens, médias, tabelas ou gráficos.</span>
+      <div class="opcoes">
+        <label><input type="radio" name="q13" value="sim" required> Sim</label>
+        <label><input type="radio" name="q13" value="parcialmente"> Parcialmente</label>
+        <label><input type="radio" name="q13" value="nao"> Não</label>
+      </div>
+    </div>
+
+  </fieldset>
+
+  <div style="text-align:center;">
+    <button type="submit">Enviar análise</button>
+  </div>
+
+</form>
+
+<div id="mensagem-envio" style="margin-top: 1rem; text-align: center; font-weight: bold;"></div>
+
+<script>
+document.getElementById("form-analise-artigo").addEventListener("submit", async function(e) {
+  e.preventDefault();
+
+  const form = e.target;
+  const formData = new FormData(form);
+  const params = new URLSearchParams(formData); // ← conversão aqui
+
+  const msg = document.getElementById("mensagem-envio");
+  msg.style.color = "#243E6A";
+  msg.textContent = "Enviando respostas...";
+
+  try {
+    const resposta = await fetch("https://script.google.com/macros/s/AKfycbzqXBAWTRoW2O6gxZcePswDSjIZMsufxzNY5pnAL4mvcVbbq-Oln2h2ctbq3FAVIf3CvQ/exec", {
+      method: "POST",
+      body: params,
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      redirect: "follow"
+    });
+
+    const texto = await resposta.text();
+
+    // Extrai o JSON mesmo que venha com texto extra
+    const match = texto.match(/\{.*\}/s);
+    if (!match) throw new Error("Resposta inesperada: " + texto);
+
+    const resultado = JSON.parse(match[0]);
+
+    if (resultado.status === "ok") {
+      msg.style.color = "green";
+      msg.textContent = "✅ Respostas enviadas com sucesso.";
+      form.reset();
+    } else {
+      msg.style.color = "darkred";
+      msg.textContent = "❌ Erro ao enviar: " + resultado.message;
+    }
+
+  } catch (erro) {
+    msg.style.color = "darkred";
+    msg.textContent = "❌ Falha no envio.";
+    console.error(erro);
+  }
+});
+</script>
+```

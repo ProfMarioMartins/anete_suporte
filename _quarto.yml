@@ -39,8 +39,7 @@ book:
       chapters:
        - Aula_8_problemapesquisa.qmd
        - Aula_9_divulgacaocientifica.qmd
-#      - Aula_9_projeto.qmd
-#      - Aula_10_artigo.qmd
+       - Aula_10_artigo.qmd
 #      - Aula_11.qmd       
 #      - Aula_12_resumo.qmd
 #      - Aula_15.qmd       

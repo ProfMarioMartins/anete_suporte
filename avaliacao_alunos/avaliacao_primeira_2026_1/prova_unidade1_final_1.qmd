@@ -504,96 +504,96 @@ valor_total  <- "10,0"
   </div>
 
   <table class="tabela-gabarito">
-  <thead>
-    <tr>
-      <th>Questão</th>
-      <th>Resposta</th>
-      <th>Justificativa</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>C</td>
-      <td>Bacchi argumenta que a percepção pessoal é limitada e que
-      coincidências reforçam crenças que afastam o indivíduo de
-      explicações verificáveis. As demais contradizem o texto: a
-      ciência é útil para decisões cotidianas (nega A), é revisável
-      pelo ceticismo organizado (nega B e D), e evidências científicas
-      não são determinantes para a maioria das pessoas segundo o
-      autor (nega E).</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>C</td>
-      <td>Linguagem vaga ("seus problemas vão acabar"), promessas
-      absolutas e ausência de dados empíricos são os três marcadores
-      centrais da não cientificidade do vídeo, conforme os critérios
-      trabalhados em aula. As demais alternativas atribuem ao vídeo
-      características que ele não possui ou invertem os critérios
-      de cientificidade.</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>C</td>
-      <td>Koché (2016, p. 27) afirma que a vaguidade impossibilita
-      determinar quais manifestações empíricas confirmam ou refutam
-      um enunciado, tornando o controle experimental quase impossível.
-      As demais alternativas distorcem ou contradizem o argumento
-      do autor: A nega a utilidade prática do senso comum, que Koché
-      reconhece; B inverte a relação entre vaguidade e transmissão;
-      D e E são falsas segundo o texto.</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>B</td>
-      <td>O texto parafraseado reescreve a ideia de Brockmeier e
-      Harré com outras palavras, mantém o sentido original e indica
-      a fonte sem uso de aspas — características definidoras da
-      citação indireta segundo a ABNT. A menção à página não é
-      obrigatória nesse tipo de citação, o que torna E incorreta.
-      As demais alternativas descrevem tipos de citação que não
-      correspondem ao texto apresentado: A exigiria aspas e página;
-      C pressuporia consulta apenas a obra intermediária; D exigiria
-      bloco recuado e texto com mais de três linhas.</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>B</td>
-      <td>A conclusão é introduzida por "por essas razões", marcador
-      que sinaliza o que o argumento quer estabelecer: que
-      universidades deveriam investir em tutoria. As premissas que
-      a sustentam são as taxas superiores de conclusão e a redução
-      do isolamento acadêmico. A identifica corretamente as premissas,
-      mas as trata como se uma fosse conclusão da outra. C isola uma
-      premissa intermediária como conclusão principal. D usa a própria
-      conclusão reformulada como premissa. E inverte a relação entre
-      premissa e conclusão.</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>B</td>
-      <td>I é contestável — verificável empiricamente por dados
-      astronômicos. II é não contestável — recomendação subjetiva
-      sem critério verificável. III é contestável — fato verificável
-      sobre a composição da amostra do estudo. IV é não contestável
-      — avaliação afetiva sinalizada por "infelizmente". V é
-      contestável — conclusão de pesquisa passível de debate e
-      validação, ainda que derive de análise qualitativa.</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>B</td>
-      <td>I é citação de citação: Brandes et al. são citados via
-      Santos (2023), com uso explícito de <em>apud</em>, indicando
-      que a fonte original não foi consultada. II é citação direta
-      curta: transcrição literal entre aspas com indicação de autor,
-      ano e página. III é citação indireta: paráfrase da ideia de
-      Halliday e Matthiessen com indicação de fonte sem aspas. IV é
-      citação direta longa: bloco recuado sem aspas com indicação
-      de página, reproduzindo trecho extenso do autor.</td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th>Questão</th>
+<th>Resposta</th>
+<th>Justificativa</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>C</td>
+<td>Bacchi argumenta que a percepção pessoal é limitada e que
+coincidências reforçam crenças que afastam o indivíduo de
+explicações verificáveis. As demais contradizem o texto: a
+ciência é útil para decisões cotidianas (nega A), é revisável
+pelo ceticismo organizado (nega B e D), e evidências científicas
+não são determinantes para a maioria das pessoas segundo o
+autor (nega E).</td>
+</tr>
+<tr>
+<td>2</td>
+<td>C</td>
+<td>Linguagem vaga ("seus problemas vão acabar"), promessas
+absolutas e ausência de dados empíricos são os três marcadores
+centrais da não cientificidade do vídeo, conforme os critérios
+trabalhados em aula. As demais alternativas atribuem ao vídeo
+características que ele não possui ou invertem os critérios
+de cientificidade.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>C</td>
+<td>Koché (2016, p. 27) afirma que a vaguidade impossibilita
+determinar quais manifestações empíricas confirmam ou refutam
+um enunciado, tornando o controle experimental quase impossível.
+As demais alternativas distorcem ou contradizem o argumento
+do autor: A nega a utilidade prática do senso comum, que Koché
+reconhece; B inverte a relação entre vaguidade e transmissão;
+D e E são falsas segundo o texto.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>B</td>
+<td>O texto parafraseado reescreve a ideia de Brockmeier e
+Harré com outras palavras, mantém o sentido original e indica
+a fonte sem uso de aspas — características definidoras da
+citação indireta segundo a ABNT. A menção à página não é
+obrigatória nesse tipo de citação, o que torna E incorreta.
+As demais alternativas descrevem tipos de citação que não
+correspondem ao texto apresentado: A exigiria aspas e página;
+C pressuporia consulta apenas a obra intermediária; D exigiria
+bloco recuado e texto com mais de três linhas.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>B</td>
+<td>A conclusão é introduzida por "por essas razões", marcador
+que sinaliza o que o argumento quer estabelecer: que
+universidades deveriam investir em tutoria. As premissas que
+a sustentam são as taxas superiores de conclusão e a redução
+do isolamento acadêmico. A identifica corretamente as premissas,
+mas as trata como se uma fosse conclusão da outra. C isola uma
+premissa intermediária como conclusão principal. D usa a própria
+conclusão reformulada como premissa. E inverte a relação entre
+premissa e conclusão.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>B</td>
+<td>I é contestável — verificável empiricamente por dados
+astronômicos. II é não contestável — recomendação subjetiva
+sem critério verificável. III é contestável — fato verificável
+sobre a composição da amostra do estudo. IV é não contestável
+— avaliação afetiva sinalizada por "infelizmente". V é
+contestável — conclusão de pesquisa passível de debate e
+validação, ainda que derive de análise qualitativa.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>B</td>
+<td>I é citação de citação: Brandes et al. são citados via
+Santos (2023), com uso explícito de <em>apud</em>, indicando
+que a fonte original não foi consultada. II é citação direta
+curta: transcrição literal entre aspas com indicação de autor,
+ano e página. III é citação indireta: paráfrase da ideia de
+Halliday e Matthiessen com indicação de fonte sem aspas. IV é
+citação direta longa: bloco recuado sem aspas com indicação
+de página, reproduzindo trecho extenso do autor.</td>
+</tr>
+</tbody>
 </table>
 
   <div class="gabarito-secao">

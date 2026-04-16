@@ -357,7 +357,7 @@ function calcularTipoArtigo() {
 <br>
 
 ::: destaque
-<strong>Importante:</strong> A classificação gerada acima não é definitiva. Use-a como ponto de partida para discutir com seus colegas e revisar as seções-chave do artigo. Artigos híbridos (ex.: revisão com análise teórica) podem gerar resultados cruzados. O mais importante é compreender como o conhecimento é construído.
+<strong>Importante:</strong> A classificação gerada acima não é definitiva. Use-a como ponto de partida para refletir sobre o que é um artigo científico. Artigos híbridos (ex.: revisão com análise teórica) podem gerar resultados cruzados. O mais importante é compreender como o conhecimento é construído.
 :::
 
 <br>

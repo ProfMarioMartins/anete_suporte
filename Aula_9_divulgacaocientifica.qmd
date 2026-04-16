@@ -2,9 +2,10 @@
 title: "O que é divulgação científica?"
 ---
 
+<!-- ATENÇÃO: ESTA AULA NÃO FUNCIONOU BEM. FALTOU INTERATIVIDADE -->
+
 ::: nota-secundaria
-Roteiro de aula elaborado no RStudio com o auxílio da inteligência
-artificial, revisado e avaliado pelo autor antes de sua publicação.
+Roteiro de aula elaborado no RStudio com o auxílio da inteligência artificial, revisado e avaliado pelo autor antes de sua publicação.
 :::
 
 ## Contextualização
@@ -13,60 +14,37 @@ Algumas descobertas científicas chegam ao público em segundos — e outras fic
 
 A **divulgação científica** é a resposta a esse problema. Trata-se de uma prática comunicativa voltada a **tornar o conhecimento científico acessível** a quem não teve formação na área — traduzindo jargões, aproximando a ciência do cotidiano e permitindo que a sociedade participe dos debates que a afetam diretamente.
 
-Fazer divulgação científica não é simplificar a ciência. É
-**comunicar com responsabilidade**: sem distorcer os dados, sem prometer
-o que a ciência não garante e sem subestimar o público.
+Fazer divulgação científica não é simplificar a ciência. É **comunicar com responsabilidade**: sem distorcer os dados, sem prometer o que a ciência não garante e sem subestimar o público.
 
 Ao final desta aula, você será capaz de:
 
-- identificar as principais estratégias de comunicação científica
-  eficaz em mídias digitais;
-- analisar criticamente exemplos reais de divulgação científica no
-  Instagram;
-- aplicar essas estratégias na produção da sua própria mídia.
+-   identificar as principais estratégias de comunicação científica eficaz em mídias digitais;
+-   analisar criticamente exemplos reais de divulgação científica no Instagram;
+-   aplicar essas estratégias na produção da sua própria mídia.
 
 ::: leitura
 **Leituras indicadas**
 
-DHANESH, G.; DUTHLER, G.; LI, K. Social media engagement with
-organization-generated content: Role of visuals in enhancing public
-engagement with organizations on Facebook and Instagram.
-**Public Relations Review**, v. 48, p. 102174, 2022.
-DOI: 10.1016/j.pubrev.2022.102174.
+DHANESH, G.; DUTHLER, G.; LI, K. Social media engagement with organization-generated content: Role of visuals in enhancing public engagement with organizations on Facebook and Instagram. **Public Relations Review**, v. 48, p. 102174, 2022. DOI: 10.1016/j.pubrev.2022.102174.
 
-HWONG, Y. et al. What makes you tick? The psychology of social media
-engagement in space science communication. **Computers in Human
-Behavior**, v. 68, p. 480–492, 2017.
-DOI: 10.1016/j.chb.2016.11.068.
+HWONG, Y. et al. What makes you tick? The psychology of social media engagement in space science communication. **Computers in Human Behavior**, v. 68, p. 480–492, 2017. DOI: 10.1016/j.chb.2016.11.068.
 
-JARREAU, P. B.; DAHMEN, N. S.; JONES, E. Instagram and the science
-museum: a missed opportunity for public engagement.
-**Journal of Science Communication**, v. 18, n. 02, art. A06, 2019.
-DOI: 10.22323/2.18020206.
+JARREAU, P. B.; DAHMEN, N. S.; JONES, E. Instagram and the science museum: a missed opportunity for public engagement. **Journal of Science Communication**, v. 18, n. 02, art. A06, 2019. DOI: 10.22323/2.18020206.
 
-MARTIN, C.; MACDONALD, B. H. Using interpersonal communication
-strategies to encourage science conversations on social media.
-**PLoS One**, v. 15, n. 11, art. e0241972, 2020.
-DOI: 10.1371/journal.pone.0241972.
+MARTIN, C.; MACDONALD, B. H. Using interpersonal communication strategies to encourage science conversations on social media. **PLoS One**, v. 15, n. 11, art. e0241972, 2020. DOI: 10.1371/journal.pone.0241972.
 
-NGUYEN, H.; DIEDERICH, M. Facilitating knowledge construction in
-informal learning: A study of TikTok scientific, educational videos.
-**Computers & Education**, v. 205, p. 104896, 2023.
-DOI: 10.1016/j.compedu.2023.104896.
+NGUYEN, H.; DIEDERICH, M. Facilitating knowledge construction in informal learning: A study of TikTok scientific, educational videos. **Computers & Education**, v. 205, p. 104896, 2023. DOI: 10.1016/j.compedu.2023.104896.
 :::
 
 ## Conceitualização: Por que divulgação científica importa agora?
 
 A pandemia da COVID-19 e a crise climática, por exemplo, são fenômenos que colocaram cientistas no centro do debate público como raramente havia acontecido antes. O interesse da população pela ciência cresceu — inclusive como opção de carreira.
 
-👉 Veja o que aconteceu com as buscas pelo termo "epidemiologista"
-no Google entre 2019 e 2025:
+👉 Veja o que aconteceu com as buscas pelo termo "epidemiologista" no Google entre 2019 e 2025:
 
 [Google Trends: buscas por "epidemiologista" no Brasil (2019–2025)](https://trends.google.com/explore?geo=BR&date=2019-01-01%202025-01-01&q=epidemiologista)
 
-Ao mesmo tempo, a ciência passou a ser contestada por discursos
-negacionistas — e a velocidade da desinformação superou, em muitos
-casos, a velocidade da comunicação científica responsável:
+Ao mesmo tempo, a ciência passou a ser contestada por discursos negacionistas — e a velocidade da desinformação superou, em muitos casos, a velocidade da comunicação científica responsável:
 
 [É #FAKE que aplicar perfume no pescoço faz mal à tireoide](https://g1.globo.com/fato-ou-fake/noticia/2026/03/26/e-fake-que-aplicar-perfume-no-pescoco-faz-mal-a-tireoide.ghtml)
 
@@ -76,69 +54,43 @@ casos, a velocidade da comunicação científica responsável:
 O problema não é a falta de ciência — é a falta de comunicação científica de qualidade.
 :::
 
----
+------------------------------------------------------------------------
 
 ## Conceitualização: O que conta como divulgação científica?
 
-Divulgação científica é qualquer atividade que leve conhecimento
-científico para além dos muros da academia, em linguagem acessível
-ao público não especializado.
+Divulgação científica é qualquer atividade que leve conhecimento científico para além dos muros da academia, em linguagem acessível ao público não especializado.
 
 ::: callout-warning
 **Quem é o público não especializado?**
 
-Pesquisas sobre engajamento em mídias sociais indicam que o público
-de conteúdo científico no Instagram e no TikTok toma decisões rápidas
-sobre o que assistir — e que fatores como autenticidade, clareza visual
-e relevância percebida são determinantes para manter a atenção
-(Hwong et al., 2017; Nguyen; Diederich, 2023).
-<br/>
+Pesquisas sobre engajamento em mídias sociais indicam que o público de conteúdo científico no Instagram e no TikTok toma decisões rápidas sobre o que assistir — e que fatores como autenticidade, clareza visual e relevância percebida são determinantes para manter a atenção (Hwong et al., 2017; Nguyen; Diederich, 2023). <br/>
 :::
 
 Os gêneros de divulgação científica são diversos:
 
 **Impressos e digitais**
 
-- Artigos de revistas especializadas em linguagem acessível:
-  [Superinteressante](https://super.abril.com.br/) |
-  [Galileu](https://revistagalileu.globo.com/) |
-  [Pesquisa FAPESP](https://revistapesquisa.fapesp.br) |
-  [Ciência Hoje](http://cienciahoje.org.br)
+-   Artigos de revistas especializadas em linguagem acessível: [Superinteressante](https://super.abril.com.br/) \| [Galileu](https://revistagalileu.globo.com/) \| [Pesquisa FAPESP](https://revistapesquisa.fapesp.br) \| [Ciência Hoje](http://cienciahoje.org.br)
 
-- Livros de divulgação científica:
-  [Uma breve história do tempo](https://www.mercadolivre.com.br/uma-breve-historia-do-tempo-de-hawking-stephen-editora-intrinseca-ltda-capa-mole-edico-livro-brochura-em-portugus-2015/p/MLB19408618) |
-  [Uma Breve História de Quase Tudo](https://www.google.com.br/books/edition/Breve_hist%C3%B3ria_de_quase_tudo/9nzoDwAAQBAJ) |
-  [Sapiens](https://www.google.com.br/books/edition/Sapiens_Hist%C3%B3ria_Breve_da_Humanidade/NZZWEAAAQBAJ) |
-  [Astrofísica para Apressados](https://www.google.com.br/books/edition/Astrof%C3%ADsica_para_jovens_apressados/gxxtEAAAQBAJ)
+-   Livros de divulgação científica: [Uma breve história do tempo](https://www.mercadolivre.com.br/uma-breve-historia-do-tempo-de-hawking-stephen-editora-intrinseca-ltda-capa-mole-edico-livro-brochura-em-portugus-2015/p/MLB19408618) \| [Uma Breve História de Quase Tudo](https://www.google.com.br/books/edition/Breve_hist%C3%B3ria_de_quase_tudo/9nzoDwAAQBAJ) \| [Sapiens](https://www.google.com.br/books/edition/Sapiens_Hist%C3%B3ria_Breve_da_Humanidade/NZZWEAAAQBAJ) \| [Astrofísica para Apressados](https://www.google.com.br/books/edition/Astrof%C3%ADsica_para_jovens_apressados/gxxtEAAAQBAJ)
 
 **Audiovisuais e interativos**
 
-- Vídeos, reels, podcasts, newsletters, TED Talks, lives científicas,
-  postagens em redes sociais.
+-   Vídeos, reels, podcasts, newsletters, TED Talks, lives científicas, postagens em redes sociais.
 
 ::: enfase
-O gênero importa menos do que a decisão comunicativa: **para quem
-estou falando, em que contexto e com qual objetivo?**
+O gênero importa menos do que a decisão comunicativa: **para quem estou falando, em que contexto e com qual objetivo?**
 :::
 
----
+------------------------------------------------------------------------
 
 ## Conceitualização: Redes sociais e divulgação científica
 
-As redes sociais são hoje o principal canal de acesso à informação
-científica para o público jovem — e também o principal vetor de
-desinformação. Esse paradoxo torna a presença qualificada da ciência
-nessas plataformas não apenas desejável, mas necessária.
+As redes sociais são hoje o principal canal de acesso à informação científica para o público jovem — e também o principal vetor de desinformação. Esse paradoxo torna a presença qualificada da ciência nessas plataformas não apenas desejável, mas necessária.
 
-**As redes sociais são ambientes férteis para o aprendizado informal**,
-permitindo que pessoas aprendam, compartilhem e construam conhecimento
-em comunidade. Contudo, presença nas redes não garante engajamento.
-O fator decisivo está em como **os recursos verbais e visuais são
-mobilizados**.
+**As redes sociais são ambientes férteis para o aprendizado informal**, permitindo que pessoas aprendam, compartilhem e construam conhecimento em comunidade. Contudo, presença nas redes não garante engajamento. O fator decisivo está em como **os recursos verbais e visuais são mobilizados**.
 
-As seções seguintes apresentam as principais estratégias identificadas
-pela pesquisa acadêmica — cada uma ilustrada por um exemplo real.
-Para cada reel, há uma pergunta para você pensar antes de seguir.
+As seções seguintes apresentam as principais estratégias identificadas pela pesquisa acadêmica — cada uma ilustrada por um exemplo real. Para cada reel, há uma pergunta para você pensar antes de seguir.
 
 ::: titulo-nao-numerado
 Estratégias
@@ -152,24 +104,17 @@ Comunicação interpessoal e humanização
 Mostrar o rosto e falar diretamente para a câmera
 :::
 
-Divulgadores que usam a própria imagem transmitem autenticidade e
-convidam à interação. Isso humaniza o comunicador e fortalece o
-vínculo com o público — a ciência deixa de ser uma instituição
-abstrata e passa a ter rosto.
+Divulgadores que usam a própria imagem transmitem autenticidade e convidam à interação. Isso humaniza o comunicador e fortalece o vínculo com o público — a ciência deixa de ser uma instituição abstrata e passa a ter rosto.
 
 ::: destaque
-**Analise o vídeo a seguir e responda:**
-- O divulgador fala diretamente para a câmera ou usa apenas texto e
-  imagens?
-- Como o uso da própria imagem afeta a sua percepção sobre a
-  credibilidade do conteúdo?
-- Você confiaria mais nesse conteúdo do que em uma postagem só com
-  texto? Por quê?
+**Analise o vídeo a seguir e responda:** - O divulgador fala diretamente para a câmera ou usa apenas texto e imagens? - Como o uso da própria imagem afeta a sua percepção sobre a credibilidade do conteúdo? - Você confiaria mais nesse conteúdo do que em uma postagem só com texto? Por quê?
 :::
 
 ::: img-central
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DW2KJMrFKZo/?utm_source=ig_web_copy_link" data-instgrm-version="14">
+
 </blockquote>
+
 ```{=html}
 <script async src="//www.instagram.com/embed.js"></script>
 ```
@@ -179,23 +124,17 @@ abstrata e passa a ter rosto.
 Mesclar ciência com conteúdo cotidiano e relacionável
 :::
 
-Alternar entre publicações científicas e conteúdos mais leves —
-humor, cotidiano, entretenimento — torna o comunicador mais acessível.
-O público tende a seguir pessoas com quem se identifica, não apenas
-fontes de informação.
+Alternar entre publicações científicas e conteúdos mais leves — humor, cotidiano, entretenimento — torna o comunicador mais acessível. O público tende a seguir pessoas com quem se identifica, não apenas fontes de informação.
 
 ::: destaque
-**Analise o vídeo a seguir e responda:**
-- Qual é o tom deste reel — formal, informal, humorístico?
-- Esse tom tornaria você mais ou menos propenso a compartilhar o
-  conteúdo? Por quê?
-- Esse tipo de abordagem compromete a credibilidade científica ou
-  a reforça?
+**Analise o vídeo a seguir e responda:** - Qual é o tom deste reel — formal, informal, humorístico? - Esse tom tornaria você mais ou menos propenso a compartilhar o conteúdo? Por quê? - Esse tipo de abordagem compromete a credibilidade científica ou a reforça?
 :::
 
 ::: img-central
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DKSq1ChpV3c/?igsh=ZjIwYWY4YWVwMHQx" data-instgrm-version="14">
+
 </blockquote>
+
 ```{=html}
 <script async src="//www.instagram.com/embed.js"></script>
 ```
@@ -205,21 +144,17 @@ fontes de informação.
 Usar pronomes de primeira e segunda pessoa
 :::
 
-O uso de "eu", "você", "nós" e similares cria proximidade e transforma
-o monólogo científico em conversa. É uma das estratégias linguísticas
-mais simples e mais eficazes para engajamento.
+O uso de "eu", "você", "nós" e similares cria proximidade e transforma o monólogo científico em conversa. É uma das estratégias linguísticas mais simples e mais eficazes para engajamento.
 
 ::: destaque
-**Analise o vídeo a seguir e responda:**
-- Localize pelo menos uma frase em que o divulgador usa "você" ou
-  "nós". Qual é o efeito dessa escolha?
-- Como seria diferente se o mesmo conteúdo fosse apresentado na
-  terceira pessoa, como em um artigo científico?
+**Analise o vídeo a seguir e responda:** - Localize pelo menos uma frase em que o divulgador usa "você" ou "nós". Qual é o efeito dessa escolha? - Como seria diferente se o mesmo conteúdo fosse apresentado na terceira pessoa, como em um artigo científico?
 :::
 
 ::: img-central
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DW8mpUSkakI/?utm_source=ig_web_copy_link" data-instgrm-version="14">
+
 </blockquote>
+
 ```{=html}
 <script async src="//www.instagram.com/embed.js"></script>
 ```
@@ -227,7 +162,9 @@ mais simples e mais eficazes para engajamento.
 
 ::: img-central
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DRx1A0wEquM/?utm_source=ig_web_copy_link" data-instgrm-version="14">
+
 </blockquote>
+
 ```{=html}
 <script async src="//www.instagram.com/embed.js"></script>
 ```
@@ -241,21 +178,17 @@ Conteúdo visual e narrativo
 Usar imagens, vídeos, memes e GIFs
 :::
 
-Recursos visuais são fundamentais para capturar a atenção nos
-primeiros segundos — que são os mais decisivos para o algoritmo e
-para o espectador.
+Recursos visuais são fundamentais para capturar a atenção nos primeiros segundos — que são os mais decisivos para o algoritmo e para o espectador.
 
 ::: destaque
-**Analise o vídeo a seguir e responda:**
-- Que tipo de recurso visual foi usado neste reel?
-- Ele facilita ou dificulta a compreensão do conteúdo científico?
-- O visual poderia ser substituído por texto escrito sem perda de
-  impacto? Por quê?
+**Analise o vídeo a seguir e responda:** - Que tipo de recurso visual foi usado neste reel? - Ele facilita ou dificulta a compreensão do conteúdo científico? - O visual poderia ser substituído por texto escrito sem perda de impacto? Por quê?
 :::
 
 ::: img-central
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DIKFXJaSckk/?utm_source=ig_web_copy_link" data-instgrm-version="14">
+
 </blockquote>
+
 ```{=html}
 <script async src="//www.instagram.com/embed.js"></script>
 ```
@@ -263,7 +196,9 @@ para o espectador.
 
 ::: img-central
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DP7EKR0iT7n/?utm_source=ig_web_copy_link" data-instgrm-version="14">
+
 </blockquote>
+
 ```{=html}
 <script async src="//www.instagram.com/embed.js"></script>
 ```
@@ -273,21 +208,17 @@ para o espectador.
 Contar uma história com as imagens
 :::
 
-Imagens que narram uma sequência ou representam uma ação são mais
-engajadoras do que imagens estáticas ou meramente decorativas.
-A narratividade visual ativa emoções e conecta o espectador ao
-conteúdo.
+Imagens que narram uma sequência ou representam uma ação são mais engajadoras do que imagens estáticas ou meramente decorativas. A narratividade visual ativa emoções e conecta o espectador ao conteúdo.
 
 ::: destaque
-**Analise o vídeo a seguir e responda:**
-- Há uma progressão narrativa nas imagens — começo, meio e fim?
-- Qual emoção esse reel provoca em você? Como isso se relaciona
-  com o conteúdo científico apresentado?
+**Analise o vídeo a seguir e responda:** - Há uma progressão narrativa nas imagens — começo, meio e fim? - Qual emoção esse reel provoca em você? Como isso se relaciona com o conteúdo científico apresentado?
 :::
 
 ::: img-central
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/Chas1PdFFEk/?igsh=enJobW9saGttbTlx" data-instgrm-version="14">
+
 </blockquote>
+
 ```{=html}
 <script async src="//www.instagram.com/embed.js"></script>
 ```
@@ -297,29 +228,27 @@ conteúdo.
 Usar linguagem que ativa a imaginação visual
 :::
 
-Palavras como "imagine", "veja", "observe" e "enxergue" convidam o
-espectador a construir mentalmente uma imagem — o que aumenta o
-envolvimento cognitivo com o conteúdo.
+Palavras como "imagine", "veja", "observe" e "enxergue" convidam o espectador a construir mentalmente uma imagem — o que aumenta o envolvimento cognitivo com o conteúdo.
 
 ::: destaque
-**Analise o vídeo a seguir e responda:**
-- Você consegue identificar alguma palavra ou frase que convida o
-  espectador a "ver" algo mentalmente?
-- Esse recurso torna o conteúdo mais ou menos acessível para quem
-  não conhece o tema?
+**Analise o vídeo a seguir e responda:** - Você consegue identificar alguma palavra ou frase que convida o espectador a "ver" algo mentalmente? - Esse recurso torna o conteúdo mais ou menos acessível para quem não conhece o tema?
 :::
 
 ::: img-central
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DM0LQPuRc0d/?utm_source=ig_web_copy_link" data-instgrm-version="14">
+
 </blockquote>
+
 ```{=html}
 <script async src="//www.instagram.com/embed.js"></script>
 ```
 :::
 
 ::: img-central
-<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DKJ_RK1OYNk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" data-instgrm-version="14">
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DKJ_RK1OYNk/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" data-instgrm-version="14">
+
 </blockquote>
+
 ```{=html}
 <script async src="//www.instagram.com/embed.js"></script>
 ```
@@ -329,24 +258,19 @@ envolvimento cognitivo com o conteúdo.
 Composição visual equilibrada
 :::
 
-Imagens visualmente harmoniosas — com boa iluminação, enquadramento
-centrado e ausência de elementos que distraiam — favorecem a recepção
-positiva e transmitem profissionalismo sem necessariamente exigir
-equipamento caro.
+Imagens visualmente harmoniosas — com boa iluminação, enquadramento centrado e ausência de elementos que distraiam — favorecem a recepção positiva e transmitem profissionalismo sem necessariamente exigir equipamento caro.
 
 ::: destaque
-**Analise o vídeo a seguir e responda:**
-- O que você nota primeiro ao ver este conteúdo — o visual ou o
-  texto?
-- A qualidade visual influencia a sua percepção sobre a confiabilidade
-  do conteúdo científico? Deveria influenciar?
+**Analise o vídeo a seguir e responda:** - O que você nota primeiro ao ver este conteúdo — o visual ou o texto? - A qualidade visual influencia a sua percepção sobre a confiabilidade do conteúdo científico? Deveria influenciar?
 :::
 
----
+------------------------------------------------------------------------
 
 ::: img-central
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DLNFecWOrJW/?igsh=MWR6ajF5Znd4enZpZg==" data-instgrm-version="14">
+
 </blockquote>
+
 ```{=html}
 <script async src="//www.instagram.com/embed.js"></script>
 ```
@@ -356,20 +280,17 @@ equipamento caro.
 Ângulo e distância da câmera
 :::
 
-Planos distantes ou em ângulo baixo (câmera de baixo para cima) podem
-amplificar o impacto emocional e estético de uma imagem — uma escolha
-que comunica antes mesmo que qualquer palavra seja dita.
-
+Planos distantes ou em ângulo baixo (câmera de baixo para cima) podem amplificar o impacto emocional e estético de uma imagem — uma escolha que comunica antes mesmo que qualquer palavra seja dita.
 
 ::: destaque
-**Analise o vídeo a seguir e responda:**
-- De que ângulo a cena foi filmada? O que isso sugere ou enfatiza?
-- Esse recurso poderia ser reproduzido com um celular comum? Como?
+**Analise o vídeo a seguir e responda:** - De que ângulo a cena foi filmada? O que isso sugere ou enfatiza? - Esse recurso poderia ser reproduzido com um celular comum? Como?
 :::
 
 ::: img-central
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/C_9JzeDv-sg/?igsh=MXVkdGpubGVoeHM5YQ==" data-instgrm-version="14">
+
 </blockquote>
+
 ```{=html}
 <script async src="//www.instagram.com/embed.js"></script>
 ```
@@ -383,20 +304,17 @@ que comunica antes mesmo que qualquer palavra seja dita.
 Linguagem clara, analítica e informativa
 :::
 
-Publicações que explicam com clareza — sem jargão, com lógica
-discernível — tendem a gerar comentários que também compartilham
-conhecimento, criando uma cadeia de aprendizagem coletiva.
+Publicações que explicam com clareza — sem jargão, com lógica discernível — tendem a gerar comentários que também compartilham conhecimento, criando uma cadeia de aprendizagem coletiva.
 
 ::: destaque
-**Analise o vídeo a seguir e responda:**
-- Você conseguiria explicar o conteúdo deste reel para outra pessoa
-  em uma frase? Se sim, a comunicação foi eficaz.
-- Há termos técnicos? Eles foram explicados ou pressupostos?
+**Analise o vídeo a seguir e responda:** - Você conseguiria explicar o conteúdo deste reel para outra pessoa em uma frase? Se sim, a comunicação foi eficaz. - Há termos técnicos? Eles foram explicados ou pressupostos?
 :::
 
 ::: img-central
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DKUjijLRgPT/?igsh=MXZjMXI1bDYza2hxeg==" data-instgrm-version="14">
+
 </blockquote>
+
 ```{=html}
 <script async src="//www.instagram.com/embed.js"></script>
 ```
@@ -406,20 +324,17 @@ conhecimento, criando uma cadeia de aprendizagem coletiva.
 Expressar emoções autênticas
 :::
 
-Alegria, indignação, surpresa ou preocupação — quando genuínas —
-fortalecem o impacto da mensagem e ampliam o engajamento. O público
-identifica e reage ao que é autêntico.
+Alegria, indignação, surpresa ou preocupação — quando genuínas — fortalecem o impacto da mensagem e ampliam o engajamento. O público identifica e reage ao que é autêntico.
 
 ::: destaque
-**Analise o vídeo a seguir e responda:**
-- Que emoção o divulgador expressa? Ela parece genuína ou encenada?
-- Essa emoção reforça ou distrai do conteúdo científico?
-- Há risco de que a emoção substitua o argumento? Como evitar isso?
+**Analise o vídeo a seguir e responda:** - Que emoção o divulgador expressa? Ela parece genuína ou encenada? - Essa emoção reforça ou distrai do conteúdo científico? - Há risco de que a emoção substitua o argumento? Como evitar isso?
 :::
 
 ::: img-central
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DLq15KSNdFb/?utm_source=ig_web_copy_link" data-instgrm-version="14">
+
 </blockquote>
+
 ```{=html}
 <script async src="//www.instagram.com/embed.js"></script>
 ```
@@ -427,7 +342,9 @@ identifica e reage ao que é autêntico.
 
 ::: img-central
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/Cq1Hr7XLYBU/?igsh=bG9qOXNoYWRrdDV0" data-instgrm-version="14">
+
 </blockquote>
+
 ```{=html}
 <script async src="//www.instagram.com/embed.js"></script>
 ```
@@ -437,21 +354,17 @@ identifica e reage ao que é autêntico.
 Autenticidade e tom tentativo
 :::
 
-Admitir dúvidas, limitações ou incertezas — em vez de apresentar
-a ciência como um conjunto de verdades absolutas — é valorizado pelo
-público e gera mais confiança do que a certeza performática.
+Admitir dúvidas, limitações ou incertezas — em vez de apresentar a ciência como um conjunto de verdades absolutas — é valorizado pelo público e gera mais confiança do que a certeza performática.
 
 ::: destaque
-**Analise o vídeo a seguir e responda:**
-- O divulgador admite alguma limitação, dúvida ou incerteza?
-- Como isso afeta a sua percepção sobre a credibilidade do conteúdo?
-- Qual é a diferença entre dizer "a ciência prova que..." e "pesquisas
-  sugerem que..."?
+**Analise o vídeo a seguir e responda:** - O divulgador admite alguma limitação, dúvida ou incerteza? - Como isso afeta a sua percepção sobre a credibilidade do conteúdo? - Qual é a diferença entre dizer "a ciência prova que..." e "pesquisas sugerem que..."?
 :::
 
 ::: img-central
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/C_A06mAM81c/?igsh=MTh5aHo1aDFrOW9hMw==" data-instgrm-version="14">
+
 </blockquote>
+
 ```{=html}
 <script async src="//www.instagram.com/embed.js"></script>
 ```
@@ -461,21 +374,17 @@ público e gera mais confiança do que a certeza performática.
 Chamadas para ação e perguntas ao público
 :::
 
-Frases como "O que você pensa sobre isso?" ou "Marque alguém que
-precisa saber disso" transformam o espectador passivo em participante
-ativo — e ampliam o alcance orgânico do conteúdo.
+Frases como "O que você pensa sobre isso?" ou "Marque alguém que precisa saber disso" transformam o espectador passivo em participante ativo — e ampliam o alcance orgânico do conteúdo.
 
 ::: destaque
-**Analise o vídeo a seguir e responda:**
-- Há uma chamada para ação neste reel? Onde ela aparece — no início,
-  no meio ou no final?
-- Você se sentiria motivado a responder ou compartilhar? O que
-  provocou essa reação?
+**Analise o vídeo a seguir e responda:** - Há uma chamada para ação neste reel? Onde ela aparece — no início, no meio ou no final? - Você se sentiria motivado a responder ou compartilhar? O que provocou essa reação?
 :::
 
 ::: img-central
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DKAxgDcsMTc/?igsh=Y2hxd2s1OXdkdnBw" data-instgrm-version="14">
+
 </blockquote>
+
 ```{=html}
 <script async src="//www.instagram.com/embed.js"></script>
 ```
@@ -485,20 +394,17 @@ ativo — e ampliam o alcance orgânico do conteúdo.
 Humor e relatabilidade
 :::
 
-Conteúdo que desperta empatia ou provoca riso facilita o engajamento.
-O humor bem dosado é um catalisador poderoso — desde que não
-comprometa a precisão científica.
+Conteúdo que desperta empatia ou provoca riso facilita o engajamento. O humor bem dosado é um catalisador poderoso — desde que não comprometa a precisão científica.
 
 ::: destaque
-**Analise o vídeo a seguir e responda:**
-- O humor facilita ou distrai da mensagem científica neste caso?
-- Existe um ponto em que o humor pode comprometer a credibilidade
-  do conteúdo? Como identificar esse limite?
+**Analise o vídeo a seguir e responda:** - O humor facilita ou distrai da mensagem científica neste caso? - Existe um ponto em que o humor pode comprometer a credibilidade do conteúdo? Como identificar esse limite?
 :::
 
 ::: img-central
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DKzWROouS3_/?igsh=MWNxMzc5cHF3c3Z2aQ==" data-instgrm-version="14">
+
 </blockquote>
+
 ```{=html}
 <script async src="//www.instagram.com/embed.js"></script>
 ```
@@ -508,18 +414,12 @@ comprometa a precisão científica.
 Outras estratégias
 :::
 
-- **Brevidade:** vídeos de até 2 minutos com mensagem direta são mais
-  eficazes em plataformas como Instagram e TikTok.
-- **Responder comentários:** cria relação com a audiência e prolonga
-  o engajamento após a publicação.
-- **Hashtags com critério:** conectam o conteúdo a comunidades
-  temáticas e ampliam o alcance sem spam.
+-   **Brevidade:** vídeos de até 2 minutos com mensagem direta são mais eficazes em plataformas como Instagram e TikTok.
+-   **Responder comentários:** cria relação com a audiência e prolonga o engajamento após a publicação.
+-   **Hashtags com critério:** conectam o conteúdo a comunidades temáticas e ampliam o alcance sem spam.
 
 ::: enfase
-Nenhuma dessas estratégias funciona isolada — e nenhuma substitui
-a qualidade do conteúdo. O que você vai comunicar precisa ser
-verdadeiro, relevante e verificável. Como você vai comunicar é o
-que determina se alguém vai ouvir.
+Nenhuma dessas estratégias funciona isolada — e nenhuma substitui a qualidade do conteúdo. O que você vai comunicar precisa ser verdadeiro, relevante e verificável. Como você vai comunicar é o que determina se alguém vai ouvir.
 :::
 
 ::: img-central
