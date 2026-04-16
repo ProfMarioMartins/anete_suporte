@@ -116,17 +116,39 @@ Ao final deste encontro, espera-se que você seja capaz de:
     <input type="text" name="titulo" required>
 
     <label>Tipo de artigo percebido:</label>
+    
     <select name="tipo_artigo" required>
-      <option value="" disabled selected>Selecione</option>
-      <option value="original">Artigo original</option>
-      <option value="revisao">Artigo de revisão</option>
-      <option value="revisao_sistematica">Revisão sistemática</option>
-      <option value="metanalise">Metanálise</option>
-      <option value="teorico">Estudo teórico</option>
-      <option value="observacional">Estudo observacional</option>
-      <option value="experimental">Estudo experimental</option>
-      <option value="nao_sei">Não sei identificar</option>
-    </select>
+  <option value="" disabled selected>Selecione</option>
+
+  <option value="revisao">
+    Artigo de revisão — síntese de estudos existentes (procure: muitos autores, sem coleta de dados)
+  </option>
+
+  <option value="revisao_sistematica">
+    Revisão sistemática — revisão com método rigoroso (procure: critérios de busca e seleção)
+  </option>
+
+  <option value="metanalise">
+    Metanálise — análise estatística de vários estudos (procure: gráficos e dados combinados)
+  </option>
+
+  <option value="teorico">
+    Estudo teórico — discussão conceitual sem dados empíricos (procure: argumentação teórica)
+  </option>
+
+  <option value="observacional">
+    Estudo observacional — análise sem intervenção (procure: descrição de dados reais)
+  </option>
+
+  <option value="experimental">
+    Estudo experimental — intervenção com teste de hipóteses (procure: grupos controle/experimental)
+  </option>
+
+  <option value="nao_sei">
+    Não sei identificar
+  </option>
+</select>
+
   </fieldset>
 
   <fieldset>
