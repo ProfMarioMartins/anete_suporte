@@ -10,10 +10,10 @@ Roteiro de aula elaborado no RStudio com o auxílio da inteligência artificial,
 
 Ao final deste encontro, espera-se que você seja capaz de:
 
--   reconhecer, em um artigo científico, a presença ou ausência de elementos fundamentais da pesquisa.
+- reconhecer, em um artigo científico, a presença ou ausência de elementos fundamentais da pesquisa.
 
 ::: leitura
-**Leitura indicada**
+Leitura indicada:
 
 **Artigo científico original e de revisão: a estrutura “Introdução, Método, Resultados e Discussão” (IMRD)** (p. 48–65), capítulo do livro *Redação de artigos científicos*, de João Bosco Medeiros e Carolina Tomasi. Disponível na Minha Biblioteca.
 :::

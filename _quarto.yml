@@ -29,7 +29,7 @@ book:
       chapters:
        - Aula_1.qmd # Comentar
        - Aula_2.qmd
-       - Aula_3.qmd
+       - Aula_3_ciencia.qmd
        - Aula_4.qmd
        - Aula_5.qmd
        - Aula_6.qmd
@@ -39,8 +39,8 @@ book:
       chapters:
        - Aula_8_problemapesquisa.qmd
        - Aula_9_divulgacaocientifica.qmd
-       - Aula_10_artigo.qmd
-#      - Aula_11.qmd       
+       - Aula_10_artigocientifico.qmd
+       - Aula_11_introducaoartigo.qmd       
 #      - Aula_12_resumo.qmd
 #      - Aula_15.qmd       
 #      - Aula_13.qmd
@@ -79,6 +79,7 @@ book:
        - complemento_painel.qmd
        - complemento_crono.qmd
        - complemento_projeto_pesquisa.qmd
+       - complemento_agendamento.qmd
 #      - complemento_guia.qmd
 #      - complemento_checklist_postagem.qmd
 #      - complemento_sorteio.qmd

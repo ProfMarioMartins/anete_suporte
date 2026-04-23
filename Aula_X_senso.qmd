@@ -8,9 +8,9 @@ Roteiro de aula elaborado no RStudio com o auxílio da inteligência artificial 
 
 Ao final deste encontro e com base na leitura indicada, espera-se que você seja capaz de:
 
--   Reconhecer a diferença entre argumentos baseados no senso comum e argumentos fundamentados no senso crítico.
+- Reconhecer a diferença entre argumentos baseados no senso comum e argumentos fundamentados no senso crítico.
 
--   Exercitar habilidades cognitivas necessárias à argumentação e ao pensamento científico.
+- Exercitar habilidades cognitivas necessárias à argumentação e ao pensamento científico.
 
 ::: {.section style="padding:1em; background-color:#F5F5F5; color:#000000;"}
 <em>Leitura indicada:</em> <br/> <strong>Leitura e escrita acadêmicas</strong>, capítulo do livro <em>Leitura e escrita acadêmicas</em>, de Nádia Castro e outros.
@@ -110,11 +110,11 @@ O caráter dialógico da argumentação, segundo Castro e outros (2019, p. 14), 
 
 É justamente o contexto que define o discurso do senso comum, que
 
--   usa linguagem informal, coloquial e empírica;
+- usa linguagem informal, coloquial e empírica;
 
--   é baseado na experiência cotidiana e em tradições;
+- é baseado na experiência cotidiana e em tradições;
 
--   tem pouca ou nenhuma verificação sistemática.
+- tem pouca ou nenhuma verificação sistemática.
 
 <br/>
 

@@ -18,9 +18,9 @@ Fazer divulgação científica não é simplificar a ciência. É **comunicar co
 
 Ao final desta aula, você será capaz de:
 
--   identificar as principais estratégias de comunicação científica eficaz em mídias digitais;
--   analisar criticamente exemplos reais de divulgação científica no Instagram;
--   aplicar essas estratégias na produção da sua própria mídia.
+- identificar as principais estratégias de comunicação científica eficaz em mídias digitais;
+- analisar criticamente exemplos reais de divulgação científica no Instagram;
+- aplicar essas estratégias na produção da sua própria mídia.
 
 ::: leitura
 **Leituras indicadas**
@@ -70,13 +70,13 @@ Os gêneros de divulgação científica são diversos:
 
 **Impressos e digitais**
 
--   Artigos de revistas especializadas em linguagem acessível: [Superinteressante](https://super.abril.com.br/) \| [Galileu](https://revistagalileu.globo.com/) \| [Pesquisa FAPESP](https://revistapesquisa.fapesp.br) \| [Ciência Hoje](http://cienciahoje.org.br)
+- Artigos de revistas especializadas em linguagem acessível: [Superinteressante](https://super.abril.com.br/) \| [Galileu](https://revistagalileu.globo.com/) \| [Pesquisa FAPESP](https://revistapesquisa.fapesp.br) \| [Ciência Hoje](http://cienciahoje.org.br)
 
--   Livros de divulgação científica: [Uma breve história do tempo](https://www.mercadolivre.com.br/uma-breve-historia-do-tempo-de-hawking-stephen-editora-intrinseca-ltda-capa-mole-edico-livro-brochura-em-portugus-2015/p/MLB19408618) \| [Uma Breve História de Quase Tudo](https://www.google.com.br/books/edition/Breve_hist%C3%B3ria_de_quase_tudo/9nzoDwAAQBAJ) \| [Sapiens](https://www.google.com.br/books/edition/Sapiens_Hist%C3%B3ria_Breve_da_Humanidade/NZZWEAAAQBAJ) \| [Astrofísica para Apressados](https://www.google.com.br/books/edition/Astrof%C3%ADsica_para_jovens_apressados/gxxtEAAAQBAJ)
+- Livros de divulgação científica: [Uma breve história do tempo](https://www.mercadolivre.com.br/uma-breve-historia-do-tempo-de-hawking-stephen-editora-intrinseca-ltda-capa-mole-edico-livro-brochura-em-portugus-2015/p/MLB19408618) \| [Uma Breve História de Quase Tudo](https://www.google.com.br/books/edition/Breve_hist%C3%B3ria_de_quase_tudo/9nzoDwAAQBAJ) \| [Sapiens](https://www.google.com.br/books/edition/Sapiens_Hist%C3%B3ria_Breve_da_Humanidade/NZZWEAAAQBAJ) \| [Astrofísica para Apressados](https://www.google.com.br/books/edition/Astrof%C3%ADsica_para_jovens_apressados/gxxtEAAAQBAJ)
 
 **Audiovisuais e interativos**
 
--   Vídeos, reels, podcasts, newsletters, TED Talks, lives científicas, postagens em redes sociais.
+- Vídeos, reels, podcasts, newsletters, TED Talks, lives científicas, postagens em redes sociais.
 
 ::: enfase
 O gênero importa menos do que a decisão comunicativa: **para quem estou falando, em que contexto e com qual objetivo?**
@@ -414,9 +414,9 @@ Conteúdo que desperta empatia ou provoca riso facilita o engajamento. O humor b
 Outras estratégias
 :::
 
--   **Brevidade:** vídeos de até 2 minutos com mensagem direta são mais eficazes em plataformas como Instagram e TikTok.
--   **Responder comentários:** cria relação com a audiência e prolonga o engajamento após a publicação.
--   **Hashtags com critério:** conectam o conteúdo a comunidades temáticas e ampliam o alcance sem spam.
+- **Brevidade:** vídeos de até 2 minutos com mensagem direta são mais eficazes em plataformas como Instagram e TikTok.
+- **Responder comentários:** cria relação com a audiência e prolonga o engajamento após a publicação.
+- **Hashtags com critério:** conectam o conteúdo a comunidades temáticas e ampliam o alcance sem spam.
 
 ::: enfase
 Nenhuma dessas estratégias funciona isolada — e nenhuma substitui a qualidade do conteúdo. O que você vai comunicar precisa ser verdadeiro, relevante e verificável. Como você vai comunicar é o que determina se alguém vai ouvir.

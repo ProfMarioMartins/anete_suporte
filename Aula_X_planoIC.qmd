@@ -10,9 +10,9 @@ Roteiro de aula elaborado no RStudio com o auxílio da inteligência artificial 
 
 Ao final desta aula, espera-se que você seja capaz de:
 
--   Formular o tema, o problema, a pergunta de pesquisa, a hipótese (se couber) e os objetivos da sua investigação;
--   Selecionar ideias e fundamentos teóricos extraídos de leituras científicas que sustentem a justificativa da pesquisa;
--   Esboçar a seção *Introdução e justificativa* do plano de trabalho com base em evidências e referências.
+- Formular o tema, o problema, a pergunta de pesquisa, a hipótese (se couber) e os objetivos da sua investigação;
+- Selecionar ideias e fundamentos teóricos extraídos de leituras científicas que sustentem a justificativa da pesquisa;
+- Esboçar a seção *Introdução e justificativa* do plano de trabalho com base em evidências e referências.
 
 ## Aprendizagem prática
 
@@ -32,26 +32,26 @@ Qual é o tema da sua pesquisa?
 
 **Exemplos**:
 
--   Avaliação do uso de clubes de ciências em escolas públicas.
--   Ensino de gramática no ensino médio.
--   Inteligência artificial na produção de textos acadêmicos.
+- Avaliação do uso de clubes de ciências em escolas públicas.
+- Ensino de gramática no ensino médio.
+- Inteligência artificial na produção de textos acadêmicos.
 
 ::: destaque
 **Tema não é título**
 
 Embora muitas vezes confundidos, tema e título são coisas diferentes:
 
--   **Tema** é o assunto geral da pesquisa, ou seja, sobre o que se quer estudar. Pode ser formulado como uma expressão ampla, como por exemplo:\
-    *“Clubes de ciências no ensino médio público brasileiro.”*
+- **Tema** é o assunto geral da pesquisa, ou seja, sobre o que se quer estudar. Pode ser formulado como uma expressão ampla, como por exemplo:\
+  *“Clubes de ciências no ensino médio público brasileiro.”*
 
--   **Título** é uma formulação específica e circunstancial, que aparece na capa do plano de trabalho. Ele apresenta de forma mais direta, clara e delimitada o foco da pesquisa. Por exemplo:\
-    *“A contribuição dos clubes de ciências para o interesse pela física no ensino médio: um estudo de caso em Mossoró-RN.”*
+- **Título** é uma formulação específica e circunstancial, que aparece na capa do plano de trabalho. Ele apresenta de forma mais direta, clara e delimitada o foco da pesquisa. Por exemplo:\
+  *“A contribuição dos clubes de ciências para o interesse pela física no ensino médio: um estudo de caso em Mossoró-RN.”*
 
 **Exemplos de títulos**:
 
--   A contribuição dos clubes de ciências para o interesse dos alunos por Física no ensino médio.
--   Estratégias didáticas para o ensino de pontuação: um estudo de caso com turmas do 3º ano do ensino médio.
--   Inteligência artificial e autoria no ensino superior: percepções de estudantes sobre o uso do ChatGPT na escrita de trabalhos acadêmicos.
+- A contribuição dos clubes de ciências para o interesse dos alunos por Física no ensino médio.
+- Estratégias didáticas para o ensino de pontuação: um estudo de caso com turmas do 3º ano do ensino médio.
+- Inteligência artificial e autoria no ensino superior: percepções de estudantes sobre o uso do ChatGPT na escrita de trabalhos acadêmicos.
 :::
 
 ::: subtitulo-nao-numerado
@@ -66,9 +66,9 @@ Embora muitas vezes confundidos, tema e título são coisas diferentes:
 
 **Exemplos**:
 
--   Pouco se sabe sobre os impactos concretos da participação em clubes de ciências no desempenho escolar de estudantes.
--   Ainda são escassos os estudos que avaliam a eficácia de abordagens ativas no ensino de pontuação.
--   Falta compreender como estudantes universitários percebem as implicações éticas e acadêmicas do uso de inteligência artificial na produção textual.
+- Pouco se sabe sobre os impactos concretos da participação em clubes de ciências no desempenho escolar de estudantes.
+- Ainda são escassos os estudos que avaliam a eficácia de abordagens ativas no ensino de pontuação.
+- Falta compreender como estudantes universitários percebem as implicações éticas e acadêmicas do uso de inteligência artificial na produção textual.
 
 ::: subtitulo-nao-numerado
 3.  Pergunta de pesquisa
@@ -82,9 +82,9 @@ Embora muitas vezes confundidos, tema e título são coisas diferentes:
 
 **Exemplos**:
 
--   De que maneira a participação em clubes de ciências influencia o interesse e o desempenho dos alunos em Física?
--   Como diferentes estratégias didáticas afetam a aprendizagem de pontuação em turmas do ensino médio?
--   Quais são as percepções de estudantes universitários sobre o uso do ChatGPT na escrita de textos acadêmicos?
+- De que maneira a participação em clubes de ciências influencia o interesse e o desempenho dos alunos em Física?
+- Como diferentes estratégias didáticas afetam a aprendizagem de pontuação em turmas do ensino médio?
+- Quais são as percepções de estudantes universitários sobre o uso do ChatGPT na escrita de textos acadêmicos?
 
 ::: subtitulo-nao-numerado
 4.  Hipótese (opcional, se couber)
@@ -98,9 +98,9 @@ Se a pesquisa for exploratória ou qualitativa, a hipótese pode ser dispensada.
 
 **Exemplos**:
 
--   A participação em clubes de ciências contribui positivamente para o engajamento e o desempenho em disciplinas científicas.
--   Estratégias baseadas em gamificação e análise de erros melhoram o domínio da pontuação.
--   A maioria dos estudantes percebe o uso do ChatGPT como uma ferramenta útil, mas apresenta dúvidas sobre sua legitimidade acadêmica.
+- A participação em clubes de ciências contribui positivamente para o engajamento e o desempenho em disciplinas científicas.
+- Estratégias baseadas em gamificação e análise de erros melhoram o domínio da pontuação.
+- A maioria dos estudantes percebe o uso do ChatGPT como uma ferramenta útil, mas apresenta dúvidas sobre sua legitimidade acadêmica.
 
 ::: subtitulo-nao-numerado
 5.  Objetivo geral
@@ -114,7 +114,7 @@ Se a pesquisa for exploratória ou qualitativa, a hipótese pode ser dispensada.
 
 **Exemplo**:
 
--   Investigar como a participação em clubes de ciências influencia o desempenho e o interesse de alunos do ensino médio por Física.
+- Investigar como a participação em clubes de ciências influencia o desempenho e o interesse de alunos do ensino médio por Física.
 
 ::: subsubtitulo-nao-numerado
 5.1 Objetivos específicos
@@ -124,9 +124,9 @@ Se a pesquisa for exploratória ou qualitativa, a hipótese pode ser dispensada.
 
 **Exemplos**:
 
--   Mapear as atividades realizadas por clubes de ciências em escolas públicas da cidade de Mossoró.
--   Analisar o desempenho em Física de alunos participantes e não participantes dos clubes.
--   Investigar o interesse declarado por Física antes e depois da participação nos clubes.
+- Mapear as atividades realizadas por clubes de ciências em escolas públicas da cidade de Mossoró.
+- Analisar o desempenho em Física de alunos participantes e não participantes dos clubes.
+- Investigar o interesse declarado por Física antes e depois da participação nos clubes.
 
 ::: titulo-nao-numerado
 Etapa 2 – Levantamento bibliográfico
@@ -160,11 +160,11 @@ Você pode referenciar o artigo que leu e também outros estudos mencionados nel
 
 Com base no artigo lido e nas respostas acima, redija a seção *Introdução/Justificativa* do seu plano de trabalho. Nessa seção, espera-se que você:
 
--   apresente o tema, a pergunta de pesquisa e, se for o caso, a hipótese;
--   explicite a relevância do tema no contexto científico, educacional ou social;
--   desenvolva uma justificativa fundamentada em argumentos consistentes, preferencialmente ancorados em dados e evidências científicas;
--   estabeleça diálogo com pelo menos três referências acadêmicas (artigos científicos ou livros de reconhecida qualidade);
--   redija o texto com clareza, concisão e objetividade.
+- apresente o tema, a pergunta de pesquisa e, se for o caso, a hipótese;
+- explicite a relevância do tema no contexto científico, educacional ou social;
+- desenvolva uma justificativa fundamentada em argumentos consistentes, preferencialmente ancorados em dados e evidências científicas;
+- estabeleça diálogo com pelo menos três referências acadêmicas (artigos científicos ou livros de reconhecida qualidade);
+- redija o texto com clareza, concisão e objetividade.
 
 ------------------------------------------------------------------------
 

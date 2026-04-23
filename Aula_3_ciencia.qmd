@@ -12,7 +12,7 @@ Desde os tempos mais remotos, os seres humanos buscam **compreender os fenômeno
 
 Ao final deste encontro e com base na leitura indicada, espera-se que você seja capaz de:
 
--   *Distinguir explicações baseadas em evidências científicas de afirmações baseadas em senso comum, analisando exemplos de linguagem vaga, promessas absolutas e ausência de dados empíricos.*
+- *Distinguir explicações baseadas em evidências científicas de afirmações baseadas em senso comum, analisando exemplos de linguagem vaga, promessas absolutas e ausência de dados empíricos.*
 
 ::: leitura
 Leitura indicada:
@@ -37,16 +37,16 @@ Esses conhecimentos são obtidos, confrontados e atualizados por meio de um mét
 ::: enfase
 O **pensamento científico** se aplica sempre que buscamos tomar decisões baseadas em evidências (e não nos costumes ou na intuição). Ele se manifesta quando:
 
--   Questionamos informações antes de aceitá-las como verdadeiras
-    -   *Como avaliar se um vídeo na internet que promete curar dores nas articulações com uma receita caseira é confiável?*
--   Buscamos explicações fundamentadas e verificáveis sobre os fenômenos do mundo
-    -   *Como investigar por que a conta de água da sua casa aumentou muito em comparação com os meses anteriores?*
--   Analisamos causas e efeitos com base em dados, não em suposições
-    -   *Como verificar se o aumento no tempo de uso do celular está afetando a qualidade do sono?*
--   Testamos hipóteses e aprendemos com os erros
-    -   *Se uma planta da casa está murchando, como testar se o problema é falta de água, excesso de sol ou qualidade do solo?*
--   Rejeitamos conclusões apressadas e consideramos a complexidade dos contextos
-    -   *Como avaliar a afirmação de que “os jovens de hoje não gostam de ler” sem se basear apenas em experiências pessoais?*
+- Questionamos informações antes de aceitá-las como verdadeiras
+  - *Como avaliar se um vídeo na internet que promete curar dores nas articulações com uma receita caseira é confiável?*
+- Buscamos explicações fundamentadas e verificáveis sobre os fenômenos do mundo
+  - *Como investigar por que a conta de água da sua casa aumentou muito em comparação com os meses anteriores?*
+- Analisamos causas e efeitos com base em dados, não em suposições
+  - *Como verificar se o aumento no tempo de uso do celular está afetando a qualidade do sono?*
+- Testamos hipóteses e aprendemos com os erros
+  - *Se uma planta da casa está murchando, como testar se o problema é falta de água, excesso de sol ou qualidade do solo?*
+- Rejeitamos conclusões apressadas e consideramos a complexidade dos contextos
+  - *Como avaliar a afirmação de que “os jovens de hoje não gostam de ler” sem se basear apenas em experiências pessoais?*
 :::
 
 <br/>
@@ -135,22 +135,22 @@ Responda por escrito à seguinte pergunta: *A receita apresentada no vídeo pode
 
 Quais são os elementos não científicos no vídeo?
 
--   Linguagem vaga: expressões como "lá pelos 50 anos", “tarde demais”, “pele bonita” e “melhorar a saúde” não são mensuráveis.
--   Promessas absolutas: afirma que “seus problemas vão acabar” sem qualquer comprovação.
--   Apelo à autoridade implícita: o canal se apresenta como confiável, mas não cita fontes nem especialistas.
--   Ausência de dados: não há estatísticas, estudos, nem explicações sobre doses ou eficácia real.
--   Relações causais forçadas: ingredientes com vitamina C e magnésio são relacionados diretamente à produção de colágeno sem evidência científica.
+- Linguagem vaga: expressões como "lá pelos 50 anos", “tarde demais”, “pele bonita” e “melhorar a saúde” não são mensuráveis.
+- Promessas absolutas: afirma que “seus problemas vão acabar” sem qualquer comprovação.
+- Apelo à autoridade implícita: o canal se apresenta como confiável, mas não cita fontes nem especialistas.
+- Ausência de dados: não há estatísticas, estudos, nem explicações sobre doses ou eficácia real.
+- Relações causais forçadas: ingredientes com vitamina C e magnésio são relacionados diretamente à produção de colágeno sem evidência científica.
 
 Quais são as fontes confiáveis citadas?
 
--   O vídeo não menciona estudos, instituições científicas ou profissionais da saúde.
+- O vídeo não menciona estudos, instituições científicas ou profissionais da saúde.
 
 O que seria necessário para testar cientificamente?
 
--   Hipótese clara: “O consumo diário da receita X reduz dor articular em adultos?”
--   Experimento controlado: grupos com e sem a receita, de forma aleatória e cega.
--   Variáveis controladas: alimentação, idade, saúde prévia, medicamentos.
--   Evidências: exames clínicos, questionários validados, análise estatística dos resultados.
+- Hipótese clara: “O consumo diário da receita X reduz dor articular em adultos?”
+- Experimento controlado: grupos com e sem a receita, de forma aleatória e cega.
+- Variáveis controladas: alimentação, idade, saúde prévia, medicamentos.
+- Evidências: exames clínicos, questionários validados, análise estatística dos resultados.
 
 </details>
 
@@ -246,8 +246,8 @@ Testando a regra na linha seguinte
 
 spinpip + shugon → spingon ✔ kraborb + elekpy → kreky ✖
 
--   **spingon** segue o padrão.
--   **kreky** não segue: ele não usa corretamente **krab-** nem **-py**.
+- **spingon** segue o padrão.
+- **kreky** não segue: ele não usa corretamente **krab-** nem **-py**.
 
 Assim, **kreky é o primeiro nome fora do padrão**.
 
@@ -259,8 +259,8 @@ Como **kreky já está errado**, **krinky também não segue o padrão**.
 
 Portanto:
 
--   1º fora do padrão → **kreky**
--   2º fora do padrão → **krinky**
+- 1º fora do padrão → **kreky**
+- 2º fora do padrão → **krinky**
 
 4.  Como deveriam ser os nomes corretos
 
@@ -289,11 +289,11 @@ Portanto, **spinky não pode existir**.
 ::: proxima-aula
 [Para a próxima aula:]{.proxima-aula-title}
 
--   **Leia** o texto **Pensamento crítico** (p. 3-9), capítulo do livro *Pensamento crítico: o poder da lógica e da argumentação*, de Walter Carnielli e Richard Epstein. Disponível na Biblioteca Virtual.
+- **Leia** o texto **Pensamento crítico** (p. 3-9), capítulo do livro *Pensamento crítico: o poder da lógica e da argumentação*, de Walter Carnielli e Richard Epstein. Disponível na Biblioteca Virtual.
 :::
 
 ::: destaque
 *Sugestão de leitura*
 
--   **Observe, test, reflect: A better life with the scientific method**, artigo de Santiago Gisler publicado pela *Ivory Embassy*. Disponível em: https://ivoryembassy.com/the-scientific-method/.
+- **Observe, test, reflect: A better life with the scientific method**, artigo de Santiago Gisler publicado pela *Ivory Embassy*. Disponível em: https://ivoryembassy.com/the-scientific-method/.
 :::

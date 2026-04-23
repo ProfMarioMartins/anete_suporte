@@ -10,10 +10,10 @@ Roteiro de aula elaborado no RStudio com o auxílio da inteligência artificial 
 
 Ao final desta aula, espera-se que você seja capaz de:
 
--   Identificar elementos essenciais da metodologia científica em projetos de iniciação científica;
--   Refletir, com base em perguntas orientadoras, sobre as decisões metodológicas da sua pesquisa;
--   Descrever, com clareza e coerência, o percurso metodológico a ser adotado;
--   Relacionar as etapas da pesquisa ao cronograma do plano de trabalho.
+- Identificar elementos essenciais da metodologia científica em projetos de iniciação científica;
+- Refletir, com base em perguntas orientadoras, sobre as decisões metodológicas da sua pesquisa;
+- Descrever, com clareza e coerência, o percurso metodológico a ser adotado;
+- Relacionar as etapas da pesquisa ao cronograma do plano de trabalho.
 
 ::: {#leitura}
 **Leituras indicadas:**
@@ -1143,20 +1143,20 @@ A seção **Habilidades a serem adquiridas** tem como finalidade explicitar o po
 
 A seguir, são apresentados os principais pontos que devem ser considerados na escrita desta seção.
 
--   Capacidades investigativas (formular hipóteses, organizar dados, interpretar resultados);
--   Domínio de instrumentos e técnicas de pesquisa (uso de softwares, construção de questionários, análise estatística, elaboração de fichamentos etc.);
--   Comunicação científica (produção textual, apresentações orais, escrita acadêmica);
--   Postura ética e colaborativa (trabalho em equipe, responsabilidade, reflexão sobre ética na pesquisa);
--   Autonomia intelectual e gestão de tempo (organização, tomada de decisão, compromisso com prazos).
+- Capacidades investigativas (formular hipóteses, organizar dados, interpretar resultados);
+- Domínio de instrumentos e técnicas de pesquisa (uso de softwares, construção de questionários, análise estatística, elaboração de fichamentos etc.);
+- Comunicação científica (produção textual, apresentações orais, escrita acadêmica);
+- Postura ética e colaborativa (trabalho em equipe, responsabilidade, reflexão sobre ética na pesquisa);
+- Autonomia intelectual e gestão de tempo (organização, tomada de decisão, compromisso com prazos).
 
 ## Cronograma
 
 A seção **Cronograma** do plano de trabalho tem como finalidade demonstrar a viabilidade temporal da proposta, evidenciando que você compreende:
 
--   Quais são as etapas da pesquisa;
--   Em que ordem elas devem ser realizadas;
--   Quanto tempo será necessário para cada etapa;
--   Como o tempo será distribuído entre as diferentes tarefas.
+- Quais são as etapas da pesquisa;
+- Em que ordem elas devem ser realizadas;
+- Quanto tempo será necessário para cada etapa;
+- Como o tempo será distribuído entre as diferentes tarefas.
 
 Um cronograma bem elaborado reforça a credibilidade do projeto, pois mostra planejamento, organização e compromisso com a execução da pesquisa.
 
@@ -1173,12 +1173,12 @@ O cronograma pode ser apresentado como **tabela com meses e atividades**:
 
 Com base na consulta ao texto indicado e nas respostas acima, redija a seção **Metodologia** do seu plano de trabalho. Nessa seção, espera-se que você:
 
--   Explicite o tipo de pesquisa que está propondo (por exemplo, pesquisa bibliográfica, estudo de caso, levantamento, pesquisa-ação, pesquisa participante, estudo de coorte etc.);
--   Justifique a escolha do delineamento metodológico com base nos objetivos do seu estudo;
--   Descreva a população-alvo (ou universo observado) e a forma de seleção da amostra, caso aplicável;
--   Indique os procedimentos de coleta de dados previstos (por exemplo, entrevista, questionário, observação, análise documental);
--   Indique os procedimentos de análise dos dados (análise de conteúdo, análise estatística, codificação etc.);
--   Inclua considerações éticas, caso sua pesquisa envolva seres humanos.
+- Explicite o tipo de pesquisa que está propondo (por exemplo, pesquisa bibliográfica, estudo de caso, levantamento, pesquisa-ação, pesquisa participante, estudo de coorte etc.);
+- Justifique a escolha do delineamento metodológico com base nos objetivos do seu estudo;
+- Descreva a população-alvo (ou universo observado) e a forma de seleção da amostra, caso aplicável;
+- Indique os procedimentos de coleta de dados previstos (por exemplo, entrevista, questionário, observação, análise documental);
+- Indique os procedimentos de análise dos dados (análise de conteúdo, análise estatística, codificação etc.);
+- Inclua considerações éticas, caso sua pesquisa envolva seres humanos.
 
 Redija também a seção **Habilidades a serem adquiridas**, que deve ter entre 500 e 1000 palavras.
 

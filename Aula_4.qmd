@@ -36,21 +36,21 @@ As **asserções** (ou **afirmações**) são essenciais para a prática cientí
 ::: destaque
 Uma **afirmação** deve possuir um valor de verdade, mesmo que não saibamos no momento qual ele seja. Para identificar se uma asserção tem valor de verdade, pergunte-se:
 
--   **Posso observar ou medir?**\
-    *Exemplo:* “A pressão arterial aumenta durante exercícios intensos.”\
-    → Pode ser testada com instrumentos e coleta de dados.
+- **Posso observar ou medir?**\
+  *Exemplo:* “A pressão arterial aumenta durante exercícios intensos.”\
+  → Pode ser testada com instrumentos e coleta de dados.
 
--   **Posso consultar uma fonte confiável?**\
-    *Exemplo:* “O DNA tem estrutura em dupla hélice.”\
-    → Pode ser verificada em livros didáticos e artigos científicos consolidados.
+- **Posso consultar uma fonte confiável?**\
+  *Exemplo:* “O DNA tem estrutura em dupla hélice.”\
+  → Pode ser verificada em livros didáticos e artigos científicos consolidados.
 
--   **É logicamente coerente?**\
-    *Exemplo:* “Se todos os mamíferos são vertebrados e as baleias são mamíferos, então as baleias são vertebrados.”\
-    → A conclusão decorre logicamente das premissas.
+- **É logicamente coerente?**\
+  *Exemplo:* “Se todos os mamíferos são vertebrados e as baleias são mamíferos, então as baleias são vertebrados.”\
+  → A conclusão decorre logicamente das premissas.
 
--   **Há contraexemplos?**\
-    *Exemplo:* “Todos os metais são sólidos à temperatura ambiente.”\
-    → Falso: o mercúrio é líquido, funcionando como contraexemplo.
+- **Há contraexemplos?**\
+  *Exemplo:* “Todos os metais são sólidos à temperatura ambiente.”\
+  → Falso: o mercúrio é líquido, funcionando como contraexemplo.
 
 👉 Se a frase pode ser analisada por esses critérios, trata-se de uma asserção.
 :::
@@ -140,8 +140,8 @@ Como os conceitos se conectam?
 1.  **Asserções** são frases que podem ser verdadeiras ou falsas.\
 2.  Quando usamos asserções para sustentar outra, formamos um **argumento**.\
 3.  Em um argumento:
-    -   as **premissas** são as razões apresentadas\
-    -   a **conclusão** é o que se pretende defender
+    - as **premissas** são as razões apresentadas\
+    - a **conclusão** é o que se pretende defender
 
 🔥 Atenção: **Todo argumento é formado por asserções, mas nem toda asserção faz parte de um argumento.**
 :::
@@ -174,9 +174,9 @@ O objetivo de um argumento é persuadir-nos da verdade de uma afirmação – a 
 
 Na prática científica, o conhecimento não é aceito com base em autoridade ou opinião, mas em asserções sustentadas por argumentos e evidências. Nesse sentido, o pensamento crítico permite ao pesquisador:
 
--   examinar se uma afirmação é verdadeira ou plausível, com base em dados e métodos;
-    -   avaliar a consistência e a força dos argumentos, distinguindo justificativas adequadas de falhas argumentativas;
-    -   formular argumentos rigorosos, capazes de sustentar conclusões de modo racional e verificável.
+- examinar se uma afirmação é verdadeira ou plausível, com base em dados e métodos;
+  - avaliar a consistência e a força dos argumentos, distinguindo justificativas adequadas de falhas argumentativas;
+  - formular argumentos rigorosos, capazes de sustentar conclusões de modo racional e verificável.
 
 <br/>
 
@@ -300,8 +300,8 @@ Em todos os casos, há uma tentativa de persuadir alguém por meio de razões.
 
 Identificar um argumento exige responder:
 
--   O que está sendo defendido? (conclusão)\
--   Quais razões sustentam isso? (premissas)
+- O que está sendo defendido? (conclusão)\
+- Quais razões sustentam isso? (premissas)
 :::
 
 ## Aprendizagem prática
@@ -316,9 +316,9 @@ Identificando argumentos e avaliando evidências
 
 Leia as frases abaixo e classifique cada uma conforme sua função no texto:
 
--   **Conclusão** → afirmação que está sendo defendida
--   **Premissa (evidência)** → afirmação que sustenta uma conclusão
--   **Suporte** → informação contextual (objetivo, método, descrição), sem função argumentativa direta
+- **Conclusão** → afirmação que está sendo defendida
+- **Premissa (evidência)** → afirmação que sustenta uma conclusão
+- **Suporte** → informação contextual (objetivo, método, descrição), sem função argumentativa direta
 
 ::: leitura
 Artigo completo disponível em:\
@@ -863,5 +863,5 @@ function corrigirFilme() {
 ::: proxima-aula
 [Para a próxima aula:]{.proxima-aula-title}
 
--   **Leia** o texto **O que está em discussão** (p. 10-26), capítulo do livro **Pensamento crítico: o poder da lógica e da argumentação**, de Walter Carnielli e Richard Epstein. Disponível na Biblioteca Virtual. Disponível na Minha Biblioteca.
+- **Leia** o texto **O que está em discussão** (p. 10-26), capítulo do livro **Pensamento crítico: o poder da lógica e da argumentação**, de Walter Carnielli e Richard Epstein. Disponível na Biblioteca Virtual. Disponível na Minha Biblioteca.
 :::

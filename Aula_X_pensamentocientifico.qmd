@@ -8,7 +8,7 @@ Roteiro de aula elaborado no RStudio com o auxílio da inteligência artificial 
 
 Ao final deste encontro e com base na leitura indicada, espera-se que você seja capaz de:
 
--   Reconhecer as características do pensamento científico, diferenciando-o de outras formas de pensar e compreender sua relevância na construção do saber universitário.
+- Reconhecer as características do pensamento científico, diferenciando-o de outras formas de pensar e compreender sua relevância na construção do saber universitário.
 
 ::: leitura
 Leituras indicadas:
@@ -212,35 +212,35 @@ Passo a passo do método científico (em síntese):
 
 Pilares do pensamento científico (para além da ciência)
 
--   [ ] **Demonstrar curiosidade:**\
-    *Exemplo:* Um estudante de biologia que, ao observar uma planta com folhas amarelas, começa a se perguntar: “Por que essa planta tem uma coloração diferente das outras? Será falta de nutrientes, excesso de sol, ou alguma doença?”
+- [ ] **Demonstrar curiosidade:**\
+  *Exemplo:* Um estudante de biologia que, ao observar uma planta com folhas amarelas, começa a se perguntar: “Por que essa planta tem uma coloração diferente das outras? Será falta de nutrientes, excesso de sol, ou alguma doença?”
 
--   [ ] **Questionar pressupostos:**\
-    *Exemplo:* Um jornalista investigativo que, ao receber um dado oficial, questiona: “Será que esses números foram coletados corretamente? Quem financiou a pesquisa? Existe algum conflito de interesse?”
+- [ ] **Questionar pressupostos:**\
+  *Exemplo:* Um jornalista investigativo que, ao receber um dado oficial, questiona: “Será que esses números foram coletados corretamente? Quem financiou a pesquisa? Existe algum conflito de interesse?”
 
--   [ ] **Buscar evidências:**\
-    *Exemplo:* Um consumidor que lê avaliações de múltiplos sites e compara estudos antes de comprar um produto que alega ser ecológico.
+- [ ] **Buscar evidências:**\
+  *Exemplo:* Um consumidor que lê avaliações de múltiplos sites e compara estudos antes de comprar um produto que alega ser ecológico.
 
--   [ ] **Aplicar lógica e raciocínio:**\
-    *Exemplo:* Um médico que, ao interpretar exames laboratoriais, descarta hipóteses menos prováveis com base nos padrões observados nos resultados.
+- [ ] **Aplicar lógica e raciocínio:**\
+  *Exemplo:* Um médico que, ao interpretar exames laboratoriais, descarta hipóteses menos prováveis com base nos padrões observados nos resultados.
 
--   [ ] **Adotar ceticismo saudável:**\
-    *Exemplo:* Um economista que, ao ouvir que um novo investimento promete lucros altíssimos em pouco tempo, questiona: “Quais são os riscos? Existe alguma evidência de que outros investidores tiveram sucesso semelhante?”
+- [ ] **Adotar ceticismo saudável:**\
+  *Exemplo:* Um economista que, ao ouvir que um novo investimento promete lucros altíssimos em pouco tempo, questiona: “Quais são os riscos? Existe alguma evidência de que outros investidores tiveram sucesso semelhante?”
 
--   [ ] **Considerar explicações alternativas:**\
-    *Exemplo:* Um pesquisador que, ao encontrar uma correlação entre duas variáveis, pensa: “Será que é uma relação causal direta? Ou pode haver um terceiro fator influenciando ambas?”
+- [ ] **Considerar explicações alternativas:**\
+  *Exemplo:* Um pesquisador que, ao encontrar uma correlação entre duas variáveis, pensa: “Será que é uma relação causal direta? Ou pode haver um terceiro fator influenciando ambas?”
 
--   [ ] **Estar aberto a novas ideias:**\
-    *Exemplo:* Um professor que, ao descobrir um método de ensino inovador, considera aplicá-lo em suas aulas, mesmo que isso signifique mudar abordagens tradicionais.
+- [ ] **Estar aberto a novas ideias:**\
+  *Exemplo:* Um professor que, ao descobrir um método de ensino inovador, considera aplicá-lo em suas aulas, mesmo que isso signifique mudar abordagens tradicionais.
 
--   [ ] **Refletir sobre suas próprias crenças:**\
-    *Exemplo:* Um defensor de uma dieta específica que, ao encontrar novos estudos que contradizem suas crenças, analisa esses dados e ajusta suas recomendações.
+- [ ] **Refletir sobre suas próprias crenças:**\
+  *Exemplo:* Um defensor de uma dieta específica que, ao encontrar novos estudos que contradizem suas crenças, analisa esses dados e ajusta suas recomendações.
 
--   [ ] **Buscar feedback e aprender com os erros:**\
-    *Exemplo:* Um engenheiro que compartilha seu projeto com colegas, recebe críticas sobre a estrutura, faz alterações e apresenta um produto final mais eficiente.
+- [ ] **Buscar feedback e aprender com os erros:**\
+  *Exemplo:* Um engenheiro que compartilha seu projeto com colegas, recebe críticas sobre a estrutura, faz alterações e apresenta um produto final mais eficiente.
 
--   [ ] **Valorizar a replicabilidade e a objetividade:**\
-    *Exemplo:* Um cientista que publica os dados brutos de seu experimento e descreve os procedimentos em detalhes, permitindo que outros pesquisadores tentem reproduzir os mesmos resultados.
+- [ ] **Valorizar a replicabilidade e a objetividade:**\
+  *Exemplo:* Um cientista que publica os dados brutos de seu experimento e descreve os procedimentos em detalhes, permitindo que outros pesquisadores tentem reproduzir os mesmos resultados.
 
 ------------------------------------------------------------------------
 
