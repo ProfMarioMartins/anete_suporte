@@ -1,0 +1,429 @@
+---
+title: "O que é um resumo científico?"
+---
+
+::: nota-secundaria
+Roteiro de aula elaborado no RStudio com o auxílio da inteligência artificial, revisado e avaliado pelo autor antes de sua publicação.
+:::
+
+## Contextualização
+
+Ao final deste encontro, espera-se que você seja capaz de:
+
+- *compreender a função do resumo no contexto acadêmico*;
+- *identificar os movimentos retóricos típicos do gênero resumo*;
+
+::: leitura
+**Leituras indicadas**
+
+**Gêneros acadêmicos** (p. 67–72), capítulo do livro *Leitura e escrita acadêmicas*, de Nádia Studzinski Estima de Castro e colaboradores. Disponível na Minha Biblioteca.
+
+**Abstract/resumo acadêmico** (p. 151-162), capítulo do livro *Produção textual na universidade*, de Désirée Motta-Roth e Graciela Rabuske Hendge. Disponível para download [aqui](https://drive.google.com/file/d/1bD6AMams-veABAE4Gugdvnj4YTuwEt8i/view?usp=sharing).
+:::
+
+## Foco na leitura
+
+**Gêneros textuais**
+
+- são realizações linguísticas concretas definidas por propriedades sociocomunicativas;
+- constituem textos empiricamente realizados, cumprindo funções em situações comunicativas;
+- a sua nomeação abrange um conjunto aberto e praticamente ilimitado de designações concretas determinadas por canal, estilo, conteúdo, composição e função.
+- circulam em diferentes esferas discursivas
+    * **gêneros jornalísticos** (notícia, reportagem, editorial etc.)
+    * **gêneros literários** (crônica, conto, romance, poema etc.)
+    * **gêneros publicitários** (anúncio, propaganda etc.)
+    * **gêneros digitais** (post de rede social, blog etc.)
+    * **gêneros acadêmicos**<br/>
+      - artigo científico
+      - projeto de pesquisa
+      - tese (de doutorado)
+      - dissertação (de mestrado)
+      - trabalho de conclusão de curso (TCC)
+      - resumo
+      - resenha
+      - comunicação oral
+
+<br/> Compreender o funcionamento dos gêneros textuais acadêmicos exige não apenas o reconhecimento de suas funções sociocomunicativas, mas também a análise de como essas funções se concretizam linguisticamente. É nesse ponto que entra o conceito de estrutura retórica.
+
+::: citacao
+**Estrutura retórica** é a organização funcional de um gênero textual em movimentos retóricos recorrentes, orientados para o cumprimento de objetivos comunicativos específicos (Swales, 2004)[^aula_x_resumo-1].
+
+Um **movimento retórico** é uma unidade discursiva que desempenha uma função comunicativa coerente dentro da estrutura retórica (Swales, 2004)
+:::
+
+[^aula_x_resumo-1]: SWALES, J. M. Research Genres Explorations and Applications. Cambridge: Cambridge University Press, 2004.
+
+::: imagem
+<img src="img/move_geral.png" alt="Práticas sociais" class="img-central"/>
+:::
+
+Agora vamos aprofundar nosso conhecimento sobre a estrutura retórica de alguns dos gêneros textuais mais recorrentes na esfera universitária, a começar pelo **resumo**.
+
+O **resumo** - ou *abstract*, em inglês - é um gênero textual que sintetiza as informações mais relevantes de um trabalho científico. Esse gênero pode ocorrer de maneira autônoma ou integrar outras produções científicas.
+
+::: citacao
+Para que cumpra seu papel com clareza e eficácia, o resumo precisa organizar-se em **movimentos retóricos específicos**, que orientam o leitor quanto ao contexto da pesquisa, aos objetivos e métodos empregados, e aos principais resultados alcançados (Motta-Roth e Rabuske, 2010)
+
+<img src="img/moves.png" class="img-central"/>
+:::
+
+<br/>
+
+Observe a tabela abaixo, que apresenta os movimentos retóricos do resumo científico (Motta-Roth e Rabuske 2010). É importante notar que, em determinados casos, *esses movimentos se desdobram em submovimentos*, o que amplia a organização interna do gênero e exige atenção na análise.
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+library(knitr)
+library(kableExtra)
+
+dados_resumidos <- data.frame(
+  Movimento = c(
+    "MOVIMENTO 1 - SITUAR A PESQUISA",
+    "Subfunção 1A - Estabelecer interesse profissional no tópico",
+    "Subfunção 1B - Fazer generalizações do tópico",
+    "Subfunção 2A - Citar pesquisas prévias",
+    "Subfunção 2B - Estender pesquisas prévias",
+    "Subfunção 2C - Contra-argumentar pesquisas prévias",
+    "Subfunção 2D - Indicar lacunas em pesquisas prévias",
+    
+    "MOVIMENTO 2 - APRESENTAR A PESQUISA",
+    "Subfunção 1A - Indicar as principais características",
+    "Subfunção 1B - Apresentar os principais objetivos",
+    "Subfunção 2 - Levantar hipóteses",
+    
+    "MOVIMENTO 3 - DESCREVER A METODOLOGIA",
+    "MOVIMENTO 4 - SUMARIZAR OS RESULTADOS",
+    
+    "MOVIMENTO 5 - DISCUTIR A PESQUISA",
+    "Subfunção 1 - Elaborar conclusões",
+    "Subfunção 2 - Recomendar futuras aplicações"
+  ),
+  
+  Relacao = c(
+    "",
+    "ou",
+    "e/ou",
+    "ou",
+    "ou",
+    "ou",
+    "",
+    
+    "",
+    "ou",
+    "e/ou",
+    "",
+    
+    "",
+    "",
+    
+    "",
+    "e/ou",
+    ""
+  )
+)
+
+kable(
+  dados_resumidos,
+  col.names = c("Movimentos e submovimentos retóricos", "Relação"),
+  align = c("l", "c"),
+  escape = FALSE
+) %>%
+  kable_styling(
+    full_width = FALSE,
+    bootstrap_options = c("striped", "hover", "condensed")
+  ) %>%
+  row_spec(
+    which(grepl("^MOVIMENTO", dados_resumidos$Movimento)),
+    bold = TRUE,
+    background = "#f2f4f8"
+  ) %>%
+  column_spec(1, width = "34em") %>%
+  column_spec(2, width = "6em")
+```
+
+
+<br/>
+
+```{mermaid}
+%%| fig-width: 12
+%%| fig-height: 6
+
+%% Configuração de estilo
+%%{init: {
+  "theme": "base",
+  "themeVariables": {
+    "fontSize": "20px",
+    "fontFamily": "Arial",
+    "primaryColor": "#243E6A",
+    "primaryTextColor": "#ffffff",
+    "primaryBorderColor": "#243E6A",
+    "secondaryColor": "#eef5ff",
+    "secondaryTextColor": "#1b2f4d",
+    "secondaryBorderColor": "#c9d8f0"
+  }
+}}%%
+
+flowchart LR
+
+  A["Padrão A<br/>com contextualização"] --> A1["Objetivos"]
+  A1 --> A2["Importância"]
+  A2 --> A3["Método"]
+  A3 --> A4["Resultados"]
+  A4 --> A5["Conclusão"]
+
+  B["Padrão B<br/>mínimo"] --> B1["Objetivos"]
+  B1 --> B2["Metodologia"]
+  B2 --> B3["Resultados"]
+
+  C["Padrão C<br/>expandido"] --> C1["Objetivos"]
+  C1 --> C2["Metodologia"]
+  C2 --> C3["Resultados"]
+  C3 --> C4["Validade"]
+  C4 --> C5["Conclusão"]
+  C5 --> C6["Aplicações"]
+```
+
+
+## Foco na leitura
+
+::: subsubtitulo-nao-numerado
+Em que contextos se usa um resumo científico?
+:::
+
+::: destaque
+**Resumo como parte de um texto maior**
+
+O resumo integra um documento mais amplo, funcionando como guia de leitura.
+
+- artigos científicos
+- TCCs, dissertações e teses
+- capítulos de livros
+
+::: nota-secundaria
+Às vezes, o resumo é acompanhado de uma versão em uma língua estrangeira. Se for em inglês, chama-se *abstract*.
+:::
+
+**Resumo como texto autônomo**
+
+O resumo circula de forma independente, isto é, sem o texto-fonte imediatamente disponível.
+
+- submissão a eventos científicos (congressos, simpósios, jornadas, etc.)
+- bases de dados e indexadores (Scopus, Web of Science, Google Scholar, etc.)
+
+::: nota-secundaria
+Em chamadas para eventos científicos, é frequente que o resumo submetido seja o único material textual considerado para avaliação.
+:::
+:::
+
+<br/>
+
+## Aprendizagem prática
+
+::: subtitulo-nao-numerado
+Identificação
+:::
+
+::: subsubtitulo-nao-numerado
+Quais são os movimentos retóricos do resumo científico?
+:::
+
+Leia atentamente o resumo científico abaixo.
+
+```{=html}
+<em>O ensino de Física por meio de metodologias ativas tem ganhado destaque nos últimos anos. Estudos apontam que os alunos demonstram maior engajamento quando a Física é ensinada com recursos experimentais. Pesquisas como as de Silva et al. (2021) destacam o uso de jogos didáticos no ensino de cinemática. Este estudo amplia a proposta de Moreira (2020) ao aplicar a metodologia em turmas do 2º ano. Diferente de autores anteriores, não se investigaram os efeitos do lúdico na aprendizagem significativa. Ainda são escassos os estudos que avaliam o impacto do uso de simuladores virtuais em escolas públicas. Trata-se de uma investigação qualitativa com ênfase na análise de relatos de professores da rede básica. O objetivo é avaliar a eficácia de uma sequência didática baseada em experimentos de óptica. Hipotetiza-se que atividades experimentais favorecem a compreensão conceitual de fenômenos físicos. A metodologia envolveu aplicação de uma sequência didática com uso de simuladores PhET. Os resultados mostram melhora significativa no desempenho dos alunos após as intervenções. Conclui-se que o uso de tecnologia digital contribui para a aprendizagem em Física. Sugere-se replicar o estudo em outras redes de ensino com diferentes perfis de estudantes.</em>
+```
+
+<br/>
+
+Para cada exemplo abaixo, selecione o submovimento retórico que melhor o representa. Depois, clique no botão "Verificar respostas". Você verá seu total de acertos.
+
+```{=html}
+
+<style>
+  .tabela-retorica {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 2em;
+  }
+
+  .tabela-retorica th, .tabela-retorica td {
+    border: 1px solid #ccc;
+    padding: 12px;
+    vertical-align: top;
+  }
+
+  .tabela-retorica th {
+    background-color: #f2f2f2;
+    text-align: left;
+  }
+
+  .dropdown-retorico {
+    width: 100%;
+    padding: 6px;
+    font-size: 14px;
+  }
+
+  #resultado-acertos {
+    font-weight: bold;
+    margin-top: 1em;
+    font-size: 1.1em;
+  }
+
+  #botao-verificar {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 18px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1em;
+    margin-bottom: 1em;
+  }
+</style>
+
+<table class="tabela-retorica">
+  <thead>
+    <tr>
+      <th>Exemplo</th>
+      <th>Submovimento retórico</th>
+    </tr>
+  </thead>
+  <tbody id="tabela-exemplos">
+  </tbody>
+</table>
+
+<button id="botao-verificar">✅ Verificar respostas</button>
+<div id="resultado-acertos"></div>
+
+<script>
+const dados = [
+  {
+    exemplo: "O ensino de Física por meio de metodologias ativas tem ganhado destaque nos últimos anos.",
+    correto: "Estabelecer interesse no tópico"
+  },
+  {
+    exemplo: "Estudos apontam que os alunos demonstram maior engajamento quando a Física é ensinada com recursos experimentais.",
+    correto: "Fazer generalizações do tópico"
+  },
+  {
+    exemplo: "Pesquisas como as de Silva et al. (2021) destacam o uso de jogos didáticos no ensino de cinemática.",
+    correto: "Citar pesquisas prévias"
+  },
+  {
+    exemplo: "Este estudo amplia a proposta de Moreira (2020) ao aplicar a metodologia em turmas do 2º ano.",
+    correto: "Estender pesquisas prévias"
+  },
+  {
+    exemplo: "Diferente de autores anteriores, não se investigaram os efeitos do lúdico na aprendizagem significativa.",
+    correto: "Contra-argumentar pesquisas prévias"
+  },
+  {
+    exemplo: "Ainda são escassos os estudos que avaliam o impacto do uso de simuladores virtuais em escolas públicas.",
+    correto: "Indicar lacunas em pesquisas prévias"
+  },
+  {
+    exemplo: "Trata-se de uma investigação qualitativa com ênfase na análise de relatos de professores da rede básica.",
+    correto: "Indicar as principais características"
+  },
+  {
+    exemplo: "O objetivo é avaliar a eficácia de uma sequência didática baseada em experimentos de óptica.",
+    correto: "Apresentar objetivo(s)"
+  },
+  {
+    exemplo: "Hipotetiza-se que atividades experimentais favorecem a compreensão conceitual de fenômenos físicos.",
+    correto: "Levantar hipótese(s)"
+  },
+  {
+    exemplo: "A metodologia envolveu aplicação de uma sequência didática com uso de simuladores PhET.",
+    correto: "Apresentar procedimento(s)"
+  },
+  {
+    exemplo: "Os resultados mostram melhora significativa no desempenho dos alunos após as intervenções.",
+    correto: "Apontar principais achados"
+  },
+  {
+    exemplo: "Conclui-se que o uso de tecnologia digital contribui para a aprendizagem em Física.",
+    correto: "Apresentar conclusão(ões)"
+  },
+  {
+    exemplo: "Sugere-se replicar o estudo em outras redes de ensino com diferentes perfis de estudantes.",
+    correto: "Recomendar aplicação(ões) futura(s)"
+  }
+];
+
+const opcoes = [
+  "Estabelecer interesse no tópico",
+  "Fazer generalizações do tópico",
+  "Citar pesquisas prévias",
+  "Estender pesquisas prévias",
+  "Contra-argumentar pesquisas prévias",
+  "Indicar lacunas em pesquisas prévias",
+  "Indicar as principais características",
+  "Apresentar objetivo(s)",
+  "Levantar hipótese(s)",
+  "Apresentar procedimento(s)",
+  "Apontar principais achados",
+  "Apresentar conclusão(ões)",
+  "Recomendar aplicação(ões) futura(s)"
+];
+
+function embaralhar(array) {
+  return array.sort(() => Math.random() - 0.5);
+}
+
+function construirTabela() {
+  const corpo = document.getElementById("tabela-exemplos");
+  dados.forEach((item, i) => {
+    const tr = document.createElement("tr");
+
+    const tdExemplo = document.createElement("td");
+    tdExemplo.textContent = item.exemplo;
+
+    const tdSelect = document.createElement("td");
+    const select = document.createElement("select");
+    select.className = "dropdown-retorico";
+    select.setAttribute("data-correto", item.correto);
+
+    const optInicial = document.createElement("option");
+    optInicial.textContent = "-- Escolha --";
+    optInicial.value = "";
+    select.appendChild(optInicial);
+
+    embaralhar(opcoes).forEach(op => {
+      const option = document.createElement("option");
+      option.value = op;
+      option.textContent = op;
+      select.appendChild(option);
+    });
+
+    tdSelect.appendChild(select);
+    tr.appendChild(tdExemplo);
+    tr.appendChild(tdSelect);
+    corpo.appendChild(tr);
+  });
+}
+
+document.getElementById("botao-verificar").addEventListener("click", () => {
+  const selects = document.querySelectorAll(".dropdown-retorico");
+  let acertos = 0;
+
+  selects.forEach(select => {
+    const valor = select.value;
+    const correto = select.getAttribute("data-correto");
+    if (valor === correto) {
+      acertos++;
+      select.style.border = "2px solid green";
+    } else {
+      select.style.border = "2px solid red";
+    }
+  });
+
+  document.getElementById("resultado-acertos").textContent = `Você acertou ${acertos} de ${selects.length}.`;
+});
+
+construirTabela();
+</script>
+```

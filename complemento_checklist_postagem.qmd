@@ -4,26 +4,26 @@ format: html
 ---
 
 ::: nota-secundaria
-Conteúdo elaborado no RStudio com o auxílio de chatbots de inteligência artificial, revisado e avaliado pelo professor antes de sua publicação.
+Roteiro de aula elaborado no RStudio com o auxílio da inteligência artificial, revisado e avaliado pelo autor antes de sua publicação.
 :::
 
-🎥📊 Você trabalhou com dedicação na sua mídia! Agora vamos garantir que ela será publicada com **qualidade, responsabilidade e impacto**. Antes de postar, revise cada item com atenção:
+Para garantir que a sua mídia seja publicada com **qualidade, responsabilidade e impacto**, revise cada item com atenção:
 
 ::: subtitulo-nao-numerado
 📌 Mensagem e dado científico
 :::
 
 -   O **dado central** da postagem está correto, claro e relevante?
--   O conteúdo está **vinculado ao tema do seu plano de trabalho**?
--   A fonte foi indicada na legenda, com referência conforme **ABNT** ou link confiável?
+-   O conteúdo está **vinculado ao tema do seu projeto de pesquisa**?
+-   A fonte foi indicada na descrição, com referência conforme **ABNT** e link confiável?
 -   O conteúdo transmite **informação científica** de forma compreensível e precisa?
 
 ::: subtitulo-nao-numerado
-📌 Legenda e tom da fala
+📌 Descrição e tom da fala
 :::
 
--   A legenda está clara, objetiva e **acessível ao público leigo**?
--   Há **coerência entre a legenda e a mídia** (o que se lê combina com o que se vê)?
+-   A descrição está clara, objetiva e **acessível ao público leigo**?
+-   Há **coerência entre a descrição e a mídia** (o que se lê na descrição combina com o que se vê na mídia)?
 -   A linguagem é **humana, autêntica e próxima**? (Ex.: uso de “eu”, “nós”, “minha experiência”)
 -   Há **chamada à ação** ou reflexão no final? (Ex.: “E você, o que pensa?”, “Compartilhe com alguém”, “Vamos conversar sobre isso?”)
 -   O tom evita sensacionalismo, promove **valores científicos** e desperta curiosidade?

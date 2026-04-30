@@ -41,7 +41,7 @@ book:
        - Aula_9_divulgacaocientifica.qmd
        - Aula_10_artigocientifico.qmd
        - Aula_11_introducaoartigo.qmd       
-#      - Aula_12_resumo.qmd
+       - Aula_12_resumocientifico.qmd
 #      - Aula_15.qmd       
 #      - Aula_13.qmd
 #      - Aula_14.qmd
@@ -60,11 +60,11 @@ book:
 #      - tutorial_tema_pesquisa.qmd
 #      - checklist_postagem.qmd
 
-#   - part: "Modelos"
-#     chapters:
+    - part: "Modelos"
+      chapters:
 #      - modelo_plano.qmd
        - modelo_relatorio.qmd
-#      - modelo_video.qmd
+       - modelo_video.qmd
 #      - modelo_carrossel.qmd
 
     - part: "Avaliações"
@@ -100,7 +100,7 @@ format:
     smooth-scroll: true
     sidebar:
       style: "docked"
-      collapse-level: 2
+      collapse-level: 0
       pinned: true
     tools:
       - toggle

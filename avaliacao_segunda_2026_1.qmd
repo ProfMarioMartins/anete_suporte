@@ -32,60 +32,86 @@ A atividade será concluída com a redação de um [**relatório reflexivo de pr
 Produto
 :::
 
-A mídia deve ser produzida **individualmente** e será publicada no **feed da conta oficial da disciplina no Instagram**, criada exclusivamente para esse fim.
+A mídia deve ser organizada em torno de um **dado científico**, isto é, uma informação verificável (resultado de pesquisa, estatística, achado empírico ou conclusão de estudo), que será explicada e contextualizada para o público geral.
 
-INSERIR O QR CODE DA CONTA NEOCOMCIENCIA
+::: destaque
+👉 [Acesse o perfil \@neocomciencia no Instagram](https://www.instagram.com/neocomciencia/) para ver exemplos de divulgação científica voltados ao público jovem.
+
+<img src="img/qr_code_neocomciencia.png" style="width:20%; display: block; margin: auto;"/>
+:::
 
 A mídia deve ser um **reel** (vídeo curto de 45 a 90 segundos);
 
-O conteúdo da postagem **deve obrigatoriamente estar vinculado ao tema do projeto de pesquisa** em desenvolvimento na disciplina.
+O conteúdo da mídia **deve obrigatoriamente estar vinculado ao tema do projeto de pesquisa** em desenvolvimento na disciplina.
 
 ::: nota-secundaria
 ❌ **Não é obrigatório** que você apareça na mídia, nem que utilize a própria voz. Pode-se usar apenas texto, imagens, música e narração artificial, desde que a comunicação seja clara e eficaz.
 :::
 
 ::: subtitulo-nao-numerado
+Prazos
+:::
+
+::: subsubtitulo-nao-numerado
+Data de submissão
+:::
+
+A mídia deve ser submetida no formulário até as 18h do dia **8 de maio de 2026 (sexta-feira)**.
+
+::: subsubtitulo-nao-numerado
 Data de publicação
 :::
 
-**11 de maio de 2026 (segunda-feira)**\
-A postagem deverá permanecer no ar até, no mínimo, o dia **14 de maio de 2026**.
+A mídia será publicada a partir do dia **11 de maio de 2026 (segunda-feira)**.
 
-::: subtitulo-nao-numerado
-Legenda
+::: subsubtitulo-nao-numerado
+Procedimento de submissão
 :::
 
-A legenda deve ser **comunicativa** e **voltada ao público geral**, com o objetivo de valorizar o conhecimento científico, combater a desinformação e ampliar o acesso a dados confiáveis.
+A mídia deve ser submetida exclusivamente por formulário próprio, disponível no link abaixo. O formulário solicitará o arquivo em formato MP4, o link da nuvem em que o arquivo estará armazenado, os termos de consentimento e de ineditismo, e as informações necessárias para a publicação.
 
-A legenda pode incluir, por exemplo:
+Certifique-se de que o link do arquivo está funcionando antes de enviar.
 
--   Uma contextualização do dado apresentado; e/ou
--   Uma defesa do papel da ciência na sociedade; e/ou
--   Uma crítica a práticas negacionistas ou à desinformação; e/ou
--   Uma chamada à reflexão crítica, etc.
+::: destaque
+👉 [Acesse o formulário de submissão](https://docs.google.com/forms/d/e/1FAIpQLSfR2_iZ1JWsINB87r1LVFSulKIbetx68QdNoqALIGud0T4R8w/viewform?usp=dialog)
+:::
 
-Ao final da legenda, incluir: - A **fonte confiável do dado apresentado** em formato ABNT (autor, ano - com link);
+::: subtitulo-nao-numerado
+Descrição (comentário fixado)
+:::
 
--   As hashtags obrigatórias: `#anete2026`, `#neocomciencia`, `#divulgaçãocientífica`, `#ufersa`.
+*Descrição* é o primeiro comentário de uma postagem, feito pela própria autora, fixado, em que se acrescentam informações consideradas importantes à compreensão da postagem.
+
+Essa descrição deve ser **comunicativa** e **voltada ao público geral**, com o objetivo de valorizar o conhecimento científico, combater a desinformação e ampliar o acesso a dados confiáveis.
+
+A descrição pode incluir, por exemplo:
+
+- Uma contextualização do dado apresentado; e/ou
+- Uma defesa do papel da ciência na sociedade; e/ou
+- Uma crítica a práticas negacionistas ou à desinformação; e/ou
+- Uma chamada à reflexão crítica, etc.
+
+Ao final da descrição, incluir: - A **fonte do dado apresentado** em formato ABNT (autor, ano - com link);
+
+- As hashtags obrigatórias: `#anete2026`, `#neocomciencia`, `#divulgaçãocientífica`, `#ufersa`.
 
 ::: nota-secundaria
 ❌ **Evite informações** técnicas ou institucionais voltadas apenas à disciplina ou ao professor (como turma, matrícula ou menções ao projeto de trabalho - a divulgação deve ser destinada a um público universal).
 :::
 
 ::: subsubtitulo-nao-numerado
-✅ Reel
+Estrutura sugerida
 :::
 
--   Estrutura sugerida:
-    -   **1. Apresentação do dado:** com impacto visual ou verbal;
-    -   **2. Explicação breve:** o que o dado significa e de onde vem;
-    -   **3. Conexão com um problema social ou científico relevante;**
-    -   **4. Conclusão provocativa ou inspiradora** (“Já parou para pensar nisso?”).
--   Deve conter:
-    -   Narração clara e/ou legendas legíveis;
-    -   Organização lógica e coerente;
-    -   Elementos visuais e sonoros que ampliem a compreensão;
-    -   Tom convidativo, instigante e respeitoso com o público.
+  - **1. Apresentação do dado:** com impacto visual ou verbal;
+  - **2. Explicação breve:** o que o dado significa e de onde vem;
+  - **3. Conexão com um problema social ou científico relevante;**
+  - **4. Conclusão provocativa ou inspiradora** (“Já parou para pensar nisso?”).
+  - **5. Deve conter ainda**:
+        - Narração clara e/ou legendas legíveis;
+        - Organização lógica e coerente;
+        - Elementos visuais e sonoros que ampliem a compreensão;
+        - Tom convidativo, instigante e respeitoso com o público.
 
 ::: subtitulo-nao-numerado
 Relatório reflexivo de produção
@@ -99,14 +125,18 @@ O relatório será preenchido em sala de aula no dia **11 de maio de 2026 (segun
 4.  Como foi o processo de criação da mídia? O que aprendeu com ele?
 
 ::: subtitulo-nao-numerado
-Critérios de avaliação
+Avaliação
 :::
 
 A nota será composta por:
 
--   **Mídia (60% da nota final)**
--   **Relatório (40% da nota final)**
+- **Mídia (60% da nota final)**
+- **Relatório (40% da nota final)**
 
+A avaliação considerará: adequação ao gênero, clareza da comunicação, consistência das informações, organização do conteúdo e qualidade da reflexão no relatório.
+
+```{=html}
+<!--
 ::: subsubtitulo-nao-numerado
 📊 Critérios de avaliação da mídia (0 a 6 pontos)
 :::
@@ -114,7 +144,7 @@ A nota será composta por:
 **Critério 1 — Clareza, precisão e relevância do conteúdo (0 a 1,5 ponto)**
 
 | Nível | Descrição | Exemplo | Pontuação |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | **Excelente** | O dado científico é apresentado com precisão, contextualizando sua origem e relevância de forma que o público leigo compreenda sem distorções | O reel apresenta o dado "84% dos estudantes de escolas públicas nunca acessaram uma biblioteca municipal, segundo dados do Censo Escolar de 2025" e explica o que esse número revela sobre desigualdade educacional | 1,5 |
 | **Satisfatório** | O dado é correto e relevante, mas a contextualização é incompleta ou superficial | O reel menciona o dado corretamente, mas não explica de onde vem nem o que ele significa para além do número | 1,0 |
 | **Parcial** | O dado é apresentado com imprecisão, sem fonte ou de forma que pode gerar interpretação equivocada | O reel afirma "a maioria dos estudantes não tem acesso à biblioteca" sem citar dados ou fonte | 0,5 |
@@ -125,7 +155,7 @@ A nota será composta por:
 **Critério 2 — Adequação ao público-alvo: linguagem, tom e forma (0 a 1,5 ponto)**
 
 | Nível | Descrição | Exemplo | Pontuação |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | **Excelente** | A linguagem é acessível ao público não especializado, o tom é convidativo e o formato escolhido é adequado à plataforma e ao público | O reel usa analogias do cotidiano para explicar um conceito científico, tem ritmo ágil e linguagem direta, sem jargão técnico | 1,5 |
 | **Satisfatório** | A linguagem é majoritariamente acessível, mas há trechos com vocabulário técnico não explicado ou tom distante do público | O reel alterna entre linguagem acessível e termos como "índice de rendimento acadêmico" sem traduzi-los para o público geral | 1,0 |
 | **Parcial** | A linguagem é predominantemente técnica ou o tom é excessivamente formal, o que dificulta a compreensão pelo público não especializado | O reel reproduz trechos do artigo científico sem adaptação, como se o público fosse pesquisador | 0,5 |
@@ -136,7 +166,7 @@ A nota será composta por:
 **Critério 3 — Qualidade visual e organizacional (0 a 1 ponto)**
 
 | Nível | Descrição | Exemplo | Pontuação |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | **Excelente** | Legendas inteligíveis e ou narração audível; elementos visuais apoiam o conteúdo; sequência com início, desenvolvimento e conclusão; duração entre 45 e 90 segundos | O reel tem narração clara, texto em tela com fonte legível, imagens que ilustram o dado e encerramento com chamada à reflexão, tudo dentro do tempo | 1,0 |
 | **Satisfatório** | Atende à maioria dos indicadores, com falha em apenas um: legibilidade, sequência ou duração fora do intervalo | O reel tem boa estrutura e narração, mas a duração é de 40 segundos ou a fonte do texto em tela é pequena demais para leitura confortável | 0,75 |
 | **Parcial** | Atende a apenas metade dos indicadores: falhas em legibilidade e organização comprometem a compreensão | O reel tem imagens e música, mas sem narração nem legendas, e a sequência não tem conclusão identificável | 0,5 |
@@ -147,7 +177,7 @@ A nota será composta por:
 **Critério 4 — Criatividade e capacidade de provocar reflexão (0 a 1 ponto)**
 
 | Nível | Descrição | Exemplo | Pontuação |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | **Excelente** | O reel usa recursos criativos — narrativa, analogia, contraste, pergunta provocativa — que engajam o público e estimulam reflexão além do dado apresentado | O reel abre com uma pergunta inesperada ("Você sabia que o Brasil tem mais igrejas do que escolas?"), apresenta o dado e a fonte, conecta com um problema social e encerra com convite à pesquisa e à reflexão | 1,0 |
 | **Satisfatório** | O reel tem algum elemento criativo ou provocativo, mas de forma discreta ou pouco desenvolvida | O reel encerra com uma frase reflexiva, mas o desenvolvimento é linear e sem recursos narrativos que ampliem o engajamento | 0,75 |
 | **Parcial** | O reel é funcional, mas convencional: apresenta o dado e encerra sem provocação ou elemento que diferencie o conteúdo | O reel mostra o dado, explica brevemente e encerra sem nenhuma conexão com o cotidiano do público ou chamada à reflexão | 0,5 |
@@ -158,7 +188,7 @@ A nota será composta por:
 **Critério 5 — Conexão com o projeto de pesquisa (0 a 1 ponto)**
 
 | Nível | Descrição | Exemplo | Pontuação |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | **Excelente** | O dado apresentado é diretamente extraído ou derivado do tema do projeto de pesquisa do aluno, e essa conexão é evidente no conteúdo | O aluno pesquisa sobre saúde mental universitária e apresenta dado sobre prevalência de ansiedade em estudantes de cursos noturnos, conectando com sua pergunta de investigação | 1,0 |
 | **Satisfatório** | O dado se relaciona com o tema geral do projeto de pesquisa, mas a conexão com a pergunta de investigação específica não é evidente | O aluno pesquisa sobre saúde mental universitária e apresenta dado sobre uso de redes sociais por jovens — relacionado ao tema, mas sem conexão clara com a pergunta | 0,75 |
 | **Parcial** | O dado tem relação tangencial com o tema do projeto de pesquisa: a conexão é forçada ou pouco justificada | O aluno pesquisa sobre energia solar e apresenta dado sobre desmatamento, argumentando que ambos se relacionam com meio ambiente | 0,5 |
@@ -173,7 +203,7 @@ A nota será composta por:
 **Critério 1 — Organização textual e coesão (0 a 1 ponto)**
 
 | Nível | Descrição | Exemplo | Pontuação |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | **Excelente** | Todas as seções são respondidas com frases claras, objetivas e sem ambiguidade; o leitor compreende imediatamente o que o aluno quis dizer | "Escolhi o dado sobre evasão universitária em cursos noturnos porque ele ilustra diretamente o problema que meu projeto investiga: a relação entre jornada de trabalho e desempenho acadêmico." | 1,0 |
 | **Satisfatório** | A escrita é majoritariamente clara, mas há trechos vagos ou imprecisos que exigem inferência do leitor | "Escolhi esse dado porque achei relevante e interessante para o público." | 0,75 |
 | **Parcial** | Várias seções apresentam frases ambíguas, incompletas ou de difícil compreensão, comprometendo a leitura do relatório | "O dado foi escolhido por ser importante. A mídia ficou boa e o processo foi tranquilo." | 0,5 |
@@ -184,7 +214,7 @@ A nota será composta por:
 **Critério 2 — Relevância e justificativa da escolha do conteúdo (0 a 1 ponto)**
 
 | Nível | Descrição | Exemplo | Pontuação |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | **Excelente** | O aluno justifica a escolha do dado com base em critérios explícitos de relevância científica ou social, e demonstra com clareza como ele se articula com o tema e a pergunta de investigação do projeto de pesquisa | "Escolhi o dado sobre prevalência de ansiedade em estudantes noturnos porque ele é central para minha pergunta de investigação. Além disso, é um dado pouco conhecido pelo público geral, o que justifica a divulgação." | 1,0 |
 | **Satisfatório** | O aluno justifica a escolha do dado, mas a conexão com o projeto de pesquisa é mencionada de forma superficial ou genérica | "Escolhi esse dado porque tem relação com meu tema, que é sobre saúde mental de estudantes. Achei que seria útil para o público." | 0,75 |
 | **Parcial** | O aluno descreve o dado escolhido, mas não justifica a escolha nem estabelece conexão clara com o projeto de pesquisa | "Usei um dado sobre ansiedade universitária que encontrei em um artigo." | 0,5 |
@@ -193,7 +223,7 @@ A nota será composta por:
 **Critério 3 — Qualidade da adaptação comunicativa (0 a 1 ponto)**
 
 | Nível | Descrição | Exemplo | Pontuação |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | **Excelente** | O aluno identifica decisões específicas de linguagem, imagem ou formato tomadas para tornar o conteúdo acessível ao público não especializado, e explica o raciocínio por trás de cada uma | "Evitei o termo 'prevalência' e usei 'quantos estudantes sofrem de ansiedade'. Escolhi cores neutras para não distrair do texto e usei fonte grande para facilitar a leitura em tela de celular." | 1,0 |
 | **Satisfatório** | O aluno menciona algumas decisões de adaptação, mas sem explicar o raciocínio ou sem detalhar as escolhas linguísticas e visuais | "Usei uma linguagem simples e imagens relacionadas ao tema para que ficasse mais fácil de entender." | 0,75 |
 | **Parcial** | O aluno menciona que adaptou o conteúdo, mas não descreve como nem por quê | "Tentei deixar o vídeo mais acessível para quem não é da área." | 0,5 |
@@ -204,7 +234,7 @@ A nota será composta por:
 *Avalia a seção "Reflexão sobre o processo".*
 
 | Nível | Descrição | Exemplo | Pontuação |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | **Excelente** | O aluno relata o processo de criação com consciência crítica: identifica dificuldades concretas, descreve como as superou e articula o que aprendeu sobre comunicação científica a partir da experiência | "A maior dificuldade foi condensar o dado em menos de 90 segundos sem perder precisão. Percebi que precisava escolher entre explicar a metodologia ou o resultado — e optei pelo resultado, porque é o que o público leigo consegue usar." | 1,0 |
 | **Satisfatório** | O aluno relata o processo e menciona algum aprendizado, mas sem aprofundar as dificuldades ou as decisões que as resolveram | "Foi difícil no começo, mas depois foi fluindo. Aprendi que é mais difícil explicar ciência para leigos do que parece." | 0,75 |
 | **Parcial** | O aluno descreve as etapas do processo de forma cronológica, sem reflexão sobre dificuldades ou aprendizados | "Primeiro pesquisei o dado, depois fiz o roteiro, editei no CapCut e enviei." | 0,5 |
@@ -212,24 +242,11 @@ A nota será composta por:
 
 <br/>
 
-::: subtitulo-nao-numerado
-Procedimento de submissão da mídia digital
-:::
-
-A mídia deve ser submetida exclusivamente por formulário próprio, disponível no link abaixo. O formulário solicitará o link do arquivo, os termos de consentimento e ineditismo, e as informações necessárias para a publicação. Certifique-se de que o link do arquivo está funcionando antes de enviar.
-
-::: destaque
-👉 [Acesse o formulário de submissão](https://docs.google.com/forms/d/e/1FAIpQLSfR2_iZ1JWsINB87r1LVFSulKIbetx68QdNoqALIGud0T4R8w/viewform?usp=dialog)
-:::
+-->
+```
 
 ::: subtitulo-nao-numerado
 ATENÇÃO
 :::
 
 O discente que não produzir a mídia não terá o direito de escrever o relatório.
-
-::: destaque
-👉 [Acesse o perfil \@neocomciencia no Instagram](https://www.instagram.com/neocomciencia/) para ver exemplos de divulgação científica voltados ao público jovem.
-
-<img src="img/qr_code_neocomciencia.png" style="width:70%; display: block; margin: auto;"/>
-:::

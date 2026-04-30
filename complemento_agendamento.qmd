@@ -126,38 +126,64 @@ Agendamento de horários para atendimento individualizado
         <option value="" disabled selected>Selecione um horário</option>
 
         <option value="Segunda | 08:00 | Online">Segunda | 08:00 | Online</option>
-        <option value="Segunda | 08:20 | Online">Segunda | 08:20 | Online</option>
-        <option value="Segunda | 08:40 | Online">Segunda | 08:40 | Online</option>
-        <option value="Segunda | 09:00 | Online">Segunda | 09:00 | Online</option>
-        <option value="Segunda | 09:40 | Online">Segunda | 09:40 | Online</option>
-        <option value="Segunda | 10:00 | Online">Segunda | 10:00 | Online</option>
-        <option value="Segunda | 10:20 | Online">Segunda | 10:20 | Online</option>
-        <option value="Segunda | 10:40 | Online">Segunda | 10:40 | Online</option>
+<option value="Segunda | 08:20 | Online">Segunda | 08:20 | Online</option>
+<option value="Segunda | 08:40 | Online">Segunda | 08:40 | Online</option>
+<option value="Segunda | 09:00 | Online">Segunda | 09:00 | Online</option>
+<option value="Segunda | 09:20 | Online">Segunda | 09:20 | Online</option>
+<option value="Segunda | 09:40 | Online">Segunda | 09:40 | Online</option>
+<option value="Segunda | 10:00 | Online">Segunda | 10:00 | Online</option>
+<option value="Segunda | 10:20 | Online">Segunda | 10:20 | Online</option>
+<option value="Segunda | 10:40 | Online">Segunda | 10:40 | Online</option>
+<option value="Segunda | 11:00 | Online">Segunda | 11:00 | Online</option>
+<option value="Segunda | 11:20 | Online">Segunda | 11:20 | Online</option>
 
-        <option value="Terça | 08:00 | Online">Terça | 08:00 | Online</option>
-        <option value="Terça | 08:20 | Online">Terça | 08:20 | Online</option>
-        <option value="Terça | 08:40 | Online">Terça | 08:40 | Online</option>
-        <option value="Terça | 09:00 | Online">Terça | 09:00 | Online</option>
-        <option value="Terça | 09:40 | Online">Terça | 09:40 | Online</option>
-        <option value="Terça | 10:00 | Online">Terça | 10:00 | Online</option>
-        <option value="Terça | 10:20 | Online">Terça | 10:20 | Online</option>
-        <option value="Terça | 10:40 | Online">Terça | 10:40 | Online</option>
+<option value="Terça | 08:00 | Online">Terça | 08:00 | Online</option>
+<option value="Terça | 08:20 | Online">Terça | 08:20 | Online</option>
+<option value="Terça | 08:40 | Online">Terça | 08:40 | Online</option>
+<option value="Terça | 09:00 | Online">Terça | 09:00 | Online</option>
+<option value="Terça | 09:20 | Online">Terça | 09:20 | Online</option>
+<option value="Terça | 09:40 | Online">Terça | 09:40 | Online</option>
+<option value="Terça | 10:00 | Online">Terça | 10:00 | Online</option>
+<option value="Terça | 10:20 | Online">Terça | 10:20 | Online</option>
+<option value="Terça | 10:40 | Online">Terça | 10:40 | Online</option>
 
-        <option value="Terça | 13:30 | Presencial">Terça | 13:30 | Presencial</option>
-        <option value="Terça | 13:50 | Presencial">Terça | 13:50 | Presencial</option>
-        <option value="Terça | 14:10 | Presencial">Terça | 14:10 | Presencial</option>
-        <option value="Terça | 14:30 | Presencial">Terça | 14:30 | Presencial</option>
-        <option value="Terça | 14:50 | Presencial">Terça | 14:50 | Presencial</option>
-        <option value="Terça | 15:40 | Presencial">Terça | 15:40 | Presencial</option>
-        <option value="Terça | 16:00 | Presencial">Terça | 16:00 | Presencial</option>
+<option value="Quarta | 08:00 | Online">Quarta | 08:00 | Online</option>
+<option value="Quarta | 08:20 | Online">Quarta | 08:20 | Online</option>
+<option value="Quarta | 08:40 | Online">Quarta | 08:40 | Online</option>
+<option value="Quarta | 09:00 | Online">Quarta | 09:00 | Online</option>
+<option value="Quarta | 09:20 | Online">Quarta | 09:20 | Online</option>
+<option value="Quarta | 09:40 | Online">Quarta | 09:40 | Online</option>
+<option value="Quarta | 10:00 | Online">Quarta | 10:00 | Online</option>
+<option value="Quarta | 10:20 | Online">Quarta | 10:20 | Online</option>
+<option value="Quarta | 10:40 | Online">Quarta | 10:40 | Online</option>
 
-        <option value="Quarta | 08:00 | Online">Quarta | 08:00 | Online</option>
-        <option value="Quarta | 08:20 | Online">Quarta | 08:20 | Online</option>
-        <option value="Quarta | 08:40 | Online">Quarta | 08:40 | Online</option>
-        <option value="Quarta | 09:40 | Online">Quarta | 09:40 | Online</option>
-        <option value="Quarta | 10:00 | Online">Quarta | 10:00 | Online</option>
-        <option value="Quarta | 10:20 | Online">Quarta | 10:20 | Online</option>
-        <option value="Quarta | 10:40 | Online">Quarta | 10:40 | Online</option>
+<option value="Quinta | 08:00 | Online">Quinta | 08:00 | Online</option>
+<option value="Quinta | 08:20 | Online">Quinta | 08:20 | Online</option>
+<option value="Quinta | 08:40 | Online">Quinta | 08:40 | Online</option>
+<option value="Quinta | 09:00 | Online">Quinta | 09:00 | Online</option>
+<option value="Quinta | 09:20 | Online">Quinta | 09:20 | Online</option>
+<option value="Quinta | 09:40 | Online">Quinta | 09:40 | Online</option>
+<option value="Quinta | 10:00 | Online">Quinta | 10:00 | Online</option>
+<option value="Quinta | 10:20 | Online">Quinta | 10:20 | Online</option>
+
+<option value="Quinta | 13:30 | Online">Quinta | 13:30 | Online</option>
+<option value="Quinta | 13:50 | Online">Quinta | 13:50 | Online</option>
+<option value="Quinta | 14:10 | Online">Quinta | 14:10 | Online</option>
+<option value="Quinta | 14:30 | Online">Quinta | 14:30 | Online</option>
+<option value="Quinta | 14:50 | Online">Quinta | 14:50 | Online</option>
+<option value="Quinta | 15:10 | Online">Quinta | 15:10 | Online</option>
+
+<option value="Sexta | 08:00 | Online">Sexta | 08:00 | Online</option>
+<option value="Sexta | 08:20 | Online">Sexta | 08:20 | Online</option>
+<option value="Sexta | 08:40 | Online">Sexta | 08:40 | Online</option>
+<option value="Sexta | 09:00 | Online">Sexta | 09:00 | Online</option>
+<option value="Sexta | 09:20 | Online">Sexta | 09:20 | Online</option>
+<option value="Sexta | 09:40 | Online">Sexta | 09:40 | Online</option>
+<option value="Sexta | 10:00 | Online">Sexta | 10:00 | Online</option>
+<option value="Sexta | 10:20 | Online">Sexta | 10:20 | Online</option>
+<option value="Sexta | 10:40 | Online">Sexta | 10:40 | Online</option>
+<option value="Sexta | 11:00 | Online">Sexta | 11:00 | Online</option>
+<option value="Sexta | 11:20 | Online">Sexta | 11:20 | Online</option>
       </select>
 
       <span class="ajuda">Atenção à modalidade de atendimento, que já está definida no próprio horário selecionado.</span>

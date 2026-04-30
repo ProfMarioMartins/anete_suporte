@@ -1,5 +1,5 @@
 ---
-title: "Como escrever a introdução de um artigo científico?"
+title: "Como se organiza a introdução de um artigo científico?"
 ---
 
 ::: nota-secundaria
@@ -302,7 +302,6 @@ document.getElementById("form-introducao-artigo").addEventListener("submit", asy
   }
 });
 </script>
-
 ```
 
 <br/><br/>
@@ -312,11 +311,11 @@ document.getElementById("form-introducao-artigo").addEventListener("submit", asy
 
 Para analisar uma introdução, pergunte sempre:
 
-1. Qual é o tema?
-2. Qual é o problema?
-3. Por que isso importa?
-4. O que o autor pretende fazer?
-5. O que já se sabe sobre o tema?
+1.  Qual é o tema?
+2.  Qual é o problema?
+3.  Por que isso importa?
+4.  O que o autor pretende fazer?
+5.  O que já se sabe sobre o tema?
 
 Se uma dessas respostas não estiver clara, a introdução apresenta fragilidades.
 :::
@@ -331,4 +330,6 @@ Se uma dessas respostas não estiver clara, a introdução apresenta fragilidade
 [Para a próxima aula:]{.proxima-aula-title}
 
 - **Leia** o texto **Abstract/Resumo acadêmico** (p. 151-162), capítulo do livro **Produção textual na universidade**, de Désirée Motta-Roth e Graciela Rabuske Hendges. A ser disponibilizado pelo professor. Disponível para download [aqui](https://drive.google.com/file/d/1bD6AMams-veABAE4Gugdvnj4YTuwEt8i/view?usp=sharing).
+
+**Gêneros acadêmicos** (p. 67–72), capítulo do livro *Leitura e escrita acadêmicas*, de Nádia Studzinski Estima de Castro e colaboradores. Disponível na Minha Biblioteca.
 :::
