@@ -96,11 +96,6 @@ Agendamento de horários para atendimento individualizado
     <strong>Agende um horário para receber orientação sobre o projeto de pesquisa</strong><br>
     Escolha apenas um horário. Em caso de dupla, basta um agendamento por dupla.
     <br><br>
-    <strong>Turnos:</strong><br>
-    Segunda pela manhã = online<br>
-    Terça pela manhã = online<br>
-    Terça à tarde = presencial<br>
-    Quarta pela manhã = online
   </div>
 
   <form id="agendamento-form">
