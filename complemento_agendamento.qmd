@@ -172,18 +172,6 @@ Agendamento de horários para atendimento individualizado
 <option value="Quinta | 14:30 | Online">Quinta | 14:30 | Online</option>
 <option value="Quinta | 14:50 | Online">Quinta | 14:50 | Online</option>
 <option value="Quinta | 15:10 | Online">Quinta | 15:10 | Online</option>
-
-<option value="Sexta | 08:00 | Online">Sexta | 08:00 | Online</option>
-<option value="Sexta | 08:20 | Online">Sexta | 08:20 | Online</option>
-<option value="Sexta | 08:40 | Online">Sexta | 08:40 | Online</option>
-<option value="Sexta | 09:00 | Online">Sexta | 09:00 | Online</option>
-<option value="Sexta | 09:20 | Online">Sexta | 09:20 | Online</option>
-<option value="Sexta | 09:40 | Online">Sexta | 09:40 | Online</option>
-<option value="Sexta | 10:00 | Online">Sexta | 10:00 | Online</option>
-<option value="Sexta | 10:20 | Online">Sexta | 10:20 | Online</option>
-<option value="Sexta | 10:40 | Online">Sexta | 10:40 | Online</option>
-<option value="Sexta | 11:00 | Online">Sexta | 11:00 | Online</option>
-<option value="Sexta | 11:20 | Online">Sexta | 11:20 | Online</option>
       </select>
 
       <span class="ajuda">Atenção à modalidade de atendimento, que já está definida no próprio horário selecionado.</span>
