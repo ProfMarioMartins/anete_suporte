@@ -42,9 +42,9 @@ book:
        - Aula_10_artigocientifico.qmd
        - Aula_11_introducaoartigo.qmd       
        - Aula_12_resumocientifico.qmd
-       - Aula_X_projeto.qmd       
-#      - Aula_13.qmd
+       - Aula_13_projeto.qmd       
 #      - Aula_14.qmd
+#      - Aula_15.qmd
 
 #   - part: "Unidade III"
 #      chapters:

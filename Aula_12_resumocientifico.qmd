@@ -29,29 +29,29 @@ Ao final deste encontro, espera-se que você seja capaz de:
 - constituem textos empiricamente realizados, cumprindo funções em situações comunicativas;
 - a sua nomeação abrange um conjunto aberto e praticamente ilimitado de designações concretas determinadas por canal, estilo, conteúdo, composição e função.
 - circulam em diferentes esferas discursivas
-    * **gêneros jornalísticos** (notícia, reportagem, editorial etc.)
-    * **gêneros literários** (crônica, conto, romance, poema etc.)
-    * **gêneros publicitários** (anúncio, propaganda etc.)
-    * **gêneros digitais** (post de rede social, blog etc.)
-    * **gêneros acadêmicos**<br/>
-      - artigo científico
-      - projeto de pesquisa
-      - tese (de doutorado)
-      - dissertação (de mestrado)
-      - trabalho de conclusão de curso (TCC)
-      - resumo
-      - resenha
-      - comunicação oral
+  - **gêneros jornalísticos** (notícia, reportagem, editorial etc.)
+  - **gêneros literários** (crônica, conto, romance, poema etc.)
+  - **gêneros publicitários** (anúncio, propaganda etc.)
+  - **gêneros digitais** (post de rede social, blog etc.)
+  - **gêneros acadêmicos**<br/>
+    - artigo científico
+    - projeto de pesquisa
+    - tese (de doutorado)
+    - dissertação (de mestrado)
+    - trabalho de conclusão de curso (TCC)
+    - resumo
+    - resenha
+    - comunicação oral
 
 <br/> Compreender o funcionamento dos gêneros textuais acadêmicos exige não apenas o reconhecimento de suas funções sociocomunicativas, mas também a análise de como essas funções se concretizam linguisticamente. É nesse ponto que entra o conceito de estrutura retórica.
 
 ::: citacao
-**Estrutura retórica** é a organização funcional de um gênero textual em movimentos retóricos recorrentes, orientados para o cumprimento de objetivos comunicativos específicos (Swales, 2004)[^aula_x_resumo-1].
+**Estrutura retórica** é a organização funcional de um gênero textual em movimentos retóricos recorrentes, orientados para o cumprimento de objetivos comunicativos específicos (Swales, 2004)[^aula_12_resumocientifico-1].
 
 Um **movimento retórico** é uma unidade discursiva que desempenha uma função comunicativa coerente dentro da estrutura retórica (Swales, 2004)
 :::
 
-[^aula_x_resumo-1]: SWALES, J. M. Research Genres Explorations and Applications. Cambridge: Cambridge University Press, 2004.
+[^aula_12_resumocientifico-1]: SWALES, J. M. Research Genres Explorations and Applications. Cambridge: Cambridge University Press, 2004.
 
 ::: imagem
 <img src="img/move_geral.png" alt="Práticas sociais" class="img-central"/>
@@ -144,7 +144,6 @@ kable(
   column_spec(2, width = "6em")
 ```
 
-
 <br/>
 
 ```{mermaid}
@@ -186,14 +185,13 @@ flowchart LR
   C5 --> C6["Aplicações"]
 ```
 
-
 ## Foco na leitura
 
 ::: subsubtitulo-nao-numerado
 Em que contextos se usa um resumo científico?
 :::
 
-::: destaque
+::::: destaque
 **Resumo como parte de um texto maior**
 
 O resumo integra um documento mais amplo, funcionando como guia de leitura.
@@ -216,7 +214,7 @@ O resumo circula de forma independente, isto é, sem o texto-fonte imediatamente
 ::: nota-secundaria
 Em chamadas para eventos científicos, é frequente que o resumo submetido seja o único material textual considerado para avaliação.
 :::
-:::
+:::::
 
 <br/>
 

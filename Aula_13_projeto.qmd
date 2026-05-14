@@ -1,0 +1,466 @@
+---
+title: "O que é um projeto de pesquisa?"
+---
+
+::: nota-secundaria
+Roteiro de aula elaborado no RStudio com o auxílio da inteligência artificial, revisado e avaliado pelo autor antes de sua publicação.
+:::
+
+## Contextualização
+
+Planejar uma pesquisa é **delimitar racionalmente** uma ideia de investigação.
+
+Ao final deste encontro, espera-se que você seja capaz de:
+
+- compreender a estrutura e as funções comunicativas de um projeto de pesquisa científico.
+
+::: leitura
+**Leitura indicada**
+
+**A elaboração do projeto** (p. 10–23), capítulo do livro *Guia do trabalho científico: do projeto à redação final*, de Celso Ferrarezi Jr. Disponível na Minha Biblioteca.
+:::
+
+::: destaque
+É muito importante que você mantenha um registro contínuo de anotações relacionadas ao seu futuro projeto de pesquisa.
+
+Anote:
+
+- possíveis delimitações ao seu tema;
+- diferentes formas de apresentar a pergunta de pesquisa;
+- objetivos;
+- autores importantes;
+- ideias de procedimentos de pesquisa;
+- justificativas;
+- dúvidas;
+
+Essas anotações servirão de base para a construção progressiva do seu projeto de pesquisa.
+:::
+
+::: titulo-nao-numerado
+Gêneros acadêmicos de planejamento
+:::
+
+Os textos que formalizam o planejamento de uma pesquisa são conhecidos como **gêneros de planejamento da pesquisa científica**.
+
+Os mais comuns são:
+
+- **Projeto de pesquisa**\
+  Documento argumentativo e detalhado, exigido em seleções de mestrado, doutorado e na fase inicial de trabalhos de conclusão de curso. Apresenta densidade teórica e metodológica e estrutura o percurso investigativo de modo sistemático.
+
+- **Plano de trabalho**\
+  Documento sintético e funcional, com finalidade administrativa, comumente solicitado em programas de iniciação científica. Resume as intenções do pesquisador, articulando metas, prazos e etapas sob supervisão institucional.
+
+::: enfase
+💡 *Embora distintos quanto à extensão e à finalidade, ambos seguem a mesma lógica: organizam-se em torno de um problema de pesquisa a ser investigado.*
+:::
+
+::: subtitulo-nao-numerado
+Projeto de pesquisa
+:::
+
+O projeto de pesquisa é um gênero textual que organiza, de forma sistemática e argumentativa, as etapas iniciais de uma investigação científica.
+
+É importante compreender que **não existe um único modelo universal de projeto de pesquisa**.
+
+O formato do projeto depende:
+
+- da área do conhecimento;
+- do curso;
+- da instituição;
+- do programa de pós-graduação;
+- do edital;
+- ou da finalidade da pesquisa.
+
+Alguns projetos exigem:
+
+- hipóteses;
+- revisão bibliográfica extensa;
+- detalhamento metodológico rigoroso;
+- cronogramas específicos;
+- produtos técnicos;
+- ou formatos mais sintéticos.
+
+Nesta disciplina, trabalharemos com **uma estrutura introdutória e didática**, voltada à aprendizagem dos principais elementos de um projeto acadêmico.
+
+## Leitura em foco
+
+::: titulo-nao-numerado
+Por que planejar?
+:::
+
+::: citacao
+A redação de um projeto é o ponto de partida para qualquer pesquisa planejada, pois é nesse momento que se define o **o quê**, **o como**, **o por quê** e **o para quê** da investigação. (Ferrarezi Jr., 2013, p. 145 – destaques meus)
+:::
+
+::: titulo-nao-numerado
+Elementos e funções
+:::
+
+| Elemento | Função |
+|------------------------------------|------------------------------------|
+| **Tema** | Delimita a área de interesse geral |
+| **Problema de pesquisa** | Define a lacuna ou questão a investigar |
+| **Justificativa** | Argumenta por que a pesquisa é relevante |
+| **Objetivos** | Indicam o que se quer alcançar |
+| **Hipóteses** (opcional) | Resposta provisória à pergunta de pesquisa |
+| **Referencial teórico** | Autores que sustentam o estudo |
+| **Metodologia** | Explica como será feita a pesquisa |
+| **Cronograma e referências** | Planejamento do tempo e da bibliografia |
+
+:::: destaque
+::: subtitulo-nao-numerado
+Planejar uma pesquisa é uma atividade complexa que desenvolve e exige:
+:::
+
+- **Leitura crítica** de artigos e livros da área;
+- **Formulação clara da pergunta de pesquisa**;
+- **Capacidade de síntese e organização de ideias**;
+- **Argumentação escrita com base em evidências**;
+- **Domínio de gêneros acadêmicos** e normas da ABNT;
+- **Competência para projetar etapas de execução**.
+::::
+
+## Aprendizagem prática
+
+Reflita (e registre!) sobre os principais elementos do seu projeto de pesquisa.
+
+:::: callout-note
+::: subsubtitulo-nao-numerado
+Escolha e delimitação do tema
+:::
+::::
+
+**Perguntas norteadoras para ajudar a delimitar o tema:**
+
+- Sobre o que quero pesquisar?
+- Em que contexto geográfico ou social ou recorte específico?
+- Qual aspecto específico desse tema desejo investigar?
+- A quais grupos, públicos ou contextos específicos minha pesquisa se refere?
+- Esse tema é viável dentro do tempo e dos recursos disponíveis?
+
+*Exemplo 1*\
+**Área de interesse**: "Leitura"
+
+→ **Tema**: "Leitura e formação do leitor"
+
+→ **Tema delimitado**: "Práticas de leitura literária entre adolescentes do ensino médio no semiárido potiguar"
+
+*Exemplo 2*\
+**Área de interesse**: "Tecnologia na educação"
+
+→ **Tema**: "Inteligência artificial e produção acadêmica"
+
+→ **Tema delimitado**: "Uso de ferramentas de inteligência artificial por estudantes de graduação em Letras no processo de escrita acadêmica"
+
+*Exemplo 3*\
+**Área de interesse**: "Violência no contexto escolar"
+
+→ **Tema**: "Violência verbal em ambientes escolares"
+
+→ **Tema delimitado**: "Percepções de professores do ensino fundamental sobre a violência verbal em sala de aula em escolas públicas urbanas no interior do RN"
+
+:::: callout-note
+::: subsubtitulo-nao-numerado
+Formulação da pergunta de pesquisa
+:::
+::::
+
+**Você precisa** construir uma questão clara que oriente a investigação.
+
+**Perguntas norteadoras:**
+
+- O que quero descobrir sobre esse tema?
+- Que dúvida, problema ou lacuna existe na literatura?
+- Minha pergunta é investigável (pode ser respondida por meio de pesquisa)?
+
+*Exemplo 1*\
+“Quais fatores influenciam o interesse pela leitura literária entre adolescentes de escolas públicas do semiárido potiguar?”
+
+*Exemplo 2* “Como os estudantes de graduação em Letras utilizam ferramentas de inteligência artificial no processo de escrita acadêmica?”
+
+*Exemplo 3*\
+“Como professores do ensino fundamental percebem e lidam com situações de violência verbal em sala de aula em escolas públicas urbanas do interior do RN?”
+
+::: callout-tip
+🎯 Problema de pesquisa e pergunta de pesquisa não são exatamente a mesma coisa.
+
+O **problema de pesquisa** é a situação, lacuna, dúvida ou tensão que justifica a investigação. Ele mostra o que ainda precisa ser compreendido, explicado ou analisado sobre determinado tema.
+
+A **pergunta de pesquisa** é a formulação interrogativa desse problema. Ela transforma a inquietação inicial em uma questão clara, delimitada e investigável.
+
+**Exemplo:**
+
+- **Problema:** ainda há pouca compreensão sobre como estudantes de graduação utilizam ferramentas de inteligência artificial no processo de escrita acadêmica.
+- **Pergunta:** como estudantes de graduação em Letras utilizam ferramentas de inteligência artificial no processo de escrita acadêmica?
+:::
+
+:::: callout-note
+::: subsubtitulo-nao-numerado
+Definição de objetivo
+:::
+::::
+
+**Você precisa** expressar, de forma ampla, o que se pretende alcançar com a pesquisa.
+
+**Perguntas norteadoras:**
+
+- O que desejo compreender, explicar ou analisar?
+
+- Como minha ação responde à pergunta formulada?
+
+::: callout-tip
+🎯 **Atenção**
+
+O objetivo geral de uma pesquisa deve ser:
+
+- único;
+- claro;
+- abrangente;
+- diretamente relacionado à pergunta de pesquisa.
+
+O projeto também inclui objetivos específicos, responsáveis por detalhar etapas menores da investigação.
+:::
+
+*Exemplo 1*\
+“Investigar os fatores que influenciam o interesse pela leitura literária entre adolescentes do ensino médio no semiárido potiguar.”
+
+*Exemplo 2*\
+“Analisar como estudantes de graduação em Letras utilizam ferramentas de inteligência artificial no processo de escrita acadêmica.”
+
+*Exemplo 3*\
+“Compreender as percepções de professores do ensino fundamental sobre a violência verbal em sala de aula e as estratégias utilizadas para enfrentá-la em escolas públicas urbanas do interior do RN.”
+
+:::: callout-note
+::: subsubtitulo-nao-numerado
+Formulação da hipótese
+:::
+::::
+
+Trata-se de **uma possível resposta** à pergunta de pesquisa.
+
+**Perguntas norteadoras:**
+
+- Que explicação inicial posso propor para o problema?
+- Que relação causal ou interpretativa posso prever?
+
+**Exemplo 1**\
+A baixa frequência de leitura literária entre adolescentes do ensino médio no semiárido potiguar está associada à ausência de mediação docente e à limitação de acesso a obras atualizadas.
+
+**Exemplo 2**\
+Estudantes de graduação em Letras que utilizam ferramentas de inteligência artificial para escrever textos acadêmicos tendem a recorrer a esses recursos principalmente para tarefas de organização e revisão linguística, e não para construção de conteúdo.
+
+**Exemplo 3**  Professores do ensino fundamental que enfrentam situações recorrentes de violência verbal em sala de aula desenvolvem estratégias mais baseadas na experiência prática do que em formação institucional voltada ao enfrentamento da indisciplina.
+
+:::: callout-note
+::: subsubtitulo-nao-numerado
+Justificativa
+:::
+::::
+
+**Você precisa** explicitar a relevância do estudo, suas motivações e contribuições potenciais.
+
+A justificativa responde à pergunta: **por que esta pesquisa merece ser realizada?**
+
+Ela deve mostrar:
+
+- a importância do tema;
+- a existência de uma lacuna, problema ou necessidade;
+- a relevância social, acadêmica, profissional ou pedagógica do estudo;
+- as possíveis contribuições da pesquisa.
+
+**Perguntas norteadoras:**
+
+- Por que essa pesquisa é importante?
+- A quem ela interessa?
+- Que lacuna pretende preencher?
+- Que benefícios, reflexões ou contribuições poderá gerar?
+- O tema tem relevância para a sociedade, para a escola, para a universidade ou para determinada área do conhecimento?
+
+*Exemplo 1*\
+A baixa frequência de leitura literária entre adolescentes do ensino médio no semiárido potiguar está associada à ausência de mediação docente e à limitação de acesso a obras atualizadas.
+
+*Exemplo 2*\
+Investigar o uso de IA por estudantes de Letras permite refletir sobre práticas acadêmicas atuais e orientar o uso crítico e ético dessas ferramentas na formação universitária.
+
+*Exemplo 3*\
+Compreender como professores lidam com a violência verbal pode subsidiar políticas de formação continuada e promover ambientes escolares mais seguros e dialogados.
+
+:::: callout-note
+::: subsubtitulo-nao-numerado
+Referencial teórico
+:::
+::::
+
+**Você precisa** indicar quais autores, conceitos e estudos ajudam a compreender o seu tema.
+
+O referencial teórico não é uma lista de autores soltos. Ele é a parte do projeto em que você mostra **com quais ideias sua pesquisa dialoga**.
+
+Em um projeto inicial, o referencial teórico pode apresentar:
+
+- autores principais da área;
+- conceitos importantes;
+- pesquisas já realizadas sobre o tema;
+- definições necessárias para compreender o problema;
+- debates relevantes para sustentar a investigação.
+
+**Perguntas norteadoras:**
+
+- Que autores ajudam a compreender meu tema?
+- Que conceitos são fundamentais para minha pesquisa?
+- Que estudos já foram feitos sobre esse problema?
+- O que preciso explicar teoricamente para que o leitor entenda minha investigação?
+- Minha pesquisa se aproxima de quais debates acadêmicos?
+
+*Exemplo 1*\
+Em uma pesquisa sobre leitura literária, o referencial teórico pode discutir conceitos como letramento literário, formação do leitor e mediação de leitura.
+
+Articulação teórica: Segundo Cosson (2014), o letramento literário envolve práticas de leitura que ultrapassam a simples decodificação textual e favorecem experiências de formação crítica do leitor. Já Rouxel (2013) defende que a experiência subjetiva do leitor deve ocupar papel central no ensino de literatura.
+
+*Exemplo 2*\
+Em uma pesquisa sobre IA e escrita acadêmica, o referencial teórico pode discutir autoria, letramento acadêmico, cultura digital, inteligência artificial generativa e ética na produção textual.
+
+Articulação teórica: Para Lévy (1999), as tecnologias digitais transformam profundamente as formas de produção e circulação do conhecimento. Em diálogo com essa perspectiva, Santaella (2023) argumenta que a inteligência artificial generativa amplia desafios relacionados à autoria e à produção textual em contextos educacionais.
+
+*Exemplo 3*\
+Em uma pesquisa sobre violência verbal na escola, o referencial teórico pode abordar convivência escolar, violência simbólica, indisciplina e relações professor-aluno.
+
+Articulação teórica: Charlot (2002) observa que conflitos escolares frequentemente refletem tensões sociais mais amplas presentes na relação dos sujeitos com a escola. Além disso, Abramovay (2005) destaca que a violência verbal pode afetar significativamente o clima escolar e as relações pedagógicas.
+
+::: callout-tip
+🎯 **Atenção**
+
+O referencial teórico é construído por meio do diálogo com outros autores.
+
+Em vez de apenas “citar autores”, o pesquisador precisa mostrar:
+
+- como os conceitos se relacionam;
+- em que perspectivas teóricas se apoia;
+- e como esses estudos ajudam a compreender o problema investigado.
+:::
+
+<br/><br/>
+
+:::: callout-note
+::: subsubtitulo-nao-numerado
+Metodologia
+:::
+::::
+
+**Você precisa** explicar como a pesquisa será realizada.
+
+A metodologia responde à pergunta: **como vou investigar meu problema de pesquisa?**
+
+Ela deve indicar:
+
+- o tipo de pesquisa;
+- o contexto em que será realizada;
+- os participantes ou materiais analisados;
+- os instrumentos de coleta de dados;
+- os procedimentos de análise;
+- os limites e cuidados da investigação.
+
+**Perguntas norteadoras:**
+
+- Minha pesquisa será bibliográfica, documental, de campo ou experimental?
+- O estudo será qualitativo, quantitativo ou misto?
+- Quem serão os participantes da pesquisa?
+- Onde a pesquisa será realizada?
+- Que dados serão coletados?
+- Como esses dados serão analisados?
+
+*Exemplo 1*\
+A pesquisa sobre leitura literária pode ser qualitativa, realizada com estudantes do ensino médio, por meio de questionário e entrevistas sobre práticas de leitura.
+
+*Exemplo 2*\
+A pesquisa sobre IA e escrita acadêmica pode analisar respostas de estudantes a um questionário e comparar relatos sobre usos de ferramentas de IA na produção textual.
+
+*Exemplo 3*\
+A pesquisa sobre violência verbal pode ser qualitativa, baseada em entrevistas com professores do ensino fundamental e análise temática dos relatos.
+
+::: callout-tip
+| Tipo de pesquisa | Quando costuma ser usada |
+|---|---|
+| **Bibliográfica** | Quando o foco é discutir autores, conceitos e estudos já publicados sobre determinado tema. |
+| **Documental** | Quando a pesquisa analisa documentos, leis, relatórios, registros institucionais, arquivos ou materiais oficiais. |
+| **Qualitativa** | Quando busca compreender percepções, experiências, sentidos, práticas sociais ou processos em profundidade. |
+| **Quantitativa** | Quando trabalha com dados numéricos, frequência, porcentagens, comparações estatísticas ou padrões mensuráveis. |
+| **Mista** | Quando combina dados qualitativos e quantitativos para compreender melhor o problema investigado. |
+| **Estudo de caso** | Quando investiga de forma aprofundada uma situação, turma, escola, grupo, projeto ou experiência específica. |
+| **Pesquisa de campo** | Quando envolve coleta direta de dados com pessoas, grupos ou instituições, por meio de entrevistas, questionários, observação ou outros instrumentos. |
+| **Pesquisa-ação** | Quando o pesquisador intervém em uma realidade concreta e analisa os efeitos dessa intervenção. |
+
+**Leitura complementar**
+
+Para aprofundar a compreensão sobre a elaboração de projetos de pesquisa, recomenda-se a leitura do livro *Como elaborar projetos de pesquisa*, de Antonio Carlos Gil. A obra apresenta, de forma clara e sistemática, etapas fundamentais da construção de um projeto, como formulação do problema, definição dos objetivos, escolha da metodologia e organização do cronograma.
+:::
+
+<br/><br/>
+
+:::: callout-note
+::: subsubtitulo-nao-numerado
+Cronograma
+:::
+::::
+
+**Você precisa** organizar as etapas da pesquisa no tempo.
+
+O cronograma mostra que a pesquisa é viável e que suas etapas foram planejadas.
+
+Ele pode incluir:
+
+- levantamento bibliográfico;
+- leitura e fichamento;
+- elaboração dos instrumentos de pesquisa;
+- coleta de dados;
+- análise dos dados;
+- escrita do texto;
+- revisão final;
+- entrega.
+
+**Perguntas norteadoras:**
+
+- Quais etapas preciso realizar?
+- Quanto tempo cada etapa exige?
+- Que etapas dependem de outras?
+- O cronograma é compatível com o prazo disponível?
+
+*Exemplo de cronograma simples:*
+
+| Etapa | Período previsto |
+|---|---|
+| Levantamento bibliográfico | Semana 1 |
+| Leitura e fichamento | Semanas 1 e 2 |
+| Elaboração dos instrumentos | Semana 3 |
+| Coleta de dados | Semana 4 |
+| Análise dos dados | Semana 5 |
+| Escrita do projeto ou relatório | Semana 6 |
+| Revisão e entrega | Semana 7 |
+
+<br/><br/>
+
+:::: callout-note
+::: subsubtitulo-nao-numerado
+Referências bibliográficas
+:::
+::::
+
+**Você precisa** listar as obras utilizadas na elaboração do projeto.
+
+As referências indicam os textos citados no projeto e demonstram o diálogo da pesquisa com estudos anteriores.
+
+Em geral, entram nas referências:
+
+- livros;
+- capítulos de livros;
+- artigos científicos;
+- documentos oficiais;
+- teses e dissertações;
+- materiais acadêmicos ou institucionais utilizados no projeto.
+
+::: callout-tip
+🎯 **Atenção**
+
+As referências devem seguir uma norma de apresentação. Nesta disciplina, utilizaremos como referência geral o padrão ABNT.
+
+Além disso, é importante lembrar: **só devem aparecer nas referências os textos efetivamente citados no projeto.**
+:::

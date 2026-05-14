@@ -48,9 +48,9 @@ Descrever o objetivo principal da proposta.
 Objetivos específicos
 :::
 
--   Objetivo 1
--   Objetivo 2
--   Objetivo 3
+- Objetivo 1
+- Objetivo 2
+- Objetivo 3
 
 ::: subtitulo-nao-numerado
 Metodologia
@@ -64,9 +64,9 @@ Habilidades a serem desenvolvidas
 
 Liste as competências que você pretende desenvolver:
 
--   Habilidade 1 (ex: análise de dados)
--   Habilidade 2 (ex: escrita acadêmica)
--   Habilidade 3 (ex: uso de ferramentas digitais)
+- Habilidade 1 (ex: análise de dados)
+- Habilidade 2 (ex: escrita acadêmica)
+- Habilidade 3 (ex: uso de ferramentas digitais)
 
 ::: subtitulo-nao-numerado
 Cronograma de atividades
