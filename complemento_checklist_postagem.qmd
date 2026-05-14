@@ -4,62 +4,62 @@ format: html
 ---
 
 ::: nota-secundaria
-Roteiro de aula elaborado no RStudio com o auxílio da inteligência artificial, revisado e avaliado pelo autor antes de sua publicação.
+Conteúdo elaborado no RStudio com o auxílio de chatbots de inteligência artificial, revisado e avaliado pelo professor antes de sua publicação.
 :::
 
-Para garantir que a sua mídia seja publicada com **qualidade, responsabilidade e impacto**, revise cada item com atenção:
+🎥📊 Você trabalhou com dedicação na sua mídia! Agora vamos garantir que ela será publicada com **qualidade, responsabilidade e impacto**. Antes de postar, revise cada item com atenção:
 
 ::: subtitulo-nao-numerado
 📌 Mensagem e dado científico
 :::
 
--   O **dado central** da postagem está correto, claro e relevante?
--   O conteúdo está **vinculado ao tema do seu projeto de pesquisa**?
--   A fonte foi indicada na descrição, com referência conforme **ABNT** e link confiável?
--   O conteúdo transmite **informação científica** de forma compreensível e precisa?
+- O **dado central** da postagem está correto, claro e relevante?
+- O conteúdo está **vinculado ao tema do seu plano de trabalho**?
+- A fonte foi indicada na legenda, com referência conforme **ABNT** ou link confiável?
+- O conteúdo transmite **informação científica** de forma compreensível e precisa?
 
 ::: subtitulo-nao-numerado
-📌 Descrição e tom da fala
+📌 Legenda e tom da fala
 :::
 
--   A descrição está clara, objetiva e **acessível ao público leigo**?
--   Há **coerência entre a descrição e a mídia** (o que se lê na descrição combina com o que se vê na mídia)?
--   A linguagem é **humana, autêntica e próxima**? (Ex.: uso de “eu”, “nós”, “minha experiência”)
--   Há **chamada à ação** ou reflexão no final? (Ex.: “E você, o que pensa?”, “Compartilhe com alguém”, “Vamos conversar sobre isso?”)
--   O tom evita sensacionalismo, promove **valores científicos** e desperta curiosidade?
+- A legenda está clara, objetiva e **acessível ao público leigo**?
+- Há **coerência entre a legenda e a mídia** (o que se lê combina com o que se vê)?
+- A linguagem é **humana, autêntica e próxima**? (Ex.: uso de “eu”, “nós”, “minha experiência”)
+- Há **chamada à ação** ou reflexão no final? (Ex.: “E você, o que pensa?”, “Compartilhe com alguém”, “Vamos conversar sobre isso?”)
+- O tom evita sensacionalismo, promove **valores científicos** e desperta curiosidade?
 
 ::: subtitulo-nao-numerado
 📌 Hashtags estratégicas
 :::
 
--   Incluiu as **hashtags obrigatórias**?\
-    `#Anete2025 #DivulgaçãoCientífica #Ufersa #NeocomCiencia`
--   Adicionou **hashtags relevantes** que ampliam o alcance?\
-    (Ex.: `#CiênciaParaTodos #Inovação #SaúdeMental #EnergiaLimpa`)
+- Incluiu as **hashtags obrigatórias**?\
+  `#Anete2025 #DivulgaçãoCientífica #Ufersa #NeocomCiencia`
+- Adicionou **hashtags relevantes** que ampliam o alcance?\
+  (Ex.: `#CiênciaParaTodos #Inovação #SaúdeMental #EnergiaLimpa`)
 
 ::: subtitulo-nao-numerado
 📌 Linguagem e clareza
 :::
 
--   O texto está **revisado** (ortografia, gramática, pontuação e acentuação)?
--   Evitou **jargões técnicos**? (Se usou termos técnicos, eles estão explicados de forma simples?)
--   A legenda utiliza **exemplos concretos ou comparações** que ajudam o público a entender?
+- O texto está **revisado** (ortografia, gramática, pontuação e acentuação)?
+- Evitou **jargões técnicos**? (Se usou termos técnicos, eles estão explicados de forma simples?)
+- A legenda utiliza **exemplos concretos ou comparações** que ajudam o público a entender?
 
 ::: subtitulo-nao-numerado
 📌 Aspectos visuais e narrativos
 :::
 
--   A mídia (vídeo ou carrossel) transmite uma **mensagem clara** ou uma pequena **história visual**?
--   A composição visual tem **harmonia, contraste e legibilidade**?
--   As cores, fontes e ícones usados são **agradáveis e facilitam a leitura rápida**?
--   Há **elemento humano** (como rosto ou voz) que ajude a **conectar com o público**?
+- A mídia (vídeo ou carrossel) transmite uma **mensagem clara** ou uma pequena **história visual**?
+- A composição visual tem **harmonia, contraste e legibilidade**?
+- As cores, fontes e ícones usados são **agradáveis e facilitam a leitura rápida**?
+- Há **elemento humano** (como rosto ou voz) que ajude a **conectar com o público**?
 
 ::: subtitulo-nao-numerado
 📌 Ética e responsabilidade
 :::
 
--   A postagem está alinhada com os **valores éticos da ciência e das redes sociais**?
--   Evita **conteúdos enganosos**, imagens manipuladas ou dados não verificados?
+- A postagem está alinhada com os **valores éticos da ciência e das redes sociais**?
+- Evita **conteúdos enganosos**, imagens manipuladas ou dados não verificados?
 
 ✅ **Se você marcou “sim” para todos os itens, sua mídia está pronta para ser publicada com excelência!**
 

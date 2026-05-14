@@ -3,8 +3,7 @@ title: "Relatório reflexivo de produção"
 ---
 
 ::: nota-secundaria
-Este relatório será preenchido em sala de aula no dia **11 de maio de 2026**.
-Consulte os [critérios de avaliação](avaliacao_segunda_2026_1.qmd) antes de começar.
+Este relatório será preenchido em sala de aula no dia **11 de maio de 2026**. Consulte os [critérios de avaliação](avaliacao_segunda_2026_1.qmd) antes de começar.
 :::
 
 ::: callout-tip
@@ -14,19 +13,14 @@ O relatório reflexivo tem quatro funções comunicativas:
 
 - **Documentar** o processo de criação da mídia;
 - **Justificar** a escolha do conteúdo divulgado;
-- **Analisar** criticamente as estratégias de adaptação da linguagem,
-  das imagens e do formato ao público não especializado;
-- **Refletir** sobre os aprendizados e desafios enfrentados durante a
-  atividade, promovendo consciência sobre suas próprias escolhas
-  comunicativas.
+- **Analisar** criticamente as estratégias de adaptação da linguagem, das imagens e do formato ao público não especializado;
+- **Refletir** sobre os aprendizados e desafios enfrentados durante a atividade, promovendo consciência sobre suas próprias escolhas comunicativas.
 
-Respostas vagas ou descritivas — que apenas relatam o que foi feito,
-sem explicar o porquê — não atendem aos critérios de avaliação.
+Respostas vagas ou descritivas — que apenas relatam o que foi feito, sem explicar o porquê — não atendem aos critérios de avaliação.
 :::
 
-
 ::: subtitulo-nao-numerado
-1. Escolha do conteúdo
+1.  Escolha do conteúdo
 :::
 
 Explique por que escolheu o dado ou a informação científica que aparece na sua mídia. Responda às perguntas abaixo:
@@ -36,36 +30,33 @@ Explique por que escolheu o dado ou a informação científica que aparece na su
 - De onde ele vem? Qual é a fonte?
 
 ::: subtitulo-nao-numerado
-2. Relação com o projeto de pesquisa
+2.  Relação com o projeto de pesquisa
 :::
 
 Descreva como o conteúdo divulgado se articula com o tema e a pergunta de investigação do seu projeto de pesquisa. Atenção: esta seção não deve repetir o que você escreveu na seção anterior — o foco aqui é a **conexão com sua pesquisa**, não a justificativa do dado em si.
 
 - Como o dado se relaciona com a sua pergunta de investigação?
-- Ele ilustra o problema que você está investigando, um achado
-  relevante ou uma lacuna que sua pesquisa pretende preencher?
+- Ele ilustra o problema que você está investigando, um achado relevante ou uma lacuna que sua pesquisa pretende preencher?
 
 ::: subtitulo-nao-numerado
-3. Adaptação para o público não especialista
+3.  Adaptação para o público não especialista
 :::
 
 Analise as decisões que você tomou para tornar o conteúdo acessível ao público geral. Vá além de descrever o que fez — explique **por que** essas escolhas tornam o conteúdo mais compreensível para esse público.
 
 - Que termos técnicos você evitou ou substituiu? Por quê?
-- Que escolhas visuais (cor, imagem, fonte, ritmo) você fez? Qual era
-  o efeito esperado?
+- Que escolhas visuais (cor, imagem, fonte, ritmo) você fez? Qual era o efeito esperado?
 - Como você equilibrou precisão científica e acessibilidade?
 
 ::: subtitulo-nao-numerado
-4. Reflexão sobre o processo
+4.  Reflexão sobre o processo
 :::
 
 Reflita criticamente sobre a experiência de produzir essa mídia. O foco não é descrever as etapas — é analisar o que você aprendeu a partir delas.
 
 - Que dificuldade concreta você enfrentou? Como a resolveu?
 - O que você faria de diferente se refizesse a mídia? Por quê?
-- O que essa experiência revelou sobre o desafio de comunicar ciência
-  para o público geral?
+- O que essa experiência revelou sobre o desafio de comunicar ciência para o público geral?
 
 ::: subtitulo-nao-numerado
 Referências

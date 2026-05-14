@@ -12,7 +12,7 @@ O projeto de pesquisa é um gênero textual que organiza, de forma sistemática 
 
 Ao final deste encontro, espera-se que você seja capaz de:
 
--   Compreender a estrutura e as funções comunicativas de um projeto científico.
+- Compreender a estrutura e as funções comunicativas de um projeto científico.
 
 ::: leitura
 **Leitura indicada**
@@ -32,12 +32,12 @@ A redação de um projeto é o ponto de partida para qualquer pesquisa planejada
 
 Planejar uma pesquisa é **delimitar racionalmente** uma ideia de investigação. Envolve:
 
--   Escolher um tema relevante;
--   Identificar um problema a ser investigado;
--   Justificar a importância do estudo;
--   Traçar objetivos claros;
--   Formular hipóteses (quando couber);
--   Definir métodos e técnicas para a coleta e análise de dados.
+- Escolher um tema relevante;
+- Identificar um problema a ser investigado;
+- Justificar a importância do estudo;
+- Traçar objetivos claros;
+- Formular hipóteses (quando couber);
+- Definir métodos e técnicas para a coleta e análise de dados.
 
 ::: titulo-nao-numerado
 Gêneros de planejamento
@@ -45,11 +45,11 @@ Gêneros de planejamento
 
 Os textos que formalizam esse planejamento são conhecidos como **gêneros de planejamento da pesquisa científica**. Os mais comuns são:
 
--   **Projeto de pesquisa**\
-    Documento argumentativo e detalhado, exigido em seleções de mestrado, doutorado e na fase inicial de trabalhos de conclusão de curso. Apresenta densidade teórica e metodológica e estrutura o percurso investigativo de modo sistemático.
+- **Projeto de pesquisa**\
+  Documento argumentativo e detalhado, exigido em seleções de mestrado, doutorado e na fase inicial de trabalhos de conclusão de curso. Apresenta densidade teórica e metodológica e estrutura o percurso investigativo de modo sistemático.
 
--   **Plano de trabalho**\
-    Documento sintético e funcional, com finalidade administrativa, comumente solicitado em programas de iniciação científica. Resume as intenções do pesquisador, articulando metas, prazos e etapas sob supervisão institucional.
+- **Plano de trabalho**\
+  Documento sintético e funcional, com finalidade administrativa, comumente solicitado em programas de iniciação científica. Resume as intenções do pesquisador, articulando metas, prazos e etapas sob supervisão institucional.
 
 ::: enfase
 💡 *Embora distintos quanto à extensão e à finalidade, ambos seguem a mesma lógica: organizam-se em torno de um problema de pesquisa a ser investigado.*
@@ -60,7 +60,7 @@ Elementos e funções
 :::
 
 | Elemento | Função |
-|----|----|
+|------------------------------------|------------------------------------|
 | **Tema** | Delimita a área de interesse geral |
 | **Problema de pesquisa** | Define a lacuna ou questão a investigar |
 | **Justificativa** | Argumenta por que a pesquisa é relevante |
@@ -75,12 +75,12 @@ Elementos e funções
 Planejar uma pesquisa é uma atividade complexa que desenvolve e exige:
 :::
 
--   **Leitura crítica** de artigos e livros da área;
--   **Formulação clara de perguntas científicas**;
--   **Capacidade de síntese e organização de ideias**;
--   **Argumentação escrita com base em evidências**;
--   **Domínio de gêneros acadêmicos** e normas da ABNT;
--   **Competência para projetar etapas de execução**.
+- **Leitura crítica** de artigos e livros da área;
+- **Formulação clara de perguntas científicas**;
+- **Capacidade de síntese e organização de ideias**;
+- **Argumentação escrita com base em evidências**;
+- **Domínio de gêneros acadêmicos** e normas da ABNT;
+- **Competência para projetar etapas de execução**.
 ::::
 
 ## Aprendizagem prática
@@ -99,11 +99,11 @@ Escolha e delimitação do tema
 
 **Perguntas norteadoras para ajudar a delimitar o tema:**
 
--   Sobre o que quero pesquisar?
--   Em que contexto geográfico ou social ou recorte específico?
--   Qual aspecto específico desse tema desejo investigar?
--   A quais grupos, públicos ou contextos específicos minha pesquisa se refere?
--   Esse tema é viável dentro do tempo e dos recursos disponíveis?
+- Sobre o que quero pesquisar?
+- Em que contexto geográfico ou social ou recorte específico?
+- Qual aspecto específico desse tema desejo investigar?
+- A quais grupos, públicos ou contextos específicos minha pesquisa se refere?
+- Esse tema é viável dentro do tempo e dos recursos disponíveis?
 
 *Exemplo 1*\
 Área de interesse: "Leitura" → Tema: "Leitura e formação do leitor" → Tema delimitado: "Práticas de leitura literária entre adolescentes do ensino médio no semiárido potiguar"
@@ -129,7 +129,7 @@ Como as perguntas norteadoras se refletem na delimitação do tema?
 Como as perguntas norteadoras se refletem na delimitação do tema?
 
 | **Perguntas norteadoras** | **Exemplo 1** | **Exemplo 2** | **Exemplo 3** |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | **Sobre o que quero pesquisar?** | Leitura | Inteligência artificial | Violência nas escolas |
 
 | **Em que contexto geográfico, social ou institucional?** \| Semiárido potiguar \| Ensino superior (cursos de Letras) \| Escolas públicas urbanas no interior do RN \|
@@ -154,9 +154,9 @@ Formulação da pergunta de pesquisa
 
 **Perguntas norteadoras:**
 
--   O que quero descobrir sobre esse tema?
--   Que dúvida, problema ou lacuna existe na literatura?
--   Minha pergunta é investigável (pode ser respondida por meio de pesquisa)?
+- O que quero descobrir sobre esse tema?
+- Que dúvida, problema ou lacuna existe na literatura?
+- Minha pergunta é investigável (pode ser respondida por meio de pesquisa)?
 
 *Exemplo 1*\
 “Quais fatores influenciam o interesse pela leitura literária entre adolescentes de escolas públicas do semiárido potiguar?”
@@ -203,8 +203,8 @@ Definição do objetivo geral
 
 **Perguntas norteadoras:**
 
--   O que desejo compreender, explicar ou analisar?
--   Como minha ação responde à pergunta formulada?
+- O que desejo compreender, explicar ou analisar?
+- Como minha ação responde à pergunta formulada?
 
 ::: callout-tip
 🎯 **Atenção**\
@@ -236,7 +236,7 @@ Como as perguntas norteadoras se refletem no objetivo geral?
 Como as perguntas norteadoras se refletem no objetivo geral?
 
 | **Objetivo geral** | **O que desejo compreender, explicar ou analisar?** |
-|----|----|
+|------------------------------------|------------------------------------|
 | *Exemplo 1*<br>Investigar os fatores que influenciam o interesse pela leitura literária entre adolescentes do ensino médio no semiárido potiguar | Fatores que afetam o interesse pela leitura literária entre adolescentes |
 | *Exemplo 2*<br>Analisar como estudantes de graduação em Letras utilizam ferramentas de inteligência artificial no processo de escrita acadêmica | Formas de utilização de ferramentas de IA no contexto da escrita acadêmica |
 | *Exemplo 3*<br>Compreender as percepções de professores do ensino fundamental sobre a violência verbal em sala de aula e as estratégias utilizadas para enfrentá-la em escolas públicas urbanas do interior do RN | Percepções docentes e estratégias de enfrentamento da violência verbal |
@@ -255,8 +255,8 @@ Formulação da hipótese
 
 **Perguntas norteadoras:**
 
--   Que explicação inicial posso propor para o problema?
--   Que relação causal ou interpretativa posso prever?
+- Que explicação inicial posso propor para o problema?
+- Que relação causal ou interpretativa posso prever?
 
 **Exemplo 1**\
 A baixa frequência de leitura literária entre adolescentes do ensino médio no semiárido potiguar está associada à ausência de mediação docente e à limitação de acesso a obras atualizadas.
@@ -281,7 +281,7 @@ Como as perguntas norteadoras se refletem na hipótese?
 Como as perguntas norteadoras se refletem na hipótese?
 
 | **Hipótese** | **Explicação inicial proposta** | **Relação causal ou interpretativa prevista** |
-|:---|:--:|:--:|
+|:-----------------------|:----------------------:|:----------------------:|
 | *Exemplo 1*<br>A baixa frequência de leitura literária entre adolescentes do ensino médio no semiárido potiguar está associada à ausência de mediação docente e à limitação de acesso a obras atualizadas. | A escassez de leitura decorre da falta de mediação e de acervo adequado. | A ausência de mediação e acesso causa o desinteresse pela leitura. |
 | *Exemplo 2*<br>Estudantes de Letras que utilizam IA na escrita acadêmica tendem a recorrer a esses recursos principalmente para organização e revisão linguística. | A IA é usada prioritariamente para tarefas técnicas, não criativas. | O tipo de uso da IA influencia o modo de produção textual dos estudantes. |
 | *Exemplo 3*<br>Professores do ensino fundamental que enfrentam violência verbal desenvolvem estratégias mais baseadas na experiência prática do que na formação institucional. | A formação docente é insuficiente para lidar com esse tipo de conflito. | A experiência direta leva ao desenvolvimento de estratégias empíricas. |
@@ -304,9 +304,9 @@ Redação da justificativa
 
 **Perguntas norteadoras:**
 
--   Por que essa pesquisa é importante?
--   A quem ela interessa? Que lacuna pretende preencher?
--   Que benefícios ou reflexões poderá gerar?
+- Por que essa pesquisa é importante?
+- A quem ela interessa? Que lacuna pretende preencher?
+- Que benefícios ou reflexões poderá gerar?
 
 *Exemplo 1*\
 A baixa frequência de leitura literária entre adolescentes do ensino médio no semiárido potiguar está associada à ausência de mediação docente e à limitação de acesso a obras atualizadas.
@@ -332,7 +332,7 @@ Como as perguntas norteadoras se refletem na justificativa?
 Como as perguntas norteadoras se refletem na justificativa
 
 | **Justificativa** | **Importância da pesquisa** | **Público-alvo ou lacuna** | **Benefícios ou reflexões geradas** |
-|:---|:--:|:--:|:--:|
+|:-----------------|:----------------:|:----------------:|:----------------:|
 | *Exemplo 1*<br>Compreender os fatores que afetam o interesse pela leitura literária pode auxiliar professores e gestores na criação de estratégias pedagógicas que fortaleçam o vínculo dos jovens com a literatura. | Contribui para o enfrentamento do desinteresse pela leitura na adolescência. | Professores e gestores escolares; lacuna sobre práticas de leitura em regiões específicas. | Incentivo à leitura e melhoria das práticas pedagógicas. |
 | *Exemplo 2*<br>Investigar o uso de IA por estudantes de Letras permite refletir sobre práticas acadêmicas atuais e orientar o uso crítico e ético dessas ferramentas na formação universitária. | Atualiza o debate sobre escrita acadêmica frente às novas tecnologias. | Estudantes, professores universitários e formadores; lacuna sobre usos reais da IA na graduação. | Reflexões sobre ensino, ética e inovação pedagógica. |
 | *Exemplo 3*<br>Compreender como professores lidam com a violência verbal pode subsidiar políticas de formação continuada e promover ambientes escolares mais seguros e dialogados. | Relevante diante da crescente violência nas escolas. | Professores e gestores escolares; lacuna na escuta qualificada de docentes. | Apoio à formação docente e à construção de estratégias institucionais. |
@@ -351,16 +351,16 @@ Registro
 
 Informe nos campos abaixo, além de seu nome, e-mail e turma, os seguintes elementos do seu projeto de pesquisa:
 
--   **Tema**
--   **Delimitação do tema**
--   **Pergunta de pesquisa**
--   **Objetivo geral**
--   **Hipótese**
+- **Tema**
+- **Delimitação do tema**
+- **Pergunta de pesquisa**
+- **Objetivo geral**
+- **Hipótese**
 
 <!-- Apontar para o complemento projeto de pesquisa -->
 
 ::: proxima-aula
 [Para a próxima aula:]{.proxima-aula-title}
 
--   **Leia** o texto **Artigo científico original e de revisão: a estrutura “Introdução, Método, Resultados e Discussão” (IMRD)** (p. 48–65), capítulo do livro *Redação de artigos científicos*, de João Bosco Medeiros e Carolina Tomasi. Disponível na Minha Biblioteca.
+- **Leia** o texto **Artigo científico original e de revisão: a estrutura “Introdução, Método, Resultados e Discussão” (IMRD)** (p. 48–65), capítulo do livro *Redação de artigos científicos*, de João Bosco Medeiros e Carolina Tomasi. Disponível na Minha Biblioteca.
 :::
