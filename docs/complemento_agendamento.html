@@ -380,88 +380,90 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Agendamento de horários para atendimento individualizado</p>
+<p>Agendamento de horários para encontros formativos</p>
 <div id="form-agendamentos" style="max-width: 900px; margin: auto; font-family: Arial, sans-serif; line-height: 1.5;">
-<style> #form-agendamentos { background-color: #eef5ff; padding: 24px; border-radius: 10px; }
+<style>
+    #form-agendamentos {
+      background-color: #eef5ff;
+      padding: 24px;
+      border-radius: 10px;
+    }
 
-```         
-#form-agendamentos fieldset {
-  border: 1px solid #c9d8f0;
-  background-color: #ffffff;
-  border-radius: 8px;
-  padding: 18px;
-  margin-bottom: 1.5rem;
-}
+    #form-agendamentos fieldset {
+      border: 1px solid #c9d8f0;
+      background-color: #ffffff;
+      border-radius: 8px;
+      padding: 18px;
+      margin-bottom: 1.5rem;
+    }
 
-#form-agendamentos legend {
-  font-weight: bold;
-  color: #243E6A;
-  font-size: 1.08em;
-  padding: 0 6px;
-}
+    #form-agendamentos legend {
+      font-weight: bold;
+      color: #243E6A;
+      font-size: 1.08em;
+      padding: 0 6px;
+    }
 
-#form-agendamentos label {
-  display: block;
-  margin-bottom: 0.35rem;
-  font-weight: bold;
-  color: #243E6A;
-}
+    #form-agendamentos label {
+      display: block;
+      margin-bottom: 0.35rem;
+      font-weight: bold;
+      color: #243E6A;
+    }
 
-#form-agendamentos input,
-#form-agendamentos select {
-  width: 100%;
-  padding: 10px;
-  margin-bottom: 1rem;
-  border: 1px solid #cfd8e3;
-  border-radius: 6px;
-  box-sizing: border-box;
-  font-size: 0.97em;
-  background-color: #fff;
-}
+    #form-agendamentos input,
+    #form-agendamentos select {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 1rem;
+      border: 1px solid #cfd8e3;
+      border-radius: 6px;
+      box-sizing: border-box;
+      font-size: 0.97em;
+      background-color: #fff;
+    }
 
-#form-agendamentos .ajuda {
-  display: block;
-  margin-top: -0.5rem;
-  margin-bottom: 1rem;
-  color: #555;
-  font-size: 0.93em;
-}
+    #form-agendamentos .ajuda {
+      display: block;
+      margin-top: -0.5rem;
+      margin-bottom: 1rem;
+      color: #555;
+      font-size: 0.93em;
+    }
 
-#form-agendamentos button {
-  background-color: #243E6A;
-  color: white;
-  padding: 13px 24px;
-  border: none;
-  border-radius: 8px;
-  font-size: 1em;
-  font-weight: bold;
-  cursor: pointer;
-}
+    #form-agendamentos button {
+      background-color: #243E6A;
+      color: white;
+      padding: 13px 24px;
+      border: none;
+      border-radius: 8px;
+      font-size: 1em;
+      font-weight: bold;
+      cursor: pointer;
+    }
 
-#form-agendamentos button:hover {
-  background-color: #1b2f4d;
-}
+    #form-agendamentos button:hover {
+      background-color: #1b2f4d;
+    }
 
-#mensagem-agendamento {
-  margin-top: 1rem;
-  text-align: center;
-  font-weight: bold;
-}
+    #mensagem-agendamento {
+      margin-top: 1rem;
+      text-align: center;
+      font-weight: bold;
+    }
 
-#form-agendamentos .bloco-info {
-  background-color: #f7fbff;
-  border-left: 4px solid #243E6A;
-  padding: 12px 14px;
-  border-radius: 6px;
-  margin-bottom: 1rem;
-  color: #333;
-  font-size: 0.95em;
-}
-```
-
-</style>
+    #form-agendamentos .bloco-info {
+      background-color: #f7fbff;
+      border-left: 4px solid #243E6A;
+      padding: 12px 14px;
+      border-radius: 6px;
+      margin-bottom: 1rem;
+      color: #333;
+      font-size: 0.95em;
+    }
+  </style>
 <h2 style="color:#243E6A; margin-top:0;" class="anchored">
-<p>Agendamentos</p>
+Agendamentos
 </h2>
 <div class="bloco-info">
 <pre><code>&lt;strong&gt;Agende um horário para receber orientação sobre o projeto de pesquisa&lt;/strong&gt;&lt;br&gt;
@@ -472,7 +474,8 @@ Segunda à tarde = online&lt;br&gt;
 Terça pela manhã = online&lt;br&gt;
 Terça à tarde = presencial&lt;br&gt;
 Quarta pela manhã = presencial&lt;br&gt;
-Quarta à tarde = online</code></pre>
+Quarta à tarde = online&lt;br&gt;
+Quarta à noite = online</code></pre>
 </div>
 <form id="agendamento-form">
 <pre><code>&lt;fieldset&gt;
@@ -548,7 +551,7 @@ Quarta à tarde = online</code></pre>
     &lt;option value="Quarta | 15:30 | Online"&gt;Quarta | 15:30 | Online&lt;/option&gt;
     &lt;option value="Quarta | 15:50 | Online"&gt;Quarta | 15:50 | Online&lt;/option&gt;
     &lt;option value="Quarta | 16:10 | Online"&gt;Quarta | 16:10 | Online&lt;/option&gt;
-    
+
     &lt;option value="Quarta | 20:00 | Online"&gt;Quarta | 20:00 | Online&lt;/option&gt;
     &lt;option value="Quarta | 20:20 | Online"&gt;Quarta | 20:20 | Online&lt;/option&gt;
     &lt;option value="Quarta | 20:40 | Online"&gt;Quarta | 20:40 | Online&lt;/option&gt;
