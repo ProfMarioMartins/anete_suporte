@@ -382,7 +382,8 @@ ul.task-list li input[type="checkbox"] {
 
 <p>Agendamento de horários para encontros formativos</p>
 <div id="form-agendamentos" style="max-width: 900px; margin: auto; font-family: Arial, sans-serif; line-height: 1.5;">
-<style>
+
+  <style>
     #form-agendamentos {
       background-color: #eef5ff;
       padding: 24px;
@@ -462,115 +463,117 @@ ul.task-list li input[type="checkbox"] {
       font-size: 0.95em;
     }
   </style>
-<h2 style="color:#243E6A; margin-top:0;" class="anchored">
-Agendamentos
-</h2>
-<div class="bloco-info">
-<pre><code>&lt;strong&gt;Agende um horário para receber orientação sobre o projeto de pesquisa&lt;/strong&gt;&lt;br&gt;
-Escolha apenas um horário. Em caso de dupla, basta um agendamento por dupla.
-&lt;br&gt;&lt;br&gt;
-&lt;strong&gt;Turnos:&lt;/strong&gt;&lt;br&gt;
-Segunda à tarde = online&lt;br&gt;
-Terça pela manhã = online&lt;br&gt;
-Terça à tarde = presencial&lt;br&gt;
-Quarta pela manhã = presencial&lt;br&gt;
-Quarta à tarde = online&lt;br&gt;
-Quarta à noite = online</code></pre>
+
+  <h2 style="color:#243E6A; margin-top:0;" class="anchored">Agendamentos</h2>
+
+  <div class="bloco-info">
+    <strong>Agende um horário para receber orientação sobre o projeto de pesquisa</strong><br>
+    Escolha apenas um horário. Em caso de dupla, basta um agendamento por dupla.
+    <br><br>
+    <strong>Turnos:</strong><br>
+    Segunda à tarde = online<br>
+    Terça pela manhã = online<br>
+    Terça à tarde = presencial<br>
+    Quarta pela manhã = presencial<br>
+    Quarta à tarde = online<br>
+    Quarta à noite = online
+  </div>
+
+  <form id="agendamento-form">
+
+    <fieldset>
+      <legend>Identificação</legend>
+
+      <label for="nome">Nome completo</label>
+      <input type="text" id="nome" name="nome" required="">
+
+      <label for="email">E-mail</label>
+      <input type="email" id="email" name="email" required="">
+
+      <label for="turma">Turma</label>
+      <input type="text" id="turma" name="turma" required="">
+    </fieldset>
+
+    <fieldset>
+      <legend>Escolha do horário</legend>
+
+      <label for="horario">Horários disponíveis</label>
+      <select id="horario" name="horario" required="">
+        <option value="" disabled="" selected="">Selecione um horário</option>
+
+        <option value="Segunda | 14:00 | Online">Segunda | 14:00 | Online</option>
+        <option value="Segunda | 14:20 | Online">Segunda | 14:20 | Online</option>
+        <option value="Segunda | 14:40 | Online">Segunda | 14:40 | Online</option>
+        <option value="Segunda | 15:00 | Online">Segunda | 15:00 | Online</option>
+        <option value="Segunda | 15:20 | Online">Segunda | 15:20 | Online</option>
+        <option value="Segunda | 15:40 | Online">Segunda | 15:40 | Online</option>
+        <option value="Segunda | 16:00 | Online">Segunda | 16:00 | Online</option>
+        <option value="Segunda | 16:20 | Online">Segunda | 16:20 | Online</option>
+        <option value="Segunda | 16:40 | Online">Segunda | 16:40 | Online</option>
+
+        <option value="Terça | 08:00 | Online">Terça | 08:00 | Online</option>
+        <option value="Terça | 08:20 | Online">Terça | 08:20 | Online</option>
+        <option value="Terça | 08:40 | Online">Terça | 08:40 | Online</option>
+        <option value="Terça | 09:00 | Online">Terça | 09:00 | Online</option>
+        <option value="Terça | 09:20 | Online">Terça | 09:20 | Online</option>
+        <option value="Terça | 09:40 | Online">Terça | 09:40 | Online</option>
+        <option value="Terça | 10:00 | Online">Terça | 10:00 | Online</option>
+        <option value="Terça | 10:20 | Online">Terça | 10:20 | Online</option>
+        <option value="Terça | 10:40 | Online">Terça | 10:40 | Online</option>
+        <option value="Terça | 11:00 | Online">Terça | 11:00 | Online</option>
+        <option value="Terça | 11:20 | Online">Terça | 11:20 | Online</option>
+
+        <option value="Terça | 13:30 | Presencial">Terça | 13:30 | Presencial</option>
+        <option value="Terça | 13:50 | Presencial">Terça | 13:50 | Presencial</option>
+        <option value="Terça | 14:10 | Presencial">Terça | 14:10 | Presencial</option>
+        <option value="Terça | 14:30 | Presencial">Terça | 14:30 | Presencial</option>
+        <option value="Terça | 14:50 | Presencial">Terça | 14:50 | Presencial</option>
+        <option value="Terça | 15:10 | Presencial">Terça | 15:10 | Presencial</option>
+        <option value="Terça | 15:30 | Presencial">Terça | 15:30 | Presencial</option>
+        <option value="Terça | 15:50 | Presencial">Terça | 15:50 | Presencial</option>
+        <option value="Terça | 16:10 | Presencial">Terça | 16:10 | Presencial</option>
+
+        <option value="Quarta | 08:00 | Presencial">Quarta | 08:00 | Presencial</option>
+        <option value="Quarta | 08:20 | Presencial">Quarta | 08:20 | Presencial</option>
+        <option value="Quarta | 08:40 | Presencial">Quarta | 08:40 | Presencial</option>
+        <option value="Quarta | 09:00 | Presencial">Quarta | 09:00 | Presencial</option>
+        <option value="Quarta | 09:20 | Presencial">Quarta | 09:20 | Presencial</option>
+        <option value="Quarta | 09:40 | Presencial">Quarta | 09:40 | Presencial</option>
+        <option value="Quarta | 10:00 | Presencial">Quarta | 10:00 | Presencial</option>
+        <option value="Quarta | 10:20 | Presencial">Quarta | 10:20 | Presencial</option>
+        <option value="Quarta | 10:40 | Presencial">Quarta | 10:40 | Presencial</option>
+        <option value="Quarta | 11:00 | Presencial">Quarta | 11:00 | Presencial</option>
+        <option value="Quarta | 11:20 | Presencial">Quarta | 11:20 | Presencial</option>
+
+        <option value="Quarta | 13:30 | Online">Quarta | 13:30 | Online</option>
+        <option value="Quarta | 13:50 | Online">Quarta | 13:50 | Online</option>
+        <option value="Quarta | 14:10 | Online">Quarta | 14:10 | Online</option>
+        <option value="Quarta | 14:30 | Online">Quarta | 14:30 | Online</option>
+        <option value="Quarta | 14:50 | Online">Quarta | 14:50 | Online</option>
+        <option value="Quarta | 15:10 | Online">Quarta | 15:10 | Online</option>
+        <option value="Quarta | 15:30 | Online">Quarta | 15:30 | Online</option>
+        <option value="Quarta | 15:50 | Online">Quarta | 15:50 | Online</option>
+        <option value="Quarta | 16:10 | Online">Quarta | 16:10 | Online</option>
+
+        <option value="Quarta | 20:00 | Online">Quarta | 20:00 | Online</option>
+        <option value="Quarta | 20:20 | Online">Quarta | 20:20 | Online</option>
+        <option value="Quarta | 20:40 | Online">Quarta | 20:40 | Online</option>
+        <option value="Quarta | 21:00 | Online">Quarta | 21:00 | Online</option>
+        <option value="Quarta | 21:20 | Online">Quarta | 21:20 | Online</option>
+        <option value="Quarta | 21:40 | Online">Quarta | 21:40 | Online</option>
+      </select>
+
+      <span class="ajuda">Atenção à modalidade de atendimento, que já está definida no próprio horário selecionado.</span>
+    </fieldset>
+
+    <div style="text-align:center;">
+      <button type="submit">Enviar agendamento</button>
+    </div>
+  </form>
+
+  <div id="mensagem-agendamento"></div>
 </div>
-<form id="agendamento-form">
-<pre><code>&lt;fieldset&gt;
-  &lt;legend&gt;Identificação&lt;/legend&gt;
 
-  &lt;label for="nome"&gt;Nome completo&lt;/label&gt;
-  &lt;input type="text" id="nome" name="nome" required&gt;
-
-  &lt;label for="email"&gt;E-mail&lt;/label&gt;
-  &lt;input type="email" id="email" name="email" required&gt;
-
-  &lt;label for="turma"&gt;Turma&lt;/label&gt;
-  &lt;input type="text" id="turma" name="turma" required&gt;
-&lt;/fieldset&gt;
-
-&lt;fieldset&gt;
-  &lt;legend&gt;Escolha do horário&lt;/legend&gt;
-
-  &lt;label for="horario"&gt;Horários disponíveis&lt;/label&gt;
-  &lt;select id="horario" name="horario" required&gt;
-    &lt;option value="" disabled selected&gt;Selecione um horário&lt;/option&gt;
-
-    &lt;option value="Segunda | 14:00 | Online"&gt;Segunda | 14:00 | Online&lt;/option&gt;
-    &lt;option value="Segunda | 14:20 | Online"&gt;Segunda | 14:20 | Online&lt;/option&gt;
-    &lt;option value="Segunda | 14:40 | Online"&gt;Segunda | 14:40 | Online&lt;/option&gt;
-    &lt;option value="Segunda | 15:00 | Online"&gt;Segunda | 15:00 | Online&lt;/option&gt;
-    &lt;option value="Segunda | 15:20 | Online"&gt;Segunda | 15:20 | Online&lt;/option&gt;
-    &lt;option value="Segunda | 15:40 | Online"&gt;Segunda | 15:40 | Online&lt;/option&gt;
-    &lt;option value="Segunda | 16:00 | Online"&gt;Segunda | 16:00 | Online&lt;/option&gt;
-    &lt;option value="Segunda | 16:20 | Online"&gt;Segunda | 16:20 | Online&lt;/option&gt;
-    &lt;option value="Segunda | 16:40 | Online"&gt;Segunda | 16:40 | Online&lt;/option&gt;
-
-    &lt;option value="Terça | 08:00 | Online"&gt;Terça | 08:00 | Online&lt;/option&gt;
-    &lt;option value="Terça | 08:20 | Online"&gt;Terça | 08:20 | Online&lt;/option&gt;
-    &lt;option value="Terça | 08:40 | Online"&gt;Terça | 08:40 | Online&lt;/option&gt;
-    &lt;option value="Terça | 09:00 | Online"&gt;Terça | 09:00 | Online&lt;/option&gt;
-    &lt;option value="Terça | 09:20 | Online"&gt;Terça | 09:20 | Online&lt;/option&gt;
-    &lt;option value="Terça | 09:40 | Online"&gt;Terça | 09:40 | Online&lt;/option&gt;
-    &lt;option value="Terça | 10:00 | Online"&gt;Terça | 10:00 | Online&lt;/option&gt;
-    &lt;option value="Terça | 10:20 | Online"&gt;Terça | 10:20 | Online&lt;/option&gt;
-    &lt;option value="Terça | 10:40 | Online"&gt;Terça | 10:40 | Online&lt;/option&gt;
-    &lt;option value="Terça | 11:00 | Online"&gt;Terça | 11:00 | Online&lt;/option&gt;
-    &lt;option value="Terça | 11:20 | Online"&gt;Terça | 11:20 | Online&lt;/option&gt;
-
-    &lt;option value="Terça | 13:30 | Presencial"&gt;Terça | 13:30 | Presencial&lt;/option&gt;
-    &lt;option value="Terça | 13:50 | Presencial"&gt;Terça | 13:50 | Presencial&lt;/option&gt;
-    &lt;option value="Terça | 14:10 | Presencial"&gt;Terça | 14:10 | Presencial&lt;/option&gt;
-    &lt;option value="Terça | 14:30 | Presencial"&gt;Terça | 14:30 | Presencial&lt;/option&gt;
-    &lt;option value="Terça | 14:50 | Presencial"&gt;Terça | 14:50 | Presencial&lt;/option&gt;
-    &lt;option value="Terça | 15:10 | Presencial"&gt;Terça | 15:10 | Presencial&lt;/option&gt;
-    &lt;option value="Terça | 15:30 | Presencial"&gt;Terça | 15:30 | Presencial&lt;/option&gt;
-    &lt;option value="Terça | 15:50 | Presencial"&gt;Terça | 15:50 | Presencial&lt;/option&gt;
-    &lt;option value="Terça | 16:10 | Presencial"&gt;Terça | 16:10 | Presencial&lt;/option&gt;
-
-    &lt;option value="Quarta | 08:00 | Presencial"&gt;Quarta | 08:00 | Presencial&lt;/option&gt;
-    &lt;option value="Quarta | 08:20 | Presencial"&gt;Quarta | 08:20 | Presencial&lt;/option&gt;
-    &lt;option value="Quarta | 08:40 | Presencial"&gt;Quarta | 08:40 | Presencial&lt;/option&gt;
-    &lt;option value="Quarta | 09:00 | Presencial"&gt;Quarta | 09:00 | Presencial&lt;/option&gt;
-    &lt;option value="Quarta | 09:20 | Presencial"&gt;Quarta | 09:20 | Presencial&lt;/option&gt;
-    &lt;option value="Quarta | 09:40 | Presencial"&gt;Quarta | 09:40 | Presencial&lt;/option&gt;
-    &lt;option value="Quarta | 10:00 | Presencial"&gt;Quarta | 10:00 | Presencial&lt;/option&gt;
-    &lt;option value="Quarta | 10:20 | Presencial"&gt;Quarta | 10:20 | Presencial&lt;/option&gt;
-    &lt;option value="Quarta | 10:40 | Presencial"&gt;Quarta | 10:40 | Presencial&lt;/option&gt;
-    &lt;option value="Quarta | 11:00 | Presencial"&gt;Quarta | 11:00 | Presencial&lt;/option&gt;
-    &lt;option value="Quarta | 11:20 | Presencial"&gt;Quarta | 11:20 | Presencial&lt;/option&gt;
-
-    &lt;option value="Quarta | 13:30 | Online"&gt;Quarta | 13:30 | Online&lt;/option&gt;
-    &lt;option value="Quarta | 13:50 | Online"&gt;Quarta | 13:50 | Online&lt;/option&gt;
-    &lt;option value="Quarta | 14:10 | Online"&gt;Quarta | 14:10 | Online&lt;/option&gt;
-    &lt;option value="Quarta | 14:30 | Online"&gt;Quarta | 14:30 | Online&lt;/option&gt;
-    &lt;option value="Quarta | 14:50 | Online"&gt;Quarta | 14:50 | Online&lt;/option&gt;
-    &lt;option value="Quarta | 15:10 | Online"&gt;Quarta | 15:10 | Online&lt;/option&gt;
-    &lt;option value="Quarta | 15:30 | Online"&gt;Quarta | 15:30 | Online&lt;/option&gt;
-    &lt;option value="Quarta | 15:50 | Online"&gt;Quarta | 15:50 | Online&lt;/option&gt;
-    &lt;option value="Quarta | 16:10 | Online"&gt;Quarta | 16:10 | Online&lt;/option&gt;
-
-    &lt;option value="Quarta | 20:00 | Online"&gt;Quarta | 20:00 | Online&lt;/option&gt;
-    &lt;option value="Quarta | 20:20 | Online"&gt;Quarta | 20:20 | Online&lt;/option&gt;
-    &lt;option value="Quarta | 20:40 | Online"&gt;Quarta | 20:40 | Online&lt;/option&gt;
-    &lt;option value="Quarta | 21:00 | Online"&gt;Quarta | 21:00 | Online&lt;/option&gt;
-    &lt;option value="Quarta | 21:20 | Online"&gt;Quarta | 21:20 | Online&lt;/option&gt;
-    &lt;option value="Quarta | 21:40 | Online"&gt;Quarta | 21:40 | Online&lt;/option&gt;
-  &lt;/select&gt;
-
-  &lt;span class="ajuda"&gt;Atenção à modalidade de atendimento, que já está definida no próprio horário selecionado.&lt;/span&gt;
-&lt;/fieldset&gt;
-
-&lt;div style="text-align:center;"&gt;
-  &lt;button type="submit"&gt;Enviar agendamento&lt;/button&gt;
-&lt;/div&gt;</code></pre>
-</form>
-<div id="mensagem-agendamento">
-
-</div>
-</div>
 <script>
 document.getElementById("agendamento-form").addEventListener("submit", function(e) {
   e.preventDefault();
