@@ -103,15 +103,11 @@ Ao final da descrição, incluir: - A **fonte do dado apresentado** em formato A
 Estrutura sugerida
 :::
 
-  - **1. Apresentação do dado:** com impacto visual ou verbal;
-  - **2. Explicação breve:** o que o dado significa e de onde vem;
-  - **3. Conexão com um problema social ou científico relevante;**
-  - **4. Conclusão provocativa ou inspiradora** (“Já parou para pensar nisso?”).
-  - **5. Deve conter ainda**:
-        - Narração clara e/ou legendas legíveis;
-        - Organização lógica e coerente;
-        - Elementos visuais e sonoros que ampliem a compreensão;
-        - Tom convidativo, instigante e respeitoso com o público.
+- **1. Apresentação do dado:** com impacto visual ou verbal;
+- **2. Explicação breve:** o que o dado significa e de onde vem;
+- **3. Conexão com um problema social ou científico relevante;**
+- **4. Conclusão provocativa ou inspiradora** (“Já parou para pensar nisso?”).
+- **5. Deve conter ainda**: - Narração clara e/ou legendas legíveis; - Organização lógica e coerente; - Elementos visuais e sonoros que ampliem a compreensão; - Tom convidativo, instigante e respeitoso com o público.
 
 ::: subtitulo-nao-numerado
 Relatório reflexivo de produção

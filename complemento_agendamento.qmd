@@ -2,189 +2,208 @@
 title: "Agenda"
 ---
 
-::: titulo-nao-numerado
 Agendamento de horários para atendimento individualizado
+
+::::: {#form-agendamentos style="max-width: 900px; margin: auto; font-family: Arial, sans-serif; line-height: 1.5;"}
+<style> #form-agendamentos { background-color: #eef5ff; padding: 24px; border-radius: 10px; }
+
+```         
+#form-agendamentos fieldset {
+  border: 1px solid #c9d8f0;
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding: 18px;
+  margin-bottom: 1.5rem;
+}
+
+#form-agendamentos legend {
+  font-weight: bold;
+  color: #243E6A;
+  font-size: 1.08em;
+  padding: 0 6px;
+}
+
+#form-agendamentos label {
+  display: block;
+  margin-bottom: 0.35rem;
+  font-weight: bold;
+  color: #243E6A;
+}
+
+#form-agendamentos input,
+#form-agendamentos select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 1rem;
+  border: 1px solid #cfd8e3;
+  border-radius: 6px;
+  box-sizing: border-box;
+  font-size: 0.97em;
+  background-color: #fff;
+}
+
+#form-agendamentos .ajuda {
+  display: block;
+  margin-top: -0.5rem;
+  margin-bottom: 1rem;
+  color: #555;
+  font-size: 0.93em;
+}
+
+#form-agendamentos button {
+  background-color: #243E6A;
+  color: white;
+  padding: 13px 24px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1em;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+#form-agendamentos button:hover {
+  background-color: #1b2f4d;
+}
+
+#mensagem-agendamento {
+  margin-top: 1rem;
+  text-align: center;
+  font-weight: bold;
+}
+
+#form-agendamentos .bloco-info {
+  background-color: #f7fbff;
+  border-left: 4px solid #243E6A;
+  padding: 12px 14px;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+  color: #333;
+  font-size: 0.95em;
+}
+```
+
+</style>
+
+<h2 style="color:#243E6A; margin-top:0;">
+
+Agendamentos
+
+</h2>
+
+::: bloco-info
+```         
+<strong>Agende um horário para receber orientação sobre o projeto de pesquisa</strong><br>
+Escolha apenas um horário. Em caso de dupla, basta um agendamento por dupla.
+<br><br>
+<strong>Turnos:</strong><br>
+Segunda à tarde = online<br>
+Terça pela manhã = online<br>
+Terça à tarde = presencial<br>
+Quarta pela manhã = presencial<br>
+Quarta à tarde = online
+```
 :::
 
-```{=html}
-<div id="form-agendamentos" style="max-width: 900px; margin: auto; font-family: Arial, sans-serif; line-height: 1.5;">
+<form id="agendamento-form">
 
-  <style>
-    #form-agendamentos {
-      background-color: #eef5ff;
-      padding: 24px;
-      border-radius: 10px;
-    }
+```         
+<fieldset>
+  <legend>Identificação</legend>
 
-    #form-agendamentos fieldset {
-      border: 1px solid #c9d8f0;
-      background-color: #ffffff;
-      border-radius: 8px;
-      padding: 18px;
-      margin-bottom: 1.5rem;
-    }
+  <label for="nome">Nome completo</label>
+  <input type="text" id="nome" name="nome" required>
 
-    #form-agendamentos legend {
-      font-weight: bold;
-      color: #243E6A;
-      font-size: 1.08em;
-      padding: 0 6px;
-    }
+  <label for="email">E-mail</label>
+  <input type="email" id="email" name="email" required>
 
-    #form-agendamentos label {
-      display: block;
-      margin-bottom: 0.35rem;
-      font-weight: bold;
-      color: #243E6A;
-    }
+  <label for="turma">Turma</label>
+  <input type="text" id="turma" name="turma" required>
+</fieldset>
 
-    #form-agendamentos input,
-    #form-agendamentos select {
-      width: 100%;
-      padding: 10px;
-      margin-bottom: 1rem;
-      border: 1px solid #cfd8e3;
-      border-radius: 6px;
-      box-sizing: border-box;
-      font-size: 0.97em;
-      background-color: #fff;
-    }
+<fieldset>
+  <legend>Escolha do horário</legend>
 
-    #form-agendamentos .ajuda {
-      display: block;
-      margin-top: -0.5rem;
-      margin-bottom: 1rem;
-      color: #555;
-      font-size: 0.93em;
-    }
+  <label for="horario">Horários disponíveis</label>
+  <select id="horario" name="horario" required>
+    <option value="" disabled selected>Selecione um horário</option>
 
-    #form-agendamentos button {
-      background-color: #243E6A;
-      color: white;
-      padding: 13px 24px;
-      border: none;
-      border-radius: 8px;
-      font-size: 1em;
-      font-weight: bold;
-      cursor: pointer;
-    }
+    <option value="Segunda | 14:00 | Online">Segunda | 14:00 | Online</option>
+    <option value="Segunda | 14:20 | Online">Segunda | 14:20 | Online</option>
+    <option value="Segunda | 14:40 | Online">Segunda | 14:40 | Online</option>
+    <option value="Segunda | 15:00 | Online">Segunda | 15:00 | Online</option>
+    <option value="Segunda | 15:20 | Online">Segunda | 15:20 | Online</option>
+    <option value="Segunda | 15:40 | Online">Segunda | 15:40 | Online</option>
+    <option value="Segunda | 16:00 | Online">Segunda | 16:00 | Online</option>
+    <option value="Segunda | 16:20 | Online">Segunda | 16:20 | Online</option>
+    <option value="Segunda | 16:40 | Online">Segunda | 16:40 | Online</option>
 
-    #form-agendamentos button:hover {
-      background-color: #1b2f4d;
-    }
+    <option value="Terça | 08:00 | Online">Terça | 08:00 | Online</option>
+    <option value="Terça | 08:20 | Online">Terça | 08:20 | Online</option>
+    <option value="Terça | 08:40 | Online">Terça | 08:40 | Online</option>
+    <option value="Terça | 09:00 | Online">Terça | 09:00 | Online</option>
+    <option value="Terça | 09:20 | Online">Terça | 09:20 | Online</option>
+    <option value="Terça | 09:40 | Online">Terça | 09:40 | Online</option>
+    <option value="Terça | 10:00 | Online">Terça | 10:00 | Online</option>
+    <option value="Terça | 10:20 | Online">Terça | 10:20 | Online</option>
+    <option value="Terça | 10:40 | Online">Terça | 10:40 | Online</option>
+    <option value="Terça | 11:00 | Online">Terça | 11:00 | Online</option>
+    <option value="Terça | 11:20 | Online">Terça | 11:20 | Online</option>
 
-    #mensagem-agendamento {
-      margin-top: 1rem;
-      text-align: center;
-      font-weight: bold;
-    }
+    <option value="Terça | 13:30 | Presencial">Terça | 13:30 | Presencial</option>
+    <option value="Terça | 13:50 | Presencial">Terça | 13:50 | Presencial</option>
+    <option value="Terça | 14:10 | Presencial">Terça | 14:10 | Presencial</option>
+    <option value="Terça | 14:30 | Presencial">Terça | 14:30 | Presencial</option>
+    <option value="Terça | 14:50 | Presencial">Terça | 14:50 | Presencial</option>
+    <option value="Terça | 15:10 | Presencial">Terça | 15:10 | Presencial</option>
+    <option value="Terça | 15:30 | Presencial">Terça | 15:30 | Presencial</option>
+    <option value="Terça | 15:50 | Presencial">Terça | 15:50 | Presencial</option>
+    <option value="Terça | 16:10 | Presencial">Terça | 16:10 | Presencial</option>
 
-    #form-agendamentos .bloco-info {
-      background-color: #f7fbff;
-      border-left: 4px solid #243E6A;
-      padding: 12px 14px;
-      border-radius: 6px;
-      margin-bottom: 1rem;
-      color: #333;
-      font-size: 0.95em;
-    }
-  </style>
+    <option value="Quarta | 08:00 | Presencial">Quarta | 08:00 | Presencial</option>
+    <option value="Quarta | 08:20 | Presencial">Quarta | 08:20 | Presencial</option>
+    <option value="Quarta | 08:40 | Presencial">Quarta | 08:40 | Presencial</option>
+    <option value="Quarta | 09:00 | Presencial">Quarta | 09:00 | Presencial</option>
+    <option value="Quarta | 09:20 | Presencial">Quarta | 09:20 | Presencial</option>
+    <option value="Quarta | 09:40 | Presencial">Quarta | 09:40 | Presencial</option>
+    <option value="Quarta | 10:00 | Presencial">Quarta | 10:00 | Presencial</option>
+    <option value="Quarta | 10:20 | Presencial">Quarta | 10:20 | Presencial</option>
+    <option value="Quarta | 10:40 | Presencial">Quarta | 10:40 | Presencial</option>
+    <option value="Quarta | 11:00 | Presencial">Quarta | 11:00 | Presencial</option>
+    <option value="Quarta | 11:20 | Presencial">Quarta | 11:20 | Presencial</option>
 
-  <h2 style="color:#243E6A; margin-top:0;">Agendamentos</h2>
+    <option value="Quarta | 13:30 | Online">Quarta | 13:30 | Online</option>
+    <option value="Quarta | 13:50 | Online">Quarta | 13:50 | Online</option>
+    <option value="Quarta | 14:10 | Online">Quarta | 14:10 | Online</option>
+    <option value="Quarta | 14:30 | Online">Quarta | 14:30 | Online</option>
+    <option value="Quarta | 14:50 | Online">Quarta | 14:50 | Online</option>
+    <option value="Quarta | 15:10 | Online">Quarta | 15:10 | Online</option>
+    <option value="Quarta | 15:30 | Online">Quarta | 15:30 | Online</option>
+    <option value="Quarta | 15:50 | Online">Quarta | 15:50 | Online</option>
+    <option value="Quarta | 16:10 | Online">Quarta | 16:10 | Online</option>
+    
+    <option value="Quarta | 20:00 | Online">Quarta | 20:00 | Online</option>
+    <option value="Quarta | 20:20 | Online">Quarta | 20:20 | Online</option>
+    <option value="Quarta | 20:40 | Online">Quarta | 20:40 | Online</option>
+    <option value="Quarta | 21:00 | Online">Quarta | 21:00 | Online</option>
+    <option value="Quarta | 21:20 | Online">Quarta | 21:20 | Online</option>
+    <option value="Quarta | 21:40 | Online">Quarta | 21:40 | Online</option>
+  </select>
 
-  <div class="bloco-info">
-    <strong>Agende um horário para receber orientação sobre o projeto de pesquisa</strong><br>
-    Escolha apenas um horário. Em caso de dupla, basta um agendamento por dupla.
-    <br><br>
-    <strong>Turnos:</strong><br>
-    Segunda pela manhã = online<br>
-    Terça pela manhã = online<br>
-    Terça à tarde = presencial<br>
-    Quarta pela manhã = online
-  </div>
+  <span class="ajuda">Atenção à modalidade de atendimento, que já está definida no próprio horário selecionado.</span>
+</fieldset>
 
-  <form id="agendamento-form">
-
-    <fieldset>
-      <legend>Identificação</legend>
-
-      <label for="nome">Nome completo</label>
-      <input type="text" id="nome" name="nome" required>
-
-      <label for="email">E-mail</label>
-      <input type="email" id="email" name="email" required>
-
-      <label for="turma">Turma</label>
-      <input type="text" id="turma" name="turma" required>
-    </fieldset>
-
-    <fieldset>
-      <legend>Escolha do horário</legend>
-
-      <label for="horario">Horários disponíveis nos dias 27, 28 e 29 de abril</label>
-      <select id="horario" name="horario" required>
-        <option value="" disabled selected>Selecione um horário</option>
-
-        <option value="Segunda | 08:00 | Online">Segunda | 08:00 | Online</option>
-<option value="Segunda | 08:20 | Online">Segunda | 08:20 | Online</option>
-<option value="Segunda | 08:40 | Online">Segunda | 08:40 | Online</option>
-<option value="Segunda | 09:00 | Online">Segunda | 09:00 | Online</option>
-<option value="Segunda | 09:20 | Online">Segunda | 09:20 | Online</option>
-<option value="Segunda | 09:40 | Online">Segunda | 09:40 | Online</option>
-<option value="Segunda | 10:00 | Online">Segunda | 10:00 | Online</option>
-<option value="Segunda | 10:20 | Online">Segunda | 10:20 | Online</option>
-<option value="Segunda | 10:40 | Online">Segunda | 10:40 | Online</option>
-<option value="Segunda | 11:00 | Online">Segunda | 11:00 | Online</option>
-<option value="Segunda | 11:20 | Online">Segunda | 11:20 | Online</option>
-
-<option value="Terça | 08:00 | Online">Terça | 08:00 | Online</option>
-<option value="Terça | 08:20 | Online">Terça | 08:20 | Online</option>
-<option value="Terça | 08:40 | Online">Terça | 08:40 | Online</option>
-<option value="Terça | 09:00 | Online">Terça | 09:00 | Online</option>
-<option value="Terça | 09:20 | Online">Terça | 09:20 | Online</option>
-<option value="Terça | 09:40 | Online">Terça | 09:40 | Online</option>
-<option value="Terça | 10:00 | Online">Terça | 10:00 | Online</option>
-<option value="Terça | 10:20 | Online">Terça | 10:20 | Online</option>
-<option value="Terça | 10:40 | Online">Terça | 10:40 | Online</option>
-
-<option value="Quarta | 08:00 | Online">Quarta | 08:00 | Online</option>
-<option value="Quarta | 08:20 | Online">Quarta | 08:20 | Online</option>
-<option value="Quarta | 08:40 | Online">Quarta | 08:40 | Online</option>
-<option value="Quarta | 09:00 | Online">Quarta | 09:00 | Online</option>
-<option value="Quarta | 09:20 | Online">Quarta | 09:20 | Online</option>
-<option value="Quarta | 09:40 | Online">Quarta | 09:40 | Online</option>
-<option value="Quarta | 10:00 | Online">Quarta | 10:00 | Online</option>
-<option value="Quarta | 10:20 | Online">Quarta | 10:20 | Online</option>
-<option value="Quarta | 10:40 | Online">Quarta | 10:40 | Online</option>
-
-<option value="Quinta | 08:00 | Online">Quinta | 08:00 | Online</option>
-<option value="Quinta | 08:20 | Online">Quinta | 08:20 | Online</option>
-<option value="Quinta | 08:40 | Online">Quinta | 08:40 | Online</option>
-<option value="Quinta | 09:00 | Online">Quinta | 09:00 | Online</option>
-<option value="Quinta | 09:20 | Online">Quinta | 09:20 | Online</option>
-<option value="Quinta | 09:40 | Online">Quinta | 09:40 | Online</option>
-<option value="Quinta | 10:00 | Online">Quinta | 10:00 | Online</option>
-<option value="Quinta | 10:20 | Online">Quinta | 10:20 | Online</option>
-
-<option value="Quinta | 13:30 | Online">Quinta | 13:30 | Online</option>
-<option value="Quinta | 13:50 | Online">Quinta | 13:50 | Online</option>
-<option value="Quinta | 14:10 | Online">Quinta | 14:10 | Online</option>
-<option value="Quinta | 14:30 | Online">Quinta | 14:30 | Online</option>
-<option value="Quinta | 14:50 | Online">Quinta | 14:50 | Online</option>
-<option value="Quinta | 15:10 | Online">Quinta | 15:10 | Online</option>
-      </select>
-
-      <span class="ajuda">Atenção à modalidade de atendimento, que já está definida no próprio horário selecionado.</span>
-    </fieldset>
-
-    <div style="text-align:center;">
-      <button type="submit">Enviar agendamento</button>
-    </div>
-  </form>
-
-  <div id="mensagem-agendamento"></div>
+<div style="text-align:center;">
+  <button type="submit">Enviar agendamento</button>
 </div>
+```
 
+</form>
+
+::: {#mensagem-agendamento}
+:::
+:::::
+
+```{=html}
 <script>
 document.getElementById("agendamento-form").addEventListener("submit", function(e) {
   e.preventDefault();

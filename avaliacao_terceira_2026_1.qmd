@@ -1,0 +1,426 @@
+---
+title: "3ª Avaliação"
+---
+
+::: nota-secundaria
+Esta avaliação será desenvolvida como um processo orientado de escrita acadêmica. O objetivo não é apenas entregar um projeto pronto ao final, mas construir progressivamente uma proposta de pesquisa, com leitura, planejamento, escrita, acompanhamento formativo, feedback e defesa oral.
+:::
+
+::: titulo-nao-numerado
+Apresentação
+:::
+
+A terceira avaliação da disciplina **Análise e Expressão Textual** será organizada em torno da elaboração de um **projeto de pesquisa**.
+
+O projeto será produzido por etapas, de modo que cada estudante ou dupla possa desenvolver, de forma gradual, as principais partes de uma proposta de investigação acadêmica.
+
+As etapas serão:
+
+- justificativa;
+- referencial teórico;
+- metodologia e cronograma;
+- introdução;
+- pitch de defesa do projeto.
+
+A avaliação valorizará tanto o **produto final** quanto o **processo de construção**. Isso significa que não será avaliado apenas o texto entregue ao final, mas também o percurso de elaboração: participação nos encontros formativos, demonstração de leitura, clareza das decisões tomadas, uso dos feedbacks e capacidade de defender oralmente a proposta.
+
+::: titulo-nao-numerado
+Funcionamento
+:::
+
+Cada etapa do projeto seguirá um ciclo de trabalho. A tarefa será apresentada em uma quinta-feira. Em seguida, haverá encontros formativos na segunda, terça e quarta-feira. Na quinta-feira seguinte, a etapa será inserida na plataforma e, sempre que possível, será feita uma síntese coletiva do feedback antes da apresentação da próxima tarefa.
+
+O ciclo será o seguinte:
+
+| Momento | Atividade | Finalidade |
+|---|---|---|
+| 1 | Apresentação da tarefa | Explicar a etapa, seus objetivos, seus critérios e o que deverá ser produzido |
+| 2 | Encontros formativos | Verificar estudo, leitura, apropriação dos conteúdos e desenvolvimento da proposta |
+| 3 | Inserção na plataforma | Registrar formalmente a produção da etapa |
+| 4 | Feedback | Receber devolutiva sobre a produção realizada |
+| 5 | Síntese coletiva e nova tarefa | Discutir dificuldades recorrentes e iniciar a etapa seguinte |
+
+::: importante
+Os encontros formativos fazem parte do processo avaliativo. Neles, serão feitas perguntas para verificar se os estudantes estão comprometidos com a produção do projeto, se realizaram leituras, se compreenderam a função da etapa em desenvolvimento e se conseguem explicar as decisões tomadas.
+:::
+
+::: subtitulo-nao-numerado
+Encontros formativos
+:::
+
+Os encontros formativos não são apenas momentos para “tirar dúvidas”. Eles são parte da avaliação porque permitem acompanhar o processo de elaboração do projeto. Durante esses encontros, serão feitas perguntas cujas respostas ajudarão a verificar o grau de apropriação do conteúdo e o compromisso com a produção do projeto.
+
+::: destaque
+Você deverá agendar previamente um horário para o encontro formativo ([clique aqui](complemento_agendamento.qmd)) e comparecer com materiais que evidenciem o andamento de sua produção, como anotações, leituras realizadas, versões preliminares do texto e dúvidas específicas. A falta de preparação poderá comprometer a avaliação do processo, uma vez que os encontros têm a finalidade de acompanhar o desenvolvimento efetivo do projeto de pesquisa.
+:::
+
+::: subtitulo-nao-numerado
+Cronograma
+:::
+
+| Data | Dia | Atividade | Etapa |
+|---|---|---|---|
+| 14/05 | Quinta-feira | Apresentação da tarefa da justificativa | Justificativa |
+| 18/05 | Segunda-feira | Encontros formativos | Justificativa |
+| 19/05 | Terça-feira | Encontros formativos | Justificativa |
+| 20/05 | Quarta-feira | Encontros formativos | Justificativa |
+| 21/05 | Quinta-feira | Inserção da justificativa na plataforma; síntese inicial do feedback, se possível; apresentação da próxima tarefa | Referencial teórico |
+| 25/05 | Segunda-feira | Encontros formativos | Referencial teórico |
+| 26/05 | Terça-feira | Encontros formativos | Referencial teórico |
+| 27/05 | Quarta-feira | Encontros formativos | Referencial teórico |
+| 28/05 | Quinta-feira | Inserção do referencial teórico na plataforma; síntese inicial do feedback, se possível; apresentação da próxima tarefa | Metodologia e cronograma |
+| 01/06 | Segunda-feira | Encontros formativos | Metodologia e cronograma |
+| 02/06 | Terça-feira | Encontros formativos | Metodologia e cronograma |
+| 03/06 | Quarta-feira | Encontros formativos | Metodologia e cronograma |
+| 04/06 | Quinta-feira | Inserção da metodologia e do cronograma na plataforma; síntese inicial do feedback, se possível; apresentação da próxima tarefa | Introdução |
+| 08/06 | Segunda-feira | Aula de organização da versão integrada do projeto e preparação da introdução | Introdução |
+| 11/06 | Quinta-feira | Inserção da introdução na plataforma; orientação final para o pitch de defesa | Introdução e pitch |
+| 15/06 | Segunda-feira | Pitch de defesa do projeto | Encerramento da avaliação |
+
+::: enfase
+A introdução será a única etapa escrita que não terá encontros formativos próprios. Ela será produzida após a justificativa, o referencial teórico, a metodologia e o cronograma, pois deverá integrar as decisões já tomadas ao longo do processo.
+:::
+
+::: titulo-nao-numerado
+Etapa 1: Justificativa
+:::
+
+::: subtitulo-nao-numerado
+Objetivo da etapa
+:::
+
+Nesta etapa, você deverá produzir a **justificativa** do projeto de pesquisa.
+
+A justificativa é a parte do projeto em que se explica por que o tema escolhido merece ser investigado, qual problema motiva a pesquisa, que relevância o estudo pode ter e de que modo ele se relaciona com conhecimentos já produzidos por outros autores.
+
+A justificativa não deve ser uma opinião pessoal. Ela precisa demonstrar que você começou a estudar o tema, identificou uma questão relevante e consegue relacionar sua proposta a leituras acadêmicas iniciais.
+
+::: subtitulo-nao-numerado
+Tarefa de escrita
+:::
+
+Produza uma justificativa de **300 a 500 palavras** que explique a importância do tema delimitado e da pergunta de pesquisa.
+
+O texto deve responder, de forma articulada, às seguintes questões:
+
+| Questão orientadora | O que deve ser demonstrado |
+|---|---|
+| Qual é o tema da pesquisa? | Apresentação do tema já delimitado |
+| Por que esse tema é importante? | Explicação da relevância social, científica, educacional, profissional ou cultural |
+| Que problema motiva a pesquisa? | Indicação de uma dificuldade, lacuna, necessidade, controvérsia ou situação investigável |
+| O que já se sabe sobre o tema? | Mobilização de ideias retiradas de leituras acadêmicas |
+| O que ainda precisa ser investigado? | Relação entre o problema identificado e a pergunta de pesquisa |
+| Quem pode se beneficiar da pesquisa? | Indicação de área, grupo, comunidade, instituição ou prática favorecida |
+
+::: subtitulo-nao-numerado
+Requisitos da justificativa
+:::
+
+| Item | Exigência |
+|---|---|
+| Extensão | 300 a 500 palavras |
+| Tema delimitado | Deve estar claro no texto |
+| Pergunta de pesquisa | Deve orientar a justificativa |
+| Referências | Pelo menos 2 referências relacionadas ao tema |
+| Uso das referências | Pelo menos 1 paráfrase ou 1 citação direta curta |
+| Linguagem | Clara, objetiva e adequada ao contexto acadêmico |
+| Autoria | O texto deve demonstrar elaboração própria |
+
+::: subtitulo-nao-numerado
+Estrutura recomendada
+:::
+
+Você pode organizar a justificativa em três parágrafos.
+
+No primeiro parágrafo, apresente o tema delimitado e explique por que ele merece ser estudado. Vá diretamente ao tema da pesquisa.
+
+No segundo parágrafo, apresente o problema, lacuna ou dificuldade que motiva a pesquisa. Nesse momento, mobilize pelo menos uma ideia retirada das leituras realizadas, por meio de paráfrase ou citação direta curta.
+
+No terceiro parágrafo, explique o que a pesquisa pode acrescentar, quem pode se beneficiar dela e como ela se relaciona com a pergunta de investigação.
+
+::: enfase
+Estas instruções serão atualizadas conforme o processo de produção do projeto de pesquisa avançar.
+:::
+
+<!--
+
+# Etapa 2: Referencial teórico
+
+## Objetivo da etapa
+
+Nesta etapa, você deverá produzir uma primeira versão do **referencial teórico** do projeto.
+
+O referencial teórico é a parte em que se apresentam os principais conceitos, autores e estudos que ajudam a compreender o problema de pesquisa.
+
+O objetivo não é reunir citações soltas nem fazer um resumo isolado de textos. O referencial teórico deve mostrar como as leituras realizadas ajudam a fundamentar a pergunta de pesquisa e a orientar a investigação.
+
+## Tarefa de escrita
+
+Produza um texto inicial de referencial teórico em que você apresente os principais conceitos e autores relacionados ao seu tema de pesquisa.
+
+O texto deve responder, de forma articulada, às seguintes questões:
+
+| Questão orientadora | O que deve ser demonstrado |
+|---|---|
+| Quais conceitos são importantes para compreender o tema? | Identificação dos conceitos centrais da pesquisa |
+| Que autores ou estudos ajudam a discutir o problema? | Seleção de referências acadêmicas pertinentes |
+| O que esses autores afirmam sobre o tema? | Compreensão das ideias principais das leituras |
+| Como essas ideias se relacionam com sua pergunta de pesquisa? | Articulação entre teoria e problema |
+| Que perspectiva teórica orientará o projeto? | Definição inicial do ponto de vista teórico adotado |
+
+## Requisitos do referencial teórico
+
+| Item | Exigência |
+|---|---|
+| Extensão | 500 a 800 palavras |
+| Referências acadêmicas | Pelo menos 3 referências relacionadas ao tema |
+| Conceitos centrais | Apresentação de pelo menos 2 conceitos importantes para a pesquisa |
+| Uso das fontes | Paráfrases e/ou citações diretas curtas articuladas ao texto |
+| Articulação | Relação clara entre autores, conceitos e pergunta de pesquisa |
+| Linguagem | Registro acadêmico, claro e objetivo |
+
+## Estrutura recomendada
+
+Você pode organizar o referencial teórico em três partes.
+
+Na primeira parte, apresente o campo geral da discussão e os conceitos fundamentais para compreender o tema.
+
+Na segunda parte, discuta as contribuições dos autores lidos, explicando como eles ajudam a compreender o problema de pesquisa.
+
+Na terceira parte, explicite como esse conjunto de leituras sustenta sua pergunta de investigação e prepara a etapa metodológica do projeto.
+
+## O que evitar
+
+No referencial teórico, evite:
+
+- listar autores sem explicar sua contribuição;
+- inserir citações sem comentário;
+- fazer apenas resumo de textos;
+- usar fontes não acadêmicas sem justificativa;
+- apresentar conceitos que não se relacionam com a pergunta de pesquisa;
+- copiar trechos extensos de textos sem paráfrase ou análise.
+
+## Datas da etapa
+
+| Data | Atividade |
+|---|---|
+| 21/05 | Apresentação da tarefa do referencial teórico |
+| 25/05, 26/05 e 27/05 | Encontros formativos |
+| 28/05 | Inserção do referencial teórico na plataforma |
+
+# Etapa 3: Metodologia e cronograma
+
+## Objetivo da etapa
+
+Nesta etapa, você deverá produzir a **metodologia** e o **cronograma** do projeto.
+
+A metodologia é a parte em que se explica como a pesquisa será realizada. O cronograma, por sua vez, organiza as etapas da investigação ao longo do tempo.
+
+A metodologia deve estar diretamente relacionada à pergunta de pesquisa, aos objetivos e ao referencial teórico. Não basta dizer que a pesquisa será “bibliográfica” ou “qualitativa”; é necessário explicar quais materiais serão analisados, que procedimentos serão adotados e como esses procedimentos permitirão responder à pergunta de pesquisa.
+
+## Tarefa de escrita
+
+Produza a seção de metodologia do projeto e apresente um cronograma simples de execução da pesquisa.
+
+A metodologia deve responder, de forma articulada, às seguintes questões:
+
+| Questão orientadora | O que deve ser demonstrado |
+|---|---|
+| Que tipo de pesquisa será realizada? | Indicação da abordagem: bibliográfica, documental, qualitativa, quantitativa, estudo de caso, análise textual, entre outras |
+| Qual será o objeto de análise? | Definição do material, corpus, documentos, textos, dados, participantes ou situação investigada |
+| Como os dados serão obtidos ou selecionados? | Explicação dos critérios de escolha do material |
+| Como os dados serão analisados? | Apresentação dos procedimentos de análise |
+| Como a metodologia ajuda a responder à pergunta de pesquisa? | Coerência entre pergunta, objetivos e procedimentos |
+| Quais serão as etapas da pesquisa? | Organização do cronograma |
+
+## Requisitos da metodologia
+
+| Item | Exigência |
+|---|---|
+| Extensão | 400 a 700 palavras |
+| Tipo de pesquisa | Indicação e explicação da abordagem adotada |
+| Objeto ou corpus | Definição do que será analisado |
+| Procedimentos | Explicação de como a pesquisa será conduzida |
+| Coerência | Relação clara com pergunta, objetivos e referencial teórico |
+| Cronograma | Apresentação das principais etapas da pesquisa |
+| Linguagem | Registro acadêmico, claro e objetivo |
+
+## Estrutura recomendada
+
+Você pode organizar a metodologia em quatro partes.
+
+Na primeira parte, indique o tipo de pesquisa e explique por que essa abordagem é adequada ao seu problema.
+
+Na segunda parte, apresente o objeto de análise, corpus, documentos, textos, participantes ou situação que será investigada.
+
+Na terceira parte, explique os procedimentos de coleta, seleção, organização e análise dos dados.
+
+Na quarta parte, apresente o cronograma, indicando as principais etapas previstas para a realização da pesquisa.
+
+## Modelo simples de cronograma
+
+| Etapa | Período previsto |
+|---|---|
+| Levantamento bibliográfico |  |
+| Leitura e fichamento das referências |  |
+| Seleção do corpus, documentos ou dados |  |
+| Organização do material de análise |  |
+| Análise dos dados |  |
+| Redação do trabalho |  |
+| Revisão final |  |
+
+## O que evitar
+
+Na metodologia, evite:
+
+- apresentar procedimentos vagos;
+- afirmar apenas que a pesquisa será “qualitativa”, sem explicar como será realizada;
+- propor uma metodologia incompatível com a pergunta de pesquisa;
+- indicar corpus ou dados impossíveis de acessar;
+- confundir objetivo com procedimento;
+- elaborar cronograma sem relação com as etapas reais da pesquisa.
+
+## Datas da etapa
+
+| Data | Atividade |
+|---|---|
+| 28/05 | Apresentação da tarefa de metodologia e cronograma |
+| 01/06, 02/06 e 03/06 | Encontros formativos |
+| 04/06 | Inserção da metodologia e do cronograma na plataforma |
+
+# Etapa 4: Introdução
+
+## Objetivo da etapa
+
+Nesta etapa, você deverá produzir a **introdução** do projeto de pesquisa.
+
+Embora a introdução apareça no início do projeto, ela será escrita como última etapa, porque deve apresentar uma visão integrada da proposta. Para escrever uma boa introdução, é necessário já ter clareza sobre o tema delimitado, o problema, o objetivo, a justificativa, o referencial teórico, a metodologia e as contribuições esperadas.
+
+## Tarefa de escrita
+
+Produza a introdução do projeto de pesquisa, apresentando de forma clara e articulada:
+
+| Elemento | O que deve ser apresentado |
+|---|---|
+| Tema delimitado | O recorte específico da pesquisa |
+| Problema de pesquisa | A questão, dificuldade ou lacuna que motiva o estudo |
+| Objetivo geral | O que a pesquisa pretende alcançar |
+| Resultados previstos | O que se espera compreender, demonstrar, analisar ou produzir |
+| Contribuições esperadas | A relevância acadêmica, social, educacional, profissional ou institucional da pesquisa |
+| Organização do projeto | Breve indicação das partes que compõem a proposta |
+
+## Requisitos da introdução
+
+| Item | Exigência |
+|---|---|
+| Extensão | 400 a 700 palavras |
+| Tema delimitado | Deve aparecer de modo claro e preciso |
+| Problema de pesquisa | Deve estar formulado de maneira compreensível |
+| Objetivo geral | Deve estar diretamente relacionado ao problema |
+| Resultados previstos | Devem ser plausíveis e coerentes com a proposta |
+| Contribuições | Devem explicitar a relevância da pesquisa |
+| Integração | O texto deve articular as partes já produzidas |
+
+## Estrutura recomendada
+
+Você pode organizar a introdução em quatro movimentos.
+
+No primeiro movimento, apresente o tema delimitado e situe o leitor no campo da pesquisa.
+
+No segundo movimento, apresente o problema de pesquisa e explique por que ele merece investigação.
+
+No terceiro movimento, apresente o objetivo geral e indique os resultados previstos.
+
+No quarto movimento, explicite as contribuições esperadas e apresente brevemente a organização do projeto.
+
+## Datas da etapa
+
+| Data | Atividade |
+|---|---|
+| 04/06 | Apresentação da tarefa da introdução |
+| 08/06 | Aula de organização da versão integrada do projeto e preparação da introdução |
+| 11/06 | Inserção da introdução na plataforma e orientação final para o pitch |
+
+::: observacao
+A etapa da introdução não terá encontros formativos próprios. Ela será produzida a partir das partes já desenvolvidas anteriormente e da aula de organização da versão integrada do projeto.
+:::
+
+# Etapa 5: Pitch de defesa do projeto
+
+## Objetivo da etapa
+
+O **pitch de defesa do projeto** será o último momento da disciplina. Trata-se de uma apresentação oral breve, na qual cada estudante ou dupla deverá defender a relevância, a coerência e a viabilidade da proposta de pesquisa.
+
+O objetivo do pitch não é apenas “apresentar um trabalho”, mas demonstrar domínio sobre o projeto construído ao longo da avaliação.
+
+## Tarefa oral
+
+Prepare uma apresentação breve do projeto de pesquisa, contemplando os seguintes pontos:
+
+| Parte do pitch | Conteúdo esperado |
+|---|---|
+| Tema | O que será pesquisado |
+| Problema | Por que essa pesquisa é necessária |
+| Objetivo | O que a pesquisa pretende alcançar |
+| Justificativa | Por que o tema é relevante |
+| Fundamentação | Que autores ou conceitos sustentam a proposta |
+| Metodologia | Como a pesquisa será realizada |
+| Resultados previstos | O que se espera compreender, demonstrar ou produzir |
+| Contribuições | Qual é a importância da pesquisa |
+
+## Critérios do pitch
+
+No pitch, serão observados:
+
+| Critério | O que será avaliado |
+|---|---|
+| Clareza | A apresentação permite compreender a proposta |
+| Síntese | As informações são apresentadas de modo objetivo |
+| Domínio | O estudante demonstra conhecer o próprio projeto |
+| Coerência | Tema, problema, objetivo, teoria e metodologia estão articulados |
+| Defesa da relevância | A apresentação mostra por que a pesquisa importa |
+| Postura acadêmica | A fala é adequada ao contexto universitário |
+
+## Data do pitch
+
+| Data | Atividade |
+|---|---|
+| 15/06 | Pitch de defesa do projeto e encerramento da terceira avaliação |
+
+# Critérios gerais de avaliação
+
+A terceira avaliação considerará tanto o texto produzido quanto o processo de construção do projeto.
+
+| Critério | O que será observado |
+|---|---|
+| Participação no processo | Presença e preparação nos encontros formativos |
+| Apropriação dos conteúdos | Capacidade de explicar as partes do projeto e suas funções |
+| Compromisso com a produção | Demonstração de leitura, estudo e desenvolvimento progressivo |
+| Clareza da proposta | Definição adequada de tema, pergunta, problema e objetivo |
+| Coerência interna | Relação entre justificativa, referencial teórico, metodologia, cronograma e introdução |
+| Uso de referências | Mobilização pertinente de fontes acadêmicas |
+| Escrita acadêmica | Clareza, organização, objetividade e adequação ao gênero |
+| Reescrita | Capacidade de revisar o texto a partir dos feedbacks recebidos |
+| Autoria | Demonstração de elaboração própria e tomada de decisões |
+| Defesa oral | Capacidade de apresentar e defender o projeto no pitch |
+
+::: importante
+A avaliação dará atenção especial ao percurso de construção do projeto. Por isso, versões preliminares, participação nos encontros, respostas às perguntas formativas, inserções na plataforma, uso dos feedbacks e apresentação final serão considerados evidências de aprendizagem.
+:::
+
+# Síntese
+
+Ao final do processo, cada estudante ou dupla deverá ter construído um projeto de pesquisa composto por:
+
+- introdução;
+- justificativa;
+- referencial teórico;
+- metodologia;
+- cronograma;
+- pitch de defesa.
+
+::: nota-secundaria
+O projeto de pesquisa não nasce pronto. Ele é construído por aproximações sucessivas: escolha, delimitação, leitura, escrita, conversa, feedback, reescrita e defesa. Por isso, esta avaliação valoriza o processo tanto quanto o produto.
+:::
+
+-->

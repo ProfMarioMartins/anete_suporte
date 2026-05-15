@@ -96,16 +96,16 @@ A redação de um projeto é o ponto de partida para qualquer pesquisa planejada
 Elementos e funções
 :::
 
-| Elemento | Função |
+| Elemento                     | Função                                     |
 |------------------------------------|------------------------------------|
-| **Tema** | Delimita a área de interesse geral |
-| **Problema de pesquisa** | Define a lacuna ou questão a investigar |
-| **Justificativa** | Argumenta por que a pesquisa é relevante |
-| **Objetivos** | Indicam o que se quer alcançar |
-| **Hipóteses** (opcional) | Resposta provisória à pergunta de pesquisa |
-| **Referencial teórico** | Autores que sustentam o estudo |
-| **Metodologia** | Explica como será feita a pesquisa |
-| **Cronograma e referências** | Planejamento do tempo e da bibliografia |
+| **Tema**                     | Delimita a área de interesse geral         |
+| **Problema de pesquisa**     | Define a lacuna ou questão a investigar    |
+| **Justificativa**            | Argumenta por que a pesquisa é relevante   |
+| **Objetivos**                | Indicam o que se quer alcançar             |
+| **Hipóteses** (opcional)     | Resposta provisória à pergunta de pesquisa |
+| **Referencial teórico**      | Autores que sustentam o estudo             |
+| **Metodologia**              | Explica como será feita a pesquisa         |
+| **Cronograma e referências** | Planejamento do tempo e da bibliografia    |
 
 :::: destaque
 ::: subtitulo-nao-numerado
@@ -379,7 +379,7 @@ A pesquisa sobre violência verbal pode ser qualitativa, baseada em entrevistas 
 
 ::: callout-tip
 | Tipo de pesquisa | Quando costuma ser usada |
-|---|---|
+|------------------------------------|------------------------------------|
 | **Bibliográfica** | Quando o foco é discutir autores, conceitos e estudos já publicados sobre determinado tema. |
 | **Documental** | Quando a pesquisa analisa documentos, leis, relatórios, registros institucionais, arquivos ou materiais oficiais. |
 | **Qualitativa** | Quando busca compreender percepções, experiências, sentidos, práticas sociais ou processos em profundidade. |
@@ -426,15 +426,15 @@ Ele pode incluir:
 
 *Exemplo de cronograma simples:*
 
-| Etapa | Período previsto |
-|---|---|
-| Levantamento bibliográfico | Semana 1 |
-| Leitura e fichamento | Semanas 1 e 2 |
-| Elaboração dos instrumentos | Semana 3 |
-| Coleta de dados | Semana 4 |
-| Análise dos dados | Semana 5 |
-| Escrita do projeto ou relatório | Semana 6 |
-| Revisão e entrega | Semana 7 |
+| Etapa                           | Período previsto |
+|---------------------------------|------------------|
+| Levantamento bibliográfico      | Semana 1         |
+| Leitura e fichamento            | Semanas 1 e 2    |
+| Elaboração dos instrumentos     | Semana 3         |
+| Coleta de dados                 | Semana 4         |
+| Análise dos dados               | Semana 5         |
+| Escrita do projeto ou relatório | Semana 6         |
+| Revisão e entrega               | Semana 7         |
 
 <br/><br/>
 

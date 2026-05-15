@@ -65,13 +65,14 @@ book:
 #      - modelo_plano.qmd
        - modelo_relatorio.qmd
        - modelo_video.qmd
+       - modelo_projetopesquisa.qmd
 #      - modelo_carrossel.qmd
 
     - part: "Avaliações"
       chapters:
 #      - 1_Avaliacao.qmd
        - avaliacao_segunda_2026_1.qmd
-#      - 3_Avaliacao.qmd
+       - avaliacao_terceira_2026_1.qmd
 
     - part: "Complementos"
       chapters:
