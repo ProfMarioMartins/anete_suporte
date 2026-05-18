@@ -154,8 +154,6 @@ Agendamento de horários para encontros formativos
         <option value="Terça | 14:50 | Presencial">Terça | 14:50 | Presencial</option>
         <option value="Terça | 15:10 | Presencial">Terça | 15:10 | Presencial</option>
         <option value="Terça | 15:30 | Presencial">Terça | 15:30 | Presencial</option>
-        <option value="Terça | 15:50 | Presencial">Terça | 15:50 | Presencial</option>
-        <option value="Terça | 16:10 | Presencial">Terça | 16:10 | Presencial</option>
 
         <option value="Quarta | 08:00 | Presencial">Quarta | 08:00 | Presencial</option>
         <option value="Quarta | 08:20 | Presencial">Quarta | 08:20 | Presencial</option>
