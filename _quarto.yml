@@ -42,15 +42,15 @@ book:
        - Aula_10_artigocientifico.qmd
        - Aula_11_introducaoartigo.qmd       
        - Aula_12_resumocientifico.qmd
-       - Aula_13_projeto.qmd       
+       - Aula_13_projetopesquisa.qmd       
 #      - Aula_14.qmd
-#      - Aula_15.qmd
 
-#   - part: "Unidade III"
-#      chapters:
-#      - Aula_15.qmd
-#      - Aula_16.qmd
-#      - part: "Tutoriais"
+    - part: "Unidade III"
+      chapters:
+       - Aula_15_justificativa.qmd
+       - Aula_16_referencial.qmd
+#      - Aula_17_metodologia.qmd
+#      - Aula_14.qmd
 
     - part: "Tutoriais"
       chapters:

@@ -1,0 +1,338 @@
+---
+title: "Como enquadrar teoricamente um tema de pesquisa?"
+---
+
+::: nota-secundaria
+Roteiro de aula elaborado no RStudio com o auxílio da inteligência artificial, revisado e avaliado pelo autor antes de sua publicação.
+:::
+
+## Contextualização
+
+Nesta aula, vamos estudar como uma pesquisa é **enquadrada teoricamente**, isto é, como um tema passa a ser compreendido a partir de ideias, conceitos, teorias, autores e estudos já existentes.
+
+Esse enquadramento aparece, em muitos gêneros acadêmicos, em uma seção chamada **referencial teórico**, **fundamentação teórica**, **base teórica**, **revisão teórica** ou, em alguns casos, **revisão de literatura**. Artigos científicos, monografias, dissertações, teses, relatórios de pesquisa e projetos de pesquisa podem apresentar uma seção desse tipo, embora com extensão, profundidade e função diferentes em cada gênero.
+
+Ao final desta aula, espera-se que você seja capaz de:
+
+- compreender a função do referencial teórico em diferentes gêneros acadêmicos, especialmente no projeto de pesquisa, reconhecendo como autores, conceitos, teorias e estudos ajudam a fundamentar o problema investigado e a orientar as escolhas metodológicas.
+
+::: leitura
+**Leitura indicada**
+
+**Referencial teórico** (p. 55–64), capítulo do livro *Guia do trabalho científico: do projeto à redação final*, de Celso Ferrarezi Jr. Disponível na Minha Biblioteca.
+:::
+
+## Leitura em foco
+
+Em uma pesquisa científica, não partimos apenas de impressões pessoais. Partimos de um tema, de um problema, de uma pergunta e de leituras que nos ajudam a compreender melhor aquilo que pretendemos investigar.
+
+O referencial teórico é a seção em que essas leituras aparecem de forma organizada. Ele mostra ao leitor **de onde o pesquisador está partindo**, com quais ideias dialoga e que conceitos ajudam a compreender o problema investigado.
+
+::: callout-note
+**Para refletir**
+
+Quando um pesquisador afirma “quero pesquisar o uso de inteligência artificial na escrita acadêmica”, o que esse pesquisador precisa estudar antes de começar a pesquisa?
+:::
+
+::: {style="background-color:#f0f7ff; color:#1f2933; padding: 1.5em; border-radius: 8px; font-size: 1.1em; line-height: 1.6;"}
+**Diferentes gêneros, diferentes funções**
+
+O referencial teórico pode aparecer em diferentes gêneros acadêmicos. Porém, ele não funciona exatamente da mesma forma em todos eles.
+
+| Gênero acadêmico | Como o referencial teórico costuma funcionar |
+|---|---|
+| Projeto de pesquisa | Apresenta o ponto de partida teórico da investigação |
+| Artigo científico | Fundamenta a análise desenvolvida no texto |
+| Monografia | Sustenta teoricamente o problema, a metodologia e a análise |
+| Dissertação | Apresenta discussão mais aprofundada do campo teórico |
+| Tese | Desenvolve uma fundamentação ampla, crítica e original |
+| Relatório de pesquisa | Explica as bases teóricas usadas para interpretar os resultados |
+
+<br/>
+
+No caso específico do **projeto de pesquisa**, o referencial teórico é **preliminar**. Isso significa que ele apresenta o ponto de partida teórico da investigação, mas não precisa esgotar toda a discussão sobre o tema. Ao longo da pesquisa, novas leituras poderão ser incorporadas, algumas referências poderão ser substituídas e certas escolhas teóricas poderão ser aperfeiçoadas.
+:::
+
+::: titulo-nao-numerado
+O que é o referencial teórico?
+:::
+
+O **referencial teórico** é a seção em que o pesquisador apresenta, de forma organizada e fundamentada, aquilo que já conhece sobre o tema na produção científica disponível.
+
+Ele serve para situar a pesquisa em um campo de estudo e indicar a partir de quais ideias, conceitos e autores o pesquisador pretende iniciar sua investigação.
+
+O referencial teórico não é uma lista de autores soltos. Também não é um conjunto de citações acumuladas. É uma seção em que o pesquisador demonstra que consegue **articular suas próprias ideias com ideias já consolidadas por outros pesquisadores**.
+
+Em outras palavras, o referencial teórico responde a uma pergunta central:
+
+> Que ideias, conceitos, autores e estudos me ajudam a compreender o problema que pretendo investigar?
+
+::: subtitulo-nao-numerado
+O referencial teórico no projeto de pesquisa
+:::
+
+No projeto, o referencial teórico deve ser claro, suficiente e bem articulado, mas ainda preliminar. Sua função é demonstrar que o pesquisador tem uma base inicial para começar a investigação.
+
+| No projeto de pesquisa | No trabalho final |
+|---|---|
+| Indica o ponto de partida teórico | Apresenta a fundamentação teórica mais desenvolvida |
+| É preliminar | É mais consolidado |
+| Mostra as primeiras escolhas teóricas | Explicita opções teóricas mais amadurecidas |
+| Fundamenta os passos iniciais da pesquisa | Sustenta a análise realizada ao longo do trabalho |
+| Pode ser ampliado ou revisto depois | Deve dar conta dos aspectos teóricos efetivamente usados na pesquisa |
+
+::: callout-warning
+**Cuidado**
+
+Não tente escrever, no projeto, o mesmo referencial teórico que você imagina apresentar no trabalho final. No início da pesquisa, ainda não é possível saber tudo o que será necessário teoricamente. O mais importante é apresentar, com clareza, os conceitos, autores e estudos que sustentam os primeiros passos da investigação.
+:::
+
+::: subtitulo-nao-numerado
+O que o referencial teórico não é
+:::
+
+É comum que estudantes em fase inicial de formação científica confundam referencial teórico com outras práticas de leitura e escrita.
+
+| O referencial teórico não é | Por quê? |
+|---|---|
+| Lista de autores | Porque não basta mencionar nomes sem explicar sua contribuição |
+| Resumo de textos | Porque o objetivo não é contar o conteúdo de cada obra isoladamente |
+| Sequência de citações | Porque toda citação precisa ser interpretada e relacionada ao projeto |
+| Opinião pessoal | Porque a seção deve se apoiar em estudos, conceitos e teorias |
+| Texto definitivo | Porque, no projeto, ele ainda é preliminar e poderá mudar |
+
+O referencial teórico é um momento de **diálogo científico**. Nele, você mostra que sua proposta conversa com autores, conceitos, teorias e estudos já existentes.
+
+::: callout-tip
+**Ideia central**
+
+O referencial teórico não serve para provar que você “leu autores”. Ele serve para demonstrar que você compreendeu ideias importantes e consegue usá-las para fundamentar sua pesquisa.
+:::
+
+## Aprendizagem prática
+
+Leia os dois exemplos abaixo e responda:
+
+- Qual dos dois exemplos funciona melhor como início de um referencial teórico? Por quê?
+
+- Que diferença existe entre os parágrafos?
+
+::: enfase
+**Exemplo A**
+
+Segundo Silva (2020), a escrita acadêmica exige domínio de normas específicas de produção textual. Para Santos (2021), os estudantes universitários apresentam dificuldades na organização de textos argumentativos. De acordo com Oliveira (2019), a leitura de textos científicos contribui para o desenvolvimento da escrita no ensino superior. Conforme Pereira (2022), o feedback do professor é importante para melhorar a qualidade dos textos produzidos pelos alunos. Lima (2023) afirma que a reescrita permite ao estudante revisar problemas de clareza, coesão e adequação linguística.
+
+**Exemplo B**
+
+A escrita acadêmica pode ser compreendida como uma prática social situada, isto é, como uma forma de participação em comunidades que possuem modos próprios de produzir, organizar e validar conhecimentos. Nessa perspectiva, não basta considerar a escrita universitária como simples domínio de regras gramaticais ou de normas de formatação. Para Lea e Street (1998), as dificuldades de estudantes no ensino superior estão relacionadas à inserção em práticas específicas de letramento acadêmico, marcadas por expectativas institucionais nem sempre explicitadas. Em diálogo com essa perspectiva, Bazerman (2006) compreende os gêneros acadêmicos como formas de ação social, por meio das quais os sujeitos participam de atividades reconhecidas em determinado campo. Essas contribuições permitem compreender que escrever na universidade envolve aprender modos de argumentar, citar, organizar informações e posicionar-se diante de outros autores, aspecto central para pesquisas que investigam a produção textual de estudantes ingressantes.
+:::
+
+<br/>
+**O Exemplo A apenas aproxima autores por justaposição. O Exemplo B constrói uma ideia central, articula autores e mostra como suas contribuições ajudam a compreender um problema de pesquisa.**
+
+<br/><br/>
+
+::: subtitulo-nao-numerado
+O que é uma teoria?
+:::
+
+Uma **teoria** é um conjunto organizado de ideias, conceitos e explicações que ajuda a compreender determinado fenômeno.
+
+Na pesquisa científica, teoria não significa “achismo”, “palpite” ou “opinião pessoal”. Também não significa uma verdade absoluta e definitiva. Uma teoria é uma forma fundamentada de explicar ou interpretar a realidade, construída a partir de estudos, debates e investigações anteriores.
+
+A teoria importa porque **orienta o modo como o pesquisador vê o problema**. Um mesmo fenômeno pode ser interpretado de maneiras diferentes, dependendo da teoria adotada.
+
+Por exemplo, imagine a pesquisa sobre uso de inteligência artificial na escrita acadêmica de estudantes universitários. Pode haver diferentes abordagens ao tema.
+
+> Uma abordagem pode tratar a inteligência artificial como ferramenta técnica de apoio à produtividade textual. Nesse caso, a pesquisa poderá observar se os estudantes usam a IA para corrigir desvios gramaticais, melhorar a clareza das frases, organizar parágrafos, revisar citações ou acelerar etapas da produção escrita. O foco estará, principalmente, na eficiência do recurso e nos tipos de ajuda que a ferramenta oferece ao processo de escrita.
+
+> Outra abordagem pode tratar a inteligência artificial a partir dos letramentos acadêmicos e digitais. Nesse caso, a pesquisa poderá observar como os estudantes aprendem a usar a IA em práticas universitárias de leitura, escrita, revisão, paráfrase, autoria e argumentação. O problema deixa de ser apenas “usar ou não usar uma ferramenta” e passa a envolver questões como formação acadêmica, ética, autoria, mediação tecnológica e participação em práticas de escrita próprias da universidade.
+
+O tema é o mesmo, mas o modo de compreender o problema muda. Em uma perspectiva, a IA é vista sobretudo como instrumento de revisão e produtividade; em outra, é compreendida como parte de uma prática social mais ampla de produção do conhecimento acadêmico.
+
+::: callout-tip
+**Como a teoria interfere na pesquisa?**
+
+A teoria ajuda a definir:
+
+- como o problema será interpretado;
+- quais conceitos serão usados;
+- como esses conceitos serão definidos operacionalmente;
+- que categorias analíticas orientarão a observação dos dados;
+- que autores serão mobilizados;
+- que metodologia será mais coerente;
+- que tipo de resposta a pesquisa poderá produzir.
+:::
+
+::: subtitulo-nao-numerado
+Conceitos
+:::
+
+Além das teorias, o referencial teórico trabalha com **conceitos**.
+
+Um conceito é uma ideia especializada que ajuda a nomear e compreender um fenômeno. Em uma pesquisa, os conceitos funcionam como ferramentas de análise.
+
+Por exemplo:
+
+| Tema | Conceitos possíveis |
+|---|---|
+| Escrita acadêmica | Autoria, paráfrase, citação, argumentação, letramento acadêmico |
+| Tecnologias digitais | Cibercultura, cultura digital, mediação tecnológica |
+| Inteligência artificial generativa | IA generativa, autoria, ética, revisão textual, mediação tecnológica |
+| Uso de IA na universidade | letramentos acadêmicos, letramentos digitais, práticas de escrita, validação do conhecimento |
+
+Um bom referencial teórico não apenas menciona conceitos. Ele explica os conceitos e mostra por que eles são necessários para compreender o problema da pesquisa.
+
+::: subtitulo-nao-numerado
+Definições operacionais
+:::
+
+Em uma pesquisa, nem sempre basta mencionar um conceito. Muitas vezes, é necessário explicar **como esse conceito será entendido e usado no estudo**. Essa explicação recebe o nome de **definição operacional**.
+
+A definição operacional delimita o sentido de um conceito dentro de uma pesquisa específica. Ela evita ambiguidades e ajuda o leitor a compreender exatamente o que será observado, descrito ou analisado.
+
+Por exemplo, em uma pesquisa sobre inteligência artificial e escrita acadêmica, o conceito de **uso de IA** pode ser muito amplo. O pesquisador precisa esclarecer se está considerando:
+
+- uso da IA para planejar o texto;
+- uso da IA para gerar ideias;
+- uso da IA para revisar frases;
+- uso da IA para reorganizar parágrafos;
+- uso da IA para corrigir aspectos gramaticais;
+- uso da IA para reformular trechos já escritos pelo estudante.
+
+Assim, uma definição operacional possível seria:
+
+> Nesta pesquisa, entende-se por **uso de inteligência artificial generativa na escrita acadêmica** o emprego de ferramentas digitais capazes de gerar, reformular ou revisar linguagem verbal, utilizadas por estudantes universitários nas etapas de planejamento, redação e revisão de textos acadêmicos.
+
+::: destaque
+A definição operacional não é uma definição de dicionário. Ela é uma definição construída para deixar claro como determinado conceito será usado na pesquisa.
+:::
+
+::: callout-warning
+**Cuidado**
+
+Não use conceitos e definições apenas porque eles parecem sofisticados. Um conceito ou definição só deve entrar no referencial teórico se ajudar a compreender o problema investigado.
+:::
+
+::: subtitulo-nao-numerado
+Categorias analíticas
+:::
+
+Além de apresentar conceitos e definições operacionais, o referencial teórico também pode ajudar a construir **categorias analíticas**.
+
+As categorias analíticas são aspectos que o pesquisador escolhe para observar os dados. Elas funcionam como lentes de análise: ajudam a organizar aquilo que será examinado na pesquisa.
+
+Por exemplo, se a pergunta de pesquisa é:
+
+> Como estudantes universitários utilizam ferramentas de inteligência artificial generativa no planejamento, na redação e na revisão de textos acadêmicos?
+
+O pesquisador pode organizar a análise em categorias como:
+
+| Categoria analítica | O que permite observar |
+|---|---|
+| Planejamento textual | Se a IA é usada para gerar ideias, organizar tópicos ou estruturar o texto |
+| Redação | Se a IA é usada para formular frases, desenvolver argumentos ou produzir trechos |
+| Revisão textual | Se a IA é usada para corrigir, reformular, resumir ou melhorar a clareza do texto |
+| Autoria | Como o estudante compreende sua participação no texto produzido com apoio da IA |
+| Ética acadêmica | Como o estudante lida com transparência, citação, responsabilidade e uso adequado da ferramenta |
+
+Essas categorias não surgem do nada. Elas precisam estar relacionadas ao referencial teórico, aos conceitos estudados e à pergunta de pesquisa.
+
+::: importante
+As categorias analíticas aproximam o referencial teórico da metodologia. Elas mostram como as ideias estudadas serão transformadas em critérios para observar e analisar os dados.
+:::
+
+::: subtitulo-nao-numerado
+Do mais genérico para o mais específico
+:::
+
+O referencial teórico costuma partir de uma discussão mais **genérica** para uma discussão mais **específica**.
+
+Isso significa que o texto deve conduzir o leitor por um caminho de aproximação. Primeiro, apresenta-se o campo geral em que o tema está inserido. Depois, os conceitos e debates mais importantes. Por fim, os estudos e ideias diretamente relacionados ao problema da pesquisa.
+
+::: destaque
+O movimento do referencial teórico é semelhante a uma câmera que começa com uma imagem mais ampla e, aos poucos, aproxima o foco até chegar ao problema específico da pesquisa.
+:::
+
+| Movimento | Função |
+|---|---|
+| Campo geral | Situar a área ou debate mais amplo |
+| Conceitos centrais | Explicar as ideias necessárias para compreender o tema |
+| Perspectiva teórica | Indicar o modo de olhar para o problema |
+| Estudos específicos | Apresentar pesquisas próximas ao objeto investigado |
+| Relação com a pergunta | Mostrar como a teoria fundamenta a investigação |
+
+
+## Aprendizagem prática
+
+Leia os textos abaixo. Trata-se de dois parágrafos que iniciam o referencial teórico de uma pesquisa orientada pela seguinte pergunta:
+
+- **Como estudantes universitários utilizam ferramentas de inteligência artificial generativa no planejamento, na redação e na revisão de textos acadêmicos?**
+
+Durante a leitura, tente reconhecer o movimento argumentativo do texto: ele parte de uma abordagem mais geral até chegar a uma abordagem mais específica.
+
+>As tecnologias digitais têm transformado as formas de produção e circulação do conhecimento no ensino superior. Lévy (1999), ao discutir a cibercultura, mostra que essas tecnologias modificam os modos de acesso à informação e de interação. Nesse contexto, a escrita acadêmica pode ser compreendida como prática social, marcada por gêneros, normas e expectativas institucionais. Lea e Street (1998), ao tratarem dos letramentos acadêmicos, indicam que escrever na universidade envolve aprender formas específicas de argumentar, citar e participar de uma comunidade acadêmica.<br/><br/>
+No caso da inteligência artificial generativa, essas transformações atingem diretamente o processo de escrita dos estudantes. Ferramentas de IA podem sugerir formulações, reorganizar parágrafos e apoiar a revisão textual, o que torna necessário discutir conceitos como autoria, mediação tecnológica e ética. Assim, uma pesquisa sobre IA e escrita acadêmica não deve investigar apenas se os estudantes usam essas ferramentas, mas como elas interferem em suas práticas de planejamento, redação e revisão.
+
+O movimento do texto pode ser representado assim:
+
+> tecnologias digitais  
+> ↓  
+> escrita acadêmica  
+> ↓  
+> letramentos acadêmicos  
+> ↓  
+> inteligência artificial generativa  
+> ↓  
+> autoria, mediação tecnológica e revisão textual
+
+<br/>
+
+::: subtitulo-nao-numerado
+Da leitura à escrita do referencial teórico
+:::
+
+Antes de escrever o referencial teórico, é importante organizar as leituras. O quadro abaixo exemplifica como uma leitura pode deixar de ser apenas uma anotação e passar a cumprir uma função no texto.
+
+| Autor/texto | Ideia principal | Como posso usar no meu referencial teórico? |
+|---|---|---|
+| Lévy (1999) | As tecnologias digitais mudam a forma como produzimos e compartilhamos conhecimento | Para começar a discussão mais geral sobre tecnologia e conhecimento |
+| Lea e Street (1998) | A escrita acadêmica é uma prática social, com regras e expectativas próprias | Para explicar que escrever na universidade exige aprender modos específicos de argumentar, citar e revisar |
+| Santaella (2023) | A IA generativa cria novos desafios para autoria e produção textual | Para discutir o uso específico da IA na escrita acadêmica |
+
+
+Esse quadro não é o referencial teórico. Ele é uma etapa de preparação.
+
+A partir dele, você deve construir parágrafos que relacionem as ideias entre si.
+
+::: destaque
+**Anotação inicial**
+
+> Autor X discute letramento acadêmico.  
+> Autor Y discute dificuldades de leitura na universidade.
+
+**Transformação em escrita**
+
+> A noção de letramento acadêmico, como se vê em Lea e Street (1998) permite compreender a leitura universitária como prática situada em contextos institucionais específicos. Essa perspectiva é relevante para pesquisas sobre dificuldades de leitura no ensino superior, pois desloca o foco da falta de habilidade individual para as exigências dos gêneros, das disciplinas e das formas de participação acadêmica.
+
+:::
+
+<br/><br/>
+
+::: subtitulo-nao-numerado
+Checklist para um bom referencial teórico
+:::
+
+| Pergunta | Sim/Parcialmente/Não |
+|---|---|
+| O texto começa situando o campo geral da discussão? |  |
+| Apresenta pelo menos dois conceitos importantes? |  |
+| Explica os autores com suas próprias palavras? |  |
+| As citações são comentadas? |  |
+| Os autores aparecem relacionados ao problema de pesquisa? |  |
+| O texto parte do mais genérico para o mais específico? |  |
+| Apresenta definições operacionais para conceitos centrais, quando necessário? |  |
+| Indica possíveis categorias analíticas relacionadas à pergunta de pesquisa? |  |
+| A seção ajuda a compreender a pergunta de pesquisa? |  |
+| A teoria ajuda a preparar a metodologia? |  |
+| O referencial está adequado ao gênero projeto de pesquisa, sem tentar esgotar todo o tema? |  |

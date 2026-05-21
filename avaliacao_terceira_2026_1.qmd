@@ -82,7 +82,11 @@ A introdução será a única etapa escrita que não terá encontros formativos 
 :::
 
 ::: titulo-nao-numerado
-Etapa 1: Justificativa
+## Etapa 1: Tema delimitado, pergunta de pesquisa e objetivo
+:::
+
+::: titulo-nao-numerado
+## Etapa 2: Justificativa
 :::
 
 ::: subtitulo-nao-numerado
@@ -138,75 +142,112 @@ No segundo parágrafo, apresente o problema, lacuna ou dificuldade que motiva a 
 
 No terceiro parágrafo, explique o que a pesquisa pode acrescentar, quem pode se beneficiar dela e como ela se relaciona com a pergunta de investigação.
 
+::: titulo-nao-numerado
+## Etapa 3: Referencial teórico
+:::
+
+::: subtitulo-nao-numerado
+Objetivo da etapa
+:::
+
+Nesta etapa, você deverá produzir o **referencial teórico** do seu projeto de pesquisa.
+
+Como se trata de um **projeto**, o referencial teórico não precisa esgotar toda a discussão sobre o tema. Sua função é apresentar o ponto de partida teórico da investigação, indicando quais **conceitos**, **autores**, **teorias** e **estudos** ajudam a compreender o problema de pesquisa.
+
+O texto deve mostrar como as leituras realizadas ajudam a fundamentar a pergunta de pesquisa, a definir uma forma de olhar para o problema e a preparar as escolhas metodológicas da investigação. Para isso, quando necessário, o referencial também deve apresentar **definições operacionais** dos conceitos centrais e indicar possíveis **categorias analíticas** que poderão orientar a observação dos dados.
+
+::: importante
+O referencial teórico deve responder à seguinte pergunta central:
+
+> Que ideias, conceitos, autores e estudos ajudam a compreender o problema que pretendo investigar?
+:::
+
+::: subtitulo-nao-numerado
+Tarefa de escrita
+:::
+
+Você deverá escrever um texto de **500 a 800 palavras**, em linguagem acadêmica, que apresente o referencial teórico do seu projeto.
+
+O texto deve partir de uma discussão mais **geral** para uma discussão mais **específica**:
+
+> campo geral de discussão → conceitos centrais → definições operacionais e categorias analíticas → problema específico da pesquisa
+
+::: subtitulo-nao-numerado
+O que o texto deve apresentar
+:::
+
+| Questão orientadora | O que deve aparecer no texto |
+|---|---|
+| Em que campo geral de discussão seu tema está inserido? | A área ou debate mais amplo relacionado ao tema |
+| Quais conceitos ajudam a compreender o problema? | Pelo menos dois conceitos centrais da pesquisa |
+| Que teoria, perspectiva ou abordagem será usada? | O modo de olhar teoricamente para o problema |
+| Que autores ou estudos ajudam a discutir o tema? | Referências acadêmicas pertinentes ao projeto |
+| Como os conceitos centrais serão entendidos nesta pesquisa? | Definições operacionais dos conceitos mais importantes, quando necessário |
+| Que aspectos poderão orientar a análise? | Possíveis categorias analíticas relacionadas à pergunta de pesquisa |
+| Como essas ideias se relacionam com sua pergunta de pesquisa? | Articulação entre teoria, problema e pergunta |
+| Como o referencial prepara a metodologia? | Indicação de como a teoria ajuda a orientar a investigação |
+
+::: subtitulo-nao-numerado
+Requisitos do referencial teórico
+:::
+
+| Item | Exigência |
+|---|---|
+| Extensão | 500 a 800 palavras |
+| Referências acadêmicas | Pelo menos 2 novas referências relacionadas ao tema |
+| Conceitos centrais | Pelo menos 2 conceitos importantes para a pesquisa |
+| Teoria ou perspectiva | Indicação da abordagem teórica adotada |
+| Definições operacionais | Explicação de como conceitos centrais serão entendidos na pesquisa, quando necessário |
+| Categorias analíticas | Indicação inicial de aspectos que poderão orientar a análise dos dados, quando necessário |
+| Uso das fontes | Paráfrases e/ou citações diretas curtas, sempre comentadas |
+| Articulação | Relação clara entre autores, conceitos, teoria e pergunta de pesquisa |
+| Progressão | Organização do texto do mais geral para o mais específico |
+| Linguagem | Registro acadêmico, claro e objetivo |
+
+::: subtitulo-nao-numerado
+Estrutura recomendada
+:::
+
+Você pode organizar o referencial teórico em quatro movimentos:
+
+1. **Campo geral da discussão**  
+   Apresente a área ou debate mais amplo em que seu tema se insere.
+
+2. **Conceitos, autores e teorias**  
+   Explique os conceitos e autores que ajudam a compreender o problema. Não apenas cite autores: mostre a contribuição de cada leitura para o seu projeto.
+
+3. **Definições operacionais e categorias analíticas**  
+   Esclareça, quando necessário, como os conceitos centrais serão entendidos na sua pesquisa. Além disso, indique possíveis categorias analíticas, isto é, aspectos que poderão orientar a observação e a análise dos dados.
+
+4. **Relação com o problema de pesquisa**  
+   Aproxime a discussão teórica da sua pergunta de investigação e indique como essas ideias ajudam a preparar a metodologia.
+
+::: subtitulo-nao-numerado
+O que evitar
+:::
+
+No referencial teórico, evite:
+
+- listar autores sem explicar sua contribuição;
+- inserir citações sem comentá-las;
+- fazer apenas resumo de textos;
+- usar fontes não acadêmicas sem justificativa;
+- apresentar conceitos que não se relacionam com a pergunta de pesquisa;
+- mencionar conceitos importantes sem explicar como serão entendidos na pesquisa;
+- indicar categorias analíticas sem relação clara com o referencial teórico;
+- começar diretamente por um autor específico, sem situar o campo geral da discussão;
+- copiar trechos extensos de textos sem paráfrase ou análise;
+- usar referências apenas para cumprir uma exigência quantitativa.
+
+::: observacao
+Lembre-se: o referencial teórico do projeto é preliminar. Ele deve ser suficiente para indicar o ponto de partida da pesquisa, mas poderá ser ampliado e aperfeiçoado ao longo do processo investigativo.
+:::
+
 ::: enfase
 Estas instruções serão atualizadas conforme o processo de produção do projeto de pesquisa avançar.
 :::
 
 <!--
-
-# Etapa 2: Referencial teórico
-
-## Objetivo da etapa
-
-Nesta etapa, você deverá produzir uma primeira versão do **referencial teórico** do projeto.
-
-O referencial teórico é a parte em que se apresentam os principais conceitos, autores e estudos que ajudam a compreender o problema de pesquisa.
-
-O objetivo não é reunir citações soltas nem fazer um resumo isolado de textos. O referencial teórico deve mostrar como as leituras realizadas ajudam a fundamentar a pergunta de pesquisa e a orientar a investigação.
-
-## Tarefa de escrita
-
-Produza um texto inicial de referencial teórico em que você apresente os principais conceitos e autores relacionados ao seu tema de pesquisa.
-
-O texto deve responder, de forma articulada, às seguintes questões:
-
-| Questão orientadora | O que deve ser demonstrado |
-|---|---|
-| Quais conceitos são importantes para compreender o tema? | Identificação dos conceitos centrais da pesquisa |
-| Que autores ou estudos ajudam a discutir o problema? | Seleção de referências acadêmicas pertinentes |
-| O que esses autores afirmam sobre o tema? | Compreensão das ideias principais das leituras |
-| Como essas ideias se relacionam com sua pergunta de pesquisa? | Articulação entre teoria e problema |
-| Que perspectiva teórica orientará o projeto? | Definição inicial do ponto de vista teórico adotado |
-
-## Requisitos do referencial teórico
-
-| Item | Exigência |
-|---|---|
-| Extensão | 500 a 800 palavras |
-| Referências acadêmicas | Pelo menos 3 referências relacionadas ao tema |
-| Conceitos centrais | Apresentação de pelo menos 2 conceitos importantes para a pesquisa |
-| Uso das fontes | Paráfrases e/ou citações diretas curtas articuladas ao texto |
-| Articulação | Relação clara entre autores, conceitos e pergunta de pesquisa |
-| Linguagem | Registro acadêmico, claro e objetivo |
-
-## Estrutura recomendada
-
-Você pode organizar o referencial teórico em três partes.
-
-Na primeira parte, apresente o campo geral da discussão e os conceitos fundamentais para compreender o tema.
-
-Na segunda parte, discuta as contribuições dos autores lidos, explicando como eles ajudam a compreender o problema de pesquisa.
-
-Na terceira parte, explicite como esse conjunto de leituras sustenta sua pergunta de investigação e prepara a etapa metodológica do projeto.
-
-## O que evitar
-
-No referencial teórico, evite:
-
-- listar autores sem explicar sua contribuição;
-- inserir citações sem comentário;
-- fazer apenas resumo de textos;
-- usar fontes não acadêmicas sem justificativa;
-- apresentar conceitos que não se relacionam com a pergunta de pesquisa;
-- copiar trechos extensos de textos sem paráfrase ou análise.
-
-## Datas da etapa
-
-| Data | Atividade |
-|---|---|
-| 21/05 | Apresentação da tarefa do referencial teórico |
-| 25/05, 26/05 e 27/05 | Encontros formativos |
-| 28/05 | Inserção do referencial teórico na plataforma |
 
 # Etapa 3: Metodologia e cronograma
 
