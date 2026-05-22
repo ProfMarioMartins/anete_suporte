@@ -131,6 +131,17 @@ Agendamento de horários para encontros formativos
         <option value="Segunda | 10:20 | Online">Segunda | 10:20 | Online</option>
         <option value="Segunda | 10:40 | Online">Segunda | 10:40 | Online</option>
         
+        <option value="Segunda | 14:00 | Online">Segunda | 14:00 | Online</option>
+        <option value="Segunda | 14:20 | Online">Segunda | 14:20 | Online</option>
+        <option value="Segunda | 14:40 | Online">Segunda | 14:40 | Online</option>
+        <option value="Segunda | 15:00 | Online">Segunda | 15:00 | Online</option>
+        <option value="Segunda | 15:20 | Online">Segunda | 15:20 | Online</option>
+        <option value="Segunda | 15:40 | Online">Segunda | 15:40 | Online</option>
+        <option value="Segunda | 16:00 | Online">Segunda | 16:00 | Online</option>
+        <option value="Segunda | 16:20 | Online">Segunda | 16:20 | Online</option>
+        <option value="Segunda | 16:40 | Online">Segunda | 16:40 | Online</option>
+        <option value="Segunda | 17:00 | Online">Segunda | 17:00 | Online</option>
+        
         <option value="Terça | 08:00 | Online">Terça | 08:00 | Online</option>
         <option value="Terça | 08:20 | Online">Terça | 08:20 | Online</option>
         <option value="Terça | 08:40 | Online">Terça | 08:40 | Online</option>
@@ -140,18 +151,14 @@ Agendamento de horários para encontros formativos
         <option value="Terça | 10:00 | Online">Terça | 10:00 | Online</option>
         <option value="Terça | 10:20 | Online">Terça | 10:20 | Online</option>
         <option value="Terça | 10:40 | Online">Terça | 10:40 | Online</option>
+        
+        <option value="Quarta | 20:00 | Online">Quarta | 20:00 | Online</option>
+        <option value="Quarta | 20:20 | Online">Quarta | 20:20 | Online</option>
+        <option value="Quarta | 20:40 | Online">Quarta | 20:40 | Online</option>
+        <option value="Quarta | 21:00 | Online">Quarta | 21:00 | Online</option>
+        <option value="Quarta | 21:20 | Online">Quarta | 21:20 | Online</option>
+        <option value="Quarta | 21:30 | Online">Quarta | 21:30 | Online</option>
 
-        <option value="Quarta | 08:00 | Online">Quarta | 08:00 | Online</option>
-        <option value="Quarta | 08:20 | Online">Quarta | 08:20 | Online</option>
-        <option value="Quarta | 08:40 | Online">Quarta | 08:40 | Online</option>
-        <option value="Quarta | 09:00 | Online">Quarta | 09:00 | Online</option>
-        <option value="Quarta | 09:20 | Online">Quarta | 09:20 | Online</option>
-        <option value="Quarta | 09:40 | Online">Quarta | 09:40 | Online</option>
-        <option value="Quarta | 10:00 | Online">Quarta | 10:00 | Online</option>
-        <option value="Quarta | 10:20 | Online">Quarta | 10:20 | Online</option>
-        <option value="Quarta | 10:40 | Online">Quarta | 10:40 | Online</option>
-        <option value="Quarta | 11:00 | Online">Quarta | 11:00 | Online</option>
-        <option value="Quarta | 11:20 | Online">Quarta | 11:20 | Online</option>
       </select>
 
       <span class="ajuda">Todos os encontros serão realizados online.</span>
