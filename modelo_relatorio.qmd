@@ -23,11 +23,7 @@ Respostas vagas ou descritivas — que apenas relatam o que foi feito, sem expli
 1.  Escolha do conteúdo
 :::
 
-Explique por que escolheu o dado ou a informação científica que aparece na sua mídia. Responda às perguntas abaixo:
-
-- O que motivou a escolha desse dado específico?
-- Por que esse dado é relevante para o público geral — e não apenas para especialistas?
-- De onde ele vem? Qual é a fonte?
+Informe qual é o dado científico usado na mídia e explique por que essa informação é importante para o público geral, e não apenas para especialistas.
 
 ::: subtitulo-nao-numerado
 2.  Relação com o projeto de pesquisa
