@@ -22,7 +22,7 @@ As etapas serão:
 - introdução;
 - pitch de defesa do projeto.
 
-A avaliação valorizará tanto o **produto final** quanto o **processo de construção**. Isso significa que não será avaliado apenas o texto entregue ao final, mas também o percurso de elaboração: participação nos encontros formativos, demonstração de leitura, clareza das decisões tomadas, uso dos feedbacks e capacidade de defender oralmente a proposta.
+A avaliação considerará tanto os produtos entregues em cada etapa quanto o percurso de construção do projeto.
 
 ::: titulo-nao-numerado
 Funcionamento
@@ -40,15 +40,11 @@ O ciclo será o seguinte:
 | 4 | Feedback | Receber devolutiva sobre a produção realizada |
 | 5 | Síntese coletiva e nova tarefa | Discutir dificuldades recorrentes e iniciar a etapa seguinte |
 
-::: importante
-Os encontros formativos fazem parte do processo avaliativo. Neles, serão feitas perguntas para verificar se os estudantes estão comprometidos com a produção do projeto, se realizaram leituras, se compreenderam a função da etapa em desenvolvimento e se conseguem explicar as decisões tomadas.
-:::
-
 ::: subtitulo-nao-numerado
 Encontros formativos
 :::
 
-Os encontros formativos não são apenas momentos para “tirar dúvidas”. Eles são parte da avaliação porque permitem acompanhar o processo de elaboração do projeto. Durante esses encontros, serão feitas perguntas cujas respostas ajudarão a verificar o grau de apropriação do conteúdo e o compromisso com a produção do projeto.
+Os encontros formativos fazem parte da terceira avaliação e, portanto, têm caráter obrigatório. A cada ausência em encontro formativo previsto para a etapa, independentemente de o estudante ter realizado agendamento prévio, serão descontados **2,0 pontos** da nota da etapa correspondente, o que impactará a média da avaliação. A presença nesses encontros é necessária para acompanhar o desenvolvimento do projeto, verificar a realização das leituras e orientar a continuidade da produção escrita.
 
 ::: destaque
 Você deverá agendar previamente um horário para o encontro formativo ([clique aqui](complemento_agendamento.qmd)) e comparecer com materiais que evidenciem o andamento de sua produção, como anotações, leituras realizadas, versões preliminares do texto e dúvidas específicas. A falta de preparação poderá comprometer a avaliação do processo, uma vez que os encontros têm a finalidade de acompanhar o desenvolvimento efetivo do projeto de pesquisa.
@@ -57,8 +53,6 @@ Você deverá agendar previamente um horário para o encontro formativo ([clique
 ::: subtitulo-nao-numerado
 Critérios gerais de avaliação
 :::
-
-A terceira avaliação considerará tanto o processo de construção do projeto quanto os produtos entregues em cada etapa.
 
 | Critério | O que será observado |
 |---|---|
@@ -71,10 +65,34 @@ A terceira avaliação considerará tanto o processo de construção do projeto 
 | Defesa oral | Clareza e domínio da proposta no pitch final |
 
 ::: destaque
-Os critérios acima serão observados ao longo de todo o processo. Por isso, a avaliação não dependerá apenas da entrega final, mas também das evidências de leitura, preparação, participação, reescrita e desenvolvimento progressivo do projeto.
+Os critérios serão observados ao longo de todo o processo, com base nas entregas, nos encontros formativos, nos feedbacks e nas reescritas.
 
-Os encontros formativos fazem parte da terceira avaliação e, portanto, têm caráter obrigatório. A cada ausência em encontro previamente agendado, serão descontados **2,0 pontos** da nota da etapa, o que impactará na média. A presença nesses encontros é necessária para acompanhar o desenvolvimento do projeto, verificar a realização das leituras e orientar a continuidade da produção escrita.
+A cada ausência em encontro formativo de cada etapa serão descontados **2,0 pontos** da nota da etapa correspondente, o que impactará a média da avaliação.
 :::
+
+::: subsubtitulo-nao-numerado
+Composição da nota
+:::
+
+Todas as etapas da terceira avaliação serão avaliadas com nota de **0,0 a 10,0**.
+
+A nota do projeto de pesquisa será calculada pela média das notas das etapas escritas:
+
+- justificativa;
+- referencial teórico;
+- metodologia e cronograma;
+- introdução.
+
+Eventuais descontos por ausência nos encontros formativos serão aplicados à nota da etapa correspondente antes do cálculo da média, independentemente de o estudante ter realizado agendamento prévio.
+
+O **pitch de defesa do projeto** também valerá de **0,0 a 10,0**.
+
+De forma simplificada:
+
+> Nota do projeto = média das etapas escritas, já com eventuais descontos  
+> Nota final da 3ª avaliação = (nota do projeto + nota do pitch) ÷ 2
+
+Assim, a terceira avaliação considerará tanto a construção escrita progressiva do projeto quanto a capacidade de apresentá-lo e defendê-lo oralmente.
 
 ::: subtitulo-nao-numerado
 Cronograma
@@ -94,18 +112,19 @@ Cronograma
 | 01/06 | Segunda-feira | Encontros formativos | Metodologia e cronograma |
 | 02/06 | Terça-feira | Encontros formativos | Metodologia e cronograma |
 | 03/06 | Quarta-feira | Encontros formativos | Metodologia e cronograma |
-| 04/06 | Quinta-feira | Inserção da metodologia e do cronograma na plataforma; síntese inicial do feedback, se possível; apresentação da próxima tarefa | Introdução |
-| 08/06 | Segunda-feira | Aula de organização da versão integrada do projeto e preparação da introdução | Introdução |
-| 11/06 | Quinta-feira | Inserção da introdução na plataforma; orientação final para o pitch de defesa | Introdução e pitch |
-| 15/06 | Segunda-feira | Pitch de defesa do projeto | Encerramento da avaliação |
+| 08/06 | Segunda-feira | Inserção da metodologia, do cronograma e da introdução na plataforma | Introdução |
+| 11/06 | Quinta-feira | Orientação final para o pitch de defesa | Pitch |
+| 15/06 | Segunda-feira | Pitch de defesa do projeto | Encerramento da 3ª avaliação |
 
 ::: enfase
 A introdução será a única etapa escrita que não terá encontros formativos próprios. Ela será produzida após a justificativa, o referencial teórico, a metodologia e o cronograma, pois deverá integrar as decisões já tomadas ao longo do processo.
 :::
 
+<!--
 ::: titulo-nao-numerado
 ## Etapa 1: Tema delimitado, pergunta de pesquisa e objetivo
 :::
+-->
 
 ::: titulo-nao-numerado
 ## Etapa 2: Justificativa
@@ -117,17 +136,15 @@ Objetivo da etapa
 
 Nesta etapa, você deverá produzir a **justificativa** do projeto de pesquisa.
 
-A justificativa é a parte do projeto em que se explica por que o tema escolhido merece ser investigado, qual problema motiva a pesquisa, que relevância o estudo pode ter e de que modo ele se relaciona com conhecimentos já produzidos por outros autores.
-
-A justificativa não deve ser uma opinião pessoal. Ela precisa demonstrar que você começou a estudar o tema, identificou uma questão relevante e consegue relacionar sua proposta a leituras acadêmicas iniciais.
+A justificativa deve explicar o problema que motiva a pesquisa e a relevância de investigá-lo, articulando o tema delimitado, a pergunta de pesquisa e leituras acadêmicas iniciais.
 
 ::: subtitulo-nao-numerado
 Tarefa de escrita
 :::
 
-Produza uma justificativa de **300 a 500 palavras** que explique a importância do tema delimitado e da pergunta de pesquisa.
+Produza uma justificativa de **300 a 500 palavras** que explique o problema que motiva sua pesquisa e a relevância de investigá-lo.
 
-O texto deve responder, de forma articulada, às seguintes questões:
+**O que a justificativa deve mostrar**
 
 | Questão orientadora | O que deve ser demonstrado |
 |---|---|
@@ -192,7 +209,7 @@ Você deverá escrever um texto de **500 a 800 palavras**, em linguagem acadêmi
 
 O texto deve partir de uma discussão mais **geral** para uma discussão mais **específica**:
 
-> campo geral de discussão → conceitos centrais → definições operacionais e categorias analíticas → problema específico da pesquisa
+> campo geral de discussão → conceitos centrais → definições operacionais → categorias analíticas → problema específico da pesquisa
 
 ::: subtitulo-nao-numerado
 O que o texto deve apresentar
@@ -261,8 +278,8 @@ No referencial teórico, evite:
 - copiar trechos extensos de textos sem paráfrase ou análise;
 - usar referências apenas para cumprir uma exigência quantitativa.
 
-::: observacao
-Lembre-se: o referencial teórico do projeto é preliminar. Ele deve ser suficiente para indicar o ponto de partida da pesquisa, mas poderá ser ampliado e aperfeiçoado ao longo do processo investigativo.
+::: destaque
+O referencial teórico do projeto é preliminar e poderá ser aperfeiçoado ao longo da pesquisa.
 :::
 
 ::: enfase
