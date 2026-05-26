@@ -155,7 +155,17 @@ Agendamento de horários para encontros formativos
         <option value="Quarta | 21:00 | Online">Quarta | 21:00 | Online</option>
         <option value="Quarta | 21:20 | Online">Quarta | 21:20 | Online</option>
         <option value="Quarta | 21:30 | Online">Quarta | 21:30 | Online</option>
-
+        
+        <option value="Quinta | 13:30 | Online">Quinta | 13:30 | Online</option>
+        <option value="Quinta | 13:50 | Online">Quinta | 13:50 | Online</option>
+        <option value="Quinta | 14:00 | Online">Quinta | 14:00 | Online</option>
+        <option value="Quinta | 14:20 | Online">Quinta | 14:20 | Online</option>
+        <option value="Quinta | 14:40 | Online">Quinta | 14:40 | Online</option>
+        <option value="Quinta | 15:20 | Online">Quinta | 15:20 | Online</option>
+        <option value="Quinta | 15:40 | Online">Quinta | 15:40 | Online</option>
+        <option value="Quinta | 16:00 | Online">Quinta | 16:00 | Online</option>
+        <option value="Quinta | 16:20 | Online">Quinta | 16:20 | Online</option>
+        <option value="Quinta | 16:40 | Online">Quinta | 16:40 | Online</option>
       </select>
 
       <span class="ajuda">Todos os encontros serão realizados online.</span>
