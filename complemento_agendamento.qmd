@@ -114,7 +114,7 @@ Agendamento de horários para encontros formativos
     <fieldset>
       <legend>Escolha do horário</legend>
 
-      <label for="horario">Horários disponíveis (de 25 a 27 de maio)</label>
+      <label for="horario">Horários disponíveis (de 25 a 28 de maio)</label>
       <select id="horario" name="horario" required>
         <option value="" disabled selected>Selecione um horário</option>
 
