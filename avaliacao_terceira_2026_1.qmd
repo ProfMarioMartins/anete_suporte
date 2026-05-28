@@ -165,7 +165,7 @@ Requisitos da justificativa
 | Tema delimitado | Deve estar claro no texto |
 | Pergunta de pesquisa | Deve orientar a justificativa |
 | Referências | Pelo menos 2 referências relacionadas ao tema |
-| Uso das referências | Pelo menos 1 paráfrase ou 1 citação direta curta |
+| Uso das referências | Pelo menos 1 paráfrase e 1 citação direta curta |
 | Linguagem | Clara, objetiva e adequada ao contexto acadêmico |
 | Autoria | O texto deve demonstrar elaboração própria |
 
@@ -177,7 +177,7 @@ Você pode organizar a justificativa em três parágrafos.
 
 No primeiro parágrafo, apresente o tema delimitado e explique por que ele merece ser estudado. Vá diretamente ao tema da pesquisa.
 
-No segundo parágrafo, apresente o problema, lacuna ou dificuldade que motiva a pesquisa. Nesse momento, mobilize pelo menos uma ideia retirada das leituras realizadas, por meio de paráfrase ou citação direta curta.
+No segundo parágrafo, apresente o problema, lacuna ou dificuldade que motiva a pesquisa. Nesse momento, mobilize pelo menos uma ideia retirada das leituras realizadas, por meio de paráfrase e/ou citação direta curta.
 
 No terceiro parágrafo, explique o que a pesquisa pode acrescentar, quem pode se beneficiar dela e como ela se relaciona com a pergunta de investigação.
 
@@ -238,7 +238,7 @@ Requisitos do referencial teórico
 | Teoria ou perspectiva | Indicação da abordagem teórica adotada |
 | Definições operacionais | Explicação de como conceitos centrais serão entendidos na pesquisa, quando necessário |
 | Categorias analíticas | Indicação inicial de aspectos que poderão orientar a análise dos dados, quando necessário |
-| Uso das fontes | Paráfrases e/ou citações diretas curtas, sempre comentadas |
+| Uso das fontes | Paráfrases e/ou citações diretas curtas, sempre comentadas (no mínimo três citações) |
 | Articulação | Relação clara entre autores, conceitos, teoria e pergunta de pesquisa |
 | Progressão | Organização do texto do mais geral para o mais específico |
 | Linguagem | Registro acadêmico, claro e objetivo |
