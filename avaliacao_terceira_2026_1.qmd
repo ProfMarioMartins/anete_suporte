@@ -108,8 +108,8 @@ Cronograma
 | 25/05 | Segunda-feira | Encontros formativos | Referencial teórico |
 | 26/05 | Terça-feira | Encontros formativos | Referencial teórico |
 | 27/05 | Quarta-feira | Encontros formativos | Referencial teórico |
-| 28/05 | Quinta-feira | Inserção do referencial teórico na plataforma; síntese inicial do feedback, se possível; apresentação da próxima tarefa | Metodologia e cronograma |
-| 01/06 | Segunda-feira | Encontros formativos | Metodologia e cronograma |
+| 28/05 | Quinta-feira | Encontros formativos | Referencial teórico |
+| 01/06 | Segunda-feira | Inserção do referencial teórico na plataforma; síntese inicial do feedback, se possível; apresentação da próxima tarefa | Metodologia e cronograma |
 | 02/06 | Terça-feira | Encontros formativos | Metodologia e cronograma |
 | 03/06 | Quarta-feira | Encontros formativos | Metodologia e cronograma |
 | 08/06 | Segunda-feira | Inserção da metodologia, do cronograma e da introdução na plataforma | Introdução |
