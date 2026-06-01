@@ -18,7 +18,7 @@ As etapas serão:
 
 - justificativa;
 - referencial teórico;
-- metodologia e cronograma;
+- metodologia;
 - introdução;
 - pitch de defesa do projeto.
 
@@ -58,7 +58,7 @@ Critérios gerais de avaliação
 |---|---|
 | Participação no processo | Presença, agendamento e preparação para os encontros formativos |
 | Apropriação dos conteúdos | Capacidade de explicar as partes do projeto e justificar as decisões tomadas |
-| Desenvolvimento das etapas | Entrega adequada da justificativa, do referencial teórico, da metodologia, do cronograma e da introdução |
+| Desenvolvimento das etapas | Entrega adequada da justificativa, do referencial teórico, da metodologia e da introdução |
 | Uso de leituras acadêmicas | Mobilização pertinente de referências, conceitos, teorias e estudos |
 | Coerência interna do projeto | Relação entre tema, problema, pergunta, objetivos, justificativa, referencial teórico e metodologia |
 | Escrita acadêmica | Clareza, organização, objetividade, adequação linguística e respeito ao gênero projeto de pesquisa |
@@ -80,7 +80,7 @@ A nota do projeto de pesquisa será calculada pela média das notas das etapas e
 
 - justificativa;
 - referencial teórico;
-- metodologia e cronograma;
+- metodologia;
 - introdução.
 
 Eventuais descontos por ausência nos encontros formativos serão aplicados à nota da etapa correspondente antes do cálculo da média, independentemente de o estudante ter realizado agendamento prévio.
@@ -109,15 +109,15 @@ Cronograma
 | 26/05 | Terça-feira | Encontros formativos | Referencial teórico |
 | 27/05 | Quarta-feira | Encontros formativos | Referencial teórico |
 | 28/05 | Quinta-feira | Encontros formativos | Referencial teórico |
-| 01/06 | Segunda-feira | Inserção do referencial teórico na plataforma; síntese inicial do feedback, se possível; apresentação da próxima tarefa | Metodologia e cronograma |
-| 02/06 | Terça-feira | Encontros formativos | Metodologia e cronograma |
-| 03/06 | Quarta-feira | Encontros formativos | Metodologia e cronograma |
-| 08/06 | Segunda-feira | Inserção da metodologia, do cronograma e da introdução na plataforma | Introdução |
+| 01/06 | Segunda-feira | Inserção do referencial teórico na plataforma; síntese inicial do feedback, se possível; apresentação da próxima tarefa | Metodologia |
+| 02/06 | Terça-feira | Encontros formativos | Metodologia |
+| 03/06 | Quarta-feira | Encontros formativos | Metodologia |
+| 08/06 | Segunda-feira | Inserção da metodologia e da introdução na plataforma | Introdução |
 | 11/06 | Quinta-feira | Orientação final para o pitch de defesa | Pitch |
 | 15/06 | Segunda-feira | Pitch de defesa do projeto | Encerramento da 3ª avaliação |
 
 ::: enfase
-A introdução será a única etapa escrita que não terá encontros formativos próprios. Ela será produzida após a justificativa, o referencial teórico, a metodologia e o cronograma, pois deverá integrar as decisões já tomadas ao longo do processo.
+A introdução será a única etapa escrita que não terá encontros formativos próprios. Ela será produzida após a justificativa, o referencial teórico e a metodologia, pois deverá integrar as decisões já tomadas ao longo do processo.
 :::
 
 <!--
@@ -195,7 +195,7 @@ Como se trata de um **projeto**, o referencial teórico não precisa esgotar tod
 
 O texto deve mostrar como as leituras realizadas ajudam a fundamentar a pergunta de pesquisa, a definir uma forma de olhar para o problema e a preparar as escolhas metodológicas da investigação. Para isso, quando necessário, o referencial também deve apresentar **definições operacionais** dos conceitos centrais e indicar possíveis **categorias analíticas** que poderão orientar a observação dos dados.
 
-::: importante
+::: destaque
 O referencial teórico deve responder à seguinte pergunta central:
 
 > Que ideias, conceitos, autores e estudos ajudam a compreender o problema que pretendo investigar?
@@ -286,87 +286,103 @@ O referencial teórico do projeto é preliminar e poderá ser aperfeiçoado ao l
 Estas instruções serão atualizadas conforme o processo de produção do projeto de pesquisa avançar.
 :::
 
-<!--
+::: titulo-nao-numerado
+## Etapa 4: Metodologia
+:::
 
-# Etapa 3: Metodologia e cronograma
+::: subtitulo-nao-numerado
+Objetivo da etapa
+:::
 
-## Objetivo da etapa
+Nesta etapa, você deverá produzir a seção Metodologia do seu projeto de pesquisa.
 
-Nesta etapa, você deverá produzir a **metodologia** e o **cronograma** do projeto.
+A metodologia é a parte em que se explica como a pesquisa será realizada. Nela, o pesquisador apresenta as escolhas metodológicas feitas ao longo do planejamento da investigação e demonstra como essas escolhas permitirão responder ao problema de pesquisa e alcançar os objetivos propostos.
 
-A metodologia é a parte em que se explica como a pesquisa será realizada. O cronograma, por sua vez, organiza as etapas da investigação ao longo do tempo.
+A metodologia deve estar articulada à justificativa, ao referencial teórico e aos objetivos do projeto.
 
-A metodologia deve estar diretamente relacionada à pergunta de pesquisa, aos objetivos e ao referencial teórico. Não basta dizer que a pesquisa será “bibliográfica” ou “qualitativa”; é necessário explicar quais materiais serão analisados, que procedimentos serão adotados e como esses procedimentos permitirão responder à pergunta de pesquisa.
+::: destaque
+A metodologia deve responder à seguinte pergunta central:
 
-## Tarefa de escrita
+>Como a pesquisa será realizada para responder ao problema de pesquisa?
+:::
 
-Produza a seção de metodologia do projeto e apresente um cronograma simples de execução da pesquisa.
+::: subtitulo-nao-numerado
+Tarefa de escrita
+:::
 
-A metodologia deve responder, de forma articulada, às seguintes questões:
+Você deverá escrever um texto de 300 a 600 palavras, em linguagem acadêmica, apresentando a metodologia do seu projeto.
 
-| Questão orientadora | O que deve ser demonstrado |
-|---|---|
-| Que tipo de pesquisa será realizada? | Indicação da abordagem: bibliográfica, documental, qualitativa, quantitativa, estudo de caso, análise textual, entre outras |
-| Qual será o objeto de análise? | Definição do material, corpus, documentos, textos, dados, participantes ou situação investigada |
-| Como os dados serão obtidos ou selecionados? | Explicação dos critérios de escolha do material |
-| Como os dados serão analisados? | Apresentação dos procedimentos de análise |
-| Como a metodologia ajuda a responder à pergunta de pesquisa? | Coerência entre pergunta, objetivos e procedimentos |
-| Quais serão as etapas da pesquisa? | Organização do cronograma |
+::: subtitulo-nao-numerado
+O que o texto deve apresentar
+:::
 
-## Requisitos da metodologia
+| Questão orientadora | O que deve aparecer na metodologia |
+|:---|:---|
+| Qual é a finalidade da pesquisa? | Classificação quanto à finalidade (básica ou aplicada). |
+| Qual é o propósito da pesquisa? | Classificação quanto ao propósito (exploratória, descritiva ou explicativa). |
+| Qual será a abordagem da pesquisa? | Pesquisa qualitativa, quantitativa ou mista, com justificativa da escolha. |
+| Qual é o delineamento ou abordagem metodológica adotada? | Pesquisa bibliográfica, pesquisa documental, estudo de caso, levantamento, pesquisa-ação, pesquisa participante, fenomenologia, etnografia, pesquisa narrativa, experimento etc., quando aplicável. |
+| O que será analisado? | Definição do corpus, documentos, textos, participantes, banco de dados, fenômeno ou situação investigada. |
+| Como os dados serão obtidos ou selecionados? | Critérios de escolha dos participantes, documentos, textos, corpus ou materiais analisados. |
+| Como os dados serão analisados? | Procedimentos de análise compatíveis com o problema de pesquisa e com os objetivos do estudo. |
+| Como a metodologia ajuda a responder à pergunta de pesquisa? | Justificativa das escolhas metodológicas realizadas. |
+| Existem aspectos éticos relevantes? | Cuidados éticos necessários, especialmente em pesquisas com seres humanos. |
+
+::: subtitulo-nao-numerado
+Requisitos da metodologia
+:::
 
 | Item | Exigência |
-|---|---|
-| Extensão | 400 a 700 palavras |
-| Tipo de pesquisa | Indicação e explicação da abordagem adotada |
-| Objeto ou corpus | Definição do que será analisado |
-| Procedimentos | Explicação de como a pesquisa será conduzida |
-| Coerência | Relação clara com pergunta, objetivos e referencial teórico |
-| Cronograma | Apresentação das principais etapas da pesquisa |
-| Linguagem | Registro acadêmico, claro e objetivo |
+|:---|:---|
+| Extensão | 300 a 600 palavras |
+| Fundamentação metodológica | As escolhas metodológicas devem ser justificadas com apoio em literatura científica pertinente. |
+| Articulação com o referencial teórico | Relação clara entre teoria, objetivos e método. |
+| Linguagem | Registro acadêmico, claro, objetivo e impessoal. |
 
-## Estrutura recomendada
+::: subtitulo-nao-numerado
+Estrutura recomendada
+:::
 
-Você pode organizar a metodologia em quatro partes.
+Você pode organizar a metodologia em cinco partes:
 
-Na primeira parte, indique o tipo de pesquisa e explique por que essa abordagem é adequada ao seu problema.
+1. Caracterização da pesquisa<br/>
+Apresente a classificação da pesquisa quanto à finalidade, ao propósito, à abordagem e ao delineamento metodológico adotado.
 
-Na segunda parte, apresente o objeto de análise, corpus, documentos, textos, participantes ou situação que será investigada.
+2. Objeto de estudo e fontes de dados<br/>
+Explique o que será analisado e indique as fontes de dados que serão utilizadas.
 
-Na terceira parte, explique os procedimentos de coleta, seleção, organização e análise dos dados.
+3. Procedimentos de obtenção e organização dos dados<br/>
+Descreva como os dados serão obtidos, selecionados e organizados.
 
-Na quarta parte, apresente o cronograma, indicando as principais etapas previstas para a realização da pesquisa.
+4. Procedimentos de análise dos dados<br/>
+Explique como os dados serão analisados para responder ao problema de pesquisa.
 
-## Modelo simples de cronograma
+5. Aspectos éticos<br/>
+Apresente os cuidados éticos necessários, quando aplicável.
 
-| Etapa | Período previsto |
-|---|---|
-| Levantamento bibliográfico |  |
-| Leitura e fichamento das referências |  |
-| Seleção do corpus, documentos ou dados |  |
-| Organização do material de análise |  |
-| Análise dos dados |  |
-| Redação do trabalho |  |
-| Revisão final |  |
-
-## O que evitar
+::: subtitulo-nao-numerado
+O que evitar
+:::
 
 Na metodologia, evite:
 
-- apresentar procedimentos vagos;
-- afirmar apenas que a pesquisa será “qualitativa”, sem explicar como será realizada;
-- propor uma metodologia incompatível com a pergunta de pesquisa;
-- indicar corpus ou dados impossíveis de acessar;
-- confundir objetivo com procedimento;
-- elaborar cronograma sem relação com as etapas reais da pesquisa.
+* apenas listar classificações metodológicas sem explicá-las;
+* afirmar que a pesquisa será “qualitativa”, “quantitativa” ou “bibliográfica” sem justificar essa escolha;
+* apresentar procedimentos vagos, como “pesquisar na internet”;
+* propor uma metodologia incompatível com a pergunta de pesquisa;
+* indicar corpus, participantes ou dados impossíveis de acessar;
+* confundir objetivos com procedimentos;
+* descrever etapas sem explicar sua relação com o problema investigado.
 
-## Datas da etapa
+::: enfase
+Não existe um método “melhor” que outro. O método adequado é aquele que permite responder ao problema de pesquisa e alcançar os objetivos propostos.
+:::
 
-| Data | Atividade |
-|---|---|
-| 28/05 | Apresentação da tarefa de metodologia e cronograma |
-| 01/06, 02/06 e 03/06 | Encontros formativos |
-| 04/06 | Inserção da metodologia e do cronograma na plataforma |
+::: destaque
+Estas instruções poderão ser atualizadas conforme o desenvolvimento do projeto de pesquisa.
+:::
+
+<!--
 
 # Etapa 4: Introdução
 

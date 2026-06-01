@@ -1,0 +1,863 @@
+---
+title: "Como descrever o passo a passo de uma pesquisa"
+---
+
+::: nota-secundaria
+Roteiro de aula elaborado no RStudio com o auxílio da inteligência artificial, revisado e avaliado pelo autor antes de sua publicação.
+:::
+
+## Objetivo de aprendizagem
+
+Ao final desta aula, espera-se que você seja capaz de:
+
+- descrever, com clareza e coerência, o percurso metodológico de uma pesquisa, articulando problema, objetivo, tipo de pesquisa, fontes de informação, procedimentos de coleta/seleção de dados, procedimentos de análise e cronograma de execução.
+
+::: leitura
+**Leitura indicada**
+
+GIL, Antonio Carlos. *Como elaborar projetos de pesquisa*. Rio de Janeiro: Atlas, 2022.
+
+[Acesso à leitura](https://app.minhabiblioteca.com.br/reader/books/9786559771653/epubcfi/6/2%5B%3Bvnd.vst.idref%3Dhtml1%5D!/6/2/2%4051:2)
+:::
+
+## Leitura em foco
+
+Conforme Antonio Carlos Gil, a seção **Metodologia** do projeto de pesquisa apresenta o planejamento da investigação. Nessa seção, deve-se esclarecer **como a pesquisa será realizada**, quais procedimentos serão adotados e de que modo esses procedimentos permitirão alcançar os objetivos propostos.
+
+A elaboração da metodologia depende de decisões anteriores. Para escrever essa seção, é necessário ter clareza sobre o **problema de pesquisa**, o **objetivo**, o **referencial teórico**, o **objeto de investigação** e os **dados** que serão utilizados.
+
+A metodologia não deve apenas mencionar técnicas. Ela deve justificar as escolhas feitas, mostrando coerência entre:
+
+> problema de pesquisa → objetivo → dados → procedimentos de coleta ou seleção → procedimentos de análise
+
+::: enfase
+**Ideia central**
+
+A metodologia responde à pergunta:
+
+> Como a pesquisa será realizada para responder ao problema proposto?
+:::
+
+::: titulo-nao-numerado
+Área do conhecimento da pesquisa
+:::
+
+Antes de definir a metodologia, é útil identificar em qual área do conhecimento sua pesquisa se enquadra. Essa classificação ajuda a situar o estudo em uma tradição científica específica, facilita a escolha de referenciais teóricos e metodológicos adequados e favorece a comunicação dos resultados com a comunidade acadêmica da área.
+
+O Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) disponibiliza uma árvore de áreas, subáreas e especialidades que pode auxiliar nessa identificação. Consulte: <https://lattes.cnpq.br/web/dgp/arvore-do-conhecimento>.
+
+Embora pesquisas interdisciplinares possam dialogar com mais de uma área, é recomendável indicar aquela que melhor representa o foco principal da investigação.
+
+::: titulo-nao-numerado
+O que uma metodologia precisa explicitar?
+:::
+
+A metodologia deve apresentar as principais decisões da pesquisa. Em um projeto inicial, essas decisões ainda podem ser aperfeiçoadas, mas precisam estar suficientemente claras para que o leitor compreenda o caminho previsto.
+
+| Elemento | Pergunta que deve ser respondida |
+|---|---|
+| Tipo de pesquisa | Que tipo de investigação será realizada? |
+| Abordagem | A pesquisa será qualitativa, quantitativa ou mista? |
+| Fonte dos dados | De onde virão as informações analisadas? |
+| Objeto, corpus ou participantes | O que ou quem será analisado? |
+| Procedimentos de coleta ou seleção | Como os dados serão obtidos ou escolhidos? |
+| Procedimentos de análise | Como os dados serão examinados? |
+| Coerência metodológica | Como esses procedimentos ajudam a responder à pergunta de pesquisa? |
+
+::: destaque
+A metodologia é o passo a passo justificado da pesquisa. Ela deve permitir que o leitor compreenda o percurso previsto e avalie se ele é coerente com o problema e com os objetivos.
+:::
+
+## Aprendizagem prática
+
+As perguntas abaixo servem para ajudar você a tomar decisões metodológicas. Elas não produzem automaticamente uma metodologia pronta, mas ajudam a construir um **mapa metodológico inicial** para o seu projeto.
+
+::: titulo-nao-numerado
+Perguntas orientadoras sobre a metodologia
+:::
+
+```{=html}
+<fieldset style="margin-bottom: 2em; padding: 1em; border: 2px solid #ccc; border-radius: 10px;">
+  <legend style="font-weight: bold; font-size: 1.1em;">
+    1. Qual é a principal contribuição que você espera que sua pesquisa traga?
+  </legend>
+
+  <label>
+    <input type="radio" name="q1" value="basica">
+    Compreender melhor um fenômeno ou produzir novos conhecimentos sobre um tema, sem a preocupação de resolver imediatamente um problema prático.
+  </label><br><br>
+
+  <label>
+    <input type="radio" name="q1" value="aplicada">
+    Contribuir para a solução de um problema concreto ou para a melhoria de uma prática, produto, serviço ou processo.
+  </label>
+</fieldset>
+```
+
+<!-- Aqui começa o campo de respostas-->
+<details>
+<summary>
+</summary>
+
+```{=html}
+<div style="background-color:#f9f9f9; border-left:4px solid #555; padding:1em; margin:1em 0; font-family:Arial, sans-serif;">
+
+  <p><strong>Pesquisa básica e pesquisa aplicada</strong></p>
+
+  <p>As pesquisas podem ser classificadas de acordo com a contribuição que pretendem trazer.</p>
+
+  <ul>
+    <li><strong>Pesquisa básica:</strong> procura ampliar o conhecimento sobre um tema ou fenômeno, ajudando a compreender melhor como ele funciona.<br>
+    <strong>Exemplo:</strong> investigar como estudantes desenvolvem a competência argumentativa ao longo da graduação.</li>
+  </ul>
+
+  <ul>
+    <li><strong>Pesquisa aplicada:</strong> procura usar o conhecimento científico para resolver um problema ou melhorar uma prática, produto, serviço ou processo.<br>
+    <strong>Exemplo:</strong> desenvolver e avaliar uma ferramenta digital para apoiar a escrita acadêmica de estudantes universitários.</li>
+  </ul>
+
+</div>
+</details>
+```
+
+<!-- Aqui encerra o campo de respostas-->
+
+
+```{=html}
+<fieldset style="margin-bottom: 2em; padding: 1em; border: 2px solid #ccc; border-radius: 10px;">
+  <legend style="font-weight: bold; font-size: 1.1em;">
+    2. Para responder à sua pergunta de pesquisa, você precisará principalmente de quê?
+  </legend>
+
+  <label>
+    <input type="radio" name="q2" value="quantitativa">
+    Números, medidas ou respostas que possam ser organizadas em tabelas, gráficos e análises estatísticas.
+  </label><br><br>
+
+  <label>
+    <input type="radio" name="q2" value="qualitativa">
+    Relatos, opiniões, experiências, textos, documentos ou descrições que ajudem a compreender melhor um fenômeno.
+  </label><br><br>
+
+  <label>
+    <input type="radio" name="q2" value="mista">
+    Tanto números e medidas quanto relatos, opiniões, experiências, textos, documentos ou descrições.
+  </label>
+</fieldset>
+```
+
+<!-- Aqui começa o campo de respostas-->
+<details>
+<summary>
+</summary>
+
+```{=html}
+<div style="background-color:#f9f9f9; border-left:4px solid #555; padding:1em; margin:1em 0; font-family:Arial, sans-serif;">
+
+  <p><strong>Abordagem quantitativa, qualitativa e mista</strong></p>
+
+  <ul>
+    <li><strong>Abordagem quantitativa:</strong> trabalha com dados expressos em números, medidas ou quantidades, geralmente analisados por meio de tabelas, gráficos e procedimentos estatísticos.<br>
+    <strong>Exemplo:</strong> idade dos participantes, notas, frequência de uso de um aplicativo ou respostas a questionários fechados.</li>
+  </ul>
+
+  <ul>
+    <li><strong>Abordagem qualitativa:</strong> trabalha com dados verbais, visuais, documentais ou descritivos, com o objetivo de compreender significados, práticas, experiências ou interpretações.<br>
+    <strong>Exemplo:</strong> entrevistas, respostas abertas, diários, documentos, textos ou observações.</li>
+  </ul>
+
+  <ul>
+    <li><strong>Abordagem mista:</strong> combina dados quantitativos e qualitativos para compreender melhor o fenômeno estudado.<br>
+    <strong>Exemplo:</strong> aplicar um questionário com questões fechadas e abertas aos mesmos participantes.</li>
+  </ul>
+
+</div>
+</details>
+```
+
+<!-- Aqui encerra o campo de respostas-->
+
+```{=html}
+<fieldset style="margin-bottom: 2em; padding: 1em; border: 2px solid #ccc; border-radius: 10px;">
+  <legend style="font-weight: bold; font-size: 1.1em;">
+    3. Para responder à sua pergunta de pesquisa, você pretende interferir na situação estudada ou apenas observá-la?
+  </legend>
+
+  <label>
+    <input type="radio" name="q3" value="experimental">
+    Pretendo modificar uma condição ou introduzir uma intervenção para verificar os efeitos produzidos.
+  </label><br><br>
+
+  <label>
+    <input type="radio" name="q3" value="observacional">
+    Pretendo observar fenômenos, coletar informações ou analisar materiais sem alterar a situação estudada.
+  </label>
+</fieldset>
+```
+
+<!-- Aqui começa o campo de respostas-->
+<details>
+<summary>
+</summary>
+
+```{=html}
+<div style="background-color:#f9f9f9; border-left:4px solid #555; padding:1em; margin:1em 0; font-family:Arial, sans-serif;">
+
+  <p><strong>Pesquisas com intervenção e pesquisas sem intervenção</strong></p>
+
+  <ul>
+    <li><strong>Pesquisa experimental ou com intervenção:</strong> o pesquisador modifica uma condição, aplica um procedimento ou introduz uma intervenção para verificar possíveis efeitos.<br>
+    <strong>Exemplo:</strong> testar se uma sequência didática melhora o desempenho dos estudantes em uma habilidade específica.</li>
+  </ul>
+
+  <ul>
+    <li><strong>Pesquisa sem intervenção:</strong> o pesquisador não altera a situação estudada; apenas observa, coleta informações ou analisa materiais já existentes.<br>
+    <strong>Exemplo:</strong> aplicar questionários, analisar documentos, realizar entrevistas ou estudar artigos científicos.</li>
+  </ul>
+
+</div>
+</details>
+```
+
+<!-- Aqui encerra o campo de respostas-->
+
+```{=html}
+<fieldset style="margin-bottom: 2em; padding: 1em; border: 2px solid #ccc; border-radius: 10px;">
+  <legend style="font-weight: bold; font-size: 1.1em;">
+    4. Você pretende estudar profundamente uma pessoa, grupo, organização, comunidade ou situação específica?
+  </legend>
+
+  <label>
+    <input type="radio" name="q4" value="caso">
+    Sim, meu objetivo é compreender detalhadamente um caso específico em seu contexto real.
+  </label><br><br>
+
+  <label>
+    <input type="radio" name="q4" value="nao">
+    Não, meu objetivo é estudar um conjunto maior de casos ou utilizar outro tipo de pesquisa.
+  </label>
+</fieldset>
+```
+
+<!-- Aqui começa o campo de respostas-->
+<details>
+<summary>
+</summary>
+
+```{=html}
+<div style="background-color:#f9f9f9; border-left:4px solid #555; padding:1em; margin:1em 0; font-family:Arial, sans-serif;">
+
+  <p><strong>Estudo de caso</strong></p>
+
+  <p>O estudo de caso é indicado quando o pesquisador deseja compreender profundamente um caso específico em seu contexto real.</p>
+
+  <ul>
+    <li><strong>Estudo de caso:</strong> consiste na investigação detalhada de uma pessoa, grupo, organização, comunidade ou situação, buscando compreender suas características e particularidades.<br>
+    <strong>Exemplo:</strong> estudar o funcionamento de uma escola específica, analisar uma empresa ou investigar a experiência de uma turma de estudantes.</li>
+  </ul>
+
+  <ul>
+    <li><strong>Quando utilizar:</strong> é mais adequado quando o interesse está em compreender um caso em profundidade, e não em obter informações de um grande número de participantes.</li>
+  </ul>
+
+</div>
+</details>
+```
+
+<!-- Aqui encerra o campo de respostas-->
+
+```{=html}
+<fieldset style="margin-bottom: 2em; padding: 1em; border: 2px solid #ccc; border-radius: 10px;">
+  <legend style="font-weight: bold; font-size: 1.1em;">
+    5. Você pretende fazer perguntas a um grupo de pessoas para conhecer suas opiniões, características, práticas ou comportamentos?
+  </legend>
+
+  <label>
+    <input type="radio" name="q5" value="levantamento">
+    Sim, pretendo aplicar questionários, formulários ou entrevistas a um grupo de pessoas para obter informações que possam ser analisadas e comparadas.
+  </label><br><br>
+
+  <label>
+    <input type="radio" name="q5" value="outros">
+    Não, minha pesquisa utilizará outras formas de coleta ou seleção de informações.
+  </label>
+</fieldset>
+```
+
+<!-- Aqui começa o campo de respostas-->
+
+<details>
+<summary>
+</summary>
+
+```{=html}
+<div style="background-color:#f9f9f9; border-left:4px solid #555; padding:1em; margin:1em 0; font-family:Arial, sans-serif;">
+
+  <p><strong>Levantamento</strong></p>
+
+  <p>O levantamento é um tipo de pesquisa utilizado para obter informações diretamente de um grupo de pessoas por meio de perguntas.</p>
+
+  <ul>
+    <li><strong>Levantamento:</strong> consiste em aplicar questionários, formulários ou entrevistas para conhecer opiniões, características, comportamentos ou percepções de um grupo de pessoas.<br>
+    <strong>Exemplo:</strong> investigar os hábitos de leitura de estudantes universitários por meio de questionário.</li>
+  </ul>
+
+  <ul>
+    <li><strong>Quando utilizar:</strong> é mais adequado quando se deseja coletar informações de várias pessoas e comparar as respostas obtidas.</li>
+  </ul>
+
+</div>
+</details>
+```
+
+<!-- Aqui encerra o campo de respostas-->
+
+```{=html}
+<fieldset style="margin-bottom: 2em; padding: 1em; border: 2px solid #ccc; border-radius: 10px;">
+  <legend style="font-weight: bold; font-size: 1.1em;">
+    6. De onde virão principalmente as informações utilizadas na sua pesquisa?
+  </legend>
+
+  <label>
+    <input type="radio" name="q6" value="bibliografica">
+    De livros, artigos científicos, teses e dissertações já publicados.
+  </label><br><br>
+
+  <label>
+    <input type="radio" name="q6" value="documental">
+    De documentos já existentes, como relatórios, registros institucionais, fotografias, notícias, leis, bases de dados ou arquivos.
+  </label><br><br>
+
+  <label>
+    <input type="radio" name="q6" value="campo">
+    De informações que eu mesmo pretendo coletar diretamente, por meio de questionários, entrevistas, observações ou outros procedimentos.
+  </label>
+</fieldset>
+```
+
+<!-- Aqui começa o campo de respostas-->
+<details>
+<summary>
+</summary>
+
+```{=html}
+<div style="background-color:#f9f9f9; border-left:4px solid #555; padding:1em; margin:1em 0; font-family:Arial, sans-serif;">
+
+  <p><strong>Fontes de informação da pesquisa</strong></p>
+
+  <ul>
+    <li><strong>Pesquisa bibliográfica:</strong> utiliza principalmente livros, artigos científicos, teses, dissertações e outros textos acadêmicos já publicados.<br>
+    <strong>Exemplo:</strong> realizar uma revisão da literatura sobre inteligência artificial na educação.</li>
+  </ul>
+
+  <ul>
+    <li><strong>Pesquisa documental:</strong> utiliza documentos produzidos para outras finalidades, como relatórios, leis, registros institucionais, fotografias, notícias, bases de dados ou arquivos.<br>
+    <strong>Exemplo:</strong> analisar documentos de uma universidade para compreender sua política de permanência estudantil.</li>
+  </ul>
+
+  <ul>
+    <li><strong>Pesquisa de campo:</strong> envolve coleta direta de informações pelo pesquisador, por meio de entrevistas, questionários, observações ou outros procedimentos.<br>
+    <strong>Exemplo:</strong> entrevistar estudantes para conhecer suas dificuldades de adaptação à universidade.</li>
+  </ul>
+
+</div>
+</details>
+```
+
+<!-- Aqui encerra o campo de respostas-->
+
+```{=html}
+<fieldset style="margin-bottom: 2em; padding: 1em; border: 2px solid #ccc; border-radius: 10px;">
+  <legend style="font-weight: bold; font-size: 1.1em;">
+    7. Seu principal interesse é compreender como as pessoas vivenciam e interpretam determinada experiência?
+  </legend>
+
+  <label>
+    <input type="radio" name="q7" value="fenomenologica">
+    Sim, quero compreender os significados que as pessoas atribuem às suas experiências e como elas percebem determinada situação.
+  </label><br><br>
+
+  <label>
+    <input type="radio" name="q7" value="nao_fenomenologica">
+    Não, minha pesquisa tem outro foco.
+  </label>
+</fieldset>
+```
+
+<!-- Aqui começa o campo de respostas-->
+<details>
+<summary>
+</summary>
+
+```{=html}
+<div style="background-color:#f9f9f9; border-left:4px solid #555; padding:1em; margin:1em 0; font-family:Arial, sans-serif;">
+
+  <p><strong>Pesquisa fenomenológica</strong></p>
+
+  <p>A pesquisa fenomenológica busca compreender como as pessoas vivenciam e interpretam determinada experiência.</p>
+
+  <ul>
+    <li><strong>Pesquisa fenomenológica:</strong> procura entender os significados que as pessoas atribuem às suas experiências, valorizando sua percepção e seu ponto de vista.<br>
+    <strong>Exemplo:</strong> investigar como estudantes vivenciam o ingresso na universidade ou como professores percebem os desafios da profissão.</li>
+  </ul>
+
+  <ul>
+    <li><strong>Quando utilizar:</strong> é mais adequada quando o objetivo é compreender experiências, percepções ou significados, e não medir quantidades ou testar relações de causa e efeito.</li>
+  </ul>
+
+</div>
+</details>
+```
+
+<!-- Aqui encerra o campo de respostas-->
+
+```{=html}
+<fieldset style="margin-bottom: 2em; padding: 1em; border: 2px solid #ccc; border-radius: 10px;">
+  <legend style="font-weight: bold; font-size: 1.1em;">
+    8. Você pretende acompanhar de perto o cotidiano de um grupo para compreender seus costumes, comportamentos, práticas ou modo de vida?
+  </legend>
+
+  <label>
+    <input type="radio" name="q8" value="etnografica">
+    Sim, pretendo conviver ou observar esse grupo em seu ambiente habitual para compreender como seus membros pensam, agem e interpretam a realidade.
+  </label><br><br>
+
+  <label>
+    <input type="radio" name="q8" value="nao_etnografica">
+    Não, minha pesquisa tem outro foco.
+  </label>
+</fieldset>
+```
+
+<!-- Aqui começa o campo de respostas-->
+<details>
+<summary>
+</summary>
+
+```{=html}
+<div style="background-color:#f9f9f9; border-left:4px solid #555; padding:1em; margin:1em 0; font-family:Arial, sans-serif;">
+
+  <p><strong>Pesquisa etnográfica</strong></p>
+
+  <p>A pesquisa etnográfica busca compreender como um grupo vive, pensa e interpreta sua realidade em seu ambiente cotidiano.</p>
+
+  <ul>
+    <li><strong>Pesquisa etnográfica:</strong> consiste em acompanhar e observar um grupo para compreender costumes, comportamentos, crenças, valores e práticas sociais.<br>
+    <strong>Exemplo:</strong> estudar o cotidiano de uma comunidade rural, de uma escola ou de um grupo religioso.</li>
+  </ul>
+
+  <ul>
+    <li><strong>Quando utilizar:</strong> é mais adequada quando o objetivo é compreender a cultura, o modo de vida ou as práticas de um grupo a partir da perspectiva de seus próprios membros.</li>
+  </ul>
+
+</div>
+</details>
+```
+
+<!-- Aqui encerra o campo de respostas-->
+
+```{=html}
+<fieldset style="margin-bottom: 2em; padding: 1em; border: 2px solid #ccc; border-radius: 10px;">
+  <legend style="font-weight: bold; font-size: 1.1em;">
+    9. Você pretende acompanhar um grupo de pessoas ao longo do tempo para observar mudanças, acontecimentos ou resultados?
+  </legend>
+
+  <label>
+    <input type="radio" name="q9" value="coorte">
+    Sim, pretendo acompanhar um grupo durante um período para verificar o que acontece com seus participantes ao longo do tempo.
+  </label><br><br>
+
+  <label>
+    <input type="radio" name="q9" value="nao_coorte">
+    Não, minha pesquisa tem outro foco.
+  </label>
+</fieldset>
+```
+
+<!-- Aqui começa o campo de respostas-->
+<details>
+<summary>
+</summary>
+
+```{=html}
+<div style="background-color:#f9f9f9; border-left:4px solid #555; padding:1em; margin:1em 0; font-family:Arial, sans-serif;">
+
+  <p><strong>Estudo de coorte</strong></p>
+
+  <p>O estudo de coorte acompanha um grupo de pessoas ao longo do tempo para observar mudanças, acontecimentos ou resultados.</p>
+
+  <ul>
+    <li><strong>Estudo de coorte:</strong> consiste em acompanhar pessoas que compartilham alguma característica para verificar o que acontece com elas durante determinado período.<br>
+    <strong>Exemplo:</strong> acompanhar estudantes universitários durante quatro anos para observar permanência, desempenho ou evasão.</li>
+  </ul>
+
+  <ul>
+    <li><strong>Quando utilizar:</strong> é mais adequado quando o objetivo é observar transformações ou resultados que surgem ao longo do tempo.</li>
+  </ul>
+
+</div>
+</details>
+```
+
+<!-- Aqui encerra o campo de respostas-->
+
+```{=html}
+<fieldset style="margin-bottom: 2em; padding: 1em; border: 2px solid #ccc; border-radius: 10px;">
+  <legend style="font-weight: bold; font-size: 1.1em;">
+    10. Você pretende comparar pessoas que já apresentam uma determinada condição com outras que não a apresentam para investigar possíveis fatores associados?
+  </legend>
+
+  <label>
+    <input type="radio" name="q10" value="caso_controle">
+    Sim, pretendo comparar dois grupos e analisar acontecimentos, comportamentos ou características que possam estar relacionados à condição estudada.
+  </label><br><br>
+
+  <label>
+    <input type="radio" name="q10" value="nao_caso_controle">
+    Não, minha pesquisa tem outro foco.
+  </label>
+</fieldset>
+```
+
+<!-- Aqui começa o campo de respostas-->
+<details>
+<summary>
+</summary>
+
+```{=html}
+<div style="background-color:#f9f9f9; border-left:4px solid #555; padding:1em; margin:1em 0; font-family:Arial, sans-serif;">
+
+  <p><strong>Estudo caso-controle</strong></p>
+
+  <p>O estudo caso-controle parte de uma condição já observada e busca identificar fatores que podem estar relacionados à sua ocorrência.</p>
+
+  <ul>
+    <li><strong>Estudo caso-controle:</strong> consiste em comparar pessoas que apresentam determinada condição com outras que não a apresentam, procurando identificar diferenças em suas experiências ou características.<br>
+    <strong>Exemplo:</strong> comparar estudantes que abandonaram o curso com estudantes que permaneceram para investigar fatores associados à evasão.</li>
+  </ul>
+
+  <ul>
+    <li><strong>Quando utilizar:</strong> é mais adequado quando o fenômeno já aconteceu e o objetivo é investigar possíveis fatores relacionados à sua ocorrência.</li>
+  </ul>
+
+</div>
+</details>
+```
+
+<!-- Aqui encerra o campo de respostas-->
+
+```{=html}
+<fieldset style="margin-bottom: 2em; padding: 1em; border: 2px solid #ccc; border-radius: 10px;">
+  <legend style="font-weight: bold; font-size: 1.1em;">
+    11. Sua pesquisa pretende ajudar a compreender e, ao mesmo tempo, enfrentar ou melhorar um problema real vivido por um grupo de pessoas?
+  </legend>
+
+  <label>
+    <input type="radio" name="q11" value="pesquisa_acao">
+    Sim, pretendo desenvolver a pesquisa junto com as pessoas envolvidas, buscando compreender o problema e contribuir para sua solução.
+  </label><br><br>
+
+  <label>
+    <input type="radio" name="q11" value="nao_pesquisa_acao">
+    Não, minha pesquisa tem outro foco.
+  </label>
+</fieldset>
+```
+
+<!-- Aqui começa o campo de respostas-->
+<details>
+<summary>
+</summary>
+
+```{=html}
+<div style="background-color:#f9f9f9; border-left:4px solid #555; padding:1em; margin:1em 0; font-family:Arial, sans-serif;">
+
+  <p><strong>Pesquisa-ação</strong></p>
+
+  <p>A pesquisa-ação busca compreender um problema real e, ao mesmo tempo, contribuir para sua solução com a participação das pessoas envolvidas.</p>
+
+  <ul>
+    <li><strong>Pesquisa-ação:</strong> combina investigação e intervenção prática, envolvendo pesquisadores e participantes na busca por melhorias ou mudanças em determinada realidade.<br>
+    <strong>Exemplo:</strong> desenvolver e avaliar, junto com professores, estratégias para reduzir a evasão escolar.</li>
+  </ul>
+
+  <ul>
+    <li><strong>Quando utilizar:</strong> é mais adequada quando o objetivo não é apenas estudar um problema, mas também ajudar a enfrentá-lo ou transformá-lo.</li>
+  </ul>
+
+</div>
+</details>
+```
+
+<!-- Aqui encerra o campo de respostas-->
+
+```{=html}
+<fieldset style="margin-bottom: 2em; padding: 1em; border: 2px solid #ccc; border-radius: 10px;">
+  <legend style="font-weight: bold; font-size: 1.1em;">
+    12. Sua pesquisa será desenvolvida com a participação ativa de um grupo ou comunidade, valorizando seus conhecimentos e experiências?
+  </legend>
+
+  <label>
+    <input type="radio" name="q12" value="pesquisa_participante">
+    Sim, pretendo construir a pesquisa junto com os participantes, valorizando seus conhecimentos, experiências e necessidades.
+  </label><br><br>
+
+  <label>
+    <input type="radio" name="q12" value="nao_pesquisa_participante">
+    Não, minha pesquisa tem outro foco.
+  </label>
+</fieldset>
+```
+
+<!-- Aqui começa o campo de respostas-->
+<details>
+<summary>
+</summary>
+
+```{=html}
+<div style="background-color:#f9f9f9; border-left:4px solid #555; padding:1em; margin:1em 0; font-family:Arial, sans-serif;">
+
+  <p><strong>Pesquisa participante</strong></p>
+
+  <p>Na pesquisa participante, as pessoas envolvidas não são apenas fontes de informação. Elas participam ativamente do processo de investigação e ajudam a construir o conhecimento junto com o pesquisador.</p>
+
+  <ul>
+    <li><strong>Objetivo:</strong> compreender uma realidade e contribuir para melhorar condições de vida, práticas sociais ou formas de organização de um grupo ou comunidade.</li>
+  </ul>
+
+  <ul>
+    <li><strong>Participação ativa:</strong> os participantes ajudam a identificar problemas, discutir caminhos e interpretar os resultados da pesquisa.</li>
+  </ul>
+
+  <ul>
+    <li><strong>Exemplo:</strong> desenvolver uma pesquisa com uma comunidade rural para identificar dificuldades de acesso à educação e discutir formas de enfrentá-las.</li>
+  </ul>
+
+</div>
+</details>
+```
+
+<!-- Aqui encerra o campo de respostas-->
+
+```{=html}
+<fieldset style="margin-bottom: 2em; padding: 1em; border: 2px solid #ccc; border-radius: 10px;">
+  <legend style="font-weight: bold; font-size: 1.1em;">
+    13. O foco da sua pesquisa é compreender a história de vida ou as experiências de uma pessoa ou de um pequeno grupo?
+  </legend>
+
+  <label>
+    <input type="radio" name="q13" value="pesquisa_narrativa">
+    Sim, pretendo utilizar relatos, histórias de vida ou experiências pessoais como principal fonte de dados.
+  </label><br><br>
+
+  <label>
+    <input type="radio" name="q13" value="nao_pesquisa_narrativa">
+    Não, minha pesquisa tem outro foco.
+  </label>
+</fieldset>
+```
+
+<!-- Aqui começa o campo de respostas-->
+<details>
+<summary>
+</summary>
+
+```{=html}
+<div style="background-color:#f9f9f9; border-left:4px solid #555; padding:1em; margin:1em 0; font-family:Arial, sans-serif;">
+
+  <p><strong>Pesquisa narrativa</strong></p>
+
+  <p>Na pesquisa narrativa, o pesquisador procura compreender a experiência de uma pessoa ou de um pequeno grupo por meio das histórias que essas pessoas contam sobre suas vidas.</p>
+
+  <ul>
+    <li><strong>Pesquisa narrativa:</strong> utiliza relatos, entrevistas, diários, cartas ou outros registros pessoais para compreender experiências, trajetórias e significados atribuídos pelos participantes.<br>
+    <strong>Exemplo:</strong> investigar a trajetória de formação de uma professora ou a experiência de estudantes durante a graduação.</li>
+  </ul>
+
+  <ul>
+    <li><strong>Quando utilizar:</strong> é mais adequada quando o interesse está nas experiências vividas pelos participantes e na forma como eles contam e interpretam essas experiências.</li>
+  </ul>
+
+</div>
+</details>
+```
+
+<!-- Aqui encerra o campo de respostas-->
+
+```{=html}
+<fieldset style="margin-bottom: 2em; padding: 1em; border: 2px solid #ccc; border-radius: 10px;">
+  <legend style="font-weight: bold; font-size: 1.1em;">
+    14. Sua pesquisa parte de uma hipótese, isto é, de uma explicação inicial que será verificada ao longo da investigação?
+  </legend>
+
+  <label>
+    <input type="radio" name="q14" value="com_hipotese">
+    Sim, tenho uma hipótese ou explicação inicial que pretendo verificar com os dados da pesquisa.
+  </label><br><br>
+
+  <label>
+    <input type="radio" name="q14" value="sem_hipotese">
+    Não, meu objetivo é principalmente descrever, compreender ou construir explicações a partir dos dados coletados.
+  </label>
+</fieldset>
+```
+
+<!-- Aqui começa o campo de respostas-->
+<details>
+<summary>
+</summary>
+
+```{=html}
+<div style="background-color:#f9f9f9; border-left:4px solid #555; padding:1em; margin:1em 0; font-family:Arial, sans-serif;">
+
+  <p><strong>Hipóteses</strong></p>
+
+  <p>A hipótese é uma possível resposta para o problema de pesquisa. Ela orienta a coleta e a análise dos dados e poderá ser confirmada, rejeitada ou reformulada ao longo da investigação.</p>
+
+  <ul>
+    <li><strong>Pesquisas com hipótese:</strong> partem de uma explicação ou expectativa inicial que será verificada com base nos dados coletados.<br>
+    <strong>Exemplo:</strong> verificar se o uso de mapas mentais melhora o desempenho de estudantes em uma disciplina.</li>
+  </ul>
+
+  <ul>
+    <li><strong>Pesquisas sem hipótese formalizada:</strong> buscam principalmente descrever, compreender ou interpretar fenômenos, permitindo que as explicações sejam construídas durante a análise dos dados.<br>
+    <strong>Exemplo:</strong> compreender as experiências de estudantes ingressantes na universidade por meio de entrevistas.</li>
+  </ul>
+
+</div>
+</details>
+```
+
+<!-- Aqui encerra o campo de respostas-->
+
+```{=html}
+<button onclick="gerarSintese()" style="margin-top: 2em; padding: 10px 20px; font-size: 1em;">Gerar uma síntese metodológica</button>
+
+<div id="sintese" style="margin-top: 2em; padding: 1em; border: 2px solid #ccc; border-radius: 10px; background-color: #f9f9f9;"></div>
+
+<script>
+function gerarSintese() {
+  const respostas = {};
+  for (let i = 1; i <= 14; i++) {
+    const radios = document.getElementsByName("q" + i);
+    for (const radio of radios) {
+      if (radio.checked) {
+        respostas["q" + i] = radio.value;
+        break;
+      }
+    }
+  }
+
+  let texto = "<h3>Síntese inicial do delineamento metodológico</h3>";
+
+  if (respostas.q1 === "basica") {
+    texto += "<p><strong>Finalidade:</strong> pesquisa básica, pois busca ampliar o conhecimento sobre um tema ou fenômeno.</p>";
+  } else if (respostas.q1 === "aplicada") {
+    texto += "<p><strong>Finalidade:</strong> pesquisa aplicada, pois busca contribuir para a solução de um problema concreto ou para a melhoria de uma prática, produto, serviço ou processo.</p>";
+  }
+
+  if (respostas.q2 === "quantitativa") {
+    texto += "<p><strong>Abordagem:</strong> quantitativa, pois utiliza principalmente dados numéricos, medidas ou informações analisáveis estatisticamente.</p>";
+  } else if (respostas.q2 === "qualitativa") {
+    texto += "<p><strong>Abordagem:</strong> qualitativa, pois utiliza principalmente relatos, textos, documentos, experiências, descrições ou interpretações.</p>";
+  } else if (respostas.q2 === "mista") {
+    texto += "<p><strong>Abordagem:</strong> mista, pois combina dados quantitativos e qualitativos.</p>";
+  }
+
+  if (respostas.q3 === "experimental") {
+    texto += "<p><strong>Intervenção:</strong> pesquisa com intervenção, pois pretende modificar uma condição ou aplicar um procedimento para observar efeitos.</p>";
+  } else if (respostas.q3 === "observacional") {
+    texto += "<p><strong>Intervenção:</strong> pesquisa sem intervenção, pois pretende observar, coletar informações ou analisar materiais sem alterar a situação estudada.</p>";
+  }
+
+  if (respostas.q4 === "caso") {
+    texto += "<p><strong>Delineamento possível:</strong> estudo de caso, pois pretende compreender detalhadamente uma pessoa, grupo, organização, comunidade ou situação específica.</p>";
+  }
+
+  if (respostas.q5 === "levantamento") {
+    texto += "<p><strong>Delineamento possível:</strong> levantamento, pois pretende obter informações de um grupo de pessoas por meio de questionários, formulários ou entrevistas.</p>";
+  }
+
+  if (respostas.q6 === "bibliografica") {
+    texto += "<p><strong>Fonte principal dos dados:</strong> pesquisa bibliográfica, baseada em livros, artigos científicos, teses e dissertações já publicados.</p>";
+  } else if (respostas.q6 === "documental") {
+    texto += "<p><strong>Fonte principal dos dados:</strong> pesquisa documental, baseada em documentos, registros, relatórios, leis, notícias, arquivos ou bases de dados.</p>";
+  } else if (respostas.q6 === "campo") {
+    texto += "<p><strong>Fonte principal dos dados:</strong> pesquisa de campo, com coleta direta de informações por meio de questionários, entrevistas, observações ou procedimentos semelhantes.</p>";
+  }
+
+  if (respostas.q7 === "fenomenologica") {
+    texto += "<p><strong>Delineamento possível:</strong> pesquisa fenomenológica, pois busca compreender os significados atribuídos pelos participantes às suas experiências.</p>";
+  }
+
+  if (respostas.q8 === "etnografica") {
+    texto += "<p><strong>Delineamento possível:</strong> pesquisa etnográfica, pois pretende acompanhar práticas, comportamentos e modos de vida de um grupo em seu contexto cotidiano.</p>";
+  }
+
+  if (respostas.q9 === "coorte") {
+    texto += "<p><strong>Delineamento possível:</strong> estudo de coorte, pois pretende acompanhar um grupo ao longo do tempo para observar mudanças, acontecimentos ou resultados.</p>";
+  }
+
+  if (respostas.q10 === "caso_controle") {
+    texto += "<p><strong>Delineamento possível:</strong> estudo caso-controle, pois pretende comparar pessoas ou grupos que apresentam determinada condição com outros que não a apresentam.</p>";
+  }
+
+  if (respostas.q11 === "pesquisa_acao") {
+    texto += "<p><strong>Delineamento possível:</strong> pesquisa-ação, pois pretende compreender um problema real e contribuir para sua solução junto com as pessoas envolvidas.</p>";
+  }
+
+  if (respostas.q12 === "pesquisa_participante") {
+    texto += "<p><strong>Delineamento possível:</strong> pesquisa participante, pois pretende construir a investigação com participação ativa de um grupo ou comunidade.</p>";
+  }
+
+  if (respostas.q13 === "pesquisa_narrativa") {
+    texto += "<p><strong>Delineamento possível:</strong> pesquisa narrativa, pois utiliza relatos, histórias de vida ou experiências pessoais como fonte de dados.</p>";
+  }
+
+  if (respostas.q14 === "com_hipotese") {
+    texto += "<p><strong>Hipótese:</strong> a pesquisa parte de uma explicação inicial que será verificada com os dados.</p>";
+  } else if (respostas.q14 === "sem_hipotese") {
+    texto += "<p><strong>Hipótese:</strong> a pesquisa não precisa partir de uma hipótese formalizada; pode buscar descrever, compreender ou interpretar o fenômeno a partir dos dados.</p>";
+  }
+
+  texto += "<p><strong>Importante:</strong> esta síntese é apenas uma orientação inicial. O delineamento metodológico deve ser ajustado ao problema, aos objetivos, ao referencial teórico e às condições reais de execução da pesquisa.</p>";
+
+  document.getElementById("sintese").innerHTML = texto;
+}
+</script>
+```
+
+<br/><br/>
+
+
+
+## Leitura em foco
+
+::: titulo-nao-numerado
+Cronograma
+:::
+
+::: enfase
+O cronograma será apresentado apenas para fins de conhecimento e planejamento. Ele não comporá o projeto de pesquisa que será entregue nesta etapa.
+:::
+
+<br/>
+
+A seção **Cronograma** do plano de trabalho tem como finalidade demonstrar a viabilidade temporal da proposta, evidenciando que você compreende:
+
+- Quais são as etapas da pesquisa;
+- Em que ordem elas devem ser realizadas;
+- Quanto tempo será necessário para cada etapa;
+- Como o tempo será distribuído entre as diferentes tarefas.
+
+Um cronograma bem elaborado reforça a credibilidade do projeto, pois mostra planejamento, organização e compromisso com a execução da pesquisa.
+
+O cronograma pode ser apresentado como **tabela com meses e atividades**:
+
+```{=html}
+<figure style="text-align: center;">
+  <img src="img/cronograma.png" style="width:80%; display: block; margin: auto;" />
+  <figcaption><strong>Figura 1.</strong> Exemplo de cronograma.</figcaption>
+</figure>
+```
+

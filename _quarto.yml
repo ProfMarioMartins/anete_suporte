@@ -49,7 +49,7 @@ book:
       chapters:
        - Aula_15_justificativa.qmd
        - Aula_16_referencial.qmd
-#      - Aula_17_metodologia.qmd
+       - Aula_17_metodologia.qmd
 #      - Aula_14.qmd
 
     - part: "Tutoriais"
