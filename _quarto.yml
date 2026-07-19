@@ -5,130 +5,110 @@ project:
 language:
   locale: pt
   title-block-author-single: "Professor"
-#  title-block-published: "Publicado em"
-#  title-block-modified: "Atualizado em"
-#  title-block-author-multiple: "Autores"
   callout-tip-title: "Dica"
   callout-note-title: "Nota"
-  toc-title: "Conteúdo da aula"
+  toc-title: "Conteúdo do roteiro"
   labels:
     fig: "Figura"
     tab: "Tabela"
-#    eq: "Equação"
 
 book:
-  title: "Análise e Expressão Textual"
+  title: "ANETE"
   author: "Mário Martins"
+  sidebar:
+    style: docked
+    collapse-level: 1
+    pinned: true
 
   chapters:
-    - part: "Apresentação" # Comentar
+    - index.qmd
+    
+    - part: "Programa"
       chapters:
-      - index.qmd
+        - aulas/programa.qmd
 
     - part: "Unidade I"
       chapters:
-       - Aula_1.qmd # Comentar
-       - Aula_2.qmd
-       - Aula_3_ciencia.qmd
-       - Aula_4.qmd
-       - Aula_5.qmd
-       - Aula_6.qmd
-       - Aula_7.qmd
+        - aulas/Aula_0.qmd
+        - aulas/Aula_1.qmd
+        - aulas/Aula_2.qmd
+        - aulas/Aula_3_ciencia.qmd
+        - aulas/Aula_4.qmd
+        - aulas/Aula_5.qmd
+        - aulas/Aula_6.qmd
+        - aulas/Aula_7.qmd
 
     - part: "Unidade II"
       chapters:
-       - Aula_8_problemapesquisa.qmd
-       - Aula_9_divulgacaocientifica.qmd
-       - Aula_10_artigocientifico.qmd
-       - Aula_11_introducaoartigo.qmd       
-       - Aula_12_resumocientifico.qmd
-       - Aula_13_projetopesquisa.qmd       
-#      - Aula_14.qmd
+        - aulas/Aula_8_problemapesquisa.qmd
+        - aulas/Aula_9_divulgacaocientifica.qmd
+        - aulas/Aula_10_artigocientifico.qmd
+        - aulas/Aula_11_introducaoartigo.qmd
+        - aulas/Aula_12_resumocientifico.qmd
+        - aulas/Aula_13_projetopesquisa.qmd
 
     - part: "Unidade III"
       chapters:
-       - Aula_15_justificativa.qmd
-       - Aula_16_referencial.qmd
-       - Aula_17_metodologia.qmd
-#      - Aula_14.qmd
+        - aulas/Aula_15_justificativa.qmd
+        - aulas/Aula_16_referencial.qmd
+        - aulas/Aula_17_metodologia.qmd
 
     - part: "Tutoriais"
       chapters:
-       - tutorial_lattes.qmd
-       - tutorial_zotero.qmd
-       - tutorial_capes.qmd
-#      - tutorial_tema_pesquisa.qmd
-#      - checklist_postagem.qmd
+        - tutoriais/tutorial_lattes.qmd
+        - tutoriais/tutorial_zotero.qmd
+        - tutoriais/tutorial_capes.qmd
 
     - part: "Modelos"
       chapters:
-#      - modelo_plano.qmd
-       - modelo_relatorio.qmd
-       - modelo_video.qmd
-       - modelo_projetopesquisa.qmd
-#      - modelo_carrossel.qmd
+        - modelos/modelo_relatorio.qmd
+        - modelos/modelo_video.qmd
+        - modelos/modelo_projetopesquisa.qmd
 
     - part: "Avaliações"
       chapters:
-#      - 1_Avaliacao.qmd
-       - avaliacao_segunda_2026_1.qmd
-       - avaliacao_terceira_2026_1.qmd
+        - avaliacoes/avaliacao_segunda_2026_1.qmd
+        - avaliacoes/avaliacao_terceira_2026_1.qmd
 
     - part: "Complementos"
       chapters:
-       - Aula_0.qmd
-       - complemento_painel.qmd
-       - complemento_crono.qmd
-       - complemento_projeto_pesquisa.qmd
-       - complemento_agendamento.qmd
-#      - complemento_guia.qmd
-#      - complemento_checklist_postagem.qmd
-#      - complemento_sorteio.qmd
-#      - complemento_padlet.qmd
-#      - complemento_glossario.qmd
-
-# bibliography: references.bib
+        - complementos/complemento_painel.qmd
+        - complementos/complemento_crono.qmd
+        - complementos/complemento_projeto_pesquisa.qmd
+        - complementos/complemento_agendamento.qmd
 
 format:
   html:
-    page-layout: full
     highlight-style: github
-    theme: 
-      - simplex # Experimente também: flatly, litera, simplex, journal
+    theme:
+      - simplex
+    css: custom.css
+    # include-after-body: custom.html
     toc: true
-    include-after-body: custom.html
+    toc-title: "Índice do roteiro"
+    toc-depth: 3
     callout-appearance: simple
     smooth-scroll: true
-    sidebar:
-      style: "docked"
-      collapse-level: 0
-      pinned: true
-    tools:
-      - toggle
-    css: custom.css
 
 editor: visual
 
+## Fluxo recomendado de atualização
 
-# Como Visualizar o Livro Localmente Antes de Publicar
-# 🟢 1. Renderize o Livro Localmente
-# No terminal do RStudio:
-# quarto render (no terminal)
-# 🟢 2. Pré-visualize o Livro Localmente
-# quarto preview docs (no terminal)
+# Sempre que desejar atualizar o conteúdo do livro/site, siga este procedimento:
 
-# 📋 Roteiro Resumido de Atualizações Finais
-# Sempre que desejar atualizar o conteúdo do livro:
-#	1.	Edite seu .qmd normalmente no RStudio.
-#	2.	Renderize novamente:
-# quarto render (no terminal)
-# Envie ao GitHub:
+# 1.  Edite os arquivos `.qmd` normalmente no RStudio.
+# 2.  Salve as alterações.
+# 3.  Pré-visualize localmente, se quiser acompanhar as mudanças durante a edição:
+
+# quarto preview
+
+# 4.  Quando a versão estiver pronta, renderize o projeto:
+
+# quarto render
+
+# 5.  Verifique se a renderização ocorreu sem erros.
+# 6.  Envie as alterações ao GitHub:
+
 # git add .
-# git commit -m "Atualiza conteúdo das aulas"
+# git commit -m "Atualiza conteúdo do livro"
 # git push origin main
-
-# Avaliação
-# Renderizar para HTML no Quarto
-# quarto render prova_unidade1.qmd
-# Converter para PDF com pagedown no R
-# pagedown::chrome_print("prova_unidade1.html")
