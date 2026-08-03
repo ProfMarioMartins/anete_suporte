@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
+  <title id="title">Textopia_</title>
+  <desc id="desc">Assinatura nominal Textopia com sublinhado verde</desc>
+  <rect width="960" height="240" fill="#FFFFFF"/>
+  <text x="48" y="157" fill="#1F2933" font-family="Inter, Arial, sans-serif" font-size="132" font-weight="700" letter-spacing="-3">Textopia</text>
+  <rect x="776" y="170" width="112" height="18" rx="9" fill="#176B63"/>
+</svg>

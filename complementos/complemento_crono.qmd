@@ -15,39 +15,58 @@ library(googlesheets4)
 library(dplyr)
 library(knitr)
 library(kableExtra)
-library(lubridate)
 
-gs4_deauth()
+googlesheets4::gs4_deauth()
 
-url <- "https://docs.google.com/spreadsheets/d/1C8iaK5cIXu5h20At5pnALHRMY-g716--GfRJEfmHf3M/edit"
-cronograma <- read_sheet(url, sheet = "cronograma_anete") |>
-  mutate(Data = format(as.Date(Data), "%d/%m/%Y"))
+url <- "https://docs.google.com/spreadsheets/d/1C8iaK5cIXu5h20At5pnALHRMY-g716--GfRJEfmHf3M"
 
-kable(
+ler_cronograma <- function(url, aba, tentativas = 3) {
+  for (i in seq_len(tentativas)) {
+    resultado <- try(
+      googlesheets4::read_sheet(
+        ss = url,
+        sheet = aba
+      ),
+      silent = TRUE
+    )
+
+    if (!inherits(resultado, "try-error")) {
+      return(resultado)
+    }
+
+    if (i < tentativas) {
+      Sys.sleep(3 * i)
+    }
+  }
+
+  stop(
+    "Não foi possível acessar a planilha do cronograma após ",
+    tentativas,
+    " tentativas."
+  )
+}
+
+cronograma <- ler_cronograma(
+  url = url,
+  aba = "cronograma_anete"
+) |>
+  filter(if_any(everything(), ~ !is.na(.x))) |>
+  select(where(~ !all(is.na(.x)))) |>
+  mutate(
+    Data = format(as.Date(Data), "%d/%m/%Y")
+  )
+
+knitr::kable(
   cronograma,
   caption = "Cronograma de encontros da disciplina",
-  align = "clll"
+  format = "html",
+  align = c("c", rep("l", ncol(cronograma) - 1))
 ) |>
-  kable_styling(
-    full_width = TRUE,
-    bootstrap_options = c("striped", "hover", "condensed", "responsive"),
-    position = "center",
-    htmltable_class = "cronograma-fixo"
-  ) |>
-  column_spec(1, width = "7em",  bold = TRUE) |>
-  column_spec(2, width = "22em") |>
-  column_spec(3, width = "20em") |>
-  column_spec(4, width = "28em") |>
-  row_spec(
-    0,
-    extra_css = "white-space: normal; overflow-wrap: anywhere; word-break: break-word;"
-  ) |>
-  row_spec(
-    1:nrow(cronograma),
-    extra_css = "white-space: normal; overflow-wrap: anywhere; word-break: break-word; vertical-align: top;"
-  ) |>
   kableExtra::kable_styling(
-    latex_options = NULL,
+    full_width = TRUE,
+    bootstrap_options = c("striped", "hover", "condensed"),
+    position = "center",
+    htmltable_class = "cronograma-fixo",
     font_size = 13
   )
 ```

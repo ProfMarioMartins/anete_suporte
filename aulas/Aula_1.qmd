@@ -653,7 +653,7 @@ Publicação no Currículo Lattes
 
 Depois de elaborar o seu texto:
 
-1.  Acesse o tutorial de preenchimento do [Currículo Lattes]("../tutorial_lattes.qmd") e siga as instruções para criar ou atualizar o seu Currículo Lattes.
+1.  Acesse o tutorial de preenchimento do [Currículo Lattes](%22../tutorial_lattes.qmd%22) e siga as instruções para criar ou atualizar o seu Currículo Lattes.
 
 2.  Insira o texto de apresentação que você escreveu no campo correspondente do currículo.
 

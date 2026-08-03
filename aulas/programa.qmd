@@ -12,31 +12,52 @@ Abordar os paradigmas textuais e científicos na produção da escrita científi
 Objetivos
 :::
 
-Promover o desenvolvimento da competência comunicativa dos estudantes no contexto acadêmico, por meio da leitura crítica, da análise linguística e da produção de gêneros acadêmicos, com ênfase na escrita científica e na elaboração de planos de trabalho.
+Promover o desenvolvimento da **competência comunicativa** dos estudantes no contexto acadêmico, por meio da leitura crítica, da análise linguística e da produção de diferentes gêneros de comunicação científica.
 
-Competência comunicativa é a capacidade de um indivíduo usar a língua de forma eficaz e apropriada em diferentes contextos de comunicação. Esse conceito vai além do simples domínio das regras gramaticais, englobando também o conhecimento dos usos sociais da linguagem, a adequação ao contexto, a capacidade de interpretar e produzir enunciados coerentes e coesos, e de compreender as intenções dos interlocutores.
+**Competência comunicativa** é a capacidade de um indivíduo usar a língua de forma eficaz e apropriada em diferentes contextos de comunicação. Esse conceito vai além do simples domínio das regras gramaticais, englobando também o conhecimento dos usos sociais da língua, a adequação ao contexto, a capacidade de interpretar e produzir enunciados coerentes e coesos, e de compreender as intenções dos interlocutores.
 
 ::: titulo-nao-numerado
 Conteúdo programático
 :::
 
 ::: subtitulo-nao-numerado
-Unidade I – O mundo acadêmico e o fazer científico
+Unidade I – Ciência e pensamento científico
 :::
 
-Fundamentos da vida universitária, da ciência e da escrita acadêmica • O sistema acadêmico brasileiro: estrutura e funcionamento • Pensamento científico • Fato, opinião e argumentação na escrita acadêmica • A linguagem da ciência: características da escrita acadêmica • Gêneros acadêmicos e o plano de trabalho como gênero institucional • Como fazer citação e referência (normas ABNT) • Introdução à consciência linguística: problemas da Olimpíada Brasileira de Linguística (OBL) • Aspectos gramaticais: colocação pronominal e concordância verbal
+* O sistema acadêmico brasileiro e a vida universitária
+* Produção e circulação do conhecimento científico
+* Conhecimento científico, senso comum e opinião
+* Pensamento científico e formulação de problemas
+* Argumentação: afirmações, premissas, conclusões e tipos de enunciados
+* Critérios para avaliação de argumentos
+* Linguagem científica: objetividade, credibilidade e autoridade
 
 ::: subtitulo-nao-numerado
-Unidade II – Leitura, escrita e estilo na produção científica
+Unidade II – Comunicação acadêmica escrita
 :::
 
-Desenvolvimento das competências de leitura, argumentação e escrita científica • Leitura inspecional e averiguativa de textos científicos • Fontes confiáveis e estratégias de busca de informação • Fichamento e revisão de literatura • Coesão e coerência textual • Citações diretas e indiretas; paráfrase e verbos dicendi • Estratégias de argumentação e estilo na escrita acadêmica • Problemas da OBL e atividades de reflexão linguística • Aspectos gramaticais: pontuação e acentuação
+* Gêneros textuais acadêmicos e seus propósitos comunicativos
+* Leitura crítica de textos científicos
+* Fontes de informação e estratégias de busca bibliográfica
+* Paráfrase, resumo, fichamento e revisão de literatura
+* Estratégias argumentativas na escrita acadêmica
+* Coesão, coerência e progressão textual
+* Divulgação científica para públicos especializados e não especializados
+* Produção, revisão e reescrita de textos acadêmicos
+
 
 ::: subtitulo-nao-numerado
-Unidade III – Produção do plano de trabalho
+Unidade III – Projeto de pesquisa
 :::
 
-Aplicação prática dos conhecimentos na redação de um gênero acadêmico institucional • Etapas do projeto científico e estrutura do plano de trabalho • A justificativa e os objetivos do projeto • Referencial teórico, metodologia e cronograma • Redação clara, concisa e objetiva • Revisão e reescrita com base em critérios técnicos • Avaliação final: entrega do plano de trabalho • Atividades de revisão com base nos objetivos e problemas da OBL • Diagnóstico linguístico final e autoavaliação do progresso
+* O projeto de pesquisa como gênero acadêmico-científico
+* Delimitação do tema e formulação do problema de pesquisa
+* Objetivos, justificativa e hipóteses
+* Referencial teórico e revisão da literatura
+* Metodologia, cronograma e plano de execução
+* Redação científica: clareza, precisão e objetividade
+* Revisão e aperfeiçoamento do projeto
+* Elaboração do plano de trabalho conforme editais de iniciação científica
 
 ::: titulo-nao-numerado
 Competências e habilidades
@@ -44,63 +65,61 @@ Competências e habilidades
 
 | Competência | Habilidades |
 |------------------------------------|------------------------------------|
+| Avaliar criticamente argumentos, evidências e fontes de informação utilizados na produção do conhecimento científico. | \-     Identificar a tese, as premissas e a conclusão em textos argumentativos.<br>-     Analisar a consistência lógica de argumentos e a pertinência das evidências apresentadas. |
 | Utilizar a linguagem com clareza, precisão e adequação nos contextos acadêmicos. | \- Reconhecer diferentes registros linguísticos e níveis de formalidade.<br>- Utilizar a norma-padrão da língua portuguesa em situações de comunicação acadêmica. |
 | Ler, compreender e interpretar textos acadêmicos de diferentes gêneros. | \- Identificar a organização composicional e os propósitos comunicativos dos gêneros acadêmicos.<br>- Desenvolver estratégias de leitura crítica e analítica. |
 | Produzir textos acadêmicos adequados aos gêneros e às normas científicas. | \- Elaborar textos com coesão e coerência.<br>- Aplicar corretamente normas de citação e referência (ABNT).<br>- Planejar, redigir e revisar textos científicos. |
 | Mobilizar conhecimentos linguísticos, discursivos e culturais na leitura e na produção de textos. | \- Analisar os efeitos de sentido produzidos por escolhas linguísticas e discursivas.<br>- Reconhecer e empregar marcas de intertextualidade e argumentação nos textos. |
 | Desenvolver autonomia na produção científica e no uso das tecnologias da informação. | \- Utilizar ferramentas digitais para organização da pesquisa e produção textual.<br>- Elaborar um plano de trabalho segundo os critérios de projetos de iniciação científica. |
-| Ampliar a consciência linguística a partir da reflexão sobre o funcionamento da língua. | \- Resolver problemas linguísticos com base em conhecimentos gramaticais.<br>- Analisar fatos linguísticos em contextos reais de uso. |
 
 ::: titulo-nao-numerado
 Metodologia
 :::
 
-A disciplina adota uma abordagem ativa e interdisciplinar, com atividades práticas, estudos de caso, quizzes interativos, resolução de problemas da Olimpíada Brasileira de Linguística (OBL), exercícios de gramática, produção textual orientada, leitura e análise de textos e o uso de ferramentas digitais, como editores de texto com revisão automática e chats de IA para promover a revisão crítica da escrita.
+A disciplina adota uma abordagem ativa e interdisciplinar, combinando exposição dialogada, resolução de problemas, oficinas de escrita, leitura orientada e produção colaborativa.
 
 ::: titulo-nao-numerado
 Avaliação
 :::
 
-Avaliação final (40%): Produção de um plano de trabalho nos moldes exigidos em editais de iniciação científica (Pibic).
+A avaliação da disciplina será processual e organizada em três etapas, correspondentes às unidades do curso. Cada instrumento avaliativo foi planejado para acompanhar o desenvolvimento progressivo das competências previstas para a respectiva unidade.
 
-Três provas objetivas (3 x 20%): Realizadas ao final de cada unidade.
-
-Plano de trabalho: seções esperadas
-
-```         
-•   Identificação
-•   Introdução e Justificativa
-•   Objetivos
-•   Geral
-•   Específicos
-•   Metodologia
-•   Habilidades desenvolvidas
-•   Referências bibliográficas
-```
+| Unidade | Avaliação | Peso |
+|---------|-----------|------:|
+| Unidade I | Prova escrita (questões objetivas e discursivas) | 30% |
+| Unidade II | Produção de uma mídia de divulgação científica | 30% |
+| Unidade III | Elaboração de um projeto de pesquisa | 30% |
+| Participação e atividades desenvolvidas ao longo do semestre | Exercícios, quizzes, oficinas de escrita, atividades em sala e estudos dirigidos | 10% |
 
 ::: titulo-nao-numerado
-Bibliografia básica
+Bibliografia 
 :::
 
-APPOLINÁRIO, Fabio; GIL, Isaac. Como escrever um texto científico. 1ª ed. \[S. l.\]: Trevisan Editora, 2013. Disponível em: https://bookshelf.vitalsource.com/books/9788599519493.
+ABNT. **NBR 10520:2023**. *Informação e documentação — Citações em documentos — Apresentação*. Rio de Janeiro: ABNT, 2023.
 
-CASTRO, Nádia Studzinski Estima de et al. Leitura e escrita acadêmicas. Porto Alegre: Sagah, 2019. Disponível em: https://bookshelf.vitalsource.com/books/9788533500228.
+ABNT. **NBR 6023:2018**. *Informação e documentação — Referências — Elaboração*. Rio de Janeiro: ABNT, 2018.
 
-VIEIRA, Francisco Eduardo; FARACO, Carlos Alberto. Escrever na Universidade 1 - Fundamentos. 1ª ed. \[S. l.\]: Parábola Editorial, 2019.
+APPOLINÁRIO, Fabio; GIL, Isaac. *Como escrever um texto científico*. 1. ed. São Paulo: Trevisan Editora, 2013.
 
-::: titulo-nao-numerado
-Bibliografia complementar
-:::
+BACCHI, André Demambre. *Afinal o que é ciência?... e o que não é*. São Paulo: Contexto, 2024.
 
-ABNT NBR 10520:2023. Informação e documentação – Citações em documentos – Apresentação. Rio de Janeiro: ABNT, 2023.
+CARNIELLI, Walter A.; EPSTEIN, Richard L. *Pensamento crítico: o poder da lógica e da argumentação*. 5. ed. São Paulo: Rideel, 2023.
 
-ABNT NBR 6023:2018. Informação e documentação – Referências – Elaboração. Rio de Janeiro: ABNT, 2018.
+CASTRO, Nádia Studzinski Estima de et al. *Leitura e escrita acadêmicas*. Porto Alegre: Sagah, 2019.
 
-CUNHA, Celso; CINTRA, Lindley. Nova gramática do português contemporâneo. 7. ed. Rio de Janeiro: Lexikon, 2019. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: 02 abr. 2025.
+CUNHA, Celso; CINTRA, Lindley. *Nova gramática do português contemporâneo*. 7. ed. Rio de Janeiro: Lexikon, 2019.
 
-FERRAREZZI JÚNIOR, Celso. Guia do trabalho científico: do projeto à redação final. 1ª ed. \[S. l.\]: Contexto, 2011. Disponível em: https://bookshelf.vitalsource.com/books/9788572447638.
+FERRAREZZI JÚNIOR, Celso. *Guia do trabalho científico: do projeto à redação final*. 1. ed. São Paulo: Contexto, 2011.
 
-MENDES, Gilmar Ferreira; FOSTER JÚNIOR, Nestor José. Manual de redação da Presidência da República. rev. atual. Brasília: Presidência da República, 2002. Disponível em: https://www4.planalto.gov.br/centrodeestudos/assuntos/manual-de-redacao-da-presidencia-da-republica/manual-de-redacao.pdf#page=12.08.
+GIL, Antonio Carlos. *Como elaborar projetos de pesquisa*. 7. ed. São Paulo: Atlas, 2022.
+
+KOCHË, José Carlos. *Fundamentos de metodologia científica: teoria da ciência e iniciação à pesquisa*. Petrópolis: Vozes, 2015.
+
+MEDEIROS, João Bosco; TOMASI, Carolina. *Redação de artigos científicos: métodos de realização, seleção de periódicos, publicação*. 2. ed. São Paulo: Atlas, 2022.
+
+MENDES, Gilmar Ferreira; FOSTER JÚNIOR, Nestor José. *Manual de redação da Presidência da República*. Brasília, DF: Presidência da República, 2002.
+
+MOTTA-ROTH, Désirée; HENDGES, Graciela Rabuske. *Produção textual na universidade*. São Paulo: Parábola, 2018.
 
 Outras obras poderão ser usadas na disciplina.
 
@@ -125,5 +144,5 @@ url <- "https://docs.google.com/spreadsheets/d/1C8iaK5cIXu5h20At5pnALHRMY-g716--
 cronograma <- read_sheet(url, sheet = "cronograma_anete")
 
 # Exibe a tabela com legenda
-kable(cronograma, caption = "Encontros")
+knitr::kable(cronograma, caption = "Encontros")
 ```

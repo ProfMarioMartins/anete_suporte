@@ -7,7 +7,6 @@ language:
   title-block-author-single: "Professor"
   callout-tip-title: "Dica"
   callout-note-title: "Nota"
-  toc-title: "Conteúdo do roteiro"
   labels:
     fig: "Figura"
     tab: "Tabela"
@@ -15,67 +14,86 @@ language:
 book:
   title: "ANETE"
   author: "Mário Martins"
+
+  search:
+    location: sidebar
+    type: textbox
+
   sidebar:
     style: docked
     collapse-level: 1
     pinned: true
 
+  navbar:
+    pinned: true
+    title: "ANETE"
+    background: "#ffffff"
+    foreground: "#1C2B4A"
+    left:
+      - text: "Análise e Expressão Textual"
+
+  page-footer:
+    right: |
+      <img src="/img/logo_ufersa.png"
+           alt="Logotipo da UFERSA"
+           class="logo-rodape">
+
   chapters:
     - index.qmd
-    
+
     - part: "Programa"
       chapters:
         - aulas/programa.qmd
 
     - part: "Unidade I"
       chapters:
-        - aulas/Aula_0.qmd
+        #- aulas/Aula_0.qmd
         - aulas/Aula_1.qmd
-        - aulas/Aula_2.qmd
-        - aulas/Aula_3_ciencia.qmd
-        - aulas/Aula_4.qmd
-        - aulas/Aula_5.qmd
-        - aulas/Aula_6.qmd
-        - aulas/Aula_7.qmd
+        #- aulas/Aula_2.qmd
+        #- aulas/Aula_3_ciencia.qmd
+        #- aulas/Aula_4.qmd
+        #- aulas/Aula_5.qmd
+        #- aulas/Aula_6.qmd
+        #- aulas/Aula_7.qmd
 
-    - part: "Unidade II"
-      chapters:
-        - aulas/Aula_8_problemapesquisa.qmd
-        - aulas/Aula_9_divulgacaocientifica.qmd
-        - aulas/Aula_10_artigocientifico.qmd
-        - aulas/Aula_11_introducaoartigo.qmd
-        - aulas/Aula_12_resumocientifico.qmd
-        - aulas/Aula_13_projetopesquisa.qmd
+    #- part: "Unidade II"
+      #chapters:
+        #- aulas/Aula_8_problemapesquisa.qmd
+        #- aulas/Aula_9_divulgacaocientifica.qmd
+        #- aulas/Aula_10_artigocientifico.qmd
+        #- aulas/Aula_11_introducaoartigo.qmd
+        #- aulas/Aula_12_resumocientifico.qmd
+        #- aulas/Aula_13_projetopesquisa.qmd
 
-    - part: "Unidade III"
-      chapters:
-        - aulas/Aula_15_justificativa.qmd
-        - aulas/Aula_16_referencial.qmd
-        - aulas/Aula_17_metodologia.qmd
+    #- part: "Unidade III"
+      #chapters:
+        #- aulas/Aula_15_justificativa.qmd
+        #- aulas/Aula_16_referencial.qmd
+        #- aulas/Aula_17_metodologia.qmd
 
-    - part: "Tutoriais"
-      chapters:
-        - tutoriais/tutorial_lattes.qmd
-        - tutoriais/tutorial_zotero.qmd
-        - tutoriais/tutorial_capes.qmd
+    #- part: "Tutoriais"
+      #chapters:
+        #- tutoriais/tutorial_lattes.qmd
+        #- tutoriais/tutorial_zotero.qmd
+        #- tutoriais/tutorial_capes.qmd
 
-    - part: "Modelos"
-      chapters:
-        - modelos/modelo_relatorio.qmd
-        - modelos/modelo_video.qmd
-        - modelos/modelo_projetopesquisa.qmd
+    #- part: "Modelos"
+      #chapters:
+        #- modelos/modelo_relatorio.qmd
+        #- modelos/modelo_video.qmd
+        #- modelos/modelo_projetopesquisa.qmd
 
-    - part: "Avaliações"
-      chapters:
-        - avaliacoes/avaliacao_segunda_2026_1.qmd
-        - avaliacoes/avaliacao_terceira_2026_1.qmd
+    #- part: "Avaliações"
+      #chapters:
+        #- avaliacoes/avaliacao_segunda_2026_1.qmd
+        #- avaliacoes/avaliacao_terceira_2026_1.qmd
 
     - part: "Complementos"
       chapters:
-        - complementos/complemento_painel.qmd
+        #- complementos/complemento_painel.qmd
         - complementos/complemento_crono.qmd
-        - complementos/complemento_projeto_pesquisa.qmd
-        - complementos/complemento_agendamento.qmd
+        #- complementos/complemento_projeto_pesquisa.qmd
+        #- complementos/complemento_agendamento.qmd
 
 format:
   html:
@@ -83,7 +101,6 @@ format:
     theme:
       - simplex
     css: custom.css
-    # include-after-body: custom.html
     toc: true
     toc-title: "Índice do roteiro"
     toc-depth: 3
@@ -91,24 +108,3 @@ format:
     smooth-scroll: true
 
 editor: visual
-
-## Fluxo recomendado de atualização
-
-# Sempre que desejar atualizar o conteúdo do livro/site, siga este procedimento:
-
-# 1.  Edite os arquivos `.qmd` normalmente no RStudio.
-# 2.  Salve as alterações.
-# 3.  Pré-visualize localmente, se quiser acompanhar as mudanças durante a edição:
-
-# quarto preview
-
-# 4.  Quando a versão estiver pronta, renderize o projeto:
-
-# quarto render
-
-# 5.  Verifique se a renderização ocorreu sem erros.
-# 6.  Envie as alterações ao GitHub:
-
-# git add .
-# git commit -m "Atualiza conteúdo do livro"
-# git push origin main

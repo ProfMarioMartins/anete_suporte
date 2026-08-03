@@ -20,44 +20,43 @@ Aqui você encontrará roteiros de aula, tutoriais, modelos e materiais compleme
 Organização
 :::
 
-Este livro digital está organizado em módulos, como se descrevem abaixo:
-
-::: subtitulo-nao-numerado
-Sistema de busca
-:::
-
-O livro digital conta com um sistema de busca, localizado no menu lateral esquerdo, que permite localizar rapidamente aulas, conceitos, modelos, orientações e materiais complementares por meio de palavras-chave.
+Este livro digital está organizado em módulos conceituais, como se apresentam abaixo:
 
 ::: subtitulo-nao-numerado
 Unidades
 :::
 
-Apresentam os roteiros das aulas das três unidades do semestre letivo. Os conteúdos serão disponibilizados gradualmente ao longo do semestre.
+Incluem os roteiros das aulas das três unidades do semestre letivo. Os conteúdos serão disponibilizados gradualmente ao longo do semestre.
 
 ::: subtitulo-nao-numerado
 Tutoriais
 :::
 
-Reúnem orientações práticas sobre ferramentas acadêmicas e institucionais úteis à formação universitária.
+Reúnem orientações práticas sobre ferramentas úteis à formação universitária.
 
 ::: subtitulo-nao-numerado
 Modelos
 :::
 
-Disponibilizam estruturas e exemplos de gêneros e produtos acadêmicos trabalhados na disciplina.
+Disponibilizam estruturas e exemplos de gêneros acadêmicos trabalhados na disciplina.
 
 ::: subtitulo-nao-numerado
 Avaliações
 :::
 
-Apresentam orientações e instrumentos avaliativos utilizados ao longo do semestre.
+Apresentam orientações sobre os instrumentos de avaliação utilizados ao longo do semestre.
 
 ::: subtitulo-nao-numerado
 Complementos
 :::
 
-Reúnem materiais auxiliares, cronogramas, painéis, guias e orientações adicionais.
+Reúnem materiais auxiliares, cronogramas, painéis, guias, entre outros.
 
+::: subtitulo-nao-numerado
+Busca
+:::
+
+O livro digital conta com um sistema de busca, localizado no menu lateral esquerdo, que permite localizar rapidamente aulas, conceitos, modelos, orientações e materiais complementares por meio de palavras-chave.
 
 ::: titulo-nao-numerado
 Orientações aos estudantes
@@ -81,15 +80,15 @@ Uso de dispositivos eletrônicos
 
 O uso de celular, computador ou tablet é permitido exclusivamente para a realização das atividades da disciplina e mediante orientação do professor.
 
-Durante a aula, os dispositivos eletrônicos devem permanecer guardados, salvo quando seu uso for solicitado pelo professor.
+Durante a aula, os dispositivos eletrônicos devem permanecer guardados e em modo silencioso ou desligados, salvo quando seu uso for solicitado pelo professor.
 
 ::: subtitulo-nao-numerado
 Uso de inteligência artificial
 :::
 
-O uso de ferramentas de inteligência artificial poderá ser permitido em atividades específicas, desde que orientado pelo professor e realizado de forma ética, crítica e transparente.
+O uso de ferramentas de inteligência artificial é permitido em atividades específicas, desde que orientado pelo professor e realizado de forma ética, crítica e transparente.
 
-Modelos de linguagem (como ChatGPT, Claude e DeepSeek) não devem substituir a autoria do estudante nem ser utilizados para apresentar como própria uma produção textual elaborada integralmente por sistemas de inteligência artificial. Quando indicado pelo professor, essas ferramentas poderão ser utilizadas como apoio ao planejamento, à organização de ideias, à revisão textual, ao aprimoramento da clareza da escrita e à reflexão sobre o próprio processo de produção textual.
+Modelos de linguagem (como ChatGPT, Claude e DeepSeek) não devem substituir a autoria do seu texto, nem ser utilizados para apresentar como própria uma produção textual elaborada integralmente por sistemas de inteligência artificial. Quando indicado pelo professor, essas ferramentas serão utilizadas como apoio ao planejamento, à organização de ideias, à revisão textual, ao aprimoramento da clareza da escrita e à reflexão sobre o próprio processo de produção textual.
 
 Sempre que ferramentas de inteligência artificial forem utilizadas na realização de uma atividade, você deverá declarar esse uso.
 

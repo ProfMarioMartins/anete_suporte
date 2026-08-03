@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Símbolo Textopia_</title>
+  <desc id="desc">Letra T escura sobre campo claro com sublinhado verde</desc>
+  <rect width="256" height="256" rx="40" fill="#F5F7FA"/>
+  <text x="54" y="174" fill="#1F2933" font-family="Inter, Arial, sans-serif" font-size="150" font-weight="700">T</text>
+  <rect x="150" y="184" width="58" height="14" rx="7" fill="#176B63"/>
+</svg>

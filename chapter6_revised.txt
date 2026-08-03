@@ -1,0 +1,222 @@
+6. Arquitetura linguística e critérios de análise do Textopia_
+
+6.1 Finalidade, escopo e caráter normativo
+
+Este capítulo descreve como o Textopia_ transforma concepções linguísticas e pedagógicas em contexto operacional para revisão e avaliação. A arquitetura representa texto, gênero, Configuração Contextual, critérios, categorias, aplicabilidade e evidências de modo versionado, rastreável e compatível com a agência do estudante.
+
+Os fundamentos conceituais são estabelecidos no capítulo 1; a ação pedagógica, no capítulo 2; o funcionamento da plataforma, no capítulo 3; a infraestrutura técnica, no capítulo 4; e o fluxo da revisão, no capítulo 5. O Anexo técnico C é a fonte canônica das taxonomias, critérios, categorias, gêneros e mapeamentos. Este capítulo explica seu sentido e suas invariantes, sem manter listas normativas paralelas. Formatos, códigos, versões, estados e esquemas executáveis são regidos pelos anexos vigentes.
+
+A precedência é: princípios pedagógicos e proteção da autoria; anexos técnicos canônicos; configuração publicada da atividade; instruções docentes compatíveis; e escolhas do mecanismo automatizado. Conflitos não resolvidos geram abstenção e registro da limitação.
+
+6.2 Concepção operacional de texto
+
+No Textopia_, texto é língua funcionando em contexto: uma unidade de uso que desempenha papel em uma situação social. Sua análise considera textura e estrutura. A textura compreende os recursos que produzem continuidade e unidade interna; a estrutura compreende a organização global que permite reconhecer o texto como exemplar de determinado gênero.
+
+A arquitetura não reduz o texto a uma sequência de sentenças independentes. Palavra, sintagma, oração, sentença, parágrafo, seção e texto completo são unidades relacionadas. A segmentação técnica identifica os alvos, mas o diagnóstico considera o contexto necessário e registra seu alcance.
+
+Nenhuma propriedade linguística é interpretada isoladamente da versão textual, do gênero, da situação comunicativa, da atividade, dos interlocutores e da variedade linguística autorizada.
+
+6.3 Concepção operacional de gênero
+
+Gênero é uma família de registros reconhecida por seu Potencial de Estrutura Generalizada, ou GSP. O GSP representa os elementos obrigatórios que caracterizam o gênero, os elementos opcionais, os elementos iterativos, suas ordenações admissíveis e as condições contextuais de realização.
+
+O gênero é determinado pela Configuração Contextual: Campo, que representa a atividade social e o assunto em curso; Relação, que representa participantes, papéis e relações; e Modo, que representa o papel da língua, o canal e a organização retórica. A escolha docente do gênero é confirmada na configuração publicada e não é inferida silenciosamente do texto.
+
+O catálogo canônico registra identidade e descrição do gênero e referencia uma especificação versionada de GSP e os valores ou restrições contextuais pertinentes. Diferenças entre gêneros próximos são expressas por elementos, funções e configurações, não apenas por nomes editoriais.
+
+6.4 Objetos da arquitetura linguística
+
+Taxonomia: artefato versionado que reúne critérios e categorias reconhecidos.
+
+Critério: aspecto linguístico-pedagógico observável, identificado por código estável e acompanhado de definição, dimensão, alcance, aplicabilidade, exclusões, requisitos de evidência e estado.
+
+Categoria: tipo operacional de achado vinculado a exatamente um critério na versão declarada. Pode classificar intervenção sentencial ou achado global, conforme o alcance autorizado.
+
+Catálogo de gêneros: repertório versionado dos gêneros selecionáveis.
+
+Especificação de gênero: registro do GSP, da Configuração Contextual e das condições que sustentam a análise de adequação ao gênero.
+
+Mapeamento gênero–taxonomia: relação versionada que declara critérios mapeados, condições de aplicabilidade e perfis pertinentes ao gênero.
+
+Configuração linguístico-pedagógica da atividade: publicação imutável que fixa versões, gênero, contexto, seleção docente, políticas e momento formativo.
+
+Taxonomia autorizada: payload final resolvido pelo backend para uma execução, com critérios efetivos, categorias vinculadas, regras relevantes e checksum.
+
+6.5 Metadados canônicos de critérios
+
+Cada critério possui, conforme o contrato vigente, code, name, description, dimension, analysisUnit, scope, applicability, exclusions, evidenceRequirements, sourceRequirements, priorityPolicy, status e version ou vínculo inequívoco à taxonomyVersion. A definição delimita o que pode ser diagnosticado e o que não pode.
+
+analysisUnit indica as unidades que podem fornecer evidência. scope distingue alcance sentencial, suprassentencial, global ou dependente de fonte. applicability registra gêneros, elementos do GSP, objetivos e condições pertinentes. exclusions evita aplicações por semelhança superficial. sourceRequirements identifica critérios que só podem ser aplicados quando a fonte ou os dados necessários forem fornecidos.
+
+As dimensões organizam o catálogo, mas não substituem o alcance analítico. Termos como discursiva, conteúdo, textual, argumentativa, analítica, pesquisa, reflexiva, estilo, gramatical e lexical são códigos controlados da versão canônica; não são criados pelo capítulo ou pelo modelo.
+
+6.6 Metadados canônicos de categorias
+
+Cada categoria possui code, name, criterionCode, description, observablePattern, scope, exclusions, status e vínculo à taxonomyVersion. criterionCode é obrigatório e não pode mudar de significado entre versões. Uma categoria só é autorizada quando seu critério também integra effectiveCriterionCodes.
+
+A categoria caracteriza o tipo de ocorrência; não substitui o diagnóstico contextualizado. observablePattern indica o padrão mínimo identificável, enquanto exclusions diferencia ocorrências semelhantes que não justificam o código.
+
+Se nenhuma categoria autorizada representar adequadamente a ocorrência, o mecanismo se abstém. Categoria e critério não são usados por aproximação, e códigos não são inventados, reutilizados com outro significado ou migrados silenciosamente.
+
+6.7 Tipologia linguístico-pedagógica dos achados
+
+Erro verificável é incompatibilidade demonstrável com convenção aplicável ao contexto declarado.
+
+Inadequação ao gênero ou à atividade é desajuste entre escolhas textuais e gênero, GSP, Configuração Contextual, objetivos, instruções ou interlocutores.
+
+Ambiguidade ocorre quando leituras concorrentes relevantes não podem ser resolvidas com segurança pelo contexto disponível.
+
+Limitação de desenvolvimento é insuficiência de elaboração, sustentação, articulação ou progressão explicável pelo texto, sem atribuir deficiência ao estudante.
+
+Possibilidade opcional de aprimoramento é alternativa não obrigatória que pode ampliar clareza, precisão ou eficácia e não deve ser apresentada como erro.
+
+Problema observável é ocorrência textual identificável, relacionada a critério autorizado e cujo efeito pode ser explicado com base no texto e na atividade. Evidência positiva é realização adequada ou progresso sustentado pelo texto. Ausência de problema, ausência de contexto e abstenção são resultados distintos.
+
+6.8 Alcance e unidades da devolutiva
+
+Intervenção sentencial registra problema observável sustentado por exatamente uma sentença existente na segmentação canônica. Reproduz o conteúdo literal e referencia sentenceId, critério e categoria autorizados.
+
+Achado global estruturado registra fenômeno que depende de relações entre sentenças, parágrafos, seções ou partes maiores. É armazenado em achadosGlobais com id, criterioCodigo, categoriaCodigo, sentenceIds, diagnostico, orientacao, prioridade e confianca.
+
+Feedback global sintetizador reúne pontos fortes, prioridades, comentário final e limitações. feedbackGlobal não recebe nem substitui diagnósticos suprassentenciais estruturados.
+
+revisionScope igual a sentence restringe o alvo das intervenções localizadas; não elimina achadosGlobais. Cada critério e categoria declara os alcances em que pode operar, e a validação impede que fenômeno global seja comprimido artificialmente em uma sentença.
+
+6.9 GSP, elementos textuais e critérios condicionais
+
+Cada especificação de gênero identifica os elementos do GSP por elementCode, função, obrigatoriedade, repetibilidade, ordem possível, condições contextuais e unidades textuais que podem realizá-lo. O sistema registra a correspondência proposta entre segmentos e elementos sem transformar essa classificação em verdade incontestável.
+
+Critérios condicionais somente se tornam aplicáveis quando o gênero, o elemento do GSP, a atividade e o texto fornecem as condições necessárias. Conclusão, contra-argumentação, método, resultados, discussão, fidelidade a fonte e outras exigências não são presumidos para todo texto.
+
+Ausência de elemento obrigatório pode fundamentar achado global; ausência de elemento opcional não constitui problema por si mesma. A arquitetura distingue ausência estrutural de dificuldade de localizar o elemento, aplicando confiança e abstenção.
+
+6.10 Configuração Contextual e adequação
+
+A atividade publicada registra contextualConfiguration com Campo, Relação e Modo, além de objetivos, instruções, interlocutores, finalidade, variedade linguística e momento formativo. Esses dados são validados antes da análise e vinculados à mesma publicação da atividade usada na submissão.
+
+Adequação depende da relação entre escolhas linguísticas e esse contexto. Registro formal não é valor universal, e diferenças linguísticas não são automaticamente classificadas como erro, deficiência ou baixa capacidade. Prescrições normativas são contextualizadas pelo gênero e pela finalidade acadêmica.
+
+Quando a configuração é insuficiente para sustentar um diagnóstico, o sistema não completa valores por inferência. Registra a limitação, reduz a confiança ou se abstém conforme a política publicada.
+
+6.11 Mapeamento gênero–taxonomia
+
+O mapeamento declara version, genreCatalogVersion, genreId, genreSpecificationVersion, taxonomyVersion, mappedCriterionCodes, applicabilityOverrides, status, publishedAt e hash. Perfis podem reduzir repetição editorial, mas o resultado canônico é uma lista explícita e auditável por gênero.
+
+Cada critério mapeado possui justificativa linguístico-pedagógica e, quando necessário, condições por elemento do GSP. O mapeamento não torna todos os critérios obrigatórios em toda atividade nem autoriza automaticamente todas as categorias.
+
+As categorias elegíveis são derivadas dos critérios efetivos e de seus vínculos canônicos. Perfis amplos não substituem seleção docente, momento formativo, objetivos ou limites de intervenção.
+
+6.12 Seleção docente e cálculo dos critérios efetivos
+
+A configuração da atividade contém enabledCriterionCodes e, quando necessário, disabledCriterionCodes. O backend calcula:
+
+effectiveCriterionCodes = (mappedCriterionCodes ∩ enabledCriterionCodes) − disabledCriterionCodes.
+
+Quando enabledCriterionCodes estiver legitimamente ausente, aplica-se a política canônica publicada, que pode usar o conjunto mapeado. disabledCriterionCodes não habilita códigos e deve pertencer ao universo mapeado. O resultado vazio bloqueia a execução antes de chamada ao modelo.
+
+As categorias autorizadas são exatamente aquelas cujo criterionCode pertença a effectiveCriterionCodes e que satisfaçam status, alcance e condições de aplicabilidade. O payload registra a ordem determinística, a seleção docente e todas as versões que produziram o resultado.
+
+6.13 Resolução determinística do contexto
+
+• carregar ActivityPublication e ActivityConfiguration imutáveis e validar version e hashes;
+• validar gênero, GSP, Configuração Contextual, seleção docente e momento formativo;
+• recuperar catálogo, especificação de gênero, taxonomia e mapeamento cujas versões coincidam integralmente;
+• calcular effectiveCriterionCodes e derivar as categorias vinculadas;
+• aplicar condições de alcance, elemento do GSP, fonte e atividade;
+• construir AUTHORIZED_TAXONOMY em ordem canônica;
+• calcular checksum sobre conteúdo normalizado, versões, hashes, seleção docente, políticas e algoritmo de resolução;
+• vincular o contexto a activityPublicationId e textVersionId;
+• interromper em caso de ausência, conflito, incompatibilidade, integridade inválida ou conjunto vazio;
+• registrar o contexto resolvido e injetar somente as variáveis autorizadas nos prompts.
+
+O mesmo conteúdo, as mesmas versões, a mesma seleção e o mesmo algoritmo produzem payload e checksum idênticos. Isso reproduz o contexto de entrada; não promete resposta idêntica de modelo probabilístico.
+
+6.14 Relação com o prompt de revisão
+
+O compositor fornece ao prompt canônico, entre outras variáveis do Anexo A, TEXT_TYPE, ACTIVITY_OBJECTIVES, ACTIVITY_INSTRUCTIONS, TEACHER_RULES, REVISION_SCOPE, CONFIDENCE_THRESHOLD, SENTENCE_MAP, TAXONOMY_VERSION e AUTHORIZED_TAXONOMY. Todos os valores provêm de registros validados; o modelo não consulta repositórios nem completa campos ausentes.
+
+O texto do estudante é dado não confiável. Instruções nele contidas não alteram função, gênero, critérios, categorias, contrato ou políticas. Em conflito entre regra docente e taxonomia, aplica-se a precedência canônica; conflitos não resolvidos produzem abstenção.
+
+Quando mais de um critério parecer aplicável, o modelo seleciona o que representar a causa principal, respeitando regras de precedência e exclusão. Se nenhum critério ou categoria autorizado representar a ocorrência, não cria código e registra a limitação.
+
+6.15 Relação com avaliação, rubrica e nota
+
+Taxonomia de revisão e rubrica de avaliação são artefatos distintos. Quando códigos se correspondem, o vínculo é declarado em mapeamento versionado; igualdade nominal não autoriza equivalência implícita.
+
+O prompt de avaliação recebe texto completo, rubrica aplicável, evidências positivas, achados validados, recorrência, abrangência e limitações vinculados ao mesmo textVersionId. Ele propõe níveis de desempenho e não redefine gênero, taxonomia ou critérios nem calcula a nota.
+
+O backend valida o pacote e calcula deterministicamente a nota segundo o Anexo D. A quantidade de achados não é convertida mecanicamente em desconto, e contestação legítima não reduz desempenho por si mesma.
+
+6.16 Orientação, prioridade, seletividade e exemplos
+
+Todo diagnóstico explica o problema e seu efeito; toda orientação é coerente com o diagnóstico, executável, respeitosa e limitada ao que o texto sustenta. A arquitetura não impõe redação única nem modifica automaticamente o texto.
+
+Prioridade expressa impacto comunicativo e pedagógico no contexto, não característica permanente do estudante. A atividade define distribuição entre critérios, agrupamento de manifestações recorrentes e limites máximos de geração e apresentação por ciclo.
+
+Exemplos são desabilitados por padrão, opcionais e não obrigatórios. Só são admitidos quando a política permitir e quando ampliarem a compreensão sem fornecer resposta pronta ou substituir a decisão autoral.
+
+6.17 Diversidade linguística, acessibilidade e integridade
+
+Os critérios e conjuntos de teste incluem variedades linguísticas pertinentes à população atendida. O sistema distingue diferença, inadequação contextual e erro verificável, evitando pressupostos deficitários, discriminatórios ou capacitistas.
+
+Descrições, diagnósticos e orientações usam linguagem clara e podem ser apresentados por meios compatíveis com tecnologias assistivas. Categoria, prioridade e confiança não dependem exclusivamente de cor ou posição.
+
+Indícios de integridade acadêmica são tratados com cautela, linguagem não acusatória, explicitação das limitações e decisão humana. Nenhum critério linguístico autoriza acusação, sanção ou inferência automática de autoria indevida.
+
+6.18 Persistência e integridade
+
+O modelo de persistência canônico do Anexo C inclui versões de taxonomia e catálogo, critérios, categorias, especificações de gênero e elementos do GSP, mapeamentos, configurações de atividade, contextos resolvidos e eventos de publicação. O Anexo E rege vínculos com ActivityPublication, TextVersion e execuções.
+
+Registros publicados são imutáveis. Códigos e IDs são únicos no escopo declarado e não são reutilizados com outro significado. Descontinuação não implica exclusão física. Conteúdo, versão e hash formam unidade de integridade; conteúdo divergente sob a mesma versão é recusado.
+
+Contextos resolvidos registram effectiveCriterionCodes, categorias autorizadas, seleção docente, versões, hashes, algoritmo de serialização e checksum. Leituras históricas usam artefatos originais ou conversão versionada e auditável.
+
+6.19 APIs, idempotência e concorrência
+
+A resolução recebe version, activityPublicationId e textVersionId. A resposta contém version, textType, contextualConfiguration, effectiveCriterionCodes, authorizedTaxonomy, versões, hashes e checksum. Usar apenas activityId ou submissionId é insuficiente quando existem múltiplas publicações ou versões textuais.
+
+Operações repetíveis exigem Idempotency-Key vinculada à instituição, ator, operação e hash da requisição. Resolução compatível repetida devolve o mesmo resultado persistido. Publicação ou descontinuação concorrente não altera execução já vinculada a artefatos imutáveis.
+
+Erros estruturados distinguem versão inexistente, artefato não publicado, gênero ou GSP ausente, mapeamento incompatível, seleção inválida, categoria desvinculada, critério desabilitado, checksum divergente, configuração contextual incompleta e TextVersion incompatível. Nenhuma falha autoriza invenção ou conversão silenciosa.
+
+6.20 Curadoria, publicação e compatibilidade
+
+O ciclo de artefatos usa os estados canônicos draft, in_review, approved, published, deprecated e archived, com transições e autoridades definidas no anexo. Separação de funções impede que a mesma atuação proponha, aprove e publique uma mudança sem controles autorizados.
+
+Toda proposta registra fundamento linguístico-pedagógico, impacto esperado, critérios e gêneros afetados, exemplos positivos e negativos, avaliação computacional, responsáveis, riscos e condição de retirada. Mudanças controversas exigem revisão linguística, pedagógica e técnica.
+
+PATCH é admitido somente quando testes demonstram ausência de alteração semântica ou comportamental relevante. MINOR acrescenta conteúdo compatível comprovado; MAJOR altera significado, remove capacidade ou modifica contrato. Mudança de descrição que possa alterar a interpretação do modelo exige avaliação e versão compatível com seu impacto, independentemente de parecer editorial.
+
+A matriz de compatibilidade relaciona versões e hashes de catálogo, GSP, taxonomia, mapeamento, configuração, prompt, contrato, segmentação, backend, interface e modelo avaliado. Artefatos podem ser suspensos ou retirados de novas execuções sem apagar o histórico.
+
+6.21 Testes e avaliação linguística
+
+Os conjuntos de teste são versionados e incluem casos positivos, negativos e limítrofes; ausência de problema; fenômenos sentenciais, suprassentenciais e globais; elementos obrigatórios e opcionais do GSP; ambiguidade; falta de fonte; variedades linguísticas; inadequação contextual; conflitos de critérios; códigos inexistentes; e injeção de prompt.
+
+As métricas incluem precisão e cobertura por critério e categoria, confusão entre códigos, concordância humana, fidelidade ao alvo, sustentação do diagnóstico, coerência da orientação, abstenção adequada, estabilidade, desempenho por gênero e variedade linguística e contestações procedentes.
+
+Mudanças em catálogo, GSP, taxonomia, mapeamento, seleção, prompt, contrato, modelo ou segmentação acionam a avaliação pertinente. Nenhuma versão é publicada com regressão crítica ou diferença injustificada entre grupos linguísticos.
+
+6.22 Governança pedagógica e aprendizagem
+
+A revisão é seletiva, priorizada e adequada ao momento formativo. O professor não precisa habilitar todos os critérios aplicáveis ao gênero. O estudante recebe quantidade manejável de achados, interpreta-os, decide como agir e produz nova versão sob sua responsabilidade autoral.
+
+Indicadores de processo podem observar qualidade das mudanças entre versões, justificativa das decisões, reconhecimento de padrões, uso autônomo dos critérios e transferência para novas situações. Nota, quantidade de achados, correções, aceitações ou rejeições não constituem isoladamente medida de aprendizagem ou capacidade.
+
+Contestações e decisões docentes alimentam avaliação e curadoria de modo agregado e protegido. Não alteram retroativamente taxonomias publicadas nem geram perfil fixo do estudante.
+
+6.23 Critérios de aceitação
+
+• o gênero é recuperado de catálogo publicado e possui GSP e Configuração Contextual suficientes para a análise autorizada;
+• critérios e categorias provêm exclusivamente do Anexo C e mantêm vínculo válido entre categoria e critério;
+• effectiveCriterionCodes resulta da interseção entre mapeamento e seleção docente, descontadas desativações válidas;
+• categorias autorizadas derivam somente dos critérios efetivos e de suas condições de aplicabilidade;
+• toda intervenção referencia exatamente uma sentença e todo achado global referencia as sentenças que o sustentam;
+• feedbackGlobal permanece síntese e não contém diagnósticos suprassentenciais não estruturados;
+• critérios condicionais não são aplicados sem gênero, elemento, contexto ou fonte necessários;
+• diferenças linguísticas não são tratadas automaticamente como erro ou deficiência;
+• ambiguidades, ausência de contexto, conflitos e códigos inadequados produzem confiança reduzida ou abstenção conforme a política;
+• o contexto resolvido registra versões, hashes, seleção docente, algoritmo e checksum;
+• activityPublicationId e textVersionId vinculam inequivocamente contexto, revisão e avaliação;
+• taxonomia de revisão e rubrica de avaliação só se relacionam por mapeamento versionado;
+• testes cobrem gêneros, critérios, variedades, fenômenos globais, fontes, conflitos e segurança.

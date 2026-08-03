@@ -5,7 +5,8 @@
    Redesign: 2026
    ========================================================= */
 
-@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap");
+
 
 /* =========================================================
    TOKENS DE DESIGN
@@ -13,40 +14,40 @@
 
 :root {
   /* Paleta */
-  --cor-primaria:       #1C2B4A;   /* azul-noite — títulos principais */
-  --cor-secundaria:     #3D5A80;   /* azul-médio — subtítulos, bordas */
-  --cor-enfase:         #C94F2C;   /* terracota — ênfase, alertas */
-  --cor-fundo-pagina:   #F8F8F6;   /* branco-morno */
-  --cor-fundo-papel:    #F5F0E8;   /* creme — leitura, citação */
-  --cor-fundo-gelo:     #E8EDF5;   /* azul-gelo — destaque neutro */
-  --cor-texto:          #1A1A1A;
-  --cor-texto-suave:    #4A4A4A;
-  --cor-borda-sutil:    #D8D8D0;
+  --cor-primaria: #1c2b4a;
+  --cor-secundaria: #3d5a80;
+  --cor-enfase: #c94f2c;
+  --cor-fundo-pagina: #f8f8f6;
+  --cor-fundo-papel: #f5f0e8;
+  --cor-fundo-gelo: #e8edf5;
+  --cor-texto: #1a1a1a;
+  --cor-texto-suave: #4a4a4a;
+  --cor-borda-sutil: #d8d8d0;
 
   /* Tipografia */
-  --fonte-display: 'Atkinson Hyperlegible', Arial, Helvetica, sans-serif;
-  --fonte-corpo:   'Atkinson Hyperlegible', Arial, Helvetica, sans-serif;
+  --fonte-display: "Atkinson Hyperlegible", Arial, Helvetica, sans-serif;
+  --fonte-corpo: "Atkinson Hyperlegible", Arial, Helvetica, sans-serif;
 
-  /* Escala tipográfica ampliada para projeção em datashow */
-  --t-xs:   0.96rem;
-  --t-sm:   1.08rem;
+  /* Escala ampliada para projeção */
+  --t-xs: 0.96rem;
+  --t-sm: 1.08rem;
   --t-base: 1.2rem;
-  --t-md:   1.38rem;
-  --t-lg:   1.62rem;
-  --t-xl:   1.92rem;
-  --t-2xl:  2.4rem;
-  --t-3xl:  3rem;
+  --t-md: 1.38rem;
+  --t-lg: 1.62rem;
+  --t-xl: 1.92rem;
+  --t-2xl: 2.4rem;
+  --t-3xl: 3rem;
 
   /* Espaçamento */
-  --espaco-xs:  0.4rem;
-  --espaco-sm:  0.75rem;
-  --espaco-md:  1.25rem;
-  --espaco-lg:  2rem;
-  --espaco-xl:  3rem;
+  --espaco-xs: 0.4rem;
+  --espaco-sm: 0.75rem;
+  --espaco-md: 1.25rem;
+  --espaco-lg: 2rem;
+  --espaco-xl: 3rem;
 
   /* Bordas e sombras */
-  --raio:        6px;
-  --raio-lg:     12px;
+  --raio: 6px;
+  --raio-lg: 12px;
   --sombra-sutil: 0 2px 8px rgba(0, 0, 0, 0.06);
   --sombra-media: 0 4px 16px rgba(0, 0, 0, 0.09);
 }
@@ -64,11 +65,55 @@ body {
   color: var(--cor-texto);
   background-color: var(--cor-fundo-pagina);
   -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 }
 
 p {
+  max-width: 92ch;
   margin-bottom: 1.1rem;
-  max-width: 92ch; /* largura ampliada para projeção em sala */
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--fonte-display);
+  color: var(--cor-primaria);
+  line-height: 1.25;
+}
+
+h1 {
+  margin-top: var(--espaco-xl);
+  font-size: var(--t-3xl);
+}
+
+h2 {
+  margin-top: var(--espaco-lg);
+  font-size: var(--t-2xl);
+}
+
+h3 {
+  margin-top: var(--espaco-md);
+  font-size: var(--t-xl);
+}
+
+h4 {
+  margin-top: var(--espaco-md);
+  font-size: var(--t-lg);
+}
+
+
+/* =========================================================
+   ÁREA PRINCIPAL DE CONTEÚDO
+   ========================================================= */
+
+.page-content,
+main.content {
+  max-width: 1200px !important;
+  margin-right: auto !important;
+  margin-left: 0 !important;
+  padding-right: 2rem;
+  padding-left: 1.5rem;
 }
 
 .destaque,
@@ -80,53 +125,100 @@ p {
 .fundo-papel,
 .formulario,
 div.callout {
+  width: 100%;
   max-width: 980px;
-}
-
-/* Títulos automáticos do Quarto */
-h1, h2, h3, h4 {
-  font-family: var(--fonte-display);
-  color: var(--cor-primaria);
-  line-height: 1.25;
-}
-
-h1 { font-size: var(--t-3xl); margin-top: var(--espaco-xl); }
-h2 { font-size: var(--t-2xl); margin-top: var(--espaco-lg); }
-h3 { font-size: var(--t-xl);  margin-top: var(--espaco-md); }
-h4 { font-size: var(--t-lg);  margin-top: var(--espaco-md); }
-
-/* Área de conteúdo */
-.page-content,
-main.content {
-  max-width: 1200px !important;
-  margin-left: 0 !important;
-  margin-right: auto !important;
-  padding-left: 1.5rem;
-  padding-right: 2rem;
+  box-sizing: border-box;
 }
 
 
 /* =========================================================
-   CALLOUTS (QUARTO)
+   BARRA SUPERIOR DO LIVRO
+   A fixação é controlada nativamente pelo Quarto:
+   navbar: pinned: true
+   ========================================================= */
+
+#quarto-header > nav.navbar {
+  width: 100%;
+  min-height: 76px;
+  padding: 0.45rem 1.5rem;
+  background-color: #ffffff !important;
+  border-top: 3px solid var(--cor-primaria);
+  border-bottom: 1px solid var(--cor-borda-sutil);
+  box-shadow: 0 2px 8px rgba(28, 43, 74, 0.08);
+  font-family: var(--fonte-corpo);
+}
+
+#quarto-header .navbar-container {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  max-width: none;
+}
+
+#quarto-header .navbar-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-right: 1.5rem;
+}
+
+/*
+   O Quarto pode atribuir diferentes classes ao logo,
+   conforme a versão utilizada. Os três seletores garantem
+   que a imagem receba o mesmo tamanho.
+*/
+
+#quarto-header .navbar-title {
+  display: block !important;
+  font-family: var(--fonte-corpo);
+  font-size: var(--t-md);
+  font-weight: 700;
+  line-height: 1.2;
+  color: var(--cor-primaria) !important;
+  white-space: nowrap;
+}
+
+#quarto-header .navbar-nav {
+  align-items: center;
+}
+
+#quarto-header .navbar-nav .nav-link {
+  font-size: var(--t-sm);
+  color: var(--cor-texto-suave) !important;
+}
+
+#quarto-header .navbar-nav .nav-link:hover,
+#quarto-header .navbar-nav .nav-link:focus {
+  color: var(--cor-primaria) !important;
+}
+
+
+/* =========================================================
+   CALLOUTS DO QUARTO
    ========================================================= */
 
 div.callout {
-  border-left: 4px solid var(--cor-secundaria);
-  background-color: var(--cor-fundo-gelo);
-  padding: var(--espaco-sm) var(--espaco-md);
   margin: var(--espaco-md) 0;
+  padding: var(--espaco-sm) var(--espaco-md);
+  background-color: var(--cor-fundo-gelo);
+  border-left: 4px solid var(--cor-secundaria);
   border-radius: var(--raio);
   box-shadow: var(--sombra-sutil);
 }
 
 div.callout-title {
   font-family: var(--fonte-corpo);
-  font-weight: 700;
   font-size: var(--t-md);
+  font-weight: 700;
   color: var(--cor-primaria);
   letter-spacing: 0.01em;
 }
 
+/*
+   Mantém o rótulo personalizado para notas.
+   Caso o Quarto já exiba corretamente "Nota" pelo _quarto.yml,
+   este bloco pode ser removido.
+*/
 .callout-note > .callout-title::before {
   content: "Nota";
 }
@@ -136,87 +228,81 @@ div.callout-title {
 }
 
 div.callout-warning {
-  border-left-color: var(--cor-enfase);
   background-color: #fdf2ef;
+  border-left-color: var(--cor-enfase);
 }
 
 div.callout-tip {
-  border-left-color: #2e7d52;
   background-color: #f0f7f3;
+  border-left-color: #2e7d52;
 }
 
 
 /* =========================================================
    TÍTULOS NÃO NUMERADOS
-   Sistema de hierarquia por cor e peso tipográfico
    ========================================================= */
 
 .titulo-nao-numerado {
-  font-family: var(--fonte-display);
-  font-size: var(--t-xl);
-  font-weight: 700;
-  color: var(--cor-primaria);
   margin-top: var(--espaco-lg);
   margin-bottom: var(--espaco-sm);
   padding-bottom: 0.4rem;
-  border-bottom: 2px solid var(--cor-primaria);
+  font-family: var(--fonte-display);
+  font-size: var(--t-xl);
+  font-weight: 700;
   line-height: 1.25;
+  color: var(--cor-primaria);
   letter-spacing: -0.01em;
+  border-bottom: 2px solid var(--cor-primaria);
 }
 
 .subtitulo-nao-numerado {
+  margin-top: var(--espaco-md);
+  margin-bottom: var(--espaco-xs);
   font-family: var(--fonte-display);
   font-size: var(--t-lg);
   font-weight: 700;
-  color: var(--cor-secundaria);
-  margin-top: var(--espaco-md);
-  margin-bottom: var(--espaco-xs);
   line-height: 1.3;
+  color: var(--cor-secundaria);
 }
 
 .subsubtitulo-nao-numerado {
+  margin-top: var(--espaco-sm);
+  margin-bottom: var(--espaco-xs);
   font-family: var(--fonte-corpo);
   font-size: var(--t-md);
   font-weight: 700;
-  color: var(--cor-secundaria);
-  margin-top: var(--espaco-sm);
-  margin-bottom: var(--espaco-xs);
   font-style: italic;
+  line-height: 1.3;
+  color: var(--cor-secundaria);
   letter-spacing: 0.01em;
 }
 
 
 /* =========================================================
    BLOCOS PEDAGÓGICOS
-   Assinatura visual: espessura e cor de borda codificam
-   o tipo semântico do bloco.
    ========================================================= */
 
-/* NOTA SECUNDÁRIA — observações laterais, ressalvas
-   Borda: 3px cinza-suave */
 .nota-secundaria {
+  margin: var(--espaco-md) 0;
+  padding: var(--espaco-sm) var(--espaco-md);
   font-family: var(--fonte-corpo);
   font-size: var(--t-sm);
   font-weight: 400;
-  color: var(--cor-texto-suave);
   font-style: italic;
-  margin: var(--espaco-md) 0;
-  padding: var(--espaco-sm) var(--espaco-md);
-  border-left: 3px solid var(--cor-borda-sutil);
+  color: var(--cor-texto-suave);
   background-color: transparent;
+  border-left: 3px solid var(--cor-borda-sutil);
   border-radius: 0 var(--raio) var(--raio) 0;
 }
 
-/* DESTAQUE — informação central a ser retida
-   Borda: 4px azul-médio, fundo gelo */
 .destaque {
-  background-color: var(--cor-fundo-gelo);
-  padding: var(--espaco-md) var(--espaco-md);
-  border-radius: var(--raio);
-  border-left: 4px solid var(--cor-secundaria);
-  box-shadow: var(--sombra-sutil);
-  font-size: var(--t-base);
   margin: var(--espaco-md) 0;
+  padding: var(--espaco-md);
+  font-size: var(--t-base);
+  background-color: var(--cor-fundo-gelo);
+  border-left: 4px solid var(--cor-secundaria);
+  border-radius: var(--raio);
+  box-shadow: var(--sombra-sutil);
 }
 
 .destaque p:last-child,
@@ -224,65 +310,50 @@ div.callout-tip {
   margin-bottom: 0;
 }
 
-/* ÊNFASE — alertas, erros comuns, pontos sensíveis
-   Borda: 5px terracota — único uso da cor quente */
 .enfase {
-  background-color: #fdf2ef;
-  color: #4a1f13;
-  padding: var(--espaco-md);
-  border-radius: var(--raio);
-  border-left: 5px solid var(--cor-enfase);
-  font-weight: 400;
-  font-size: var(--t-md);
   margin: var(--espaco-md) 0;
+  padding: var(--espaco-md);
+  font-size: var(--t-md);
+  font-weight: 400;
   line-height: 1.6;
+  color: #4a1f13;
+  background-color: #fdf2ef;
+  border-left: 5px solid var(--cor-enfase);
+  border-radius: var(--raio);
 }
 
 
 /* =========================================================
-   LEITURA E CITAÇÕES
-   Borda codifica a natureza da fonte:
-   — leitura indicada: cinza-escuro, fundo creme
-   — citação direta: azul-noite, fundo creme
-   — citação externa: cinza, fundo creme, itálico
+   LEITURAS E CITAÇÕES
    ========================================================= */
 
-.leitura {
-  background-color: var(--cor-fundo-papel);
-  border-left: 4px solid #5C5C52;
-  padding: var(--espaco-md) var(--espaco-lg);
+.leitura,
+.citacao,
+.citacao-externa {
   margin: var(--espaco-md) 0;
+  padding: var(--espaco-md) var(--espaco-lg);
   font-family: var(--fonte-display);
   font-size: var(--t-md);
-  line-height: 1.75;
-  color: #2a2a2a;
+  line-height: 1.7;
+  background-color: var(--cor-fundo-papel);
   border-radius: 0 var(--raio) var(--raio) 0;
+}
+
+.leitura {
+  color: #2a2a2a;
+  border-left: 4px solid #5c5c52;
   box-shadow: var(--sombra-sutil);
 }
 
 .citacao {
-  background-color: var(--cor-fundo-papel);
-  border-left: 5px solid var(--cor-primaria);
-  padding: var(--espaco-md) var(--espaco-lg);
-  margin: var(--espaco-md) 0;
-  font-family: var(--fonte-display);
-  font-size: var(--t-md);
-  line-height: 1.7;
   color: #1e1e1e;
-  border-radius: 0 var(--raio) var(--raio) 0;
+  border-left: 5px solid var(--cor-primaria);
 }
 
 .citacao-externa {
-  background-color: var(--cor-fundo-papel);
-  border-left: 4px solid var(--cor-borda-sutil);
-  padding: var(--espaco-md) var(--espaco-lg);
-  margin: var(--espaco-md) 0;
-  font-family: var(--fonte-display);
-  font-size: var(--t-md);
-  line-height: 1.7;
-  color: #333;
   font-style: italic;
-  border-radius: 0 var(--raio) var(--raio) 0;
+  color: #333333;
+  border-left: 4px solid var(--cor-borda-sutil);
 }
 
 
@@ -291,26 +362,26 @@ div.callout-tip {
    ========================================================= */
 
 .proxima-aula {
+  margin-top: var(--espaco-lg);
+  padding: var(--espaco-md) var(--espaco-lg);
+  background-color: var(--cor-fundo-gelo);
   border: 1.5px solid var(--cor-secundaria);
   border-radius: var(--raio-lg);
-  padding: var(--espaco-md) var(--espaco-lg);
-  margin-top: var(--espaco-lg);
-  background-color: var(--cor-fundo-gelo);
   box-shadow: var(--sombra-media);
 }
 
 .proxima-aula-title {
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--espaco-sm);
   font-family: var(--fonte-display);
   font-size: var(--t-lg);
   font-weight: 700;
   color: var(--cor-primaria);
-  display: flex;
-  align-items: center;
-  margin-bottom: var(--espaco-sm);
 }
 
 .proxima-aula-title::before {
-  content: "📌 ";
+  content: "📌";
   margin-right: 0.4em;
 }
 
@@ -321,9 +392,9 @@ div.callout-tip {
 
 .img-central {
   display: block;
-  margin: var(--espaco-lg) auto;
   max-width: 80%;
   height: auto;
+  margin: var(--espaco-lg) auto;
   border-radius: var(--raio);
 }
 
@@ -333,49 +404,54 @@ div.callout-tip {
    ========================================================= */
 
 .formulario {
+  padding: var(--espaco-lg);
   background-color: #ffffff;
   border: 1px solid var(--cor-borda-sutil);
-  padding: var(--espaco-lg);
   border-radius: var(--raio-lg);
   box-shadow: var(--sombra-media);
 }
 
 
 /* =========================================================
-   RESPOSTA OCULTA (ATIVIDADES)
+   RESPOSTA OCULTA
    ========================================================= */
 
 .resposta-escondida {
-  border-left: 4px solid var(--cor-primaria);
-  background-color: #ffffff;
-  padding: var(--espaco-sm) var(--espaco-md);
   margin: var(--espaco-md) 0;
+  padding: var(--espaco-sm) var(--espaco-md);
   font-family: var(--fonte-corpo);
   font-size: var(--t-base);
   line-height: 1.65;
   color: var(--cor-texto);
   cursor: pointer;
+  background-color: #ffffff;
+  border-left: 4px solid var(--cor-primaria);
   border-radius: 0 var(--raio) var(--raio) 0;
   transition: background-color 0.25s ease;
 }
 
 .resposta-escondida summary {
-  font-weight: 700;
   font-size: var(--t-sm);
+  font-weight: 700;
+  color: var(--cor-secundaria);
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  color: var(--cor-secundaria);
   list-style: none;
   user-select: none;
 }
 
+.resposta-escondida summary::-webkit-details-marker {
+  display: none;
+}
+
 .resposta-escondida summary::before {
-  content: "▶ ";
+  content: "▶";
+  margin-right: 0.35em;
   font-size: 0.7em;
 }
 
 .resposta-escondida[open] summary::before {
-  content: "▼ ";
+  content: "▼";
 }
 
 .resposta-escondida[open] {
@@ -384,26 +460,26 @@ div.callout-tip {
 
 
 /* =========================================================
-   SIDEBAR
+   SIDEBAR ESQUERDA
    ========================================================= */
 
 .sidebar {
-  background-color: #ffffff;
   font-family: var(--fonte-corpo);
   font-size: var(--t-sm);
+  background-color: #ffffff;
   border-right: 1px solid var(--cor-borda-sutil);
 }
 
 .sidebar-title {
   display: block;
+  padding: var(--espaco-md) var(--espaco-md) var(--espaco-sm);
   font-family: var(--fonte-display);
   font-size: var(--t-lg);
   font-weight: 700;
-  color: var(--cor-primaria);
-  padding: var(--espaco-md) var(--espaco-md) var(--espaco-sm) var(--espaco-md);
-  letter-spacing: -0.01em;
   line-height: 1.2;
+  color: var(--cor-primaria);
   text-align: center;
+  letter-spacing: -0.01em;
 }
 
 .sidebar-title::before {
@@ -411,65 +487,83 @@ div.callout-tip {
   display: block;
   width: 88px;
   height: 88px;
-  margin: 0 auto 0.1rem auto;
+  margin: 0 auto 0.1rem;
   background-image: url("img/capa_anete.png");
-  background-size: contain;
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: center;
+  background-size: contain;
   opacity: 0.5;
 }
 
 .sidebar-title::after {
   content: "Mário Martins";
   display: block;
+  margin-top: 0.1rem;
   font-family: var(--fonte-corpo);
   font-size: var(--t-xs);
   font-weight: 400;
   color: var(--cor-texto-suave);
+  text-align: center;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  margin-top: 0.1rem;
-  text-align: center;
 }
 
 .sidebar .toc-title {
   display: none !important;
 }
 
+
 /* =========================================================
-   ÍNDICE DO ROTEIRO — MARGEM INTERNA
+   ÍNDICE DO ROTEIRO — SIDEBAR DIREITA
    ========================================================= */
 
-.sidebar.margin-sidebar,
 #quarto-margin-sidebar {
-  padding-left: 0.8rem;
   padding-right: 0.8rem;
+  padding-left: 0.8rem;
 }
 
 
 /* =========================================================
-   RMDNOTE (R MARKDOWN)
+   RMDNOTE
    ========================================================= */
 
 .rmdnote,
 div.rmdnote,
 section.rmdnote,
 div[class~="rmdnote"] {
-  border-left: 4px solid var(--cor-secundaria);
-  background-color: var(--cor-fundo-gelo);
-  padding: var(--espaco-sm) var(--espaco-md);
   margin: var(--espaco-md) 0;
-  border-radius: 0 var(--raio) var(--raio) 0;
-  color: var(--cor-texto);
+  padding: var(--espaco-sm) var(--espaco-md);
   line-height: 1.6;
+  color: var(--cor-texto);
+  background-color: var(--cor-fundo-gelo);
+  border-left: 4px solid var(--cor-secundaria);
+  border-radius: 0 var(--raio) var(--raio) 0;
   box-shadow: var(--sombra-sutil);
 }
 
-.rmdnote strong, .rmdnote b { color: var(--cor-primaria); }
-.rmdnote em, .rmdnote i     { color: var(--cor-texto-suave); }
-.rmdnote ul, .rmdnote ol    { margin: var(--espaco-xs) 0 0 1.2rem; }
-.rmdnote li                 { margin: 0.3rem 0; }
-.rmdnote a                  { color: var(--cor-secundaria); text-decoration: underline; }
+.rmdnote strong,
+.rmdnote b {
+  color: var(--cor-primaria);
+}
+
+.rmdnote em,
+.rmdnote i {
+  color: var(--cor-texto-suave);
+}
+
+.rmdnote ul,
+.rmdnote ol {
+  margin: var(--espaco-xs) 0 0 1.2rem;
+}
+
+.rmdnote li {
+  margin: 0.3rem 0;
+}
+
+.rmdnote a {
+  color: var(--cor-secundaria);
+  text-decoration: underline;
+}
 
 
 /* =========================================================
@@ -477,24 +571,24 @@ div[class~="rmdnote"] {
    ========================================================= */
 
 table {
-  border-collapse: collapse;
   width: 100%;
-  font-size: var(--t-sm);
   margin: var(--espaco-md) 0;
+  font-size: var(--t-sm);
+  border-collapse: collapse;
 }
 
 thead tr {
-  background-color: var(--cor-primaria);
   color: #ffffff;
+  background-color: var(--cor-primaria);
 }
 
 thead th {
   padding: 0.6rem 0.9rem;
-  font-weight: 700;
-  letter-spacing: 0.03em;
-  text-align: left;
   font-family: var(--fonte-corpo);
   font-size: var(--t-xs);
+  font-weight: 700;
+  text-align: left;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
@@ -504,13 +598,13 @@ tbody tr:nth-child(even) {
 
 tbody td {
   padding: 0.55rem 0.9rem;
-  border-bottom: 1px solid var(--cor-borda-sutil);
   vertical-align: top;
+  border-bottom: 1px solid var(--cor-borda-sutil);
 }
 
 table.cronograma-fixo {
-  table-layout: fixed;
   width: 100%;
+  table-layout: fixed;
 }
 
 
@@ -519,25 +613,29 @@ table.cronograma-fixo {
    ========================================================= */
 
 .capa-livro {
-  max-width: 980px;
-  min-height: 260px;
-  margin: var(--espaco-lg) 0 var(--espaco-xl) 0;
-  padding: 3.5rem 3.5rem;
-  border-radius: 18px;
-  background: linear-gradient(160deg, #ffffff 0%, var(--cor-fundo-gelo) 100%);
-  border: 1px solid #cdd6e8;
-  box-shadow: 0 24px 48px rgba(28, 43, 74, 0.10);
   position: relative;
-  overflow: hidden;
-
   display: flex;
   flex-direction: column;
-  justify-content: center;  /* centraliza verticalmente */
-  align-items: center;      /* centraliza horizontalmente */
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 980px;
+  min-height: 260px;
+  margin: var(--espaco-lg) 0 var(--espaco-xl);
+  padding: 3.5rem;
+  overflow: hidden;
   text-align: center;
+  background: linear-gradient(
+    160deg,
+    #ffffff 0%,
+    var(--cor-fundo-gelo) 100%
+  );
+  border: 1px solid #cdd6e8;
+  border-radius: 18px;
+  box-shadow: 0 24px 48px rgba(28, 43, 74, 0.1);
+  box-sizing: border-box;
 }
 
-/* Detalhe geométrico sutil no canto superior direito */
 .capa-livro::before {
   content: "";
   position: absolute;
@@ -545,135 +643,168 @@ table.cronograma-fixo {
   right: 0;
   width: 180px;
   height: 180px;
-  background: radial-gradient(circle at top right, #c8d4ec 0%, transparent 70%);
   pointer-events: none;
+  background: radial-gradient(
+    circle at top right,
+    #c8d4ec 0%,
+    transparent 70%
+  );
 }
 
 .capa-etiqueta {
+  z-index: 1;
   display: inline-block;
   align-self: center;
   width: auto;
   margin-bottom: var(--espaco-md);
   padding: 0.3rem 0.8rem;
-  border-radius: 999px;
-  background-color: var(--cor-primaria);
-  color: #ffffff;
   font-size: var(--t-xs);
   font-weight: 700;
+  color: #ffffff;
   letter-spacing: 0.12em;
   text-transform: uppercase;
+  background-color: var(--cor-primaria);
+  border-radius: 999px;
 }
 
 .capa-titulo {
+  z-index: 1;
+  max-width: 900px;
+  margin: 0 auto;
   font-family: var(--fonte-display);
   font-size: clamp(1.8rem, 3.4vw, 3rem);
   font-weight: 700;
-  color: var(--cor-primaria);
   line-height: 1.1;
-  letter-spacing: -0.025em;
-  margin: 0 auto;
-  max-width: 900px;
+  color: var(--cor-primaria);
   text-align: center;
+  letter-spacing: -0.025em;
 }
 
 .capa-subtitulo {
+  z-index: 1;
+  margin-bottom: var(--espaco-md);
   font-family: var(--fonte-corpo);
   font-size: var(--t-sm);
   font-weight: 700;
   color: var(--cor-secundaria);
   letter-spacing: 0.15em;
   text-transform: uppercase;
-  margin-bottom: var(--espaco-md);
 }
 
 .capa-instituicao {
-  font-size: var(--t-sm);
-  color: var(--cor-texto-suave);
-  line-height: 1.55;
-  margin-bottom: var(--espaco-md);
+  z-index: 1;
   max-width: 680px;
+  margin-bottom: var(--espaco-md);
+  font-size: var(--t-sm);
+  line-height: 1.55;
+  color: var(--cor-texto-suave);
 }
 
 .capa-descricao {
-  font-size: var(--t-base);
-  color: var(--cor-texto);
-  line-height: 1.7;
+  z-index: 1;
+  max-width: 680px;
   margin-top: var(--espaco-md);
   padding-top: var(--espaco-md);
+  font-size: var(--t-base);
+  line-height: 1.7;
+  color: var(--cor-texto);
   border-top: 1px solid #cdd6e8;
-  max-width: 680px;
 }
 
 .capa-botoes {
+  z-index: 1;
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   gap: 0.75rem;
   margin-top: var(--espaco-md);
-  flex-wrap: wrap;
 }
 
 .capa-botoes a {
   display: inline-block;
   padding: 0.7rem 1.4rem;
-  border-radius: var(--raio);
-  background-color: var(--cor-primaria);
-  color: #ffffff;
-  text-decoration: none;
   font-size: var(--t-sm);
   font-weight: 700;
+  color: #ffffff;
+  text-decoration: none;
   letter-spacing: 0.02em;
-  box-shadow: 0 6px 16px rgba(28, 43, 74, 0.20);
-  transition: background-color 0.18s ease, transform 0.15s ease, box-shadow 0.18s ease;
+  background-color: var(--cor-primaria);
+  border-radius: var(--raio);
+  box-shadow: 0 6px 16px rgba(28, 43, 74, 0.2);
+  transition:
+    background-color 0.18s ease,
+    transform 0.15s ease,
+    box-shadow 0.18s ease;
 }
 
 .capa-botoes a:hover {
-  background-color: #26406e;
   color: #ffffff;
   text-decoration: none;
-  transform: translateY(-2px);
+  background-color: #26406e;
   box-shadow: 0 10px 22px rgba(28, 43, 74, 0.28);
+  transform: translateY(-2px);
 }
 
 
 /* =========================================================
-   FUNDO PAPEL (para formulários de impressão)
+   FUNDO PAPEL
    ========================================================= */
 
 .fundo-papel {
+  margin: var(--espaco-md) 0;
+  padding: var(--espaco-lg);
   background-color: var(--cor-fundo-papel);
   border: 1px solid #ddd8cc;
   border-radius: var(--raio-lg);
-  padding: var(--espaco-lg);
-  margin: var(--espaco-md) 0;
   box-shadow: var(--sombra-sutil);
 }
 
 
 /* =========================================================
-   RESPONSIVIDADE
+   RESPONSIVIDADE — TABLETS E CELULARES
    ========================================================= */
 
 @media (max-width: 768px) {
   :root {
-    /* Reduz a escala em celulares, preservando legibilidade */
-    --t-xs:   0.82rem;
-    --t-sm:   0.92rem;
+    --t-xs: 0.82rem;
+    --t-sm: 0.92rem;
     --t-base: 1rem;
-    --t-md:   1.12rem;
-    --t-lg:   1.28rem;
-    --t-xl:   1.5rem;
-    --t-2xl:  1.85rem;
-    --t-3xl:  2.2rem;
+    --t-md: 1.12rem;
+    --t-lg: 1.28rem;
+    --t-xl: 1.5rem;
+    --t-2xl: 1.85rem;
+    --t-3xl: 2.2rem;
   }
 
   body {
     line-height: 1.6;
   }
 
+  /* Navbar */
+  #quarto-header > nav.navbar {
+    min-height: 60px;
+    padding: 0.35rem 0.8rem;
+  }
+
+  #quarto-header .navbar-brand {
+    gap: 0.5rem;
+    margin-right: 0.5rem;
+  }
+
+  #quarto-header .navbar-title {
+    font-size: 1rem;
+  }
+
+  #quarto-header .navbar-nav .nav-link {
+    font-size: 0.92rem;
+  }
+
+  /* Conteúdo */
   .page-content,
   main.content {
     max-width: 100% !important;
-    padding-left: 1rem;
     padding-right: 1rem;
+    padding-left: 1rem;
   }
 
   p {
@@ -681,8 +812,8 @@ table.cronograma-fixo {
   }
 
   h1 {
-    font-size: var(--t-3xl);
     margin-top: var(--espaco-lg);
+    font-size: var(--t-3xl);
   }
 
   h2 {
@@ -711,15 +842,15 @@ table.cronograma-fixo {
   .formulario,
   div.callout {
     max-width: 100%;
-    padding-left: 1rem;
     padding-right: 1rem;
+    padding-left: 1rem;
   }
 
   .capa-livro {
     max-width: 100%;
     min-height: 220px;
+    margin: var(--espaco-md) 0 var(--espaco-lg);
     padding: 2rem 1.25rem;
-    margin: var(--espaco-md) 0 var(--espaco-lg) 0;
   }
 
   .capa-etiqueta {
@@ -728,8 +859,8 @@ table.cronograma-fixo {
   }
 
   .capa-titulo {
-    font-size: clamp(1.7rem, 8vw, 2.3rem);
     max-width: 100%;
+    font-size: clamp(1.7rem, 8vw, 2.3rem);
   }
 
   .capa-instituicao,
@@ -756,11 +887,53 @@ table.cronograma-fixo {
 
 
 /* =========================================================
+   RESPONSIVIDADE — CELULARES ESTREITOS
+   ========================================================= */
+
+@media (max-width: 480px) {
+  .page-content,
+  main.content {
+    padding-right: 0.85rem;
+    padding-left: 0.85rem;
+  }
+
+  #quarto-header > nav.navbar {
+    padding-right: 0.6rem;
+    padding-left: 0.6rem;
+  }
+
+  #quarto-header .navbar-title {
+    font-size: 0.95rem;
+  }
+
+  .capa-livro {
+    min-height: 190px;
+    padding: 1.6rem 1rem;
+    border-radius: 14px;
+  }
+
+  .capa-titulo {
+    font-size: clamp(1.5rem, 9vw, 2rem);
+  }
+
+  .leitura,
+  .citacao,
+  .citacao-externa {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+}
+
+
+/* =========================================================
    ACESSIBILIDADE
    ========================================================= */
 
 @media (prefers-reduced-motion: reduce) {
-  * {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
     transition: none !important;
     animation: none !important;
   }
@@ -770,4 +943,24 @@ table.cronograma-fixo {
   outline: 3px solid var(--cor-secundaria);
   outline-offset: 3px;
   border-radius: 3px;
+}
+
+/* =========================================================
+   LOGO DA UFERSA NO RODAPÉ
+   ========================================================= */
+
+.nav-footer .logo-rodape {
+  display: block;
+  width: 120px !important;
+  height: auto !important;
+  max-width: 120px !important;
+  max-height: 48px !important;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.nav-footer-left {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
 }
