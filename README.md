@@ -6,7 +6,7 @@ Este repositório reúne roteiros de aula, complementos, avaliações, tutoriais
 
 ## Autoria e organização
 
-**Prof. Mário Martins**
+**Ananias Silva e Mário Martins**
 
 Grupo de Pesquisa em Estudos Linguísticos do Texto — GPELT\
 Universidade Federal Rural do Semi-Árido — UFERSA
