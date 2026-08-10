@@ -24,40 +24,37 @@ Conteúdo programático
 Unidade I – Ciência e pensamento científico
 :::
 
-* O sistema acadêmico brasileiro e a vida universitária
-* Produção e circulação do conhecimento científico
-* Conhecimento científico, senso comum e opinião
-* Pensamento científico e formulação de problemas
-* Argumentação: afirmações, premissas, conclusões e tipos de enunciados
-* Critérios para avaliação de argumentos
-* Linguagem científica: objetividade, credibilidade e autoridade
+- O sistema acadêmico brasileiro e a vida universitária
+- Produção e circulação do conhecimento científico
+- Conhecimento científico, senso comum e opinião
+- Pensamento científico e questionamento
+- Argumentação: afirmações, premissas, conclusões e tipos de enunciados
+- Critérios para avaliação de argumentos
+- Linguagem científica: objetividade, credibilidade e autoridade
 
 ::: subtitulo-nao-numerado
-Unidade II – Comunicação acadêmica escrita
+Unidade II – Comunicação acadêmica
 :::
 
-* Gêneros textuais acadêmicos e seus propósitos comunicativos
-* Leitura crítica de textos científicos
-* Fontes de informação e estratégias de busca bibliográfica
-* Paráfrase, resumo, fichamento e revisão de literatura
-* Estratégias argumentativas na escrita acadêmica
-* Coesão, coerência e progressão textual
-* Divulgação científica para públicos especializados e não especializados
-* Produção, revisão e reescrita de textos acadêmicos
-
+- Resumo acadêmico: sintetizar informações essenciais
+- Resenha acadêmica: apresentar e avaliar criticamente uma obra
+- Artigo científico: comunicar resultados de pesquisa
+- Comunicação oral: discutir resultados de pesquisa
+- Divulgação científica: divulgar a ciência a públicos não especializados
+- Plano de trabalho de iniciação científica: planejar e organizar atividades de pesquisa
 
 ::: subtitulo-nao-numerado
 Unidade III – Projeto de pesquisa
 :::
 
-* O projeto de pesquisa como gênero acadêmico-científico
-* Delimitação do tema e formulação do problema de pesquisa
-* Objetivos, justificativa e hipóteses
-* Referencial teórico e revisão da literatura
-* Metodologia, cronograma e plano de execução
-* Redação científica: clareza, precisão e objetividade
-* Revisão e aperfeiçoamento do projeto
-* Elaboração do plano de trabalho conforme editais de iniciação científica
+- O projeto de pesquisa como gênero acadêmico-científico
+- Delimitação do tema e formulação do problema de pesquisa
+- Objetivos, justificativa e hipóteses
+- Referencial teórico e revisão da literatura
+- Metodologia, cronograma e plano de execução
+- Redação científica: clareza e precisão
+- Revisão e aperfeiçoamento do projeto
+- Elaboração do plano de trabalho conforme editais de iniciação científica
 
 ::: titulo-nao-numerado
 Competências e habilidades
@@ -65,7 +62,7 @@ Competências e habilidades
 
 | Competência | Habilidades |
 |------------------------------------|------------------------------------|
-| Avaliar criticamente argumentos, evidências e fontes de informação utilizados na produção do conhecimento científico. | \-     Identificar a tese, as premissas e a conclusão em textos argumentativos.<br>-     Analisar a consistência lógica de argumentos e a pertinência das evidências apresentadas. |
+| Avaliar criticamente argumentos, evidências e fontes de informação utilizados na produção do conhecimento científico. | \- Identificar a tese, as premissas e a conclusão em textos argumentativos.<br>- Analisar a consistência lógica de argumentos e a pertinência das evidências apresentadas. |
 | Utilizar a linguagem com clareza, precisão e adequação nos contextos acadêmicos. | \- Reconhecer diferentes registros linguísticos e níveis de formalidade.<br>- Utilizar a norma-padrão da língua portuguesa em situações de comunicação acadêmica. |
 | Ler, compreender e interpretar textos acadêmicos de diferentes gêneros. | \- Identificar a organização composicional e os propósitos comunicativos dos gêneros acadêmicos.<br>- Desenvolver estratégias de leitura crítica e analítica. |
 | Produzir textos acadêmicos adequados aos gêneros e às normas científicas. | \- Elaborar textos com coesão e coerência.<br>- Aplicar corretamente normas de citação e referência (ABNT).<br>- Planejar, redigir e revisar textos científicos. |
@@ -85,14 +82,14 @@ Avaliação
 A avaliação da disciplina será processual e organizada em três etapas, correspondentes às unidades do curso. Cada instrumento avaliativo foi planejado para acompanhar o desenvolvimento progressivo das competências previstas para a respectiva unidade.
 
 | Unidade | Avaliação | Peso |
-|---------|-----------|------:|
+|------------------------|-----------------------------|------------------:|
 | Unidade I | Prova escrita (questões objetivas e discursivas) | 30% |
 | Unidade II | Produção de uma mídia de divulgação científica | 30% |
 | Unidade III | Elaboração de um projeto de pesquisa | 30% |
 | Participação e atividades desenvolvidas ao longo do semestre | Exercícios, quizzes, oficinas de escrita, atividades em sala e estudos dirigidos | 10% |
 
 ::: titulo-nao-numerado
-Bibliografia 
+Bibliografia
 :::
 
 ABNT. **NBR 10520:2023**. *Informação e documentação — Citações em documentos — Apresentação*. Rio de Janeiro: ABNT, 2023.

@@ -31,8 +31,8 @@ book:
     foreground: "#132238"
 
   page-footer:
-    left: "ANETE · Universidade Federal Rural do Semi-Árido"
-    right: "Mário Martins"
+    left: "Disciplina: Análise e Expressão Textual · Universidade Federal Rural do Semi-Árido"
+    right: "Professor Mário Martins"
 
   chapters:
     - index.qmd
