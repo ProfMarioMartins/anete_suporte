@@ -3,23 +3,31 @@ title: "Como funciona o sistema acadêmico brasileiro?"
 ---
 
 ::: nota-secundaria
-Roteiro de aula elaborado com apoio de ferramentas digitais de inteligência artificial e submetido à revisão, validação e curadoria pedagógica do professor.
+Roteiro de aula elaborado com o apoio de linguagens de programação e ferramentas de inteligência artificial, submetido à revisão, validação e curadoria pedagógica do professor.
 :::
 
-## Contextualização
+::: leitura
+**Leitura indicada**
 
-O sistema acadêmico brasileiro é estruturado em diferentes níveis de ensino, com o objetivo de formar profissionais qualificados, promover a produção científica e contribuir para o desenvolvimento do país. Abrange a graduação e a pós-graduação.
+*Entendendo a organização do sistema acadêmico brasileiro* (p. 7-9), capítulo do livro *Guia do trabalho científico: do projeto à redação final*, de Celso Ferrarezi Júnior.
 
-Esse sistema é regulado por órgãos como o Ministério da Educação (MEC) e a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes), que estabelecem diretrizes curriculares, normas de avaliação e reconhecimento dos cursos. Com essa organização, o sistema busca assegurar qualidade, diversidade e acesso ao ensino superior, além de articular ensino, pesquisa e extensão nas instituições acadêmicas.
+**Objetivos da aula**
 
 Ao final deste encontro, e com base na leitura indicada, espera-se que você seja capaz de:
 
-- *Compreender como se organiza o sistema acadêmico brasileiro, identificando suas principais instituições, regras e etapas da formação científica.*
+- *Compreender a organização do sistema acadêmico brasileiro;*
+- *Analisar formas de apresentação da trajetória acadêmica; e*
+- *Produzir um texto de apresentação para o próprio Currículo Lattes.*
+:::
 
-::: leitura
-Leitura indicada:
+<br>
 
-**Entendendo a organização do sistema acadêmico brasileiro** (p. 7-9), capítulo do livro *Guia do trabalho científico: do projeto à redação final*, de Celso Ferrarezi Júnior.
+## Contextualização
+
+O sistema acadêmico brasileiro é estruturado em diferentes níveis de ensino, com o objetivo de formar profissionais qualificados, promover a produção científica e contribuir para o desenvolvimento do país. Com essa organização, o sistema busca assegurar qualidade, diversidade e acesso ao ensino superior, além de articular *ensino*, *pesquisa* e *extensão* nas instituições acadêmicas.
+
+::: destaque
+A universidade brasileira fundamenta sua atuação na articulação entre ensino, pesquisa e extensão. O *ensino* promove a formação acadêmica e profissional; a *pesquisa* produz e amplia o conhecimento científico; e a *extensão* estabelece a interação entre universidade e sociedade, permitindo que conhecimentos e experiências circulem entre o ambiente acadêmico e diferentes contextos sociais.
 :::
 
 ## Aprendizagem prática
@@ -28,17 +36,19 @@ Leitura indicada:
 Quiz
 :::
 
+::: subsubtitulo-nao-numerado
+Orientações
+:::
+
+A seguir, há um quiz com dez perguntas, cada uma com quatro alternativas. Você terá <strong>60 segundos</strong> para responder cada questão. O tempo será contado automaticamente e, ao final, você receberá um feedback imediato.
+
 ::: destaque
 **Como se organiza o sistema acadêmico brasileiro?**
 
-Compreender o sistema acadêmico brasileiro é fundamental para que estudantes e pesquisadores possam se situar adequadamente no percurso formativo e profissional. Conhecer sua organização, os órgãos de fomento, os critérios de avaliação e os diferentes níveis de ensino e pesquisa permite planejar a trajetória acadêmica de modo mais consciente, aproveitando oportunidades de bolsas, projetos e programas de pós-graduação. Além disso, esse entendimento favorece a inserção crítica no meio universitário, contribuindo para escolhas responsáveis e para uma atuação mais qualificada dentro da comunidade científica.
+Responda ao quiz sobre a organização do sistema acadêmico brasileiro. São dez questões, com quatro alternativas cada, e você terá 60 segundos para responder a cada uma. O sistema fornecerá feedback imediato após cada resposta.
 :::
 
 ```{=html}
-<div style="border:1px solid #ccc;padding:1em;background-color:#f1f5f9;border-radius:6px;margin-bottom:1em;">
-<strong>Orientações:</strong><br/>
-A seguir, há um quiz com perguntas únicas, cada uma com quatro alternativas. Você terá <strong>um tempo definido</strong> para responder cada uma. O tempo será contado automaticamente e, ao final, você receberá um feedback imediato.
-</div>
 
 <style>
 
@@ -94,12 +104,15 @@ font-weight:600;
 background:#2c4c6b;
 }
 
-.botao-iniciar{
-background:#2e7d32;
-color:white;
-font-weight:600;
-padding:10px 18px;
-border-radius:6px;
+.botao-iniciar {
+  display: block;
+  margin: 20px auto 0;
+  background: #2e7d32;
+  color: white;
+  font-size: 1.25rem;
+  font-weight: 600;
+  padding: 14px 28px;
+  border-radius: 8px;
 }
 
 .botao-iniciar:hover{
@@ -130,12 +143,12 @@ margin-top:20px;
 
 <!-- PERGUNTA 1 -->
 <div class="pergunta" id="pergunta1">
-<p><strong>1. Quais são os principais graus acadêmicos conferidos na graduação no Brasil?</strong></p>
+<p><strong>1. Segundo Ferrarezi Jr., a graduação pode conferir grau e diploma de:</strong></p>
 <form>
-<input type="radio" name="q1" value="a"> A) Bacharel, licenciado e tecnólogo<br>
-<input type="radio" name="q1" value="b"> B) Mestre, doutor e especialista<br>
-<input type="radio" name="q1" value="c"> C) Bacharel, mestre e doutor<br>
-<input type="radio" name="q1" value="d"> D) Licenciado, especialista e doutor<br><br>
+<input type="radio" name="q1" value="a"> A) Bacharel ou licenciado, podendo haver formação em ambos<br>
+<input type="radio" name="q1" value="b"> B) Especialista ou mestre<br>
+<input type="radio" name="q1" value="c"> C) Mestre ou doutor<br>
+<input type="radio" name="q1" value="d"> D) Bacharel ou especialista<br><br>
 <button type="button" class="botao-responder" onclick="checkResposta(1,'a')">Responder</button>
 </form>
 <p id="feedback1"></p>
@@ -145,13 +158,13 @@ margin-top:20px;
 
 <!-- PERGUNTA 2 -->
 <div class="pergunta" id="pergunta2" style="display:none;">
-<p><strong>2. Qual é a carga horária mínima exigida para um curso de especialização (pós-graduação lato sensu) no Brasil?</strong></p>
+<p><strong>2. Qual é a carga horária mínima de um curso de especialização, segundo o texto?</strong></p>
 <form>
-<input type="radio" name="q2" value="a"> A) 180 horas<br>
-<input type="radio" name="q2" value="b"> B) 360 horas<br>
-<input type="radio" name="q2" value="c"> C) 24 meses<br>
-<input type="radio" name="q2" value="d"> D) 48 meses<br><br>
-<button type="button" class="botao-responder" onclick="checkResposta(2,'b')">Responder</button>
+<input type="radio" name="q2" value="a"> A) 120 horas<br>
+<input type="radio" name="q2" value="b"> B) 180 horas<br>
+<input type="radio" name="q2" value="c"> C) 360 horas<br>
+<input type="radio" name="q2" value="d"> D) 720 horas<br><br>
+<button type="button" class="botao-responder" onclick="checkResposta(2,'c')">Responder</button>
 </form>
 <p id="feedback2"></p>
 <p id="timer2"></p>
@@ -160,13 +173,13 @@ margin-top:20px;
 
 <!-- PERGUNTA 3 -->
 <div class="pergunta" id="pergunta3" style="display:none;">
-<p><strong>3. Qual das ações abaixo é frequentemente exigida no processo seletivo para ingresso em programas de mestrado?</strong></p>
+<p><strong>3. Qual característica distingue a pós-graduação <em>stricto sensu</em> da formação <em>lato sensu</em>, de acordo com o texto?</strong></p>
 <form>
-<input type="radio" name="q3" value="a"> A) Defesa pública de tese<br>
-<input type="radio" name="q3" value="b"> B) Apresentação de projeto de pesquisa<br>
-<input type="radio" name="q3" value="c"> C) Experiência docente mínima de cinco anos<br>
-<input type="radio" name="q3" value="d"> D) Conclusão prévia de doutorado<br><br>
-<button type="button" class="botao-responder" onclick="checkResposta(3,'b')">Responder</button>
+<input type="radio" name="q3" value="a"> A) A formação <em>stricto sensu</em> é mais aprofundada e relacionada a um objeto de estudo bem definido<br>
+<input type="radio" name="q3" value="b"> B) A formação <em>stricto sensu</em> é sempre mais curta<br>
+<input type="radio" name="q3" value="c"> C) A formação <em>lato sensu</em> sempre confere grau acadêmico<br>
+<input type="radio" name="q3" value="d"> D) A formação <em>lato sensu</em> exige necessariamente defesa pública<br><br>
+<button type="button" class="botao-responder" onclick="checkResposta(3,'a')">Responder</button>
 </form>
 <p id="feedback3"></p>
 <p id="timer3"></p>
@@ -175,13 +188,13 @@ margin-top:20px;
 
 <!-- PERGUNTA 4 -->
 <div class="pergunta" id="pergunta4" style="display:none;">
-<p><strong>4. No sistema acadêmico norte-americano, o título de PhD corresponde, em termos gerais, a qual grau acadêmico no Brasil?</strong></p>
+<p><strong>4. Qual trabalho escrito deve ser apresentado e defendido publicamente para a conclusão do mestrado?</strong></p>
 <form>
-<input type="radio" name="q4" value="a"> A) Especialização<br>
-<input type="radio" name="q4" value="b"> B) Mestrado<br>
-<input type="radio" name="q4" value="c"> C) Doutorado<br>
-<input type="radio" name="q4" value="d"> D) Pós-doutorado<br><br>
-<button type="button" class="botao-responder" onclick="checkResposta(4,'c')">Responder</button>
+<input type="radio" name="q4" value="a"> A) Tese<br>
+<input type="radio" name="q4" value="b"> B) Dissertação<br>
+<input type="radio" name="q4" value="c"> C) Relatório de estágio<br>
+<input type="radio" name="q4" value="d"> D) Artigo de revisão<br><br>
+<button type="button" class="botao-responder" onclick="checkResposta(4,'b')">Responder</button>
 </form>
 <p id="feedback4"></p>
 <p id="timer4"></p>
@@ -190,13 +203,13 @@ margin-top:20px;
 
 <!-- PERGUNTA 5 -->
 <div class="pergunta" id="pergunta5" style="display:none;">
-<p><strong>5. É correto afirmar que cursar uma pós-graduação stricto sensu em uma universidade estrangeira é sempre a melhor opção?</strong></p>
+<p><strong>5. Qual é uma das exigências normalmente previstas para o ingresso em um programa de mestrado?</strong></p>
 <form>
-<input type="radio" name="q5" value="a"> A) Sim. Universidades estrangeiras são sempre superiores às brasileiras.<br>
-<input type="radio" name="q5" value="b"> B) Sim. Diplomas estrangeiros têm maior validade acadêmica.<br>
-<input type="radio" name="q5" value="c"> C) Não. Muitas universidades brasileiras possuem programas de alta qualidade.<br>
-<input type="radio" name="q5" value="d"> D) Não. Diplomas estrangeiros não são reconhecidos no Brasil.<br><br>
-<button type="button" class="botao-responder" onclick="checkResposta(5,'c')">Responder</button>
+<input type="radio" name="q5" value="a"> A) Ter concluído previamente um doutorado<br>
+<input type="radio" name="q5" value="b"> B) Apresentar projeto de pesquisa ou monografia<br>
+<input type="radio" name="q5" value="c"> C) Possuir experiência docente mínima de dez anos<br>
+<input type="radio" name="q5" value="d"> D) Defender uma tese antes da matrícula<br><br>
+<button type="button" class="botao-responder" onclick="checkResposta(5,'b')">Responder</button>
 </form>
 <p id="feedback5"></p>
 <p id="timer5"></p>
@@ -205,13 +218,13 @@ margin-top:20px;
 
 <!-- PERGUNTA 6 -->
 <div class="pergunta" id="pergunta6" style="display:none;">
-<p><strong>6. A defesa de dissertação é um requisito para a conclusão de qual nível de ensino superior no Brasil?</strong></p>
+<p><strong>6. Qual é o objetivo central do doutorado, segundo Ferrarezi Jr.?</strong></p>
 <form>
-<input type="radio" name="q6" value="a"> A) Doutorado<br>
-<input type="radio" name="q6" value="b"> B) Especialização<br>
-<input type="radio" name="q6" value="c"> C) Mestrado<br>
-<input type="radio" name="q6" value="d"> D) Graduação<br><br>
-<button type="button" class="botao-responder" onclick="checkResposta(6,'c')">Responder</button>
+<input type="radio" name="q6" value="a"> A) Promover apenas atualização profissional<br>
+<input type="radio" name="q6" value="b"> B) Executar pesquisa científica inédita, original e relevante<br>
+<input type="radio" name="q6" value="c"> C) Preparar exclusivamente para concursos públicos<br>
+<input type="radio" name="q6" value="d"> D) Substituir a graduação na formação profissional<br><br>
+<button type="button" class="botao-responder" onclick="checkResposta(6,'b')">Responder</button>
 </form>
 <p id="feedback6"></p>
 <p id="timer6"></p>
@@ -220,12 +233,12 @@ margin-top:20px;
 
 <!-- PERGUNTA 7 -->
 <div class="pergunta" id="pergunta7" style="display:none;">
-<p><strong>7. No sistema educacional brasileiro, o termo <em>pós-graduação stricto sensu</em> refere-se a:</strong></p>
+<p><strong>7. O que é o pós-doutorado, segundo o texto?</strong></p>
 <form>
-<input type="radio" name="q7" value="a"> A) Cursos de aperfeiçoamento profissional de curta duração<br>
-<input type="radio" name="q7" value="b"> B) Cursos de especialização voltados ao mercado de trabalho<br>
-<input type="radio" name="q7" value="c"> C) Programas de mestrado e doutorado voltados à pesquisa científica<br>
-<input type="radio" name="q7" value="d"> D) Cursos técnicos de nível superior<br><br>
+<input type="radio" name="q7" value="a"> A) O último grau acadêmico do sistema brasileiro<br>
+<input type="radio" name="q7" value="b"> B) Um curso obrigatório após o doutorado<br>
+<input type="radio" name="q7" value="c"> C) Um estágio de atualização para doutores, baseado na execução de um projeto de pesquisa<br>
+<input type="radio" name="q7" value="d"> D) Uma modalidade de especialização <em>lato sensu</em><br><br>
 <button type="button" class="botao-responder" onclick="checkResposta(7,'c')">Responder</button>
 </form>
 <p id="feedback7"></p>
@@ -235,11 +248,11 @@ margin-top:20px;
 
 <!-- PERGUNTA 8 -->
 <div class="pergunta" id="pergunta8" style="display:none;">
-<p><strong>8. Qual das opções abaixo representa um curso de pós-graduação <em>lato sensu</em>?</strong></p>
+<p><strong>8. No sistema acadêmico norte-americano, o título de PhD corresponde, em termos gerais, a qual grau acadêmico no Brasil?</strong></p>
 <form>
-<input type="radio" name="q8" value="a"> A) Doutorado acadêmico<br>
-<input type="radio" name="q8" value="b"> B) Mestrado profissional<br>
-<input type="radio" name="q8" value="c"> C) Curso de especialização<br>
+<input type="radio" name="q8" value="a"> A) Especialização<br>
+<input type="radio" name="q8" value="b"> B) Mestrado<br>
+<input type="radio" name="q8" value="c"> C) Doutorado<br>
 <input type="radio" name="q8" value="d"> D) Pós-doutorado<br><br>
 <button type="button" class="botao-responder" onclick="checkResposta(8,'c')">Responder</button>
 </form>
@@ -250,13 +263,13 @@ margin-top:20px;
 
 <!-- PERGUNTA 9 -->
 <div class="pergunta" id="pergunta9" style="display:none;">
-<p><strong>9. No contexto da pesquisa científica no Brasil, o Currículo Lattes é utilizado principalmente para:</strong></p>
+<p><strong>9. Segundo o texto, qual é a função das avaliações realizadas pela Capes em relação aos programas de mestrado e doutorado?</strong></p>
 <form>
-<input type="radio" name="q9" value="a"> A) Divulgar a produção acadêmica e a trajetória científica de pesquisadores<br>
-<input type="radio" name="q9" value="b"> B) Registrar o histórico escolar de estudantes universitários<br>
-<input type="radio" name="q9" value="c"> C) Organizar as disciplinas obrigatórias de cursos de graduação<br>
-<input type="radio" name="q9" value="d"> D) Controlar a matrícula em programas de pós-graduação<br><br>
-<button type="button" class="botao-responder" onclick="checkResposta(9,'a')">Responder</button>
+<input type="radio" name="q9" value="a"> A) Definir quais estudantes podem ingressar nos programas<br>
+<input type="radio" name="q9" value="b"> B) Permitir que os interessados conheçam a qualidade dos cursos<br>
+<input type="radio" name="q9" value="c"> C) Escolher os orientadores dos estudantes<br>
+<input type="radio" name="q9" value="d"> D) Determinar o tema das pesquisas desenvolvidas<br><br>
+<button type="button" class="botao-responder" onclick="checkResposta(9,'b')">Responder</button>
 </form>
 <p id="feedback9"></p>
 <p id="timer9"></p>
@@ -265,170 +278,17 @@ margin-top:20px;
 
 <!-- PERGUNTA 10 -->
 <div class="pergunta" id="pergunta10" style="display:none;">
-<p><strong>10. Qual é a principal diferença entre mestrado acadêmico e mestrado profissional?</strong></p>
+<p><strong>10. O que ocorre quando um estudante ingressa em um mestrado ou doutorado em condição de dependência em língua estrangeira?</strong></p>
 <form>
-<input type="radio" name="q10" value="a"> A) O mestrado acadêmico é voltado à produção de conhecimento científico, enquanto o profissional enfatiza a aplicação prática do conhecimento.<br>
-<input type="radio" name="q10" value="b"> B) O mestrado profissional exige doutorado prévio.<br>
-<input type="radio" name="q10" value="c"> C) O mestrado acadêmico é voltado apenas ao mercado de trabalho.<br>
-<input type="radio" name="q10" value="d"> D) O mestrado profissional dispensa orientação acadêmica formal.<br><br>
-<button type="button" class="botao-responder" onclick="checkResposta(10,'a')">Responder</button>
+<input type="radio" name="q10" value="a"> A) O estudante é automaticamente desligado do programa<br>
+<input type="radio" name="q10" value="b"> B) O estudante recebe novo prazo para comprovar suficiência na língua exigida<br>
+<input type="radio" name="q10" value="c"> C) O estudante fica dispensado da exigência de língua estrangeira<br>
+<input type="radio" name="q10" value="d"> D) O estudante precisa reiniciar todas as disciplinas cursadas<br><br>
+<button type="button" class="botao-responder" onclick="checkResposta(10,'b')">Responder</button>
 </form>
 <p id="feedback10"></p>
 <p id="timer10"></p>
-<button id="proxima10" class="botao-proxima" style="display:none;" onclick="proximaPergunta(11)">Próxima Pergunta</button>
-</div>
-
-<!-- PERGUNTA 11 -->
-<div class="pergunta" id="pergunta11" style="display:none;">
-<p><strong>11. Qual é o objetivo central de um curso de doutorado?</strong></p>
-<form>
-<input type="radio" name="q11" value="a"> A) Promover atualização profissional e técnica.<br>
-<input type="radio" name="q11" value="b"> B) Qualificar para o ensino básico.<br>
-<input type="radio" name="q11" value="c"> C) Formar pesquisadores capazes de produzir conhecimento científico original.<br>
-<input type="radio" name="q11" value="d"> D) Capacitar exclusivamente para o mercado de trabalho.<br><br>
-<button type="button" class="botao-responder" onclick="checkResposta(11,'c')">Responder</button>
-</form>
-<p id="feedback11"></p>
-<p id="timer11"></p>
-<button id="proxima11" class="botao-proxima" style="display:none;" onclick="proximaPergunta(12)">Próxima Pergunta</button>
-</div>
-
-<!-- PERGUNTA 12 -->
-<div class="pergunta" id="pergunta12" style="display:none;">
-<p><strong>12. Qual dos percursos abaixo representa uma trajetória acadêmica comum na formação científica?</strong></p>
-<form>
-<input type="radio" name="q12" value="a"> A) Graduação → Especialização → Doutorado → Ensino médio<br>
-<input type="radio" name="q12" value="b"> B) Graduação → Mestrado → Doutorado → Pós-doutorado<br>
-<input type="radio" name="q12" value="c"> C) Graduação → Pós-doutorado → Doutorado<br>
-<input type="radio" name="q12" value="d"> D) Graduação → Curso técnico → Doutorado<br><br>
-<button type="button" class="botao-responder" onclick="checkResposta(12,'b')">Responder</button>
-</form>
-<p id="feedback12"></p>
-<p id="timer12"></p>
-<button id="proxima12" class="botao-proxima" style="display:none;" onclick="proximaPergunta(13)">Próxima Pergunta</button>
-</div>
-
-<!-- PERGUNTA 13 -->
-<div class="pergunta" id="pergunta13" style="display:none;">
-<p><strong>13. Qual atividade institucional é voltada especificamente à inserção do estudante de graduação em projetos de pesquisa científica?</strong></p>
-<form>
-<input type="radio" name="q13" value="a"> A) Estágio supervisionado<br>
-<input type="radio" name="q13" value="b"> B) Iniciação científica<br>
-<input type="radio" name="q13" value="c"> C) Trabalho de Conclusão de Curso<br>
-<input type="radio" name="q13" value="d"> D) Monitoria<br><br>
-<button type="button" class="botao-responder" onclick="checkResposta(13,'b')">Responder</button>
-</form>
-<p id="feedback13"></p>
-<p id="timer13"></p>
-<button id="proxima13" class="botao-proxima" style="display:none;" onclick="proximaPergunta(14)">Próxima Pergunta</button>
-</div>
-
-<!-- PERGUNTA 14 -->
-<div class="pergunta" id="pergunta14" style="display:none;">
-<p><strong>14. Qual órgão brasileiro é responsável pela avaliação dos programas de mestrado e doutorado?</strong></p>
-<form>
-<input type="radio" name="q14" value="a"> A) INEP<br>
-<input type="radio" name="q14" value="b"> B) CAPES<br>
-<input type="radio" name="q14" value="c"> C) CNPq<br>
-<input type="radio" name="q14" value="d"> D) MEC<br><br>
-<button type="button" class="botao-responder" onclick="checkResposta(14,'b')">Responder</button>
-</form>
-<p id="feedback14"></p>
-<p id="timer14"></p>
-<button id="proxima14" class="botao-proxima" style="display:none;" onclick="proximaPergunta(15)">Próxima Pergunta</button>
-</div>
-
-<!-- PERGUNTA 15 -->
-<div class="pergunta" id="pergunta15" style="display:none;">
-<p><strong>15. No contexto das universidades brasileiras, o chamado “tripé universitário” é formado por:</strong></p>
-<form>
-<input type="radio" name="q15" value="a"> A) Graduação, pós-graduação e extensão<br>
-<input type="radio" name="q15" value="b"> B) Ensino, pesquisa e extensão<br>
-<input type="radio" name="q15" value="c"> C) Ensino, estágio e pesquisa<br>
-<input type="radio" name="q15" value="d"> D) Pesquisa, inovação e mercado<br><br>
-<button type="button" class="botao-responder" onclick="checkResposta(15,'b')">Responder</button>
-</form>
-<p id="feedback15"></p>
-<p id="timer15"></p>
-<button id="proxima15" class="botao-proxima" style="display:none;" onclick="proximaPergunta(16)">Próxima Pergunta</button>
-</div>
-
-<!-- PERGUNTA 16 -->
-<div class="pergunta" id="pergunta16" style="display: none;">
-  <p><strong>16. Qual lei estabelece as bases do sistema educacional brasileiro, incluindo o ensino superior?</strong></p>
-  <form>
-    <input type="radio" name="q16" value="a"> A) Lei nº 9.394/1996<br>
-    <input type="radio" name="q16" value="b"> B) Lei nº 13.005/2014<br>
-    <input type="radio" name="q16" value="c"> C) Lei nº 9.394/2006<br>
-    <input type="radio" name="q16" value="d"> D) Lei nº 12.711/2012<br><br>
-    <button type="button" class="botao-responder" onclick="checkResposta(16, 'a')">Responder</button>
-  </form>
-  <p id="feedback16"></p>
-  <p id="timer16" style="font-weight: bold;"></p>
-  <button id="proxima16" class="botao-proxima" style="display:none;" onclick="proximaPergunta(17)">Próxima Pergunta</button>
-</div>
-
-<!-- PERGUNTA 17 -->
-<div class="pergunta" id="pergunta17" style="display: none;">
-  <p><strong>17. Sobre o reconhecimento internacional de diplomas de doutorado, qual afirmação é mais correta?</strong></p>
-  <form>
-    <input type="radio" name="q17" value="a"> A) Diplomas de doutorado são automaticamente reconhecidos em qualquer país.<br>
-    <input type="radio" name="q17" value="b"> B) Cada país ou universidade decide se reconhece ou não um diploma estrangeiro.<br>
-    <input type="radio" name="q17" value="c"> C) Diplomas brasileiros são sempre reconhecidos automaticamente na Europa.<br>
-    <input type="radio" name="q17" value="d"> D) O reconhecimento depende apenas da CAPES.<br><br>
-    <button type="button" class="botao-responder" onclick="checkResposta(17, 'b')">Responder</button>
-  </form>
-  <p id="feedback17"></p>
-  <p id="timer17" style="font-weight: bold;"></p>
-  <button id="proxima17" class="botao-proxima" style="display:none;" onclick="proximaPergunta(18)">Próxima Pergunta</button>
-</div>
-
-<!-- PERGUNTA 18 -->
-<div class="pergunta" id="pergunta18" style="display: none;">
-  <p><strong>18. Qual é a função principal do Trabalho de Conclusão de Curso (TCC) na graduação?</strong></p>
-  <form>
-    <input type="radio" name="q18" value="a"> A) Substituir todas as disciplinas do último semestre<br>
-    <input type="radio" name="q18" value="b"> B) Demonstrar a capacidade do estudante de desenvolver um trabalho acadêmico orientado<br>
-    <input type="radio" name="q18" value="c"> C) Servir como requisito para ingresso no mestrado<br>
-    <input type="radio" name="q18" value="d"> D) Avaliar exclusivamente habilidades profissionais<br><br>
-    <button type="button" class="botao-responder" onclick="checkResposta(18, 'b')">Responder</button>
-  </form>
-  <p id="feedback18"></p>
-  <p id="timer18" style="font-weight: bold;"></p>
-  <button id="proxima18" class="botao-proxima" style="display:none;" onclick="proximaPergunta(19)">Próxima Pergunta</button>
-</div>
-
-<!-- PERGUNTA 19 -->
-<div class="pergunta" id="pergunta19" style="display: none;">
-  <p><strong>19. O que caracteriza a atividade de monitoria na universidade?</strong></p>
-  <form>
-    <input type="radio" name="q19" value="a"> A) Um estágio obrigatório para todos os alunos<br>
-    <input type="radio" name="q19" value="b"> B) Uma atividade em que estudantes auxiliam professores em disciplinas<br>
-    <input type="radio" name="q19" value="c"> C) Um trabalho administrativo na universidade<br>
-    <input type="radio" name="q19" value="d"> D) Uma forma de substituição do professor em sala de aula<br><br>
-    <button type="button" class="botao-responder" onclick="checkResposta(19, 'b')">Responder</button>
-  </form>
-  <p id="feedback19"></p>
-  <p id="timer19" style="font-weight: bold;"></p>
-  <button id="proxima19" class="botao-proxima" style="display:none;" onclick="proximaPergunta(20)">Próxima Pergunta</button>
-</div>
-
-<!-- PERGUNTA 20 -->
-<div class="pergunta" id="pergunta20" style="display: none;">
-  <p><strong>20. O que caracteriza um grupo de pesquisa em uma universidade brasileira?</strong></p>
-  <form>
-    <input type="radio" name="q20" value="a"> A) Um conjunto informal de estudantes que estudam juntos<br>
-    <input type="radio" name="q20" value="b"> B) Uma equipe organizada de pesquisadores registrada no CNPq<br>
-    <input type="radio" name="q20" value="c"> C) Um grupo criado exclusivamente para disciplinas de graduação<br>
-    <input type="radio" name="q20" value="d"> D) Um clube estudantil vinculado à extensão<br><br>
-    <button type="button" class="botao-responder" onclick="checkResposta(20, 'b')">Responder</button>
-  </form>
-  <p id="feedback20"></p>
-  <p id="timer20" style="font-weight: bold;"></p>
-  <!-- Última pergunta: pode mostrar resultado final aqui -->
-  <button id="proxima20" class="botao-proxima" style="display:none;" onclick="finalizarQuiz()">
-Finalizar Quiz
-</button>
+<button id="proxima10" class="botao-proxima" style="display:none;" onclick="finalizarQuiz()">Finalizar Quiz</button>
 </div>
 
 </div>
@@ -437,7 +297,7 @@ Finalizar Quiz
 
 <div id="mensagem-final" style="display:none;text-align:center;margin-top:30px;">
 <h3>🎉 Parabéns! Você concluiu o quiz!</h3>
-<p>Agora você conhece melhor a estrutura do sistema acadêmico brasileiro.</p>
+<p>Agora você conhece melhor a organização do sistema acadêmico brasileiro apresentada por Ferrarezi Jr.</p>
 </div>
 
 <script>
@@ -552,12 +412,14 @@ iniciarTimer("timer"+num,num);
 
 function finalizarQuiz(){
 
+clearInterval(timer);
+
 document.querySelectorAll(".pergunta").forEach(p => p.style.display="none");
 
 const resultado = document.getElementById("resultadoFinal");
 
 resultado.innerText =
-"🎉 Quiz concluído! Você acertou " + acertos + " de 20 questões.";
+"🎉 Quiz concluído! Você acertou " + acertos + " de 10 questões.";
 
 document.getElementById("mensagem-final").style.display="block";
 
@@ -565,6 +427,14 @@ document.getElementById("mensagem-final").style.display="block";
 
 </script>
 ```
+
+------------------------------------------------------------------------
+
+<br>
+
+## Contextualização
+
+Compreender o sistema acadêmico brasileiro também significa reconhecer os instrumentos utilizados para registrar e apresentar uma trajetória acadêmica. No Brasil, um desses instrumentos é o *Currículo Lattes*, no qual estudantes, professores e pesquisadores registram sua formação e suas atividades acadêmicas. A seguir, vamos aprender na prática como essa trajetória é apresentada linguisticamente no texto inicial do currículo.
 
 ## Aprendizagem prática
 
@@ -575,11 +445,11 @@ Análise
 ::: destaque
 **Como se estrutura um texto de apresentação de um currículo Lattes?**
 
-O Currículo Lattes é a principal plataforma de registro da trajetória acadêmica e profissional no Brasil, sendo reconhecido nacionalmente por universidades, agências de fomento e instituições de pesquisa. Ele reúne, de forma padronizada, informações sobre formação, produção científica, atuação profissional e atividades de extensão, funcionando como uma verdadeira “vitrine” acadêmica.
+O Currículo Lattes é a principal plataforma de registro da trajetória acadêmica e profissional no Brasil. Utilizado por universidades, agências de fomento e instituições de pesquisa, reúne informações sobre formação, produção científica, atuação profissional e atividades acadêmicas.
 
-Ter o Lattes atualizado é essencial para participar de seleções de bolsas, estágios, programas de pós-graduação e editais de pesquisa. Por isso, o texto de apresentação presente no currículo cumpre uma função importante: apresentar de forma sintética quem é o pesquisador, qual é sua trajetória acadêmica e quais são suas áreas de atuação.
+Manter o currículo atualizado é importante para participar de seleções de bolsas, programas de pós-graduação e editais de pesquisa. Seu texto de apresentação permite sintetizar a trajetória acadêmica e as principais áreas de atuação e interesse.
 
-Nesta atividade, você irá observar como pesquisadores estruturam esse tipo de texto e quais informações costumam aparecer nele.
+Nesta atividade, você analisará como pesquisadores estruturam esse texto de apresentação e quais informações costumam incluir nele.
 :::
 
 ::: subsubtitulo-nao-numerado

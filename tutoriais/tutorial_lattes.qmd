@@ -14,13 +14,13 @@ Documentos necessários
 
 Antes de começar, tenha em mãos:
 
--   Documento de identidade (RG ou CNH);
--   CPF;
--   Endereço completo;
--   Telefones e e-mail (preferencialmente institucional, se já tiver);
--   Histórico escolar e/ou diplomas de cursos concluídos;
--   Certificados de participação em cursos, palestras ou congressos;
--   Produções acadêmicas (artigos, resumos, apresentações);
+- Documento de identidade (RG ou CNH);
+- CPF;
+- Endereço completo;
+- Telefones e e-mail (preferencialmente institucional, se já tiver);
+- Histórico escolar e/ou diplomas de cursos concluídos;
+- Certificados de participação em cursos, palestras ou congressos;
+- Produções acadêmicas (artigos, resumos, apresentações);
 
 ::: callout-important
 Sempre guarde cópias digitais (em PDF) de seus certificados. Isso facilita a atualização do currículo.
@@ -56,11 +56,11 @@ Acesse: <https://lattes.cnpq.br> e clique em **Cadastrar novo currículo**. Crie
 
 O sistema é dividido em seções principais:
 
--   **Dados gerais**: informações pessoais, endereço e contatos;\
--   **Formação acadêmica**: ensino médio, graduação, cursos técnicos;\
--   **Atuação profissional**: empregos, estágios, bolsas;\
--   **Produções**: artigos, resumos em anais, capítulos de livro, apresentações de trabalho e outras produções acadêmicas.\
--   **Eventos**: congressos, palestras, cursos de extensão.
+- **Dados gerais**: informações pessoais, endereço e contatos;\
+- **Formação acadêmica**: ensino médio, graduação, cursos técnicos;\
+- **Atuação profissional**: empregos, estágios, bolsas;\
+- **Produções**: artigos, resumos em anais, capítulos de livro, apresentações de trabalho e outras produções acadêmicas.\
+- **Eventos**: congressos, palestras, cursos de extensão.
 
 ::: subtitulo-nao-numerado
 3.  Foto profissional
@@ -141,10 +141,10 @@ Preencha todos os dados solicitados (informações pessoais, endereço, contato 
 
 Esse é o campo **"Resumo"**, exibido logo no início do currículo. Muitas pessoas o negligenciam, mas ele é fundamental.
 
--   Formação atual (curso e instituição);
--   Áreas de interesse;
--   Participação em projetos (se houver);
--   Objetivos acadêmicos e profissionais.
+- Formação atual (curso e instituição);
+- Áreas de interesse;
+- Participação em projetos (se houver);
+- Objetivos acadêmicos e profissionais.
 
 ::: callout-note
 **Exemplo de texto:**\
@@ -182,9 +182,9 @@ Esse é o campo **"Resumo"**, exibido logo no início do currículo. Muitas pess
 ::: callout-tip
 **Boas práticas para manter o currículo atualizado**
 
--   Atualize sempre que concluir um curso, participar de evento ou publicar um trabalho;\
--   Revise ortografia e gramática;\
--   Salve regularmente em PDF;\
--   Evite informações irrelevantes (como cursos muito básicos ou antigos);\
--   Peça que um professor revise sua primeira versão.
+- Atualize sempre que concluir um curso, participar de evento ou publicar um trabalho;\
+- Revise ortografia e gramática;\
+- Salve regularmente em PDF;\
+- Evite informações irrelevantes (como cursos muito básicos ou antigos);\
+- Peça que um professor revise sua primeira versão.
 :::

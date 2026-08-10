@@ -1,0 +1,63 @@
+<div class="anete-controles" role="group" aria-label="Controles de leitura">
+  <button type="button" data-anete-action="diminuir" aria-label="Diminuir tamanho do texto" title="Diminuir texto">A−</button>
+  <button type="button" data-anete-action="aumentar" aria-label="Aumentar tamanho do texto" title="Aumentar texto">A+</button>
+  <button type="button" class="anete-projetar" data-anete-action="projetar" aria-pressed="false" title="Ampliar o conteúdo e ocultar menus laterais">Projetar</button>
+  <span class="anete-controles-status" aria-live="polite"></span>
+</div>
+
+<script>
+(() => {
+  const body = document.body;
+  const controls = document.querySelector('.anete-controles');
+  if (!controls) return;
+
+  const status = controls.querySelector('.anete-controles-status');
+  const projectButton = controls.querySelector('[data-anete-action="projetar"]');
+  const sizeClasses = ['', 'anete-texto-grande', 'anete-texto-extra'];
+  const params = new URLSearchParams(window.location.search);
+
+  let size = Number.parseInt(localStorage.getItem('anete-text-size') || '0', 10);
+  if (!Number.isInteger(size) || size < 0 || size > 2) size = 0;
+
+  function applySize(announce = false) {
+    body.classList.remove('anete-texto-grande', 'anete-texto-extra');
+    if (sizeClasses[size]) body.classList.add(sizeClasses[size]);
+    localStorage.setItem('anete-text-size', String(size));
+    if (announce) status.textContent = ['Tamanho padrão', 'Texto ampliado', 'Texto muito ampliado'][size];
+  }
+
+  function setProjection(active, announce = false) {
+    body.classList.toggle('modo-projecao', active);
+    projectButton.setAttribute('aria-pressed', String(active));
+    projectButton.textContent = active ? 'Sair da projeção' : 'Projetar';
+    sessionStorage.setItem('anete-projection', active ? '1' : '0');
+    if (announce) status.textContent = active ? 'Modo de projeção ativado' : 'Modo de projeção desativado';
+  }
+
+  applySize();
+  setProjection(params.get('apresentacao') === '1' || sessionStorage.getItem('anete-projection') === '1');
+
+  controls.addEventListener('click', (event) => {
+    const button = event.target.closest('button[data-anete-action]');
+    if (!button) return;
+    const action = button.dataset.aneteAction;
+
+    if (action === 'aumentar') {
+      size = Math.min(2, size + 1);
+      applySize(true);
+    } else if (action === 'diminuir') {
+      size = Math.max(0, size - 1);
+      applySize(true);
+    } else if (action === 'projetar') {
+      setProjection(!body.classList.contains('modo-projecao'), true);
+    }
+  });
+
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && body.classList.contains('modo-projecao')) {
+      setProjection(false, true);
+      projectButton.focus();
+    }
+  });
+})();
+</script>

@@ -1,18 +1,25 @@
-# Apresentação {.unnumbered}
+# Análise e Expressão Textual {.unnumbered}
 
+```{=html}
 <style>
 #title-block-header {
   display: none !important;
 }
 
 </style>
+```
 
-::: {.capa-livro}
-<div class="capa-etiqueta">Disciplina</div>
-<div class="capa-titulo">Análise e Expressão Textual</div>
+::::: abertura-disciplina
+::: abertura-kicker
+ANETE · Disciplina de graduação
 :::
 
-Este livro digital apoia a disciplina Análise e Expressão Textual (ANETE), ofertada no primeiro semestre do Bacharelado Interdisciplinar em Ciência e Tecnologia (C&T) da Universidade Federal Rural do Semi-Árido (UFERSA).
+::: abertura-linha
+Linguagem acadêmica · pensamento crítico · comunicação científica
+:::
+:::::
+
+Este livro digital apoia a disciplina Análise e Expressão Textual (ANETE), ofertada no primeiro semestre a discentes de Bacharelado Interdisciplinar em Ciência e Tecnologia (C&T), Ciência da Computação e Engenharias da Universidade Federal Rural do Semi-Árido (UFERSA).
 
 Aqui você encontrará roteiros de aula, tutoriais, modelos e materiais complementares voltados ao desenvolvimento de práticas de letramento acadêmico-científico no ensino superior.
 

@@ -26,17 +26,13 @@ book:
 
   navbar:
     pinned: true
-    title: "ANETE"
+    title: "ANETE · Mário Martins"
     background: "#ffffff"
-    foreground: "#1C2B4A"
-    left:
-      - text: "Análise e Expressão Textual"
+    foreground: "#132238"
 
   page-footer:
-    right: |
-      <img src="/img/logo_ufersa.png"
-           alt="Logotipo da UFERSA"
-           class="logo-rodape">
+    left: "ANETE · Universidade Federal Rural do Semi-Árido"
+    right: "Mário Martins"
 
   chapters:
     - index.qmd
@@ -106,5 +102,13 @@ format:
     toc-depth: 3
     callout-appearance: simple
     smooth-scroll: true
+    include-after-body: _includes/controles-acessibilidade.html
 
 editor: visual
+
+
+# git add .
+
+# git commit -m "Atualização de aula"
+
+# git push origin main
