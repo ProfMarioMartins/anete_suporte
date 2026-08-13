@@ -143,9 +143,9 @@ margin-top:20px;
 
 <!-- PERGUNTA 1 -->
 <div class="pergunta" id="pergunta1">
-<p><strong>1. Segundo Ferrarezi Jr., a graduação pode conferir grau e diploma de:</strong></p>
+<p><strong>1. A graduação pode conferir diploma de:</strong></p>
 <form>
-<input type="radio" name="q1" value="a"> A) Bacharel ou licenciado, podendo haver formação em ambos<br>
+<input type="radio" name="q1" value="a"> A) Bacharel ou licenciado<br>
 <input type="radio" name="q1" value="b"> B) Especialista ou mestre<br>
 <input type="radio" name="q1" value="c"> C) Mestre ou doutor<br>
 <input type="radio" name="q1" value="d"> D) Bacharel ou especialista<br><br>
@@ -158,7 +158,7 @@ margin-top:20px;
 
 <!-- PERGUNTA 2 -->
 <div class="pergunta" id="pergunta2" style="display:none;">
-<p><strong>2. Qual é a carga horária mínima de um curso de especialização, segundo o texto?</strong></p>
+<p><strong>2. Qual é a carga horária mínima de um curso de especialização?</strong></p>
 <form>
 <input type="radio" name="q2" value="a"> A) 120 horas<br>
 <input type="radio" name="q2" value="b"> B) 180 horas<br>
@@ -173,9 +173,9 @@ margin-top:20px;
 
 <!-- PERGUNTA 3 -->
 <div class="pergunta" id="pergunta3" style="display:none;">
-<p><strong>3. Qual característica distingue a pós-graduação <em>stricto sensu</em> da formação <em>lato sensu</em>, de acordo com o texto?</strong></p>
+<p><strong>3. Qual característica distingue a pós-graduação <em>stricto sensu</em> da formação <em>lato sensu</em>?</strong></p>
 <form>
-<input type="radio" name="q3" value="a"> A) A formação <em>stricto sensu</em> é mais aprofundada e relacionada a um objeto de estudo bem definido<br>
+<input type="radio" name="q3" value="a"> A) A formação <em>stricto sensu</em> é relacionada a um objeto de estudo bem definido<br>
 <input type="radio" name="q3" value="b"> B) A formação <em>stricto sensu</em> é sempre mais curta<br>
 <input type="radio" name="q3" value="c"> C) A formação <em>lato sensu</em> sempre confere grau acadêmico<br>
 <input type="radio" name="q3" value="d"> D) A formação <em>lato sensu</em> exige necessariamente defesa pública<br><br>
@@ -206,7 +206,7 @@ margin-top:20px;
 <p><strong>5. Qual é uma das exigências normalmente previstas para o ingresso em um programa de mestrado?</strong></p>
 <form>
 <input type="radio" name="q5" value="a"> A) Ter concluído previamente um doutorado<br>
-<input type="radio" name="q5" value="b"> B) Apresentar projeto de pesquisa ou monografia<br>
+<input type="radio" name="q5" value="b"> B) Apresentar projeto de pesquisa<br>
 <input type="radio" name="q5" value="c"> C) Possuir experiência docente mínima de dez anos<br>
 <input type="radio" name="q5" value="d"> D) Defender uma tese antes da matrícula<br><br>
 <button type="button" class="botao-responder" onclick="checkResposta(5,'b')">Responder</button>
@@ -218,7 +218,7 @@ margin-top:20px;
 
 <!-- PERGUNTA 6 -->
 <div class="pergunta" id="pergunta6" style="display:none;">
-<p><strong>6. Qual é o objetivo central do doutorado, segundo Ferrarezi Jr.?</strong></p>
+<p><strong>6. Qual é o objetivo central do doutorado?</strong></p>
 <form>
 <input type="radio" name="q6" value="a"> A) Promover apenas atualização profissional<br>
 <input type="radio" name="q6" value="b"> B) Executar pesquisa científica inédita, original e relevante<br>
@@ -237,7 +237,7 @@ margin-top:20px;
 <form>
 <input type="radio" name="q7" value="a"> A) O último grau acadêmico do sistema brasileiro<br>
 <input type="radio" name="q7" value="b"> B) Um curso obrigatório após o doutorado<br>
-<input type="radio" name="q7" value="c"> C) Um estágio de atualização para doutores, baseado na execução de um projeto de pesquisa<br>
+<input type="radio" name="q7" value="c"> C) Um estágio de atualização para doutores<br>
 <input type="radio" name="q7" value="d"> D) Uma modalidade de especialização <em>lato sensu</em><br><br>
 <button type="button" class="botao-responder" onclick="checkResposta(7,'c')">Responder</button>
 </form>
@@ -263,7 +263,7 @@ margin-top:20px;
 
 <!-- PERGUNTA 9 -->
 <div class="pergunta" id="pergunta9" style="display:none;">
-<p><strong>9. Segundo o texto, qual é a função das avaliações realizadas pela Capes em relação aos programas de mestrado e doutorado?</strong></p>
+<p><strong>9. Qual é a função das avaliações realizadas pela Capes em relação aos programas de mestrado e doutorado?</strong></p>
 <form>
 <input type="radio" name="q9" value="a"> A) Definir quais estudantes podem ingressar nos programas<br>
 <input type="radio" name="q9" value="b"> B) Permitir que os interessados conheçam a qualidade dos cursos<br>
@@ -278,13 +278,13 @@ margin-top:20px;
 
 <!-- PERGUNTA 10 -->
 <div class="pergunta" id="pergunta10" style="display:none;">
-<p><strong>10. O que ocorre quando um estudante ingressa em um mestrado ou doutorado em condição de dependência em língua estrangeira?</strong></p>
+<p><strong>10. Qual alternativa distingue corretamente a pós-graduação <em>lato sensu</em> da pós-graduação <em>stricto sensu</em>?</strong></p>
 <form>
-<input type="radio" name="q10" value="a"> A) O estudante é automaticamente desligado do programa<br>
-<input type="radio" name="q10" value="b"> B) O estudante recebe novo prazo para comprovar suficiência na língua exigida<br>
-<input type="radio" name="q10" value="c"> C) O estudante fica dispensado da exigência de língua estrangeira<br>
-<input type="radio" name="q10" value="d"> D) O estudante precisa reiniciar todas as disciplinas cursadas<br><br>
-<button type="button" class="botao-responder" onclick="checkResposta(10,'b')">Responder</button>
+<input type="radio" name="q10" value="a"> A) A <em>lato sensu</em> compreende aperfeiçoamento e especialização, enquanto a <em>stricto sensu</em> compreende mestrado e doutorado<br>
+<input type="radio" name="q10" value="b"> B) A <em>lato sensu</em> compreende mestrado e especialização, enquanto a <em>stricto sensu</em> compreende doutorado e pós-doutorado<br>
+<input type="radio" name="q10" value="c"> C) A <em>lato sensu</em> compreende apenas aperfeiçoamento, enquanto a <em>stricto sensu</em> compreende especialização e mestrado<br>
+<input type="radio" name="q10" value="d"> D) A <em>lato sensu</em> e a <em>stricto sensu</em> compreendem as mesmas modalidades, diferenciando-se apenas pela duração dos cursos<br><br>
+<button type="button" class="botao-responder" onclick="checkResposta(10,'a')">Responder</button>
 </form>
 <p id="feedback10"></p>
 <p id="timer10"></p>

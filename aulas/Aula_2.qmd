@@ -12,10 +12,10 @@ Nesta aula, vamos explorar os modos pelos quais os seres humanos constroem expli
 
 Ao final deste encontro e com base na leitura indicada, espera-se que você seja capaz de:
 
--   *identificar características do conhecimento do senso comum;*
--   *reconhecer a diferença entre senso comum e conhecimento científico;*
--   *analisar exemplos de linguagem vaga;*
--   *explicar por que a vaguidade dificulta a verificação científica.*
+- *identificar características do conhecimento do senso comum;*
+- *reconhecer a diferença entre senso comum e conhecimento científico;*
+- *analisar exemplos de linguagem vaga;*
+- *explicar por que a vaguidade dificulta a verificação científica.*
 
 ::: leitura
 Leitura indicada:
@@ -37,11 +37,12 @@ Qual é o seu signo?
 
 ```{=html}
 <figure style="text-align: center;">
-  <img src="img/horoscopo_qrcode_docs.google.com.png" style="width:40%; display:block; margin:auto;" alt="QR code da enquete" />
+  <img src="/img/horoscopo_qrcode_docs.google.com.png" style="width:40%; display:block; margin:auto;" alt="QR code da enquete" />
   <figcaption><strong>Figura 1.</strong> Código QR para a enquete</figcaption>
 </figure>
 ```
 
+<!--
 ```{=html}
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe
@@ -54,9 +55,11 @@ Qual é o seu signo?
   </iframe>
 </div>
 ```
+-->
 
 <br/>
 
+<!--
 ```{=html}
 <div style="text-align:center; margin: 1.2em 0;">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSflOiaMnKWG7To4KXCTAhXZ6mCn5QlGbaPbSrZPP3qjMnT-oQ/viewform"
@@ -77,6 +80,7 @@ Qual é o seu signo?
   </a>
 </div>
 ```
+-->
 
 ::: subtitulo-nao-numerado
 Reflexão
@@ -84,10 +88,10 @@ Reflexão
 
 Agora que sabemos quais são os signos da turma, vamos refletir juntos:
 
--   Você acredita que as características atribuídas ao seu signo realmente combinam com você?
--   Essas características poderiam se aplicar a qualquer pessoa?
--   Quem escreve os horóscopos? Quais evidências essas pessoas usam?
--   O que faz com que tantas pessoas acreditem em signos, mesmo sem comprovação científica?
+- Você acredita que as características atribuídas ao seu signo realmente combinam com você?
+- Essas características poderiam se aplicar a qualquer pessoa?
+- Quem escreve os horóscopos? Quais evidências essas pessoas usam?
+- O que faz com que tantas pessoas acreditem em signos, mesmo sem comprovação científica?
 
 ## Leitura em foco
 
@@ -125,11 +129,12 @@ Qual é o melhor remédio para parar o soluço? Responda com uma ou duas palavra
 
 ```{=html}
 <figure style="text-align: center;">
-  <img src="img/soluco_qrcode_docs.google.com.png" style="width:40%; display:block; margin:auto;" alt="QR code da enquete do soluço" />
+  <img src="../img/soluco_qrcode_docs.google.com.png" style="width:40%; display:block; margin:auto;" alt="QR code da enquete do soluço" />
   <figcaption><strong>Figura 2.</strong> Código QR para a enquete</figcaption>
 </figure>
 ```
 
+<!--
 ```{=html}
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe
@@ -165,6 +170,7 @@ Qual é o melhor remédio para parar o soluço? Responda com uma ou duas palavra
   </a>
 </div>
 ```
+-->
 
 ::: subtitulo-nao-numerado
 Reflexão
@@ -184,34 +190,34 @@ Essa atividade nos ajuda a perceber como o **senso comum constrói soluções pr
 
 São exemplos de conhecimento construído com base no senso comum de uma comunidade:
 
--   uso de cavernas em tempos pré-históricos
--   invenção da roda
--   uso de lanças e armadilhas
--   preparo de remédios caseiros
--   confecção de tecidos e vestimentas
+- uso de cavernas em tempos pré-históricos
+- invenção da roda
+- uso de lanças e armadilhas
+- preparo de remédios caseiros
+- confecção de tecidos e vestimentas
 
 ::: destaque
 **Os quatro pilares do senso comum**
 
--   **Espontaneidade**\
-    O senso comum surge de modo natural, não planejado. É construído a partir das experiências imediatas do cotidiano, sem necessidade de investigação formal ou validação externa.
+- **Espontaneidade**\
+  O senso comum surge de modo natural, não planejado. É construído a partir das experiências imediatas do cotidiano, sem necessidade de investigação formal ou validação externa.
 
-    *Exemplo:* saber que colocar a mão no fogo queima, sem precisar de um experimento controlado.
+  *Exemplo:* saber que colocar a mão no fogo queima, sem precisar de um experimento controlado.
 
--   **Utilitarismo**\
-    Está voltado à solução prática de problemas do dia a dia. Seu valor está no que “funciona”, independentemente do motivo ou fundamento.
+- **Utilitarismo**\
+  Está voltado à solução prática de problemas do dia a dia. Seu valor está no que “funciona”, independentemente do motivo ou fundamento.
 
-    *Exemplo:* tomar chá de boldo para dor de estômago porque "sempre ajudou" — mesmo sem comprovação científica.
+  *Exemplo:* tomar chá de boldo para dor de estômago porque "sempre ajudou" — mesmo sem comprovação científica.
 
--   **Subjetividade**\
-    O senso comum é interpretado com base na vivência, na cultura e nas crenças pessoais de quem fala. A verdade é relativa à experiência do indivíduo ou grupo.
+- **Subjetividade**\
+  O senso comum é interpretado com base na vivência, na cultura e nas crenças pessoais de quem fala. A verdade é relativa à experiência do indivíduo ou grupo.
 
-    *Exemplo:* acreditar que determinadas cores “atraem boas energias” segundo a tradição de fim de ano.
+  *Exemplo:* acreditar que determinadas cores “atraem boas energias” segundo a tradição de fim de ano.
 
--   **Linguagem vaga**\
-    Utiliza expressões imprecisas, genéricas ou metafóricas. A falta de precisão dificulta a verificação e o debate crítico.
+- **Linguagem vaga**\
+  Utiliza expressões imprecisas, genéricas ou metafóricas. A falta de precisão dificulta a verificação e o debate crítico.
 
-    *Exemplo:* dizer que algo “faz mal à saúde” sem explicar o quê, por quê, para quem ou em que quantidade.
+  *Exemplo:* dizer que algo “faz mal à saúde” sem explicar o quê, por quê, para quem ou em que quantidade.
 :::
 
 ::: citacao
@@ -265,11 +271,11 @@ Por que a linguagem do vídeo abaixo é vaga?
 
 A linguagem utilizada no vídeo pode ser considerada vaga por diversos motivos:
 
--   Medidas imprecisas: O vídeo instrui o uso de "aproximadamente uns cinco dedinhos de gengibre" e, se for "mais grossinho", "quatro dedos só". As medidas de "dedinhos" e "dedos" são altamente subjetivas e variam de pessoa para pessoa, tornando a quantidade exata do ingrediente ambígua e difícil de replicar consistentemente.
+- Medidas imprecisas: O vídeo instrui o uso de "aproximadamente uns cinco dedinhos de gengibre" e, se for "mais grossinho", "quatro dedos só". As medidas de "dedinhos" e "dedos" são altamente subjetivas e variam de pessoa para pessoa, tornando a quantidade exata do ingrediente ambígua e difícil de replicar consistentemente.
 
--   Termos relativos sobre custo e localização: A descrição de que o ingrediente "se você não tem aí na sua casa tem pertinho de você e custa bem baratinho" usa termos como "pertinho de você" e "bem baratinho". Esses termos são relativos e podem significar coisas diferentes para indivíduos em diferentes contextos geográficos ou financeiros, não oferecendo uma informação concreta.
+- Termos relativos sobre custo e localização: A descrição de que o ingrediente "se você não tem aí na sua casa tem pertinho de você e custa bem baratinho" usa termos como "pertinho de você" e "bem baratinho". Esses termos são relativos e podem significar coisas diferentes para indivíduos em diferentes contextos geográficos ou financeiros, não oferecendo uma informação concreta.
 
--   Afirmações absolutas e sem qualificação: A promessa de que "seus problemas de queda de cabelo de seborreia e de caspa vão acabar" é uma afirmação muito forte e absoluta. Tal linguagem não permite exceções, variações de resultados ou diferentes graus de eficácia, o que pode ser irrealista e sem base em dados científicos objetivos.
+- Afirmações absolutas e sem qualificação: A promessa de que "seus problemas de queda de cabelo de seborreia e de caspa vão acabar" é uma afirmação muito forte e absoluta. Tal linguagem não permite exceções, variações de resultados ou diferentes graus de eficácia, o que pode ser irrealista e sem base em dados científicos objetivos.
 
 </details>
 
@@ -303,17 +309,17 @@ Bandido bom é bandido morto!
 
 A linguagem utilizada no vídeo pode ser considerada vaga por diversos motivos:
 
--   Termo impreciso e genérico: “bandido”\
-    A palavra "bandido" não tem, no dito, uma definição clara. Pode se referir a criminosos de diferentes tipos, a pessoas acusadas (mas não julgadas) ou até mesmo a indivíduos rotulados socialmente como marginais, sem respaldo jurídico. Essa vaguidade abre margem para interpretações arbitrárias e discriminatórias.
+- Termo impreciso e genérico: “bandido”\
+  A palavra "bandido" não tem, no dito, uma definição clara. Pode se referir a criminosos de diferentes tipos, a pessoas acusadas (mas não julgadas) ou até mesmo a indivíduos rotulados socialmente como marginais, sem respaldo jurídico. Essa vaguidade abre margem para interpretações arbitrárias e discriminatórias.
 
--   Ausência de critérios objetivos\
-    Não há definição de quem julga, nem com base em que critérios se define quem é bom ou quem é bandido. A expressão ignora a complexidade das situações, dos contextos sociais e jurídicos envolvidos, e desconsidera princípios fundamentais como o direito à ampla defesa e ao devido processo legal.
+- Ausência de critérios objetivos\
+  Não há definição de quem julga, nem com base em que critérios se define quem é bom ou quem é bandido. A expressão ignora a complexidade das situações, dos contextos sociais e jurídicos envolvidos, e desconsidera princípios fundamentais como o direito à ampla defesa e ao devido processo legal.
 
--   Apelo emocional e moralizante\
-    A frase se apoia em um julgamento moral absoluto, típico do senso comum, e não admite exceções ou análises racionais. É uma simplificação extrema de uma questão complexa e serve muito mais para reforçar sentimentos de medo, revolta ou desejo de justiça sumária, do que para promover reflexão crítica.
+- Apelo emocional e moralizante\
+  A frase se apoia em um julgamento moral absoluto, típico do senso comum, e não admite exceções ou análises racionais. É uma simplificação extrema de uma questão complexa e serve muito mais para reforçar sentimentos de medo, revolta ou desejo de justiça sumária, do que para promover reflexão crítica.
 
--   Ausência de base empírica ou científica\
-    Não há comprovação de que matar alguém considerado bandido contribua para resolver problemas estruturais relacionados à criminalidade. Ao contrário, esse tipo de discurso pode fomentar a violência e a desumanização.
+- Ausência de base empírica ou científica\
+  Não há comprovação de que matar alguém considerado bandido contribua para resolver problemas estruturais relacionados à criminalidade. Ao contrário, esse tipo de discurso pode fomentar a violência e a desumanização.
 
 </details>
 
@@ -351,7 +357,7 @@ Analise a imagem a seguir para responder oralmente ao que se pede.
 O enunciado generaliza alguma ideia?
 :::
 
-<img src="img/maes.png" style="width:80%; display: block; margin: auto;"/>
+<img src="../img/maes.png" style="width:80%; display: block; margin: auto;"/>
 
 <!-- Aqui começa o campo de respostas-->
 
@@ -437,5 +443,5 @@ A distinção entre conhecimento do senso comum e conhecimento científico se re
 ::: proxima-aula
 [Para a próxima aula:]{.proxima-aula-title}
 
--   **Leia** os textos **Afinal, o que é Ciência?** (p. 7), **Um pouco de História e Filosofia da Ciência** (p. 8-14) e **Racionalidade científica: saindo do piloto automático** (p. 15-16), capítulos do livro *Afinal o que é ciência?... e o que não é*, de André Demambre Bacchi. Disponível na Minha Biblioteca.
+- **Leia** os textos **Afinal, o que é Ciência?** (p. 7), **Um pouco de História e Filosofia da Ciência** (p. 8-14) e **Racionalidade científica: saindo do piloto automático** (p. 15-16), capítulos do livro *Afinal o que é ciência?... e o que não é*, de André Demambre Bacchi. Disponível na Minha Biblioteca.
 :::

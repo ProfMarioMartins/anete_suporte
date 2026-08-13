@@ -26,13 +26,17 @@ book:
 
   navbar:
     pinned: true
-    title: "ANETE · Mário Martins"
+    title: "ANETE"
     background: "#ffffff"
-    foreground: "#132238"
+    foreground: "#1C2B4A"
+    left:
+      - text: ""
 
   page-footer:
-    left: "Disciplina: Análise e Expressão Textual · Universidade Federal Rural do Semi-Árido"
-    right: "Professor Mário Martins"
+    left: |
+      <img src="/img/logo_ufersa.png"
+           alt="Logotipo da UFERSA"
+           class="logo-rodape">
 
   chapters:
     - index.qmd
@@ -67,9 +71,9 @@ book:
         #- aulas/Aula_16_referencial.qmd
         #- aulas/Aula_17_metodologia.qmd
 
-    #- part: "Tutoriais"
-      #chapters:
-        #- tutoriais/tutorial_lattes.qmd
+    - part: "Tutoriais"
+      chapters:
+        - tutoriais/tutorial_lattes.qmd
         #- tutoriais/tutorial_zotero.qmd
         #- tutoriais/tutorial_capes.qmd
 
@@ -93,15 +97,17 @@ book:
 
 format:
   html:
-    highlight-style: github
+    highlight-style: atom-one
     theme:
-      - simplex
+      - cosmo
     css: custom.css
     toc: true
-    toc-title: "Índice do roteiro"
+    toc-title: "Índice"
     toc-depth: 3
-    callout-appearance: simple
+    callout-appearance: minimal
     smooth-scroll: true
+    code-copy: true
+    code-overflow: wrap
     include-after-body: _includes/controles-acessibilidade.html
 
 editor: visual

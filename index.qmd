@@ -1,4 +1,4 @@
-# Análise e Expressão Textual {.unnumbered}
+# Apresentação {.unnumbered}
 
 ```{=html}
 <style>
@@ -9,13 +9,13 @@
 </style>
 ```
 
-::::: abertura-disciplina
-::: abertura-kicker
-ANETE · Disciplina de graduação
+::::: capa-livro
+::: capa-etiqueta
+Disciplina
 :::
 
-::: abertura-linha
-Linguagem acadêmica · pensamento crítico · comunicação científica
+::: capa-titulo
+Análise e Expressão Textual
 :::
 :::::
 
