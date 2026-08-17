@@ -42,6 +42,7 @@ Qual é o seu signo?
 </figure>
 ```
 
+````{=html}
 <!--
 ```{=html}
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -56,9 +57,11 @@ Qual é o seu signo?
 </div>
 ```
 -->
+````
 
 <br/>
 
+````{=html}
 <!--
 ```{=html}
 <div style="text-align:center; margin: 1.2em 0;">
@@ -81,6 +84,7 @@ Qual é o seu signo?
 </div>
 ```
 -->
+````
 
 ::: subtitulo-nao-numerado
 Reflexão
@@ -134,6 +138,7 @@ Qual é o melhor remédio para parar o soluço? Responda com uma ou duas palavra
 </figure>
 ```
 
+````{=html}
 <!--
 ```{=html}
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -171,6 +176,7 @@ Qual é o melhor remédio para parar o soluço? Responda com uma ou duas palavra
 </div>
 ```
 -->
+````
 
 ::: subtitulo-nao-numerado
 Reflexão
@@ -388,9 +394,11 @@ O **conhecimento científico** se distingue do senso comum porque se baseia em i
 
 O ponto de vista científico se constrói em torno do senso crítico, do pensamento científico e, consequentemente, da linguagem conceitualmente precisa.
 
+Veja abaixo um fragmento do resumo de um artigo científico[^aula_2-1]. No fragmento, há um exemplo de linguagem utilizada com precisão. Qual é?
+
 **Exemplo de linguagem precisa**
 
-Nesse contexto, este artigo visa responder a seguinte questão de pesquisa: Quais os desafios à implementação de modelos de negócio com foco em sustentabilidade? Para os objetivos da pesquisa, os desafios de implementação são descritos como as dificuldades que as organizações encontram no momento de implementação para que o modelo de negócios obtenha **sucesso**, neste artigo **sucesso** é definido como o alcance dos objetivos propostos na fase de projeto do modelo de negócios.[^aula_2-1]
+>Nesse contexto, este artigo visa responder a [_sic_] seguinte questão de pesquisa: Quais os desafios à implementação de modelos de negócio com foco em sustentabilidade? Para os objetivos da pesquisa, os desafios de implementação são descritos como as dificuldades que as organizações encontram no momento de implementação para que o modelo de negócios obtenha sucesso, neste artigo sucesso é definido como o alcance dos objetivos propostos na fase de projeto do modelo de negócios.
 :::
 
 [^aula_2-1]: Fonte: SOUZA, DANIELA EMILIANO; DE CARVALHO, MARLY MONTEIRO. Modelos de negócios com foco em sustentabilidade: Desafios e barreiras à implementação. São Paulo: Anais do VI SINGEP, 2017. (Adaptado).
@@ -408,11 +416,11 @@ Dificuldade de explicação e testagem/controle
 :::
 
 ::: citacao
-Essa vaguidade, essa falta de especificidade da linguagem que dificulta a delimitação da significação dos conceitos, impossibilita a realização de experimentos controlados que permitam estabelecer com clareza quais manifestações dos fatos ou fenômenos se transformam em evidências que contrariam ou que corroboram determinado juízo de uma crença, uma vez que não estão explicitadas quais manifestações empíricas dos fatos ou dos fenômenos lhe são atribuídos. (Kochë, 2016, p. 27)
+Essa vaguidade, essa falta de especificidade da linguagem **que dificulta a delimitação da significação dos conceitos**, impossibilita a realização de experimentos controlados que permitam estabelecer com clareza quais manifestações dos fatos ou fenômenos se transformam em evidências que contrariam ou que corroboram determinado juízo de uma crença**, uma vez que não estão explicitadas quais manifestações empíricas dos fatos ou dos fenômenos lhe são atribuídos. (Kochë, 2016, p. 27 - destaques meus)
 :::
 
 ::: citacao
-No senso comum, portanto, a vaguidade da linguagem utilizada conduz a um baixo poder de discriminação entre os confirmadores e os falseadores potenciais de seus enunciados. Torna-se, assim, difícil, quase impossível, o controle e a avaliação experimental. (Kochë, 2016, p. 27)
+No senso comum, portanto, a vaguidade da linguagem utilizada **conduz a um baixo poder de discriminação entre os confirmadores e os falseadores potenciais de seus enunciados**. Torna-se, assim, difícil, quase impossível, o controle e a avaliação experimental. (Kochë, 2016, p. 27 - destaques meus)
 :::
 
 ::: citacao

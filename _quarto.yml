@@ -48,8 +48,8 @@ book:
     - part: "Unidade I"
       chapters:
         #- aulas/Aula_0.qmd
-        - aulas/Aula_1.qmd
-        #- aulas/Aula_2.qmd
+        - aulas/Aula_1_sistemaacademico.qmd
+        - aulas/Aula_2_conhecimentocientifico.qmd
         #- aulas/Aula_3_ciencia.qmd
         #- aulas/Aula_4.qmd
         #- aulas/Aula_5.qmd
