@@ -3,12 +3,15 @@ title: "Como as pessoas interpretam o mundo?"
 ---
 
 ::: nota-secundaria
-Roteiro de aula elaborado no RStudio com o auxílio da inteligência artificial ChatGPT e supervisionado pelo professor antes de sua publicação.
+Roteiro de aula elaborado com o apoio de linguagens de programação e ferramentas de inteligência artificial, submetido à revisão, validação e curadoria pedagógica do professor.
 :::
 
-## Contextualização
+::: leitura
+**Leitura indicada**
 
-Nesta aula, vamos explorar os modos pelos quais os seres humanos constroem explicações sobre o mundo e vamos buscar compreender o que diferencia o pensamento cotidiano, baseado em experiências não sistematizadas, do pensamento científico.
+**Conhecimento científico** (p. 23-40), capítulo do livro *Fundamentos de metodologia científica: teoria da ciência e iniciação à pesquisa*, de José Carlos Kochë
+
+**Objetivos da aula**
 
 Ao final deste encontro e com base na leitura indicada, espera-se que você seja capaz de:
 
@@ -16,12 +19,15 @@ Ao final deste encontro e com base na leitura indicada, espera-se que você seja
 - *reconhecer a diferença entre senso comum e conhecimento científico;*
 - *analisar exemplos de linguagem vaga;*
 - *explicar por que a vaguidade dificulta a verificação científica.*
-
-::: leitura
-Leitura indicada:
-
-**Conhecimento científico** (p. 23-40), capítulo do livro *Fundamentos de metodologia científica: teoria da ciência e iniciação à pesquisa*, de José Carlos Kochë
 :::
+
+<br>
+
+## Contextualização
+
+Nesta aula, vamos explorar os modos pelos quais os seres humanos constroem explicações sobre o mundo e vamos buscar compreender o que diferencia o pensamento cotidiano, baseado em experiências não sistematizadas, do pensamento científico.
+
+
 
 ## Aprendizagem prática
 
@@ -394,14 +400,14 @@ O **conhecimento científico** se distingue do senso comum porque se baseia em i
 
 O ponto de vista científico se constrói em torno do senso crítico, do pensamento científico e, consequentemente, da linguagem conceitualmente precisa.
 
-Veja abaixo um fragmento do resumo de um artigo científico[^aula_2-1]. No fragmento, há um exemplo de linguagem utilizada com precisão. Qual é?
+Veja abaixo um fragmento do resumo de um artigo científico[^aula_2_conhecimentocientifico-1]. No fragmento, há um exemplo de linguagem utilizada com precisão. Qual é?
 
 **Exemplo de linguagem precisa**
 
->Nesse contexto, este artigo visa responder a [_sic_] seguinte questão de pesquisa: Quais os desafios à implementação de modelos de negócio com foco em sustentabilidade? Para os objetivos da pesquisa, os desafios de implementação são descritos como as dificuldades que as organizações encontram no momento de implementação para que o modelo de negócios obtenha sucesso, neste artigo sucesso é definido como o alcance dos objetivos propostos na fase de projeto do modelo de negócios.
+> Nesse contexto, este artigo visa responder a \[*sic*\] seguinte questão de pesquisa: Quais os desafios à implementação de modelos de negócio com foco em sustentabilidade? Para os objetivos da pesquisa, os desafios de implementação são descritos como as dificuldades que as organizações encontram no momento de implementação para que o modelo de negócios obtenha sucesso, neste artigo sucesso é definido como o alcance dos objetivos propostos na fase de projeto do modelo de negócios.
 :::
 
-[^aula_2-1]: Fonte: SOUZA, DANIELA EMILIANO; DE CARVALHO, MARLY MONTEIRO. Modelos de negócios com foco em sustentabilidade: Desafios e barreiras à implementação. São Paulo: Anais do VI SINGEP, 2017. (Adaptado).
+[^aula_2_conhecimentocientifico-1]: Fonte: SOUZA, DANIELA EMILIANO; DE CARVALHO, MARLY MONTEIRO. Modelos de negócios com foco em sustentabilidade: Desafios e barreiras à implementação. São Paulo: Anais do VI SINGEP, 2017. (Adaptado).
 
 ## Leitura em foco
 
@@ -416,7 +422,7 @@ Dificuldade de explicação e testagem/controle
 :::
 
 ::: citacao
-Essa vaguidade, essa falta de especificidade da linguagem **que dificulta a delimitação da significação dos conceitos**, impossibilita a realização de experimentos controlados que permitam estabelecer com clareza quais manifestações dos fatos ou fenômenos se transformam em evidências que contrariam ou que corroboram determinado juízo de uma crença**, uma vez que não estão explicitadas quais manifestações empíricas dos fatos ou dos fenômenos lhe são atribuídos. (Kochë, 2016, p. 27 - destaques meus)
+Essa vaguidade, essa falta de especificidade da linguagem **que dificulta a delimitação da significação dos conceitos**, impossibilita a realização de experimentos controlados que permitam estabelecer com clareza quais manifestações dos fatos ou fenômenos se transformam em evidências que contrariam ou que corroboram determinado juízo de uma crença\*\*, uma vez que não estão explicitadas quais manifestações empíricas dos fatos ou dos fenômenos lhe são atribuídos. (Kochë, 2016, p. 27 - destaques meus)
 :::
 
 ::: citacao

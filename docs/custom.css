@@ -1165,3 +1165,116 @@ body.modo-projecao .anete-controles button {
   }
 }
 
+
+/* =========================================================
+   CARROSSEL DIDÁTICO
+   ========================================================= */
+
+.carrossel-aula {
+  width: 100%;
+  max-width: 980px;
+  margin: var(--espaco-lg) 0;
+}
+
+.carrossel-intro {
+  margin-bottom: var(--espaco-md);
+  font-size: var(--t-base);
+}
+
+.carrossel-slides {
+  position: relative;
+  display: flex;
+  align-items: center;
+  min-height: 280px;
+  padding: 2rem 2.5rem;
+  background: var(--cor-fundo-gelo);
+  border: 1px solid var(--cor-borda-sutil);
+  border-left: 5px solid var(--cor-enfase);
+  border-radius: var(--raio-lg);
+  box-shadow: var(--sombra-sutil);
+}
+
+.carrossel-slide {
+  display: none;
+  width: 100%;
+}
+
+.carrossel-slide.ativo {
+  display: block;
+}
+
+.carrossel-afirmacao {
+  max-width: none;
+  margin: 0 0 1.5rem;
+  font-family: var(--fonte-display);
+  font-size: var(--t-xl);
+  font-weight: 700;
+  line-height: 1.3;
+  color: var(--cor-primaria);
+}
+
+.carrossel-pergunta {
+  max-width: none;
+  margin: 0;
+  font-size: var(--t-md);
+  font-style: italic;
+  line-height: 1.6;
+  color: var(--cor-texto);
+}
+
+.carrossel-navegacao {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 0.8rem;
+}
+
+.carrossel-navegacao button {
+  padding: 0.55rem 0.9rem;
+  font-family: var(--fonte-corpo);
+  font-size: var(--t-sm);
+  font-weight: 700;
+  color: var(--cor-primaria);
+  background: #ffffff;
+  border: 1px solid var(--cor-borda-sutil);
+  border-radius: var(--raio);
+  cursor: pointer;
+}
+
+.carrossel-navegacao button:hover,
+.carrossel-navegacao button:focus-visible {
+  color: #ffffff;
+  background: var(--cor-secundaria);
+  border-color: var(--cor-secundaria);
+}
+
+.carrossel-contador {
+  font-size: var(--t-sm);
+  font-weight: 700;
+  color: var(--cor-texto-suave);
+}
+
+/* Carrossel no modo Projetar */
+
+body.modo-projecao .carrossel-aula {
+  max-width: 100% !important;
+}
+
+body.modo-projecao .carrossel-slides {
+  min-height: 430px;
+  padding: 3rem 4rem;
+}
+
+body.modo-projecao .carrossel-afirmacao {
+  font-size: clamp(2rem, 3.2vw, 3rem);
+}
+
+body.modo-projecao .carrossel-pergunta {
+  font-size: clamp(1.45rem, 2.2vw, 2rem);
+}
+
+body.modo-projecao .carrossel-navegacao button,
+body.modo-projecao .carrossel-contador {
+  font-size: 1.1rem;
+}
