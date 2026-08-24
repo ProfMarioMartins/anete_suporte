@@ -21,9 +21,31 @@ Ao final deste encontro, e com base na leitura indicada, espera-se que você sej
 - *explicar o que significa uma asserção possuir valor de verdade;*
 - *distinguir possuir valor de verdade de conseguir determinar o valor de verdade de uma asserção.*
 
+## Aprendizagem prática
+
+::: subtitulo-nao-numerado
+Produção
+:::
+
+::: destaque
+Você e sua parceira (ou parceiro) criaram um aplicativo que **conecta passageiros a pessoas que realizam viagens utilizando o próprio carro**.
+
+Agora vocês precisam atrair motoristas para a plataforma do aplicativo.
+
+Criem um **anúncio curto e persuasivo** para as redes sociais. O anúncio deve conter:
+
+- um **título ou slogan**;
+- um texto de **duas a quatro frases**;
+- uma **chamada para o cadastro**.
+
+**Objetivo:** convencer pessoas de que vale a pena trabalhar por meio do aplicativo.
+:::
+
 ## Contextualização
 
-No cotidiano, usamos frases para realizar diferentes ações: fazemos perguntas, damos instruções, expressamos reações e afirmamos coisas sobre o mundo. Essas diferenças tornam-se importantes quando precisamos analisar criticamente uma informação.
+Na atividade anterior, usamos a língua com um objetivo específico: persuadir pessoas a aderir a um aplicativo. As escolhas feitas no anúncio — as palavras, as informações destacadas e a maneira de apresentá-las — estão relacionadas a esse contexto de uso.
+
+Usamos a língua de maneiras diferentes conforme o que fazemos com ela: podemos persuadir, perguntar, dar instruções, expressar reações ou fazer afirmações sobre o mundo. Essas diferenças tornam-se especialmente importantes quando entramos no contexto científico.
 
 Considere, por exemplo:
 
