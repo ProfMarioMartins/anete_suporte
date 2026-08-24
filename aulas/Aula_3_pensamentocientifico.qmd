@@ -406,7 +406,7 @@ Na forma 2, a palavra é duplicada completamente e recebe um **k** entre as duas
 **Resumo**
 
 | Tipo | Sentido | Processo | Variação tonal |
-|:-----------------:|-----------------|:-----------------:|-----------------|
+|:-----------------:|------------------|:-----------------:|------------------|
 | 1 | “todo X” ou “cada X” | V₁ + C₁ + V₁ + X | Nenhuma |
 | 2 | “qualquer X” | X + k + X | A primeira vogal da repetição recebe tom alto |
 

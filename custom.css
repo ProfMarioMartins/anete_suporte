@@ -1278,3 +1278,22 @@ body.modo-projecao .carrossel-navegacao button,
 body.modo-projecao .carrossel-contador {
   font-size: 1.1rem;
 }
+
+/* =========================================================
+   TELA FINAL DO CARROSSEL
+   ========================================================= */
+
+.carrossel-encerramento {
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.carrossel-encerramento .carrossel-afirmacao {
+  margin-bottom: 1rem;
+}
+
+.carrossel-mensagem-final {
+  text-align: center;
+  margin: 0.4rem auto;
+}

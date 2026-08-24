@@ -1,0 +1,551 @@
+---
+title: "Por que a ciência precisa de afirmações que possam ser verdadeiras ou falsas?"
+---
+
+::: nota-secundaria
+Roteiro de aula elaborado com o apoio de linguagens de programação e ferramentas de inteligência artificial, submetido à revisão, validação e curadoria pedagógica do professor.
+:::
+
+::: leitura
+**Leitura indicada**
+
+**Pensamento crítico** (p. 3-9), capítulo do livro *Pensamento crítico: o poder da lógica e da argumentação*, de Walter Carnielli e Richard Epstein. Disponível na Biblioteca Virtual.
+:::
+
+## Objetivos de aprendizagem
+
+Ao final deste encontro, e com base na leitura indicada, espera-se que você seja capaz de:
+
+- *distinguir diferentes tipos de frase;*
+- *identificar asserções entre diferentes tipos de frase;*
+- *explicar o que significa uma asserção possuir valor de verdade;*
+- *distinguir o valor de verdade de uma asserção da possibilidade de determiná-lo.*
+
+## Contextualização
+
+No cotidiano, usamos frases para realizar diferentes ações: fazemos perguntas, damos instruções, expressamos reações e afirmamos coisas sobre o mundo. Essas diferenças tornam-se importantes quando precisamos analisar criticamente uma informação.
+
+Considere, por exemplo:
+
+> A inteligência artificial substituirá todos os professores.
+
+Podemos não saber se isso acontecerá. Ainda assim, a frase afirma algo que pode ser verdadeiro ou falso.
+
+Compare:
+
+> A inteligência artificial substituirá todos os professores?
+
+Agora, não temos uma afirmação, mas uma pergunta.
+
+Essa diferença aparentemente simples é fundamental para o pensamento crítico: antes de avaliar se aquilo que alguém diz é verdadeiro, falso ou bem fundamentado, precisamos identificar **que tipo de frase está sendo apresentada e se ela afirma algo que admite ser verdadeiro ou falso**.
+
+## Leitura em foco
+
+::: citacao
+**Asserção** (ou **afirmação**): Uma asserção é uma frase declarativa que pode ser encarada como verdadeira ou falsa (...). (Carnielli; Epstein, 2023, p. 4, destaque dos autores)
+:::
+
+Uma **asserção** apresenta algo como sendo o caso. Por isso, ela admite um **valor de verdade**: pode ser verdadeira ou falsa.
+
+Compare:
+
+::: destaque
+**A Terra gira em torno do Sol.**
+
+É uma asserção. Podemos determinar que ela é **verdadeira**.
+
+**A Terra possui dois satélites naturais.**
+
+Também é uma asserção. Podemos determinar que ela é **falsa**.
+
+**Existe vida inteligente fora da Terra.**
+
+Também é uma asserção. Entretanto, atualmente **não temos condições de determinar se ela é verdadeira ou falsa**.
+:::
+
+Isso permite estabelecer uma distinção importante:
+
+::: enfase
+**Ter valor de verdade** não é o mesmo que **conseguir determinar o valor de verdade**.
+
+Toda asserção admite ser **verdadeira ou falsa**. Entretanto, nem sempre temos informações, evidências ou conhecimentos suficientes para determinar qual é o seu valor de verdade.
+:::
+
+Perguntas, ordens e outras frases que não apresentam algo como verdadeiro ou falso **não são asserções** e, portanto, não possuem valor de verdade.
+
+<br>
+
+## Aprendizagem prática
+
+::: subtitulo-nao-numerado
+Análise
+:::
+
+Analise cada frase do carrossel conforme a tabela abaixo:
+
+| O que analisar | Possibilidades |
+|------------------------------------|------------------------------------|
+| **Identifique o tipo de frase** | *Declarativa*; *interrogativa*; *imperativa*; *exclamativa*. |
+| **Verifique se é uma asserção** | *É asserção:* possui valor de verdade e, portanto, pode ser encarada como verdadeira ou falsa.<br><br>*Não é asserção:* não possui valor de verdade. |
+| **Podemos determinar seu valor de verdade?** | *Sim: é verdadeira*; *Sim, é falsa*; *não é possível determinar [atualmente]{.underline} se é verdadeira ou falsa*. |
+
+```{=html}
+<div id="carrossel-frases-assercoes"
+     class="carousel slide carrossel-aula"
+     data-bs-interval="false"
+     data-bs-wrap="false">
+
+  <div class="carousel-inner carrossel-slides">
+
+    <!-- Questão 1 -->
+    <div class="carousel-item active">
+      <div class="carrossel-slide-conteudo">
+
+        <p class="carrossel-afirmacao">
+          A Terra possui um único satélite natural.
+        </p>
+
+        <details class="resposta-escondida">
+          <summary aria-label="Conferir resposta"></summary>
+          <ul>
+            <li><strong>Tipo de frase:</strong> declarativa</li>
+            <li><strong>É asserção</strong></li>
+            <li><strong>É verdadeira</strong></li>
+          </ul>
+        </details>
+
+      </div>
+    </div>
+
+    <!-- Questão 2 -->
+    <div class="carousel-item">
+      <div class="carrossel-slide-conteudo">
+
+        <p class="carrossel-afirmacao">
+          A Terra possui dois satélites naturais.
+        </p>
+
+        <details class="resposta-escondida">
+          <summary aria-label="Conferir resposta"></summary>
+          <ul>
+            <li><strong>Tipo de frase:</strong> declarativa</li>
+            <li><strong>É asserção</strong></li>
+            <li><strong>É falsa</strong></li>
+          </ul>
+        </details>
+
+      </div>
+    </div>
+
+    <!-- Questão 3 -->
+    <div class="carousel-item">
+      <div class="carrossel-slide-conteudo">
+
+        <p class="carrossel-afirmacao">
+          Feche todos os programas antes de desligar o computador.
+        </p>
+
+        <details class="resposta-escondida">
+          <summary aria-label="Conferir resposta"></summary>
+          <ul>
+            <li><strong>Tipo de frase:</strong> imperativa</li>
+            <li><strong>Não é asserção</strong></li>
+            <li><strong>Não possui valor de verdade</strong></li>
+          </ul>
+        </details>
+
+      </div>
+    </div>
+
+    <!-- Questão 4 -->
+    <div class="carousel-item">
+      <div class="carrossel-slide-conteudo">
+
+        <p class="carrossel-afirmacao">
+          Quantos planetas existem no Sistema Solar?
+        </p>
+
+        <details class="resposta-escondida">
+          <summary aria-label="Conferir resposta"></summary>
+          <ul>
+            <li><strong>Tipo de frase:</strong> interrogativa</li>
+            <li><strong>Não é asserção</strong></li>
+            <li><strong>Não possui valor de verdade</strong></li>
+          </ul>
+        </details>
+
+      </div>
+    </div>
+
+    <!-- Questão 5 -->
+    <div class="carousel-item">
+      <div class="carrossel-slide-conteudo">
+
+        <p class="carrossel-afirmacao">
+          Que surpresa!
+        </p>
+
+        <details class="resposta-escondida">
+          <summary aria-label="Conferir resposta"></summary>
+          <ul>
+            <li><strong>Tipo de frase:</strong> exclamativa</li>
+            <li><strong>Não é asserção</strong></li>
+            <li><strong>Não possui valor de verdade</strong></li>
+          </ul>
+        </details>
+
+      </div>
+    </div>
+
+    <!-- Questão 6 -->
+    <div class="carousel-item">
+      <div class="carrossel-slide-conteudo">
+
+        <p class="carrossel-afirmacao">
+          Existe vida inteligente fora da Terra.
+        </p>
+
+        <details class="resposta-escondida">
+          <summary aria-label="Conferir resposta"></summary>
+          <ul>
+            <li><strong>Tipo de frase:</strong> declarativa</li>
+            <li><strong>É asserção</strong></li>
+            <li><strong>Não é possível determinar atualmente se é verdadeira ou falsa</strong></li>
+          </ul>
+        </details>
+
+      </div>
+    </div>
+
+    <!-- Questão 7 -->
+    <div class="carousel-item">
+      <div class="carrossel-slide-conteudo">
+
+        <p class="carrossel-afirmacao">
+          A inteligência artificial substituirá todos os professores.
+        </p>
+
+        <details class="resposta-escondida">
+          <summary aria-label="Conferir resposta"></summary>
+          <ul>
+            <li><strong>Tipo de frase:</strong> declarativa</li>
+            <li><strong>É asserção</strong></li>
+            <li><strong>Não é possível determinar atualmente se é verdadeira ou falsa</strong></li>
+          </ul>
+        </details>
+
+      </div>
+    </div>
+
+    <!-- Questão 8 -->
+    <div class="carousel-item">
+      <div class="carrossel-slide-conteudo">
+
+        <p class="carrossel-afirmacao">
+          O número 10 é maior que o número 20.
+        </p>
+
+        <details class="resposta-escondida">
+          <summary aria-label="Conferir resposta"></summary>
+          <ul>
+            <li><strong>Tipo de frase:</strong> declarativa</li>
+            <li><strong>É asserção</strong></li>
+            <li><strong>É falsa</strong></li>
+          </ul>
+        </details>
+
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Navegação -->
+  <div class="carrossel-navegacao">
+
+    <button class="carrossel-botao carrossel-anterior"
+            type="button"
+            data-bs-target="#carrossel-frases-assercoes"
+            data-bs-slide="prev"
+            aria-label="Questão anterior">
+      ‹ Anterior
+    </button>
+
+    <div class="carrossel-indicadores"
+         aria-label="Navegação entre as questões">
+
+      <button type="button"
+              data-bs-target="#carrossel-frases-assercoes"
+              data-bs-slide-to="0"
+              class="active"
+              aria-current="true"
+              aria-label="Questão 1"></button>
+
+      <button type="button"
+              data-bs-target="#carrossel-frases-assercoes"
+              data-bs-slide-to="1"
+              aria-label="Questão 2"></button>
+
+      <button type="button"
+              data-bs-target="#carrossel-frases-assercoes"
+              data-bs-slide-to="2"
+              aria-label="Questão 3"></button>
+
+      <button type="button"
+              data-bs-target="#carrossel-frases-assercoes"
+              data-bs-slide-to="3"
+              aria-label="Questão 4"></button>
+
+      <button type="button"
+              data-bs-target="#carrossel-frases-assercoes"
+              data-bs-slide-to="4"
+              aria-label="Questão 5"></button>
+
+      <button type="button"
+              data-bs-target="#carrossel-frases-assercoes"
+              data-bs-slide-to="5"
+              aria-label="Questão 6"></button>
+
+      <button type="button"
+              data-bs-target="#carrossel-frases-assercoes"
+              data-bs-slide-to="6"
+              aria-label="Questão 7"></button>
+
+      <button type="button"
+              data-bs-target="#carrossel-frases-assercoes"
+              data-bs-slide-to="7"
+              aria-label="Questão 8"></button>
+
+    </div>
+
+    <button class="carrossel-botao carrossel-proximo"
+            type="button"
+            data-bs-target="#carrossel-frases-assercoes"
+            data-bs-slide="next"
+            aria-label="Próxima questão">
+      Próximo ›
+    </button>
+
+  </div>
+
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  const carrossel = document.querySelector("#carrossel-frases-assercoes");
+
+  if (!carrossel) return;
+
+  const slides = Array.from(
+    carrossel.querySelectorAll(".carousel-item")
+  );
+
+  const botaoAnterior =
+    carrossel.querySelector(".carrossel-anterior");
+
+  const botaoProximo =
+    carrossel.querySelector(".carrossel-proximo");
+
+  function atualizarNavegacao() {
+
+    const slideAtivo =
+      carrossel.querySelector(".carousel-item.active");
+
+    const indiceAtual =
+      slides.indexOf(slideAtivo);
+
+    botaoAnterior.style.visibility =
+      indiceAtual === 0 ? "hidden" : "visible";
+
+    botaoProximo.style.visibility =
+      indiceAtual === slides.length - 1
+        ? "hidden"
+        : "visible";
+  }
+
+  carrossel.addEventListener(
+    "slid.bs.carousel",
+    atualizarNavegacao
+  );
+
+  atualizarNavegacao();
+
+});
+</script>
+```
+
+<br>
+
+## Aprendizagem prática
+
+::: subtitulo-nao-numerado
+Análise
+:::
+
+Leia atentamente o texto.
+
+::: enfase
+Este estudo investigou a relação entre o uso de ferramentas de inteligência artificial generativa e o desempenho acadêmico de estudantes universitários em atividades de programação. Participaram da pesquisa 84 estudantes matriculados em uma disciplina introdutória de Ciência da Computação, distribuídos em dois grupos. Durante oito semanas, 42 participantes utilizaram uma ferramenta de inteligência artificial como apoio à resolução de exercícios, enquanto os demais realizaram as mesmas atividades sem acesso à ferramenta. O desempenho dos estudantes foi avaliado por meio de testes aplicados antes e depois do período de intervenção. Os resultados mostraram aumento médio de 18% no desempenho do grupo que utilizou a ferramenta e de 11% no grupo que realizou as atividades sem seu uso. Os estudantes do primeiro grupo também relataram maior facilidade para identificar erros nos códigos produzidos durante as atividades. Os resultados sugerem que o uso orientado de ferramentas de inteligência artificial pode contribuir para a aprendizagem de programação em disciplinas introdutórias.[^aula_4_assercoes_valordeverdade-1]
+:::
+
+[^aula_4_assercoes_valordeverdade-1]: Fragmento elaborado exclusivamente para fins didáticos desta atividade. A situação de pesquisa, os procedimentos e os dados apresentados são fictícios e não correspondem a um estudo científico real.
+
+<br>
+
+1.  Quantas frases compõem o fragmento? Qual é o tipo de frase predominante?
+
+<!-- Aqui começa o campo de respostas -->
+
+<details class="resposta-escondida">
+
+<summary>...</summary>
+
+O fragmento é constituído por **sete frases**.
+
+Todas são **frases declarativas**. Portanto, esse é o tipo de frase predominante no fragmento.
+
+</details>
+
+<!-- Aqui encerra o campo de respostas -->
+
+<br>
+
+2.  Analise as frases do fragmento e responda: são asserções? Justifique sua resposta com base no conceito de valor de verdade.
+
+<!-- Aqui começa o campo de respostas -->
+
+<details class="resposta-escondida">
+
+<summary>...</summary>
+
+Sim. As sete frases são declarativas e apresentam algo que pode ser verdadeiro ou falso. Portanto, são asserções e possuem valor de verdade.
+
+Isso não significa, entretanto, que possamos determinar se cada uma delas é verdadeira ou falsa apenas pela leitura do fragmento.
+
+</details>
+
+<!-- Aqui encerra o campo de respostas -->
+
+<br>
+
+3.  Reconhecer que uma frase possui valor de verdade não significa saber se ela é verdadeira ou falsa. Analise as duas asserções abaixo.
+
+::: enfase
+**Asserção 1**
+
+> Os resultados mostraram aumento médio de 18% no desempenho do grupo que utilizou a ferramenta e de 11% no grupo que realizou as atividades sem seu uso.
+
+**Asserção 2**
+
+> Os resultados sugerem que o uso orientado de ferramentas de inteligência artificial pode contribuir para a aprendizagem de programação em disciplinas introdutórias.
+:::
+
+Para cada uma, responda:
+
+- **É possível determinar, apenas com as informações apresentadas no fragmento, se ela é verdadeira ou falsa?**
+- **Que evidências seriam necessárias para verificar o que está sendo afirmado?**
+
+<!-- Aqui começa o campo de respostas -->
+
+<details class="resposta-escondida">
+
+<summary>...</summary>
+
+**Asserção 1**
+
+Não é possível determinar, apenas pela leitura do fragmento, se a asserção é verdadeira ou falsa.
+
+Em uma pesquisa real, seria necessário examinar os **dados coletados**, os **resultados dos testes** e os **procedimentos utilizados para calcular os percentuais**. Essas evidências permitiriam verificar se os resultados apresentados correspondem aos dados obtidos.
+
+**Asserção 2**
+
+Também não é possível determinar, apenas pela leitura do fragmento, se a asserção é verdadeira ou falsa.
+
+Nesse caso, seria necessário examinar não apenas os resultados, mas também aspectos como os **procedimentos da pesquisa**, o **modo de formação dos grupos**, os **instrumentos utilizados para avaliar a aprendizagem** e outras possíveis explicações para a diferença de desempenho observada.
+
+Há uma diferença importante entre as duas asserções: a primeira apresenta um **resultado da pesquisa**; a segunda apresenta uma **interpretação dos resultados**.
+
+</details>
+
+<!-- Aqui encerra o campo de respostas -->
+
+<br>
+
+::: destaque
+**O que esta análise nos mostra?**
+
+Em textos científicos, predominam **asserções** porque a ciência apresenta afirmações sobre os fenômenos investigados, os procedimentos realizados, os resultados obtidos e suas interpretações.
+
+Uma asserção **não é necessariamente verdadeira**. Ela possui valor de verdade porque **pode ser** verdadeira ou falsa, mesmo quando não dispomos de informações suficientes para determinar qual é esse valor.
+
+O pensamento científico não se limita a formular asserções: é preciso **confrontá-las com evidências** que permitam sustentá-las ou questioná-las.
+:::
+
+<br/>
+
+## Sistematização
+
+::: destaque
+Uma **frase** pode desempenhar diferentes funções: declarar, perguntar, ordenar ou expressar uma reação.
+
+Uma **asserção** é uma frase declarativa que apresenta algo que pode ser **verdadeiro ou falso**. Por isso, as asserções possuem **valor de verdade**.
+
+Há uma distinção fundamental:
+
+> **ter valor de verdade** ≠ **conseguir determinar o valor de verdade**
+
+Uma asserção pode ser verdadeira ou falsa mesmo quando ainda não dispomos de informações suficientes para determinar qual é o seu valor de verdade.
+
+**Por que a ciência precisa de afirmações que possam ser verdadeiras ou falsas?**
+
+Porque o conhecimento científico depende de afirmações que possam ser **avaliadas e confrontadas com evidências**. Para investigar se aquilo que afirmamos sobre o mundo deve ser aceito ou rejeitado, precisamos formular afirmações que admitam ser verdadeiras ou falsas.
+:::
+
+<br>
+
+## Aprendizagem prática
+
+::: subtitulo-nao-numerado
+Desafio
+:::
+
+::: subsubtitulo-nao-numerado
+Vamos estimular nosso pensamento científico?
+:::
+
+::: destaque
+<figure style="text-align: center;">
+  <img src="/img/pokepu_obl.png" style="width:100%; display:block; margin:auto;" alt="QR code da enquete" />
+  <figcaption></figcaption>
+</figure>
+
+<br>
+
+Na árvore acima, os nomes dos personagens híbridos são formados a partir de um padrão geral, com exceção de apenas dois. **Se** os nomes de todos os Pokémon fossem formados seguindo o padrão geral, qual **não** poderia ser um nome possível para o último Pokémon da árvore (o mais de baixo)?
+
+:::
+
+<!-- Aqui começa o campo de respostas -->
+<details class="resposta-escondida">
+<summary></summary>
+
+**Resposta correta: d) spinky**
+
+O padrão geral consiste em formar o nome de cada personagem híbrido combinando o **início do nome de um Pokémon com o final do nome de outro**.
+
+Seguindo esse padrão, seriam possíveis:
+
+- **spinpy**
+- **krabgon**
+- **spinorb**
+- **elekgon**
+
+A única alternativa que não poderia ser formada seguindo o padrão geral é **spinky**, pois sua formação depende de **kreky**, um dos nomes que fogem ao padrão.
+</details>
+<!-- Aqui encerra o campo de respostas -->
+
+::: proxima-aula
+[Para a próxima aula:]{.proxima-aula-title}
+
+Vamos compreender como asserções podem ser relacionadas para formar **argumentos**. Vamos estudar os conceitos de **premissa**, **conclusão** e **inferência**.
+:::

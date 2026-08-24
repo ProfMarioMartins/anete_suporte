@@ -1,59 +1,818 @@
 ---
+title: "Untitled"
+---
+
+---
+title: "Como as asserções se conectam para formar argumentos?"
+---
+
+::: nota-secundaria
+Roteiro de aula elaborado com o apoio de linguagens de programação e ferramentas de inteligência artificial, submetido à revisão, validação e curadoria pedagógica do professor.
+:::
+
+::: leitura
+**Leitura indicada**
+
+**Pensamento crítico** (p. 3-9), capítulo do livro *Pensamento crítico: o poder da lógica e da argumentação*, de Walter Carnielli e Richard Epstein. Disponível na Biblioteca Virtual.
+:::
+
+## Objetivos de aprendizagem
+
+Ao final deste encontro, e com base na leitura indicada, espera-se que você seja capaz de:
+
+- *distinguir uma asserção isolada de um argumento;*
+- *identificar premissas e conclusão em argumentos simples;*
+- *explicar a relação de inferência entre premissas e conclusão.*
+
+## Contextualização
+
+Na aula anterior, vimos que uma **asserção** é uma frase declarativa que pode ser verdadeira ou falsa. No entanto, quando pensamos criticamente, geralmente não avaliamos asserções isoladamente: usamos algumas afirmações como **razões** para sustentar outras.
+
+Compare:
+
+> O laboratório não abre aos domingos.\
+> Hoje é domingo.\
+> Portanto, o laboratório está fechado.
+
+As três frases são asserções, mas não desempenham a mesma função. As duas primeiras são apresentadas como razões para aceitarmos a terceira.
+
+É essa relação entre afirmações que constitui um **argumento**.
+
+## Revisão
+
+::: destaque
+**O que já sabemos?**
+
+Uma **asserção** é uma frase que pode ser encarada como verdadeira ou falsa e, por isso, possui **valor de verdade**.
+
+Entretanto:
+
+> **ter valor de verdade** ≠ **conseguir determinar o valor de verdade**
+
+Agora, vamos observar o que acontece quando utilizamos asserções para **sustentar outras asserções**.
+:::
+
+## Leitura em foco
+
+::: citacao
+**Argumento**: Um argumento é uma coleção de afirmações, uma das quais se chama “conclusão” e cuja verdade procura-se estabelecer; as outras afirmações chamam-se “premissas”, e estas afirmações pretendem conduzir à conclusão (ou apoiá-la, ou persuadir-nos da sua verdade). (Carnielli; Epstein, 2023, p. 6, destaques dos autores)
+:::
+
+Uma **asserção** é uma frase que pode ser verdadeira ou falsa. Quando usamos uma ou mais asserções como razões para sustentar outra asserção, construímos um **argumento**.
+
+Em um argumento:
+
+- as **premissas** são as asserções apresentadas como razões;
+- a **conclusão** é a asserção que essas razões procuram sustentar;
+- a **inferência** é a passagem das premissas para a conclusão, isto é, a relação pela qual tomamos as premissas como razões para aceitar a conclusão.
+
+**Exemplo:**
+
+> O laboratório está fechado aos domingos.\
+> Hoje é domingo.\
+> Portanto, o laboratório está fechado.
+
+As duas primeiras asserções são as **premissas**; a última é a **conclusão**. A **inferência** consiste em concluir, a partir das premissas, que o laboratório está fechado.
+
+**Atenção:** todo argumento é constituído por asserções, mas nem toda asserção faz parte de um argumento.
+:::
+
+## Aprendizagem prática
+
+::: subtitulo-nao-numerado
+Análise
+:::
+
+Leia o argumento:
+
+::: enfase
+O sistema apresentou erro após a atualização.
+
+Outros usuários relataram o mesmo problema depois de atualizar o programa.
+
+Portanto, é possível que a atualização esteja relacionada ao erro.
+:::
+
+Identifique:
+
+- as **premissas**;
+- a **conclusão**;
+- a **inferência**, explicando como as premissas oferecem razões para aceitar a conclusão.
+
+<!-- Aqui começa o campo de respostas -->
+
+<details class="resposta-escondida">
+
+<summary>...</summary>
+
+- **Premissa 1:** O sistema apresentou erro após a atualização.
+- **Premissa 2:** Outros usuários relataram o mesmo problema depois de atualizar o programa.
+- **Conclusão:** É possível que a atualização esteja relacionada ao erro.
+- **Inferência:** a ocorrência do erro após a atualização, associada a relatos semelhantes de outros usuários, é utilizada como razão para considerar a atualização uma possível causa do problema.
+
+As premissas não demonstram, por si sós, que a atualização seja necessariamente a causa do erro. Elas oferecem razões para considerar essa explicação possível.
+
+</details>
+
+<!-- Aqui encerra o campo de respostas -->
+
+## Leitura em foco
+
+::: subtitulo-nao-numerado
+Como reconhecer premissas e conclusões?
+:::
+
+Em alguns argumentos, determinadas palavras e expressões ajudam a perceber a relação entre as asserções.
+
+| Podem introduzir razões | Podem introduzir conclusões |
+|-------------------------|-----------------------------|
+| porque                  | portanto                    |
+| pois                    | logo                        |
+| uma vez que             | por isso                    |
+| visto que               | assim                       |
+| considerando que        | consequentemente            |
+
+Essas expressões podem funcionar como **pistas linguísticas**, mas não devem ser utilizadas mecanicamente. Um argumento pode ser apresentado sem elas, e a conclusão nem sempre aparece no final.
+
+::: destaque
+Para identificar a estrutura de um argumento, pergunte:
+
+**O que o autor quer que eu aceite?**\
+→ provável **conclusão**
+
+**Que razões ele apresenta para que eu aceite isso?**\
+→ prováveis **premissas**
+:::
+
+## Aprendizagem prática
+
+::: subtitulo-nao-numerado
+Identificação
+:::
+
+Leia os argumentos e identifique oralmente suas **premissas** e sua **conclusão**.
+
+::: enfase
+**Argumento 1**
+
+O servidor não responde às requisições. Outros computadores da rede conseguem acessar a internet normalmente. Portanto, o problema provavelmente está no servidor.
+:::
+
+<!-- Aqui começa o campo de respostas -->
+
+<details class="resposta-escondida">
+
+<summary>...</summary>
+
+- **Premissa 1:** O servidor não responde às requisições.
+- **Premissa 2:** Outros computadores da rede conseguem acessar a internet normalmente.
+- **Conclusão:** O problema provavelmente está no servidor.
+
+</details>
+
+<!-- Aqui encerra o campo de respostas -->
+
+::: enfase
+**Argumento 2**
+
+Devemos fazer uma cópia de segurança dos arquivos antes da atualização, pois alterações no sistema podem provocar perda de dados.
+:::
+
+<!-- Aqui começa o campo de respostas -->
+
+<details class="resposta-escondida">
+
+<summary>...</summary>
+
+- **Premissa:** Alterações no sistema podem provocar perda de dados.
+- **Conclusão:** Devemos fazer uma cópia de segurança dos arquivos antes da atualização.
+
+Neste caso, a conclusão aparece **antes** da premissa. A palavra **“pois”** ajuda a identificar a razão apresentada para sustentá-la.
+
+</details>
+
+<!-- Aqui encerra o campo de respostas -->
+
+<br/>
+
+::: destaque
+A posição das frases não determina sua função no argumento.
+
+A **conclusão** pode aparecer no início, no meio ou no final. Para identificá-la, precisamos compreender **qual afirmação está sendo sustentada** e **quais afirmações funcionam como razões**.
+:::
+
+## Leitura em foco
+
+::: subtitulo-nao-numerado
+Verdade e validade
+:::
+
+Até aqui, analisamos duas coisas diferentes:
+
+- as **asserções**, que podem ser verdadeiras ou falsas;
+- a **relação entre as asserções** dentro de um argumento.
+
+Essa diferença permite distinguir **verdade** e **validade**.
+
+::: destaque
+**Verdade e validade não são a mesma coisa**
+
+A **verdade** e a **falsidade** dizem respeito às **asserções**.
+
+Perguntamos:
+
+> **Esta asserção é verdadeira ou falsa?**
+
+A **validade** diz respeito ao **argumento** e à relação entre suas premissas e sua conclusão.
+
+Perguntamos:
+
+> **Se aceitarmos as premissas, a conclusão decorre delas?**
+
+Assim, não dizemos que um argumento é verdadeiro ou falso. Avaliamos se suas **asserções** são verdadeiras ou falsas e se a **inferência** que conduz das premissas à conclusão é válida.
+:::
+
+## Aprendizagem prática
+
+::: subtitulo-nao-numerado
+Comparação
+:::
+
+Compare os dois argumentos.
+
+::: enfase
+**Argumento 1**
+
+> Todos os mamíferos são vertebrados.\
+> As baleias são mamíferos.\
+> Portanto, as baleias são vertebrados.
+:::
+
+Analise:
+
+- As premissas são verdadeiras ou falsas?
+- A conclusão é verdadeira ou falsa?
+- A conclusão decorre das premissas?
+
+<!-- Aqui começa o campo de respostas -->
+
+<details class="resposta-escondida">
+
+<summary>...</summary>
+
+- As premissas são **verdadeiras**.
+- A conclusão é **verdadeira**.
+- A conclusão **decorre das premissas**.
+
+O argumento apresenta uma inferência válida.
+
+</details>
+
+<!-- Aqui encerra o campo de respostas -->
+
+::: enfase
+**Argumento 2**
+
+> Todos os mamíferos vivem em terra firme.\
+> As baleias são mamíferos.\
+> Portanto, as baleias vivem em terra firme.
+:::
+
+Analise:
+
+- As premissas são verdadeiras ou falsas?
+- A conclusão é verdadeira ou falsa?
+- Se aceitássemos as premissas, a conclusão decorreria delas?
+
+<!-- Aqui começa o campo de respostas -->
+
+<details class="resposta-escondida">
+
+<summary>...</summary>
+
+- A primeira premissa é **falsa**.
+- A segunda premissa é **verdadeira**.
+- A conclusão é **falsa**.
+- Ainda assim, **se aceitássemos as premissas**, a conclusão decorreria delas.
+
+O argumento apresenta uma inferência válida, embora contenha uma premissa falsa e tenha uma conclusão falsa.
+
+</details>
+
+<!-- Aqui encerra o campo de respostas -->
+
+<br/>
+
+::: destaque
+A comparação revela uma distinção fundamental:
+
+**verdade** → propriedade das **asserções**
+
+**validade** → propriedade da **relação entre premissas e conclusão**
+
+Um argumento válido não precisa ter, de fato, premissas verdadeiras. A validade diz respeito à relação inferencial: **se as premissas fossem verdadeiras, a conclusão teria de ser verdadeira?**
+:::
+
+## Aprendizagem prática
+
+::: subtitulo-nao-numerado
+Desafio
+:::
+
+Analise o argumento:
+
+::: enfase
+Todos os programas escritos em Python são programas de computador.
+
+Este programa foi escrito em Python.
+
+Portanto, este programa é um programa de computador.
+:::
+
+Responda oralmente:
+
+- Quais são as premissas?
+- Qual é a conclusão?
+- As premissas são apresentadas como razões para a conclusão?
+- Se as premissas forem verdadeiras, a conclusão pode ser falsa?
+- O argumento é válido?
+
+<!-- Aqui começa o campo de respostas -->
+
+<details class="resposta-escondida">
+
+<summary>...</summary>
+
+- **Premissa 1:** Todos os programas escritos em Python são programas de computador.
+- **Premissa 2:** Este programa foi escrito em Python.
+- **Conclusão:** Este programa é um programa de computador.
+- As premissas oferecem razões para aceitar a conclusão.
+- Se as premissas forem verdadeiras, a conclusão não pode ser falsa.
+- Portanto, o argumento é **válido**.
+
+</details>
+
+<!-- Aqui encerra o campo de respostas -->
+
+## Sistematização
+
+::: destaque
+**O que aprendemos?**
+
+Uma **asserção** apresenta algo que pode ser verdadeiro ou falso.
+
+Um **argumento** relaciona asserções de modo que algumas sejam apresentadas como razões para aceitar outra:
+
+- **premissas** → apresentam as razões;
+- **conclusão** → apresenta aquilo que se pretende sustentar;
+- **inferência** → estabelece a passagem das premissas para a conclusão.
+
+Ao analisar um argumento, portanto, fazemos perguntas diferentes:
+
+| Pergunta | O que estamos avaliando? |
+|------------------------------------|------------------------------------|
+| Esta asserção é verdadeira ou falsa? | **Valor de verdade** |
+| Quais afirmações funcionam como razões? | **Premissas** |
+| Qual afirmação está sendo sustentada? | **Conclusão** |
+| Como as premissas conduzem à conclusão? | **Inferência** |
+| Se as premissas forem verdadeiras, a conclusão pode ser falsa? | **Validade** |
+
+Assim:
+
+> **Asserções podem ser verdadeiras ou falsas; argumentos podem ser válidos ou inválidos.**
+:::
+
+## Aprendizagem prática
+
+::: subtitulo-nao-numerado
+Síntese
+:::
+
+Considere:
+
+> O computador não liga porque a bateria está descarregada.
+
+Explique oralmente:
+
+- Qual é a conclusão?
+- Qual é a premissa?
+- Qual é a inferência?
+- A verdade da premissa e a qualidade da inferência são a mesma coisa?
+
+<!-- Aqui começa o campo de respostas -->
+
+<details class="resposta-escondida">
+
+<summary>...</summary>
+
+- **Conclusão:** O computador não liga.
+- **Premissa:** A bateria está descarregada.
+- **Inferência:** a bateria descarregada é apresentada como razão para explicar por que o computador não liga.
+- A verdade da premissa e a relação inferencial não são a mesma coisa. Uma questão é saber se a bateria realmente está descarregada; outra é avaliar se essa informação sustenta adequadamente a conclusão apresentada.
+
+</details>
+
+<!-- Aqui encerra o campo de respostas -->
+
+<br/>
+
+::: enfase
+**Ideia-chave da aula**
+
+Analisar um argumento exige mais do que perguntar se concordamos com sua conclusão.
+
+Precisamos identificar **quais razões são apresentadas**, **o que elas procuram sustentar** e **se a conclusão decorre das premissas**.
+:::
+
+````{=html}
+<!--
+---
 title: "O que é um argumento?"
 ---
 
 ::: nota-secundaria
-Roteiro de aula elaborado no RStudio com o auxílio da inteligência artificial ChatGPT e supervisionado pelo professor antes de sua publicação.
+Roteiro de aula elaborado com o apoio de linguagens de programação e ferramentas de inteligência artificial, submetido à revisão, validação e curadoria pedagógica do professor.
 :::
-
-```{=html}
-<!--
-## Contextualização
-
-Ao final deste encontro e com base na leitura indicada, espera-se que você seja capaz de:
-
--   *Desenvolver a capacidade de identificar, analisar e avaliar asserções e argumentos em contextos científicos, distinguindo premissas, conclusões, informações de suporte e relações entre evidências.*
-
--->
-```
 
 ::: leitura
-Leitura indicada:
+**Leituras indicadas**
 
 **Pensamento crítico** (p. 3-9), capítulo do livro *Pensamento crítico: o poder da lógica e da argumentação*, de Walter Carnielli e Richard Epstein. Disponível na Biblioteca Virtual.
+
+**Observe, test, reflect: A better life with the scientific method**, artigo de Santiago Gisler publicado pela *Ivory Embassy*. Disponível em: https://ivoryembassy.com/the-scientific-method/.
 :::
+
+**Objetivos da aula**
+
+Ao final deste encontro, e com base na leitura indicada, espera-se que você seja capaz de:
+
+- *Desenvolver a capacidade de identificar, analisar e avaliar asserções e argumentos em contextos científicos, distinguindo premissas, conclusões, informações de suporte e relações entre evidências.* :::
+
+<br>
+
+## Contextualização
+
+FALTA CONTEXTUALIZAR A AULA
 
 ## Leitura em foco
 
 Para avaliar ideias, primeiro precisamos identificar quais frases **podem ser avaliadas como verdadeiras ou falsas**.
 
 ::: citacao
-**Asserção**: Uma asserção é uma frase declarativa que pode ser encarada como verdadeira ou falsa (...). (Carnielli; Epstein, 2023, p. 4, destaque dos autores)
+**Asserção** (ou **afirmação**): Uma asserção é uma frase declarativa que pode ser encarada como verdadeira ou falsa (...). (Carnielli; Epstein, 2023, p. 4, destaque dos autores)
 :::
 
-As **asserções** (ou **afirmações**) são essenciais para a prática científica porque podem ser avaliadas quanto à sua verdade, seja por meio de observação, evidência ou raciocínio lógico.
+As **asserções** (ou **afirmações**) são essenciais para a prática científica porque podem ser avaliadas quanto ao seu valor de verdade, seja por meio de observação, evidência ou raciocínio lógico.
 
-::: destaque
-Uma **afirmação** deve possuir um valor de verdade, mesmo que não saibamos no momento qual ele seja. Para identificar se uma asserção tem valor de verdade, pergunte-se:
 
-- **Posso observar ou medir?**\
-  *Exemplo:* “A pressão arterial aumenta durante exercícios intensos.”\
-  → Pode ser testada com instrumentos e coleta de dados.
+## Aprendizagem prática
 
-- **Posso consultar uma fonte confiável?**\
-  *Exemplo:* “O DNA tem estrutura em dupla hélice.”\
-  → Pode ser verificada em livros didáticos e artigos científicos consolidados.
-
-- **É logicamente coerente?**\
-  *Exemplo:* “Se todos os mamíferos são vertebrados e as baleias são mamíferos, então as baleias são vertebrados.”\
-  → A conclusão decorre logicamente das premissas.
-
-- **Há contraexemplos?**\
-  *Exemplo:* “Todos os metais são sólidos à temperatura ambiente.”\
-  → Falso: o mercúrio é líquido, funcionando como contraexemplo.
-
-👉 Se a frase pode ser analisada por esses critérios, trata-se de uma asserção.
+::: subtitulo-nao-numerado
+Quiz
 :::
+
+Nesta atividade, você vai analisar diferentes frases a partir dos conceitos estudados. Para cada frase, faça a análise em **três etapas**. Formule sua resposta antes de abrir a seta para conferir.
+
+O que analisar | Possibilidades |
+|---|---|
+| **Identifique o tipo de frase** | *Declarativa*; *interrogativa*; *imperativa*; *exclamativa*. |
+| **Verifique se é uma asserção** | *É asserção: possui valor de verdade e, portanto, pode ser encarada como verdadeira ou falsa.*<br><br>*Não é asserção: não possui valor de verdade.* |
+| **Se for uma asserção, avalie seu valor de verdade** | *É verdadeira*; *é falsa*; *não é possível determinar se é verdadeira ou falsa*. |
+
+::: enfase
+🚨 Toda asserção admite um valor de verdade: verdadeiro ou falso. Entretanto, nem sempre temos condições de determinar qual é esse valor. Isso é diferente de uma frase que **não possui valor de verdade**.
+:::
+
+```{=html}
+<div id="carrossel-frases-assercoes"
+     class="carousel slide carrossel-aula"
+     data-bs-interval="false"
+     data-bs-wrap="false">
+
+  <div class="carousel-inner carrossel-slides">
+
+    <!-- Questão 1 -->
+````
+
+```         
+<div class="carousel-item active">
+  <div class="carrossel-slide-conteudo">
+
+    <p class="carrossel-afirmacao">
+      A Terra possui um único satélite natural.
+    </p>
+
+    <details class="resposta-escondida">
+      <summary aria-label="Conferir resposta"></summary>
+
+      <ul>
+        <li><strong>Tipo de frase:</strong> declarativa</li>
+        <li><strong>É asserção</strong></li>
+        <li><strong>É verdadeira</strong></li>
+      </ul>
+    </details>
+
+  </div>
+</div>
+
+
+<!-- Questão 2 -->
+<div class="carousel-item">
+  <div class="carrossel-slide-conteudo">
+
+    <p class="carrossel-afirmacao">
+      A Terra possui dois satélites naturais.
+    </p>
+
+    <details class="resposta-escondida">
+      <summary aria-label="Conferir resposta"></summary>
+
+      <ul>
+        <li><strong>Tipo de frase:</strong> declarativa</li>
+        <li><strong>É asserção</strong></li>
+        <li><strong>É falsa</strong></li>
+      </ul>
+    </details>
+
+  </div>
+</div>
+
+
+<!-- Questão 3 -->
+<div class="carousel-item">
+  <div class="carrossel-slide-conteudo">
+
+    <p class="carrossel-afirmacao">
+      Feche todos os programas antes de desligar o computador.
+    </p>
+
+    <details class="resposta-escondida">
+      <summary aria-label="Conferir resposta"></summary>
+
+      <ul>
+        <li><strong>Tipo de frase:</strong> imperativa</li>
+        <li><strong>Não é asserção</strong></li>
+        <li><strong>Não possui valor de verdade</strong></li>
+      </ul>
+    </details>
+
+  </div>
+</div>
+
+
+<!-- Questão 4 -->
+<div class="carousel-item">
+  <div class="carrossel-slide-conteudo">
+
+    <p class="carrossel-afirmacao">
+      Quantos planetas existem no Sistema Solar?
+    </p>
+
+    <details class="resposta-escondida">
+      <summary aria-label="Conferir resposta"></summary>
+
+      <ul>
+        <li><strong>Tipo de frase:</strong> interrogativa</li>
+        <li><strong>Não é asserção</strong></li>
+        <li><strong>Não possui valor de verdade</strong></li>
+      </ul>
+    </details>
+
+  </div>
+</div>
+
+
+<!-- Questão 5 -->
+<div class="carousel-item">
+  <div class="carrossel-slide-conteudo">
+
+    <p class="carrossel-afirmacao">
+      Que computador rápido!
+    </p>
+
+    <details class="resposta-escondida">
+      <summary aria-label="Conferir resposta"></summary>
+
+      <ul>
+        <li><strong>Tipo de frase:</strong> exclamativa</li>
+        <li><strong>Não é asserção</strong></li>
+        <li><strong>Não possui valor de verdade</strong></li>
+      </ul>
+    </details>
+
+  </div>
+</div>
+
+
+<!-- Questão 6 -->
+<div class="carousel-item">
+  <div class="carrossel-slide-conteudo">
+
+    <p class="carrossel-afirmacao">
+      Existe vida inteligente fora da Terra.
+    </p>
+
+    <details class="resposta-escondida">
+      <summary aria-label="Conferir resposta"></summary>
+
+      <ul>
+        <li><strong>Tipo de frase:</strong> declarativa</li>
+        <li><strong>É asserção</strong></li>
+        <li><strong>Não é possível determinar atualmente se é verdadeira ou falsa</strong></li>
+      </ul>
+    </details>
+
+  </div>
+</div>
+
+
+<!-- Questão 7 -->
+<div class="carousel-item">
+  <div class="carrossel-slide-conteudo">
+
+    <p class="carrossel-afirmacao">
+      A inteligência artificial substituirá todos os professores.
+    </p>
+
+    <details class="resposta-escondida">
+      <summary aria-label="Conferir resposta"></summary>
+
+      <ul>
+        <li><strong>Tipo de frase:</strong> declarativa</li>
+        <li><strong>É asserção</strong></li>
+        <li><strong>Não é possível determinar atualmente se é verdadeira ou falsa</strong></li>
+      </ul>
+    </details>
+
+  </div>
+</div>
+
+
+<!-- Questão 8 -->
+<div class="carousel-item">
+  <div class="carrossel-slide-conteudo">
+
+    <p class="carrossel-afirmacao">
+      O número 10 é maior que o número 20.
+    </p>
+
+    <details class="resposta-escondida">
+      <summary aria-label="Conferir resposta"></summary>
+
+      <ul>
+        <li><strong>Tipo de frase:</strong> declarativa</li>
+        <li><strong>É asserção</strong></li>
+        <li><strong>É falsa</strong></li>
+      </ul>
+    </details>
+
+  </div>
+</div>
+```
+
+</div>
+
+<!-- Navegação -->
+
+::: carrossel-navegacao
+```         
+<button class="carrossel-botao carrossel-anterior"
+        type="button"
+        data-bs-target="#carrossel-frases-assercoes"
+        data-bs-slide="prev"
+        aria-label="Questão anterior">
+  ‹ Anterior
+</button>
+
+
+<div class="carrossel-indicadores"
+     aria-label="Navegação entre as questões">
+
+  <button type="button"
+          data-bs-target="#carrossel-frases-assercoes"
+          data-bs-slide-to="0"
+          class="active"
+          aria-current="true"
+          aria-label="Questão 1"></button>
+
+  <button type="button"
+          data-bs-target="#carrossel-frases-assercoes"
+          data-bs-slide-to="1"
+          aria-label="Questão 2"></button>
+
+  <button type="button"
+          data-bs-target="#carrossel-frases-assercoes"
+          data-bs-slide-to="2"
+          aria-label="Questão 3"></button>
+
+  <button type="button"
+          data-bs-target="#carrossel-frases-assercoes"
+          data-bs-slide-to="3"
+          aria-label="Questão 4"></button>
+
+  <button type="button"
+          data-bs-target="#carrossel-frases-assercoes"
+          data-bs-slide-to="4"
+          aria-label="Questão 5"></button>
+
+  <button type="button"
+          data-bs-target="#carrossel-frases-assercoes"
+          data-bs-slide-to="5"
+          aria-label="Questão 6"></button>
+
+  <button type="button"
+          data-bs-target="#carrossel-frases-assercoes"
+          data-bs-slide-to="6"
+          aria-label="Questão 7"></button>
+
+  <button type="button"
+          data-bs-target="#carrossel-frases-assercoes"
+          data-bs-slide-to="7"
+          aria-label="Questão 8"></button>
+
+</div>
+
+
+<button class="carrossel-botao carrossel-proximo"
+        type="button"
+        data-bs-target="#carrossel-frases-assercoes"
+        data-bs-slide="next"
+        aria-label="Próxima questão">
+  Próximo ›
+</button>
+```
+:::
+
+</div>
+
+```{=html}
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  const carrossel = document.querySelector("#carrossel-frases-assercoes");
+
+  if (!carrossel) return;
+
+  const slides = Array.from(
+    carrossel.querySelectorAll(".carousel-item")
+  );
+
+  const botaoAnterior =
+    carrossel.querySelector(".carrossel-anterior");
+
+  const botaoProximo =
+    carrossel.querySelector(".carrossel-proximo");
+
+
+  function atualizarNavegacao() {
+
+    const slideAtivo =
+      carrossel.querySelector(".carousel-item.active");
+
+    const indiceAtual =
+      slides.indexOf(slideAtivo);
+
+
+    /*
+      Primeira questão:
+      oculta o botão Anterior.
+    */
+    botaoAnterior.style.visibility =
+      indiceAtual === 0 ? "hidden" : "visible";
+
+
+    /*
+      Última questão:
+      oculta o botão Próximo.
+    */
+    botaoProximo.style.visibility =
+      indiceAtual === slides.length - 1
+        ? "hidden"
+        : "visible";
+  }
+
+
+  /*
+    Atualiza os botões depois de cada
+    mudança de questão.
+  */
+  carrossel.addEventListener(
+    "slid.bs.carousel",
+    atualizarNavegacao
+  );
+
+
+  /*
+    Define corretamente o estado
+    inicial da navegação.
+  */
+  atualizarNavegacao();
+
+});
+</script>
+```
+
+```         
 
 <br/>
 
@@ -79,9 +838,9 @@ Leia as frases abaixo e marque aquelas que **podem ser avaliadas como verdadeira
 
 <div><label><input type="checkbox" value="1"> 1. Que bom te ver aqui!</label></div>
 <div><label><input type="checkbox" value="2"> 2. A água entra em ebulição a 100 °C ao nível do mar.</label></div>
-<div><label><input type="checkbox" value="3"> 3. Gostaria de entender melhor esse conteúdo.</label></div>
+<div><label><input type="checkbox" value="3"> 3. Que aula interessante!</label></div>
 <div><label><input type="checkbox" value="4"> 4. A Terra gira em torno do Sol.</label></div>
-<div><label><input type="checkbox" value="5"> 5. Prometo entregar a atividade hoje.</label></div>
+<div><label><input type="checkbox" value="5"> 5. Envie a atividade até amanhã.</label></div>
 <div><label><input type="checkbox" value="6"> 6. O português é uma língua falada em vários países.</label></div>
 <div><label><input type="checkbox" value="7"> 7. Apague a luz ao sair.</label></div>
 <div><label><input type="checkbox" value="8"> 8. O gelo derrete quando a temperatura aumenta.</label></div>
@@ -135,16 +894,44 @@ function corrigirAssercoes() {
 <br/>
 
 ::: destaque
-Como os conceitos se conectam?
+**Como os conceitos se conectam?**
 
-1.  **Asserções** são frases que podem ser verdadeiras ou falsas.\
-2.  Quando usamos asserções para sustentar outra, formamos um **argumento**.\
-3.  Em um argumento:
-    - as **premissas** são as razões apresentadas\
-    - a **conclusão** é o que se pretende defender
+Uma **asserção** é uma frase que pode ser verdadeira ou falsa. Quando usamos uma ou mais asserções como razões para sustentar outra asserção, construímos um **argumento**.
 
-🔥 Atenção: **Todo argumento é formado por asserções, mas nem toda asserção faz parte de um argumento.**
+Em um argumento:
+
+- as **premissas** são as asserções apresentadas como razões;
+- a **conclusão** é a asserção que essas razões procuram sustentar;
+- a **inferência** é a passagem das premissas para a conclusão, isto é, a relação pela qual aceitamos as premissas como razões para aceitar a conclusão.
+
+**Exemplo:**
+
+> O laboratório está fechado aos domingos.\
+> Hoje é domingo.\
+> Portanto, o laboratório está fechado.
+
+As duas primeiras asserções são as **premissas**; a última é a **conclusão**. A **inferência** consiste em concluir, a partir das premissas, que o laboratório está fechado.
+
+**Atenção:** todo argumento é constituído por asserções, mas nem toda asserção faz parte de um argumento.
 :::
+
+## Aprendizagem prática
+
+::: subtitulo-nao-numerado
+Análise
+:::
+
+Leia o argumento:
+
+> O sistema apresentou erro após a atualização.\
+> Outros usuários relataram o mesmo problema depois de atualizar o programa.\
+> Portanto, é possível que a atualização esteja relacionada ao erro.
+
+Identifique:
+
+- as **premissas**;
+- a **conclusão**;
+- a **inferência**, explicando como as premissas oferecem razões para aceitar a conclusão.
 
 <br/>
 
@@ -865,3 +1652,5 @@ function corrigirFilme() {
 
 - **Leia** o texto **O que está em discussão** (p. 10-26), capítulo do livro **Pensamento crítico: o poder da lógica e da argumentação**, de Walter Carnielli e Richard Epstein. Disponível na Biblioteca Virtual. Disponível na Minha Biblioteca.
 :::
+
+--\>
