@@ -28,7 +28,7 @@ Produção
 :::
 
 ::: destaque
-Você e sua parceira (ou parceiro) criaram um aplicativo que **conecta passageiros a pessoas que realizam viagens utilizando o próprio carro**.
+Você e uma amiga (ou amigo) criaram um aplicativo que **conecta passageiros a pessoas que realizam viagens utilizando o próprio carro**.
 
 Agora vocês precisam atrair motoristas para a plataforma do aplicativo.
 
