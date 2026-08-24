@@ -19,7 +19,7 @@ Ao final deste encontro, e com base na leitura indicada, espera-se que você sej
 - *distinguir diferentes tipos de frase;*
 - *identificar asserções entre diferentes tipos de frase;*
 - *explicar o que significa uma asserção possuir valor de verdade;*
-- *distinguir o valor de verdade de uma asserção da possibilidade de determiná-lo.*
+- *distinguir possuir valor de verdade de conseguir determinar o valor de verdade de uma asserção.*
 
 ## Contextualização
 
@@ -45,7 +45,7 @@ Essa diferença aparentemente simples é fundamental para o pensamento crítico:
 **Asserção** (ou **afirmação**): Uma asserção é uma frase declarativa que pode ser encarada como verdadeira ou falsa (...). (Carnielli; Epstein, 2023, p. 4, destaque dos autores)
 :::
 
-Uma **asserção** apresenta algo como sendo o caso. Por isso, ela admite um **valor de verdade**: pode ser verdadeira ou falsa.
+Uma **asserção** afirma que algo é de determinada maneira. Por isso, aquilo que ela afirma pode ser verdadeiro ou falso: dizemos, então, que a asserção possui **valor de verdade**.
 
 Compare:
 
@@ -84,10 +84,10 @@ Análise
 Analise cada frase do carrossel conforme a tabela abaixo:
 
 | O que analisar | Possibilidades |
-|------------------------------------|------------------------------------|
+|---|---|
 | **Identifique o tipo de frase** | *Declarativa*; *interrogativa*; *imperativa*; *exclamativa*. |
 | **Verifique se é uma asserção** | *É asserção:* possui valor de verdade e, portanto, pode ser encarada como verdadeira ou falsa.<br><br>*Não é asserção:* não possui valor de verdade. |
-| **Podemos determinar seu valor de verdade?** | *Sim: é verdadeira*; *Sim, é falsa*; *não é possível determinar [atualmente]{.underline} se é verdadeira ou falsa*. |
+| **Podemos determinar seu valor de verdade?** | *Sim: é verdadeira*; *sim: é falsa*; *não é possível determinar [atualmente]{.underline} se é verdadeira ou falsa*. |
 
 ```{=html}
 <div id="carrossel-frases-assercoes"
@@ -102,7 +102,7 @@ Analise cada frase do carrossel conforme a tabela abaixo:
       <div class="carrossel-slide-conteudo">
 
         <p class="carrossel-afirmacao">
-          A Terra possui um único satélite natural.
+          A água é composta por hidrogênio e oxigênio.
         </p>
 
         <details class="resposta-escondida">
@@ -122,7 +122,7 @@ Analise cada frase do carrossel conforme a tabela abaixo:
       <div class="carrossel-slide-conteudo">
 
         <p class="carrossel-afirmacao">
-          A Terra possui dois satélites naturais.
+          O Sol gira em torno da Terra.
         </p>
 
         <details class="resposta-escondida">
@@ -142,7 +142,7 @@ Analise cada frase do carrossel conforme a tabela abaixo:
       <div class="carrossel-slide-conteudo">
 
         <p class="carrossel-afirmacao">
-          Feche todos os programas antes de desligar o computador.
+          Salve o arquivo antes de fechar o programa.
         </p>
 
         <details class="resposta-escondida">
@@ -162,7 +162,7 @@ Analise cada frase do carrossel conforme a tabela abaixo:
       <div class="carrossel-slide-conteudo">
 
         <p class="carrossel-afirmacao">
-          Quantos planetas existem no Sistema Solar?
+          Qual linguagem de programação você está aprendendo neste semestre?
         </p>
 
         <details class="resposta-escondida">
@@ -182,7 +182,7 @@ Analise cada frase do carrossel conforme a tabela abaixo:
       <div class="carrossel-slide-conteudo">
 
         <p class="carrossel-afirmacao">
-          Que surpresa!
+          Que descoberta impressionante!
         </p>
 
         <details class="resposta-escondida">
@@ -202,7 +202,7 @@ Analise cada frase do carrossel conforme a tabela abaixo:
       <div class="carrossel-slide-conteudo">
 
         <p class="carrossel-afirmacao">
-          Existe vida inteligente fora da Terra.
+          Existe vida microbiana em algum planeta fora do Sistema Solar.
         </p>
 
         <details class="resposta-escondida">
@@ -222,7 +222,7 @@ Analise cada frase do carrossel conforme a tabela abaixo:
       <div class="carrossel-slide-conteudo">
 
         <p class="carrossel-afirmacao">
-          A inteligência artificial substituirá todos os professores.
+          O número 15 não é par.
         </p>
 
         <details class="resposta-escondida">
@@ -230,27 +230,7 @@ Analise cada frase do carrossel conforme a tabela abaixo:
           <ul>
             <li><strong>Tipo de frase:</strong> declarativa</li>
             <li><strong>É asserção</strong></li>
-            <li><strong>Não é possível determinar atualmente se é verdadeira ou falsa</strong></li>
-          </ul>
-        </details>
-
-      </div>
-    </div>
-
-    <!-- Questão 8 -->
-    <div class="carousel-item">
-      <div class="carrossel-slide-conteudo">
-
-        <p class="carrossel-afirmacao">
-          O número 10 é maior que o número 20.
-        </p>
-
-        <details class="resposta-escondida">
-          <summary aria-label="Conferir resposta"></summary>
-          <ul>
-            <li><strong>Tipo de frase:</strong> declarativa</li>
-            <li><strong>É asserção</strong></li>
-            <li><strong>É falsa</strong></li>
+            <li><strong>É verdadeira</strong></li>
           </ul>
         </details>
 
@@ -309,11 +289,6 @@ Analise cada frase do carrossel conforme a tabela abaixo:
               data-bs-target="#carrossel-frases-assercoes"
               data-bs-slide-to="6"
               aria-label="Questão 7"></button>
-
-      <button type="button"
-              data-bs-target="#carrossel-frases-assercoes"
-              data-bs-slide-to="7"
-              aria-label="Questão 8"></button>
 
     </div>
 
@@ -382,17 +357,113 @@ document.addEventListener("DOMContentLoaded", function () {
 Análise
 :::
 
-Leia atentamente o texto.
+Até aqui, analisamos frases isoladamente. Agora, vamos observar como diferentes tipos de frase aparecem em um texto.
+
+Leia o fragmento.
 
 ::: enfase
-Este estudo investigou a relação entre o uso de ferramentas de inteligência artificial generativa e o desempenho acadêmico de estudantes universitários em atividades de programação. Participaram da pesquisa 84 estudantes matriculados em uma disciplina introdutória de Ciência da Computação, distribuídos em dois grupos. Durante oito semanas, 42 participantes utilizaram uma ferramenta de inteligência artificial como apoio à resolução de exercícios, enquanto os demais realizaram as mesmas atividades sem acesso à ferramenta. O desempenho dos estudantes foi avaliado por meio de testes aplicados antes e depois do período de intervenção. Os resultados mostraram aumento médio de 18% no desempenho do grupo que utilizou a ferramenta e de 11% no grupo que realizou as atividades sem seu uso. Os estudantes do primeiro grupo também relataram maior facilidade para identificar erros nos códigos produzidos durante as atividades. Os resultados sugerem que o uso orientado de ferramentas de inteligência artificial pode contribuir para a aprendizagem de programação em disciplinas introdutórias.[^aula_4_assercoes_valordeverdade-1]
+Adriana entrou no laboratório e percebeu que todos os computadores estavam desligados. “O que aconteceu aqui?”, perguntou ao colega que estava junto à porta. Marina apontou para o quadro de energia e respondeu: “Houve uma queda de energia durante a madrugada.” De repente, uma das máquinas ligou sozinha. “Que estranho!”, exclamou Adriana. Marina aproximou-se do computador e disse: “Não toque em nada antes de verificarmos o sistema.” As duas permaneceram diante da máquina tentando entender o que havia acontecido.[^texto-narrativo]
 :::
 
-[^aula_4_assercoes_valordeverdade-1]: Fragmento elaborado exclusivamente para fins didáticos desta atividade. A situação de pesquisa, os procedimentos e os dados apresentados são fictícios e não correspondem a um estudo científico real.
+[^texto-narrativo]: Fragmento narrativo elaborado exclusivamente para fins didáticos desta atividade.
+
+Analise as frases retiradas do fragmento e, para cada uma, identifique:
+
+- o **tipo de frase**;
+- se **é ou não uma asserção**;
+- se **possui ou não valor de verdade**.
+
+> **1.** O que aconteceu aqui?
+
+> **2.** Houve uma queda de energia durante a madrugada.
+
+> **3.** Que estranho!
+
+> **4.** Não toque em nada antes de verificarmos o sistema.
+
+<!-- Aqui começa o campo de respostas -->
+
+<details class="resposta-escondida">
+
+<summary>...</summary>
+
+**1. “O que aconteceu aqui?”**
+
+- **Tipo de frase:** interrogativa.
+- **Não é asserção.**
+- **Não possui valor de verdade.**
+
+**2. “Houve uma queda de energia durante a madrugada.”**
+
+- **Tipo de frase:** declarativa.
+- **É asserção.**
+- **Possui valor de verdade.**
+
+**3. “Que estranho!”**
+
+- **Tipo de frase:** exclamativa.
+- **Não é asserção.**
+- **Não possui valor de verdade.**
+
+**4. “Não toque em nada antes de verificarmos o sistema.”**
+
+- **Tipo de frase:** imperativa.
+- **Não é asserção.**
+- **Não possui valor de verdade.**
+
+</details>
+
+<!-- Aqui encerra o campo de respostas -->
 
 <br>
 
-1.  Quantas frases compõem o fragmento? Qual é o tipo de frase predominante?
+Agora observe o fragmento como um todo:
+
+**Que tipo de frase aparece com maior frequência na narração feita pelo narrador? E que tipos aparecem nas falas das personagens?**
+
+<!-- Aqui começa o campo de respostas -->
+
+<details class="resposta-escondida">
+
+<summary>...</summary>
+
+Na **narração**, predominam as frases **declarativas**, pois o narrador apresenta acontecimentos e situações.
+
+Nas **falas das personagens**, encontramos maior variedade: frases **interrogativas, declarativas, exclamativas e imperativas**.
+
+Isso mostra que diferentes tipos de frase podem coexistir em um mesmo texto e desempenhar funções distintas.
+
+</details>
+
+<!-- Aqui encerra o campo de respostas -->
+
+<br>
+
+::: destaque
+No fragmento narrativo, encontramos diferentes tipos de frase.
+
+**E em um texto científico? Que tipo de frase você espera encontrar com maior frequência?**
+:::
+
+<br>
+
+## Aprendizagem prática
+
+::: subtitulo-nao-numerado
+Análise
+:::
+
+Leia atentamente o texto.
+
+::: enfase
+Este estudo investigou a relação entre o uso de ferramentas de inteligência artificial generativa e o desempenho acadêmico de estudantes universitários em atividades de programação. Participaram da pesquisa 84 estudantes matriculados em uma disciplina introdutória de Ciência da Computação, distribuídos em dois grupos. Durante oito semanas, 42 participantes utilizaram uma ferramenta de inteligência artificial como apoio à resolução de exercícios, enquanto os demais realizaram as mesmas atividades sem acesso à ferramenta. O desempenho dos estudantes foi avaliado por meio de testes aplicados antes e depois do período de intervenção. Os resultados mostraram aumento médio de 18% no desempenho do grupo que utilizou a ferramenta e de 11% no grupo que realizou as atividades sem seu uso. Os estudantes do primeiro grupo também relataram maior facilidade para identificar erros nos códigos produzidos durante as atividades. Os resultados sugerem que o uso orientado de ferramentas de inteligência artificial pode contribuir para a aprendizagem de programação em disciplinas introdutórias.[^texto-cientifico]
+:::
+
+[^texto-cientifico]: Fragmento elaborado exclusivamente para fins didáticos desta atividade. A situação de pesquisa, os procedimentos e os dados apresentados são fictícios e não correspondem a um estudo científico real.
+
+<br>
+
+1. Quantas frases compõem o fragmento? Qual é o tipo de frase predominante?
 
 <!-- Aqui começa o campo de respostas -->
 
@@ -410,7 +481,7 @@ Todas são **frases declarativas**. Portanto, esse é o tipo de frase predominan
 
 <br>
 
-2.  Analise as frases do fragmento e responda: são asserções? Justifique sua resposta com base no conceito de valor de verdade.
+2. Analise as frases do fragmento e responda: **são asserções?** Justifique sua resposta com base no conceito de valor de verdade.
 
 <!-- Aqui começa o campo de respostas -->
 
@@ -418,7 +489,7 @@ Todas são **frases declarativas**. Portanto, esse é o tipo de frase predominan
 
 <summary>...</summary>
 
-Sim. As sete frases são declarativas e apresentam algo que pode ser verdadeiro ou falso. Portanto, são asserções e possuem valor de verdade.
+Sim. As sete frases são declarativas e apresentam algo que pode ser verdadeiro ou falso. Portanto, são **asserções** e possuem **valor de verdade**.
 
 Isso não significa, entretanto, que possamos determinar se cada uma delas é verdadeira ou falsa apenas pela leitura do fragmento.
 
@@ -428,7 +499,7 @@ Isso não significa, entretanto, que possamos determinar se cada uma delas é ve
 
 <br>
 
-3.  Reconhecer que uma frase possui valor de verdade não significa saber se ela é verdadeira ou falsa. Analise as duas asserções abaixo.
+3. Reconhecer que uma frase possui valor de verdade não significa saber se ela é verdadeira ou falsa. Analise as duas asserções abaixo.
 
 ::: enfase
 **Asserção 1**
@@ -481,7 +552,7 @@ Uma asserção **não é necessariamente verdadeira**. Ela possui valor de verda
 O pensamento científico não se limita a formular asserções: é preciso **confrontá-las com evidências** que permitam sustentá-las ou questioná-las.
 :::
 
-<br/>
+<br>
 
 ## Sistematização
 
@@ -498,7 +569,7 @@ Uma asserção pode ser verdadeira ou falsa mesmo quando ainda não dispomos de 
 
 **Por que a ciência precisa de afirmações que possam ser verdadeiras ou falsas?**
 
-Porque o conhecimento científico depende de afirmações que possam ser **avaliadas e confrontadas com evidências**. Para investigar se aquilo que afirmamos sobre o mundo deve ser aceito ou rejeitado, precisamos formular afirmações que admitam ser verdadeiras ou falsas.
+Porque o conhecimento científico depende de afirmações que possam ser **confrontadas com evidências**. Se uma afirmação admite ser verdadeira ou falsa, podemos investigar aquilo que ela afirma e buscar evidências que permitam sustentá-la ou questioná-la.
 :::
 
 <br>
@@ -510,12 +581,14 @@ Desafio
 :::
 
 ::: subsubtitulo-nao-numerado
-Vamos estimular nosso pensamento científico?
+Vamos aplicar o pensamento científico?
 :::
+
+Para resolver o desafio, observe os dados, formule uma hipótese sobre o padrão e teste-a nas alternativas.
 
 ::: destaque
 <figure style="text-align: center;">
-  <img src="/img/pokepu_obl.png" style="width:100%; display:block; margin:auto;" alt="QR code da enquete" />
+  <img src="/img/pokepu_obl.png" style="width:100%; display:block; margin:auto;" alt="Árvore de Pokémon híbridos" />
   <figcaption></figcaption>
 </figure>
 
@@ -523,11 +596,18 @@ Vamos estimular nosso pensamento científico?
 
 Na árvore acima, os nomes dos personagens híbridos são formados a partir de um padrão geral, com exceção de apenas dois. **Se** os nomes de todos os Pokémon fossem formados seguindo o padrão geral, qual **não** poderia ser um nome possível para o último Pokémon da árvore (o mais de baixo)?
 
+a) **krabgon**  
+b) **elekgon**  
+c) **spinpy**  
+d) **spinky**  
+e) **spinorb**
 :::
 
 <!-- Aqui começa o campo de respostas -->
+
 <details class="resposta-escondida">
-<summary></summary>
+
+<summary>...</summary>
 
 **Resposta correta: d) spinky**
 
@@ -541,8 +621,12 @@ Seguindo esse padrão, seriam possíveis:
 - **elekgon**
 
 A única alternativa que não poderia ser formada seguindo o padrão geral é **spinky**, pois sua formação depende de **kreky**, um dos nomes que fogem ao padrão.
+
 </details>
+
 <!-- Aqui encerra o campo de respostas -->
+
+<br>
 
 ::: proxima-aula
 [Para a próxima aula:]{.proxima-aula-title}
