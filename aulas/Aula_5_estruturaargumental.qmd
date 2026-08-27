@@ -38,8 +38,8 @@ Observe agora:
 
 > Um estudante tenta entrar em um laboratório de informática, mas encontra a porta trancada. Enquanto tenta abri-la, um segurança se aproxima:<br>
 
->Estudante: _O laboratório está fechado?_\
->Segurança: _O laboratório não abre aos domingos. E hoje é domingo. Portanto, o laboratório está fechado._
+> Estudante: *O laboratório está fechado?*\
+> Segurança: *O laboratório não abre aos domingos. E hoje é domingo. Portanto, o laboratório está fechado.*
 
 **De que o segurança pretende convencer o estudante? O que o segurança diz para convencer o estudante de que o laboratório está fechado?**
 
@@ -48,38 +48,10 @@ A afirmação que o segurança pretende que o estudante aceite é a **conclusão
 
 Dizendo de outro modo...
 
-* o que se pretende que o outro aceite → conclusão
-* por que ele deveria aceitar → premissas
-* premissas + conclusão → argumento
+- o que se pretende que o outro aceite → conclusão
+- por que ele deveria aceitar → premissas
+- premissas + conclusão → argumento
 :::
-
-⚠️ Colocar várias asserções juntas **não é suficiente** para formar um argumento.
-
-É preciso haver uma relação entre elas.
-
-<br>
-
-## Revisão
-
-Uma **asserção** é uma afirmação que pode ser encarada como verdadeira ou falsa e, por isso, possui **valor de verdade**.
-
-Entretanto:
-
-> **ter valor de verdade** ≠ **conseguir determinar o valor de verdade**
-
-Compare agora:
-
-> Hoje é domingo.
-
-e:
-
-> O laboratório não abre aos domingos.\
-> Hoje é domingo.\
-> Portanto, o laboratório está fechado.
-
-No primeiro caso, temos uma **asserção isolada**.
-
-No segundo, temos várias asserções organizadas de modo que algumas são apresentadas como **razões para sustentar outra**.
 
 <br>
 
@@ -152,321 +124,6 @@ Para reconhecer um argumento, pergunte:
 
 **Há alguma asserção que está sendo apresentada como razão para que eu aceite outra asserção?**
 :::
-
-## Aprendizagem prática
-
-::: subtitulo-nao-numerado
-Análise
-:::
-
-Leia:
-
-::: enfase
-O sistema apresentou erro após a atualização. Outros usuários relataram o mesmo problema depois de atualizar o programa. É possível que a atualização esteja relacionada ao erro.
-:::
-
-Identifique:
-
-- as **premissas**;
-- a **conclusão**;
-- e como as premissas são apresentadas como razões para sustentar a conclusão.
-
-<!-- Aqui começa o campo de respostas -->
-<details class="resposta-escondida">
-<summary>...</summary>
-
-- **Premissa 1:** O sistema apresentou erro após a atualização.
-- **Premissa 2:** Outros usuários relataram o mesmo problema depois de atualizar o programa.
-- **Conclusão:** É possível que a atualização esteja relacionada ao erro.
-- **Relação inferencial:** a ocorrência do erro após a atualização, associada a relatos semelhantes de outros usuários, é apresentada como razão para considerar possível uma relação entre a atualização e o problema.
-
-Observe que a conclusão é formulada de maneira cautelosa: afirma-se apenas que a atualização **pode estar relacionada** ao erro.
-</details>
-<!-- Aqui encerra o campo de respostas -->
-
-## Ampliando a análise
-
-Em alguns argumentos, determinadas palavras e expressões funcionam como **pistas linguísticas** que ajudam a perceber a relação entre as asserções.
-
-| Podem introduzir razões | Podem introduzir conclusões |
-|-------------------------|-----------------------------|
-| porque                  | portanto                    |
-| pois                    | logo                        |
-| uma vez que             | por isso                    |
-| visto que               | assim                       |
-| considerando que        | consequentemente            |
-
-<br/>
-
-⚠️ Um argumento pode:
-
-- não apresentar nenhuma dessas expressões;
-- apresentar a conclusão antes das premissas;
-- apresentar a conclusão no meio do texto;
-- deixar alguma informação implícita.
-
-<br/>
-
-::: destaque
-Para identificar a estrutura de um argumento, pergunte:
-
-**O que o autor quer que eu aceite?**\
-→ provável **conclusão**
-
-**Que razões ele apresenta para que eu aceite isso?**\
-→ prováveis **premissas**
-:::
-
-## Aprendizagem prática
-
-::: subtitulo-nao-numerado
-Análise
-:::
-
-Identifique:
-
-- as **premissas**;
-- e a **conclusão**.
-
-::: enfase
-O servidor não responde às requisições. Outros computadores da rede conseguem acessar a internet normalmente. Portanto, o problema provavelmente está no servidor.
-:::
-
-<!-- Aqui começa o campo de respostas -->
-<details class="resposta-escondida">
-<summary>...</summary>
-
-- **Premissa 1:** O servidor não responde às requisições.
-- **Premissa 2:** Outros computadores da rede conseguem acessar a internet normalmente.
-- **Conclusão:** O problema provavelmente está no servidor.
-
-As duas primeiras informações são apresentadas como razões para localizar o problema no servidor.
-</details>
-<!-- Aqui encerra o campo de respostas -->
-
-::: enfase
-Devemos fazer uma cópia de segurança dos arquivos antes da atualização, pois alterações no sistema podem provocar perda de dados.
-:::
-
-<!-- Aqui começa o campo de respostas -->
-<details class="resposta-escondida">
-<summary>...</summary>
-
-- **Premissa:** Alterações no sistema podem provocar perda de dados.
-- **Conclusão:** Devemos fazer uma cópia de segurança dos arquivos antes da atualização.
-
-Neste caso, a conclusão aparece **antes** da premissa.
-
-A palavra **“pois”** funciona como pista para introduzir a razão apresentada em favor da conclusão.
-</details>
-<!-- Aqui encerra o campo de respostas -->
-
-::: enfase
-Como alterações bruscas de temperatura podem danificar determinados equipamentos, o laboratório deve manter controle térmico constante.
-:::
-
-<!-- Aqui começa o campo de respostas -->
-<details class="resposta-escondida">
-<summary>...</summary>
-
-- **Premissa:** Alterações bruscas de temperatura podem danificar determinados equipamentos.
-- **Conclusão:** O laboratório deve manter controle térmico constante.
-
-A expressão **“como”**, nesse contexto, introduz a razão apresentada para sustentar a recomendação.
-</details>
-<!-- Aqui encerra o campo de respostas -->
-
-<br/>
-
-::: destaque
-A posição das frases não determina sua função no argumento.
-
-A **conclusão** pode aparecer no início, no meio ou no final.
-
-O que determina sua função é a relação estabelecida entre as asserções.
-:::
-
-## Leitura em foco
-
-::: citacao
-...**ruído**: observações irrelevantes para o argumento... (Carnielli; Epstein, 2023, p. 6, destaque meu)
-:::
-
-Premissas e conclusão podem aparecer acompanhadas de comentários, perguntas retóricas, expressões avaliativas ou outras informações que não são necessárias para reconstruir o argumento: são ruído, nos termos de Carnielli e Epstein.
-
-Observe:
-
-> É evidente que precisamos suspender a aula amanhã. Afinal, a universidade ficará sem energia elétrica. Francamente, não vejo como alguém poderia pensar diferente.
-
-Se retirarmos:
-
-> É evidente...
-
-e:
-
-> Francamente, não vejo como alguém poderia pensar diferente.
-
-a estrutura fundamental permanece:
-
-> A universidade ficará sem energia elétrica.\
-> Portanto, precisamos suspender a aula amanhã.
-
-Podemos chamar os elementos que não desempenham função necessária na reconstrução do argumento de **material argumentativamente irrelevante** ou, em uma análise mais informal, de **ruído**.
-
-<br/>
-
-## Aprendizagem prática
-
-::: subtitulo-nao-numerado
-Análise
-:::
-
-Leia:
-
-::: enfase
-É óbvio que o sistema precisa ser atualizado imediatamente. A versão instalada contém uma falha de segurança conhecida. Francamente, continuar usando essa versão não faz nenhum sentido.
-:::
-
-Identifique:
-
-- a **premissa**;
-- a **conclusão**;
-- os elementos que podem ser retirados sem alterar a estrutura essencial do argumento.
-
-<!-- Aqui começa o campo de respostas -->
-<details class="resposta-escondida">
-<summary>...</summary>
-
-- **Premissa:** A versão instalada contém uma falha de segurança conhecida.
-- **Conclusão:** O sistema precisa ser atualizado imediatamente.
-- **Material argumentativamente irrelevante:** “É óbvio que” e “Francamente, continuar usando essa versão não faz nenhum sentido”.
-
-Uma reconstrução mais enxuta seria:
-
-> A versão instalada contém uma falha de segurança conhecida.\
-> Portanto, o sistema precisa ser atualizado imediatamente.
-
-A reconstrução torna mais visível a relação entre a razão apresentada e aquilo que se pretende sustentar.
-</details>
-<!-- Aqui termina o campo de respostas -->
-
-<br/>
-
-
-::: destaque
-Argumentos podem conter elementos implícitos
-
-Na comunicação cotidiana, nem sempre expressamos todas as etapas do raciocínio.
-
-Imagine que alguém diga:
-
-> João provavelmente não será aprovado. Ele não estudou para a prova.
-
-Temos:
-
-- **Premissa expressa:** João não estudou para a prova.
-- **Conclusão expressa:** João provavelmente não será aprovado.
-
-Mas parece haver uma ideia intermediária pressuposta, aproximadamente:
-
-> Quem não estuda para a prova tem menor probabilidade de ser aprovado.
-
-Essa informação não foi explicitamente enunciada.
-
-Podemos chamá-la de **premissa implícita**.
-
-**Reconstruir um elemento implícito exige cautela.**
-
-Não devemos atribuir ao autor qualquer premissa que torne o argumento mais conveniente para nossa análise.
-
-A reconstrução deve ser **compatível com aquilo que foi efetivamente dito e com o contexto em que o argumento ocorre**.
-:::
-
-## Aprendizagem prática
-
-::: subtitulo-nao-numerado
-Análise
-:::
-
-Leia:
-
-::: enfase
-Leve um guarda-chuva. A previsão indica chuva forte durante a tarde.
-:::
-
-Identifique:
-
-- a conclusão;
-- a premissa expressa;
-- uma possível premissa implícita.
-
-<!-- Aqui começa o campo de respostas -->
-<details class="resposta-escondida">
-<summary>...</summary>
-
-- **Conclusão:** Leve um guarda-chuva.
-- **Premissa expressa:** A previsão indica chuva forte durante a tarde.
-- **Possível premissa implícita:** Quando há previsão de chuva forte, levar um guarda-chuva é uma medida adequada para se proteger da chuva.
-
-Uma reconstrução possível seria:
-
-> Há previsão de chuva forte durante a tarde.\
-> Quando há previsão de chuva forte, é adequado levar um guarda-chuva.\
-> Portanto, leve um guarda-chuva.
-
-A premissa implícita foi reconstruída porque ajuda a explicitar a relação entre a informação apresentada e a recomendação.
-</details>
-<!-- Aqui termina o campo de respostas -->
-
-## Aprendizagem prática
-
-::: subtitulo-nao-numerado
-Análise
-:::
-
-Considere:
-
-::: enfase
-O computador não liga porque a bateria está descarregada.
-:::
-
-Responda:
-
-- Qual asserção está sendo sustentada?
-- Qual asserção é apresentada como razão?
-- Qual é a relação estabelecida entre elas?
-
-<!-- Aqui começa o campo de respostas -->
-<details class="resposta-escondida">
-<summary>...</summary>
-
-- **Conclusão:** O computador não liga.
-- **Premissa:** A bateria está descarregada.
-- **Relação inferencial:** o fato de a bateria estar descarregada é apresentado como razão para explicar por que o computador não liga.
-</details>
-<!-- Aqui termina o campo de respostas -->
-
-Agora compare:
-
-::: enfase
-A bateria está descarregada. O computador não liga.
-:::
-
-As duas asserções formam necessariamente um argumento?
-
-<!-- Aqui começa o campo de respostas -->
-<details class="resposta-escondida">
-<summary>...</summary>
-
-**Não necessariamente.**
-
-As duas frases podem simplesmente apresentar duas informações.
-
-Para interpretá-las como argumento, precisaríamos compreender, pelo contexto, que a primeira está sendo apresentada como razão para a segunda.
-
-Isso mostra que a identificação de um argumento depende não apenas da presença de várias asserções, mas da **relação argumentativa estabelecida entre elas**.
-</details>
-<!-- Aqui termina o campo de respostas -->
 
 ## Aprendizagem prática
 
@@ -614,470 +271,308 @@ showSlide(currentSlide);
 Análise
 :::
 
-Até agora trabalhamos predominantemente com argumentos curtos e construídos para facilitar a identificação de sua estrutura.
+A redação a seguir foi produzida para o **ENEM 2023**, a partir do tema **“Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil”**, e obteve **nota 1000**. Leia o texto e reconstrua sua estrutura argumentativa, identificando:
 
-Em textos acadêmicos reais, as relações argumentativas podem aparecer distribuídas em períodos maiores e acompanhadas de informações descritivas, metodológicas e contextuais.
-
-Leia o trecho:
+- a **conclusão principal** defendida pelo autor;
+- as **premissas** apresentadas para sustentar essa conclusão.
 
 ::: leitura
-Resumo científico
+O feminismo é o movimento que luta pela igualdade social, política e econômica dos gêneros. Hodiernamente, muitas conquistas em prol da garantia dessas igualdades já foram alcançadas – a exemplo do direito ao voto para as mulheres, adquirido no Governo Vargas. Entretanto, essas conquistas não foram suficientes para eliminar o preconceito e a violência existentes na sociedade brasileira.
 
-Título: Videojogos e o Cinema: Uma Simbiose em Crescimento: Caso de Estudo Final Fantasy
-Autora: Inês Margarida Gil Lopes Monteiro (2021)
+De acordo com o site “Mapa da Violência”, nas últimas três décadas houve um aumento de mais de 200% nos índices de feminicídio no país. Esse dado evidencia a baixa eficiência dos mecanismos de auxílio à mulher, tais como a Secretaria de Políticas para as mulheres e a Lei Maria da Penha. A existência desses mecanismos é de suma importância, mas suas ações não estão sendo satisfatórias para melhorar os índices alarmantes de agressões contra o, erroneamente chamado, “sexo frágil.”
 
-O uso de técnicas cinematográficas é uma prática cada vez mais corrente na construção de videojogos e estão na base da criação de mundos virtuais convincentes. Este trabalho tem como objetivo estudar e analisar a presença das técnicas cinematográficas nos jogos digitais e o seu impacto na experiência do jogador. A análise feita teve como objeto de estudo quatro jogos da série Final Fantasy, e com ela pretendeu-se demonstrar a importância das técnicas cinematográficas na sua construção, desde os ângulos de câmara, aos efeitos sonoros usados. A metodologia adotada para a realização deste trabalho passou, primeiramente, por pesquisas bibliográficas e na internet, pelo visionamento de documentários, e, finalmente, pela análise dos jogos em estudo. Conclui-se que os elementos cinematográficos nos videojogos são fundamentais na construção da narrativa, que se quer imersiva.
+Mas, apesar de ser o principal tipo, não é só agressão física a responsável pelas violências contra a mulher. Devido ao caráter machista e patriarcal da sociedade brasileira, o preconceito começa ainda na juventude, com o tratamento desigual dado a filhos e filhas – comumente nota-se uma maior restrição para o sexo feminino. Além disso, há a violência moral, ainda muito frequente no mercado de trabalho. Pesquisas comprovam que, no Brasil, o salário dado a homens e mulheres é diferente, mesmo com ambos exercendo a mesma função. Ademais, empresas preferem contratar funcionários do sexo masculino para não se preocuparem com uma possível licença maternidade.
+
+É evidente, portanto, que ainda há entraves para garantir a segurança da mulher brasileira. Desse modo, o Estado deve, mediante a ampliação da atuação dos órgãos competentes, assegurar o atendimento adequado às vítimas e a punição correta aos agressores. Além disso, cabe às empresas a garantia de igualdade no espaço laboral, pagando um salário justo e admitindo funcionários pela sua qualificação, livre de preconceitos. Por fim, é dever da sociedade o respeito ao sexo feminino, tratando igualmente homem e mulher. Assim, alcançar-se-á uma sociedade igualitária e de harmonia para ambos os gêneros.
 :::
-
-Identifique:
-
-* A principal conclusão apresentada pela autora.
-* Premissas que podem ajudar a compreender ou sustentar a conclusão.
-* Frases que não desempenham função de premissa ou conclusão.
-* Funçao das frases que não desempenham função de premissa ou conclusão.
 
 <!-- Aqui começa o campo de respostas -->
 <details class="resposta-escondida">
 <summary>...</summary>
-A conclusão mais explícita aparece ao final:
 
-Os elementos cinematográficos nos videojogos são fundamentais na construção da narrativa, que se quer imersiva.
+**Conclusão principal**
 
-O resumo também apresenta afirmações relacionadas ao problema investigado, entre elas a afirmação inicial de que técnicas cinematográficas são utilizadas na construção de mundos virtuais convincentes.
+> Ainda há entraves para garantir a segurança da mulher brasileira.
 
-Entretanto, nem todas as asserções do resumo funcionam necessariamente como premissas de um único argumento.
+**Conclusões secundárias**
 
-Algumas desempenham outras funções textuais:
+> Os mecanismos de auxílio à mulher apresentam baixa eficiência.
 
-* apresentar o objetivo da pesquisa;
-* delimitar o objeto de estudo;
-* descrever a metodologia utilizada.
+> As ações desses mecanismos não estão sendo satisfatórias para melhorar os índices de agressões contra as mulheres.
 
-Isso é importante porque premissa e conclusão são funções argumentativas, e não categorias fixas associadas a determinados tipos de frase.
+> A agressão física não é a única forma de violência contra a mulher.
 
-Para determinar se uma afirmação funciona como premissa, é necessário perguntar se, naquele contexto, ela está sendo apresentada como razão para sustentar determinada conclusão.
+> O Estado deve assegurar atendimento adequado às vítimas e a punição correta aos agressores.
+
+> As empresas devem garantir igualdade no espaço de trabalho.
+
+> A sociedade deve respeitar as mulheres, tratando igualmente homens e mulheres.
+
+**Premissas**
+
+Entre as razões apresentadas para sustentar as conclusões, estão:
+
+> As conquistas alcançadas não foram suficientes para eliminar o preconceito e a violência existentes na sociedade brasileira.
+
+> Nas últimas três décadas, houve um aumento de mais de 200% nos índices de feminicídio no país.
+
+> O preconceito manifesta-se desde a juventude, por meio do tratamento desigual dado a filhos e filhas.
+
+> Há violência moral contra as mulheres no mercado de trabalho.
+
+> Homens e mulheres recebem salários diferentes mesmo quando exercem a mesma função.
+
+> Empresas preferem contratar funcionários do sexo masculino para evitar uma possível licença-maternidade.
+
 </details>
 <!-- Aqui encerra o campo de respostas -->
 
+<br>
+
+## Ampliando a análise
+
+Em alguns argumentos, determinadas palavras e expressões funcionam como **pistas linguísticas** que ajudam a perceber a relação entre as asserções.
+
+| Podem introduzir razões | Podem introduzir conclusões |
+|-------------------------|-----------------------------|
+| porque                  | portanto                    |
+| pois                    | logo                        |
+| uma vez que             | por isso                    |
+| visto que               | assim                       |
+| considerando que        | consequentemente            |
+
 <br/>
-
-::: destaque
-Em textos reais, analisar argumentos não significa classificar mecanicamente todas as frases como “premissa” ou “conclusão”.
-
-É necessário reconhecer a **função que cada asserção desempenha no contexto**.
-
-Uma frase pode apresentar uma informação, descrever um procedimento, indicar um objetivo ou contextualizar um problema sem, necessariamente, funcionar como premissa ou conclusão.
-:::
-
-## Sistematização
-
-Uma **asserção** é uma frase que pode ser encarada como verdadeira ou falsa.
-
-Um **argumento** ocorre quando uma ou mais asserções são apresentadas como razões para sustentar outra asserção.
-
-Em sua estrutura mais básica:
-
-> **premissas → conclusão**
-
-As:
-
-- **premissas** apresentam as razões;
-- **conclusão** apresenta aquilo que se pretende sustentar;
-- **inferência** corresponde à relação pela qual as premissas são apresentadas como razões para aceitarmos a conclusão.
-
-::: enfase
-**Premissa e conclusão não são tipos diferentes de frase.**
-
-São **funções desempenhadas por asserções dentro de um argumento**.
-:::
-
-Por isso, uma mesma asserção pode desempenhar funções diferentes em contextos distintos.
-
-Observe:
-
-> O laboratório está fechado.
-
-Isoladamente, temos apenas uma asserção.
-
-Agora:
-
-> Hoje é domingo.\
-> O laboratório não abre aos domingos.\
-> Portanto, o laboratório está fechado.
-
-Nesse argumento, a mesma asserção — “O laboratório está fechado” — desempenha a função de **conclusão**.
-
-Em outro contexto:
-
-> O laboratório está fechado.\
-> Portanto, precisamos realizar o experimento amanhã.
-
-Agora, “O laboratório está fechado” desempenha a função de **premissa**.
-
-::: destaque
-A função de uma asserção depende da **relação que ela estabelece com as demais asserções no argumento**.
-:::
 
 ## Aprendizagem prática
 
 ::: subtitulo-nao-numerado
-Mudança de função
+Análise
 :::
 
-Compare:
+Retome a redação analisada anteriormente. Observe os conectivos destacados nos fragmentos abaixo.
+
+Para cada caso:
+
+- identifique o **conectivo**;
+- explique o **significado** que ele estabelece entre as asserções;
+- explique como essa relação contribui para a **construção da inferência** no argumento.
+
+### Fragmento 1
 
 ::: enfase
-**Situação 1**
-
-O sistema apresentou uma falha grave.
-
-Portanto, precisamos interromper seu funcionamento.
+Muitas conquistas em prol da garantia dessas igualdades já foram alcançadas [...]. **Entretanto**, essas conquistas não foram suficientes para eliminar o preconceito e a violência existentes na sociedade brasileira.
 :::
-
-::: enfase
-**Situação 2**
-
-Precisamos substituir o sistema.
-
-Ele apresentou uma falha grave.
-:::
-
-A asserção:
-
-> O sistema apresentou uma falha grave.
-
-desempenha a mesma função nos dois argumentos?
 
 <details class="resposta-escondida">
 <summary>...</summary>
 
-**Sim.**
+- **Conectivo:** entretanto.
+- **Significado:** oposição ou contraste.
+- **Relação na construção da inferência:** o conectivo contrapõe as conquistas já alcançadas à permanência do preconceito e da violência. Essa oposição permite sustentar que os avanços obtidos ainda são insuficientes para superar o problema apresentado.
 
-Nos dois casos, a asserção funciona como **premissa**.
+</details>
 
-Na primeira situação:
+### Fragmento 2
 
-- **Premissa:** O sistema apresentou uma falha grave.
-- **Conclusão:** Precisamos interromper seu funcionamento.
+::: enfase
+**Devido ao** caráter machista e patriarcal da sociedade brasileira, o preconceito começa ainda na juventude, com o tratamento desigual dado a filhos e filhas.
+:::
 
-Na segunda:
+<details class="resposta-escondida">
+<summary>...</summary>
 
-- **Conclusão:** Precisamos substituir o sistema.
-- **Premissa:** Ele apresentou uma falha grave.
+- **Conectivo:** devido a.
+- **Significado:** causa.
+- **Relação na construção da inferência:** o caráter machista e patriarcal da sociedade é apresentado como razão para explicar a manifestação do preconceito desde a juventude. O conectivo explicita, portanto, a relação entre a razão apresentada e aquilo que ela procura explicar.
 
-A posição da frase mudou, mas sua função argumentativa permanece a mesma: ela é apresentada como uma **razão** para sustentar uma conclusão.
+</details>
+
+### Fragmento 3
+
+::: enfase
+Pesquisas comprovam que, no Brasil, o salário dado a homens e mulheres é diferente, mesmo com ambos exercendo a mesma função. **Ademais**, empresas preferem contratar funcionários do sexo masculino para não se preocuparem com uma possível licença maternidade.
+:::
+
+<details class="resposta-escondida">
+<summary>...</summary>
+
+- **Conectivo:** ademais.
+- **Significado:** adição.
+- **Relação na construção da inferência:** o conectivo acrescenta uma nova razão à anterior. À desigualdade salarial soma-se a preferência pela contratação de homens, acumulando evidências para sustentar a existência de desigualdade entre homens e mulheres no mercado de trabalho.
+
+</details>
+
+### Fragmento 4
+
+::: enfase
+**É evidente, portanto, que ainda há entraves para garantir a segurança da mulher brasileira.**
+:::
+
+<details class="resposta-escondida">
+<summary>...</summary>
+
+- **Conectivo:** portanto.
+- **Significado:** conclusão.
+- **Relação na construção da inferência:** o conectivo sinaliza que a afirmação apresentada deve ser entendida como uma conclusão decorrente das razões desenvolvidas anteriormente no texto. Os diferentes problemas apresentados são mobilizados para sustentar a conclusão de que ainda existem entraves à garantia da segurança da mulher.
+
+</details>
+
+### Fragmento 5
+
+::: enfase
+Por fim, é dever da sociedade o respeito ao sexo feminino, tratando igualmente homem e mulher. **Assim**, alcançar-se-á uma sociedade igualitária e de harmonia para ambos os gêneros.
+:::
+
+<details class="resposta-escondida">
+<summary>...</summary>
+
+- **Conectivo:** assim.
+- **Significado:** consequência ou conclusão.
+- **Relação na construção da inferência:** o conectivo apresenta a sociedade igualitária como resultado esperado das medidas defendidas anteriormente. Desse modo, estabelece uma relação entre as ações propostas e a consequência que o autor espera alcançar.
+
 </details>
 
 <br/>
 
-Agora observe:
+::: destaque
+Os conectivos não criam, sozinhos, um argumento. Eles podem funcionar como **pistas linguísticas das relações estabelecidas entre as asserções**.
 
-::: enfase
-**Situação 3**
+Ao analisá-los, não basta perguntar **“o que este conectivo significa?”**. É preciso perguntar:
 
-O equipamento precisa ser substituído porque apresentou falhas recorrentes.
-
-**Situação 4**
-
-O equipamento precisa ser substituído. Portanto, devemos solicitar imediatamente a compra de um novo.
+**Que relação ele estabelece entre as asserções e como essa relação participa da construção da inferência?**
 :::
 
-Qual função a asserção “O equipamento precisa ser substituído” desempenha em cada caso?
+<br>
 
-<details class="resposta-escondida">
-<summary>...</summary>
+⚠️ Um argumento pode:
 
-Na **Situação 3**, ela funciona como **conclusão**:
+- não apresentar nenhuma dessas expressões conectivas;
+- apresentar a conclusão antes das premissas, ou mesmo no meio delas;
+- deixar alguma informação implícita.
 
-- **Premissa:** O equipamento apresentou falhas recorrentes.
-- **Conclusão:** O equipamento precisa ser substituído.
-
-Na **Situação 4**, ela funciona como **premissa**:
-
-- **Premissa:** O equipamento precisa ser substituído.
-- **Conclusão:** Devemos solicitar imediatamente a compra de um novo.
-
-Esse exemplo mostra que uma mesma asserção pode desempenhar funções argumentativas diferentes dependendo do contexto.
-</details>
-
-## Leitura em foco
-
-### Como analisar um argumento
-
-Ao encontrar um trecho que parece argumentativo, podemos seguir uma sequência de perguntas.
+<br/>
 
 ::: destaque
-**1. Há algo sendo defendido?**
+Para identificar a estrutura de um argumento, pergunte:
 
-Procure identificar uma asserção cuja aceitação pareça ser o objetivo do autor.
-
+**O que o autor quer que eu aceite?**\
 → provável **conclusão**
 
-**2. Que razões são apresentadas para sustentá-la?**
-
-Procure as asserções utilizadas como fundamento.
-
+**Que razões ele apresenta para que eu aceite isso?**\
 → prováveis **premissas**
-
-**3. Como essas razões se relacionam com a conclusão?**
-
-Procure explicitar a relação entre elas.
-
-→ **inferência**
-
-**4. Há elementos que não integram a estrutura essencial do argumento?**
-
-Comentários, perguntas retóricas e expressões avaliativas podem não desempenhar função argumentativa direta.
-
-→ possível **material argumentativamente irrelevante**
-
-**5. Alguma etapa do raciocínio ficou implícita?**
-
-Pode ser necessário reconstruir uma premissa não expressa, desde que essa reconstrução seja compatível com o texto e com o contexto.
-
-→ possível **premissa implícita**
 :::
+
+
+<!--
 
 ## Aprendizagem prática
 
 ::: subtitulo-nao-numerado
-Reconstrução
-:::
-
-Leia:
-
-::: enfase
-Francamente, precisamos cancelar a atividade externa. A previsão meteorológica indica chuva intensa durante toda a tarde. Não vejo como alguém poderia considerar prudente manter a programação.
-:::
-
-Reconstrua o argumento, identificando:
-
-- a conclusão;
-- a premissa;
-- os elementos que não são indispensáveis para a estrutura argumentativa.
-
-<details class="resposta-escondida">
-<summary>...</summary>
-
-- **Conclusão:** Precisamos cancelar a atividade externa.
-- **Premissa:** A previsão meteorológica indica chuva intensa durante toda a tarde.
-- **Material argumentativamente irrelevante:** “Francamente” e “Não vejo como alguém poderia considerar prudente manter a programação.”
-
-Uma reconstrução mais enxuta seria:
-
-> A previsão meteorológica indica chuva intensa durante toda a tarde.\
-> Portanto, precisamos cancelar a atividade externa.
-
-A reconstrução não repete necessariamente todas as palavras do texto original. Seu objetivo é tornar explícita a **estrutura argumentativa essencial**.
-</details>
-
-## Aprendizagem prática
-
-::: subtitulo-nao-numerado
-Premissa implícita
-:::
-
-Leia:
-
-::: enfase
-Não devemos utilizar esse artigo como principal referência do trabalho. Ele foi publicado há mais de trinta anos.
+Análise
 :::
 
 Identifique:
 
-- a conclusão;
-- a premissa expressa;
-- uma possível premissa implícita.
+- as **premissas**;
+- e a **conclusão**.
+
+::: enfase
+O servidor não responde às requisições. Outros computadores da rede conseguem acessar a internet normalmente. Portanto, o problema provavelmente está no servidor.
+:::
+
+!-- Aqui começa o campo de respostas --
 
 <details class="resposta-escondida">
+
 <summary>...</summary>
 
-- **Conclusão:** Não devemos utilizar esse artigo como principal referência do trabalho.
-- **Premissa expressa:** O artigo foi publicado há mais de trinta anos.
-- **Possível premissa implícita:** Em determinadas áreas ou para determinados temas, uma referência muito antiga pode não representar adequadamente o estado atual do conhecimento.
+- **Premissa 1:** O servidor não responde às requisições.
+- **Premissa 2:** Outros computadores da rede conseguem acessar a internet normalmente.
+- **Conclusão:** O problema provavelmente está no servidor.
 
-Uma reconstrução possível seria:
+As duas primeiras informações são apresentadas como razões para localizar o problema no servidor.
 
-> O artigo foi publicado há mais de trinta anos.\
-> Para este tema, referências muito antigas podem não representar adequadamente o estado atual do conhecimento.\
-> Portanto, não devemos utilizar esse artigo como principal referência do trabalho.
-
-A reconstrução da premissa implícita deve ser feita com cautela, porque o texto original não a apresenta explicitamente.
 </details>
+
+!-- Aqui encerra o campo de respostas --
+
+::: enfase
+Devemos fazer uma cópia de segurança dos arquivos antes da atualização, pois alterações no sistema podem provocar perda de dados.
+:::
+
+!-- Aqui começa o campo de respostas --
+
+<details class="resposta-escondida">
+
+<summary>...</summary>
+
+- **Premissa:** Alterações no sistema podem provocar perda de dados.
+- **Conclusão:** Devemos fazer uma cópia de segurança dos arquivos antes da atualização.
+
+Neste caso, a conclusão aparece **antes** da premissa.
+
+A palavra **“pois”** funciona como pista para introduzir a razão apresentada em favor da conclusão.
+
+</details>
+
+!-- Aqui encerra o campo de respostas --
+
+::: enfase
+Como alterações bruscas de temperatura podem danificar determinados equipamentos, o laboratório deve manter controle térmico constante.
+:::
+
+!-- Aqui começa o campo de respostas --
+
+<details class="resposta-escondida">
+
+<summary>...</summary>
+
+- **Premissa:** Alterações bruscas de temperatura podem danificar determinados equipamentos.
+- **Conclusão:** O laboratório deve manter controle térmico constante.
+
+A expressão **“como”**, nesse contexto, introduz a razão apresentada para sustentar a recomendação.
+
+</details>
+
+!-- Aqui encerra o campo de respostas --
 
 <br/>
 
 ::: destaque
-Reconstruir um argumento não significa **inventar** razões para o autor.
+A posição das frases não determina sua função no argumento.
 
-Significa explicitar, com cautela, relações que sejam razoavelmente recuperáveis a partir do que foi dito e do contexto em que foi dito.
+A **conclusão** pode aparecer no início, no meio ou no final.
+
+O que determina sua função é a relação estabelecida entre as asserções.
 :::
 
-## Aprendizagem prática
+-->
 
-::: subtitulo-nao-numerado
-Há argumento ou apenas informação?
+## Leitura em foco
+
+::: citacao
+...**ruído**: observações irrelevantes para o argumento... (Carnielli; Epstein, 2023, p. 6, destaque meu)
 :::
 
-Considere:
+Premissas e conclusão podem aparecer acompanhadas de comentários, perguntas retóricas, expressões avaliativas ou outras informações que não são necessárias para reconstruir o argumento: são ruído, nos termos de Carnielli e Epstein.
 
-::: enfase
-O laboratório possui três computadores. Dois foram adquiridos em 2024. O terceiro foi adquirido em 2025.
-:::
+Observe:
 
-Há um argumento?
+> É evidente que precisamos suspender a aula amanhã. Afinal, a universidade ficará sem energia elétrica. Francamente, não vejo como alguém poderia pensar diferente.
 
-<details class="resposta-escondida">
-<summary>...</summary>
+Se retirarmos:
 
-**Não necessariamente.**
+> É evidente...
 
-O trecho apresenta três asserções, mas nenhuma delas é explicitamente apresentada como razão para sustentar outra.
+e:
 
-Temos, nesse caso, uma sequência **informativa ou descritiva**.
+> Francamente, não vejo como alguém poderia pensar diferente.
 
-Isso mostra que:
+a estrutura fundamental permanece:
 
-> **várias asserções juntas não formam necessariamente um argumento.**
-</details>
+> A universidade ficará sem energia elétrica.\
+> Portanto, precisamos suspender a aula amanhã.
 
-Agora compare:
+Podemos chamar os elementos que não desempenham função necessária na reconstrução do argumento de **material argumentativamente irrelevante** ou, em uma análise mais informal, de **ruído**.
 
-::: enfase
-Precisamos adquirir novos computadores para o laboratório. Os três equipamentos atualmente disponíveis são insuficientes para atender simultaneamente às turmas.
-:::
-
-Há um argumento?
-
-<details class="resposta-escondida">
-<summary>...</summary>
-
-**Sim.**
-
-- **Premissa:** Os três equipamentos atualmente disponíveis são insuficientes para atender simultaneamente às turmas.
-- **Conclusão:** Precisamos adquirir novos computadores para o laboratório.
-
-A segunda asserção é apresentada como razão para sustentar a primeira.
-</details>
-
-## Sistematização
-
-Ao analisar argumentos, podemos representar sua estrutura da seguinte maneira:
-
-> **Premissa 1**\
-> **Premissa 2**\
-> **Premissa 3...**\
-> ↓\
-> **Conclusão**
-
-Entretanto, em textos reais, essa estrutura raramente aparece de forma tão organizada.
-
-A conclusão pode aparecer:
-
-- no início;
-- no meio;
-- no final;
-- de maneira implícita.
-
-As premissas também podem:
-
-- aparecer antes ou depois da conclusão;
-- ser introduzidas por pistas linguísticas;
-- aparecer sem qualquer conectivo;
-- permanecer parcialmente implícitas.
-
-Além disso, o texto pode conter informações que não integram diretamente o argumento.
-
-::: destaque
-Por isso, analisar um argumento é uma atividade de **reconstrução**.
-
-O objetivo é compreender:
-
-**o que está sendo sustentado**\
-e\
-**quais razões são apresentadas para sustentar isso**.
-:::
-
-## Aprendizagem prática
-
-::: subtitulo-nao-numerado
-Síntese
-:::
-
-Leia:
-
-::: enfase
-É evidente que precisamos substituir o equipamento. Ele apresentou falhas em três testes consecutivos e, além disso, o fabricante informou que esse modelo não receberá novas atualizações. Francamente, continuar utilizando esse equipamento não parece uma decisão razoável.
-:::
-
-Antes de abrir a resposta, identifique:
-
-- se há um argumento;
-- a conclusão;
-- as premissas;
-- os elementos que podem ser retirados sem comprometer a estrutura essencial;
-- uma forma mais enxuta de reconstruir o argumento.
-
-<details class="resposta-escondida">
-<summary>...</summary>
-
-**Há um argumento.**
-
-Conclusão
-> Precisamos substituir o equipamento.
-
-Premissas
-> O equipamento apresentou falhas em três testes consecutivos.
-> O fabricante informou que esse modelo não receberá novas atualizações.
-
-Material argumentativamente irrelevante
-> É evidente que...
-> Francamente...
-
-A asserção:
-> continuar utilizando esse equipamento não parece uma decisão razoável
-também pode ser interpretada como uma reformulação avaliativa da própria conclusão, e não como uma razão independente.
-
-Em síntese
-> O equipamento apresentou falhas em três testes consecutivos.\
-> O fabricante informou que esse modelo não receberá novas atualizações.\
-> Portanto, precisamos substituir o equipamento.
-
-A reconstrução torna explícita a estrutura:
-
-> **premissas → conclusão**
-</details>
-
-## Síntese da aula
-
-Nesta aula, partimos de uma unidade já conhecida — a **asserção** — para compreender como as asserções podem ser organizadas em um **argumento**.
-
-Aprendemos que:
-
-- uma **asserção** é uma frase que pode ser encarada como verdadeira ou falsa;
-- um **argumento** ocorre quando uma ou mais asserções são apresentadas como razões para sustentar outra;
-- as asserções que apresentam as razões funcionam como **premissas**;
-- a asserção que se procura sustentar funciona como **conclusão**;
-- a **inferência** corresponde à relação estabelecida entre premissas e conclusão;
-- premissa e conclusão são **funções argumentativas**, e não tipos fixos de frase;
-- a posição das asserções não determina sua função;
-- pistas linguísticas como *porque*, *pois*, *portanto* e *logo* podem ajudar, mas não substituem a análise;
-- nem toda sequência de asserções constitui um argumento;
-- textos reais podem conter **material argumentativamente irrelevante**;
-- alguns argumentos exigem a reconstrução cautelosa de **premissas implícitas**.
-
-::: enfase
-Ao analisar um argumento, duas perguntas são fundamentais:
-
-**O que está sendo defendido?**\
-→ **conclusão**
-
-**Quais razões são apresentadas para sustentar isso?**\
-→ **premissas**
-:::
-
-::: proxima-aula
-[Para a próxima aula:]{.proxima-aula-title}
-
-- **Leia** o texto **O que é um bom argumento** (p. 27-42), capítulo do livro *Pensamento crítico: o poder da lógica e da argumentação*, de Walter Carnielli e Richard Epstein. Disponível na Minha Biblioteca.
-:::
+<br/>

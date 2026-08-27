@@ -1,0 +1,491 @@
+---
+title: "Untitled"
+---
+
+
+<!--
+<br>
+
+## Aprendizagem prática
+
+::: subtitulo-nao-numerado
+Análise
+:::
+
+Até agora trabalhamos predominantemente com argumentos curtos e construídos para facilitar a identificação de sua estrutura.
+
+Em textos acadêmicos reais, as relações argumentativas podem aparecer distribuídas em períodos maiores e acompanhadas de informações descritivas, metodológicas e contextuais.
+
+Leia o trecho:
+
+::: leitura
+Resumo científico
+
+Título: Videojogos e o Cinema: Uma Simbiose em Crescimento: Caso de Estudo Final Fantasy Autora: Inês Margarida Gil Lopes Monteiro (2021)
+
+O uso de técnicas cinematográficas é uma prática cada vez mais corrente na construção de videojogos e estão na base da criação de mundos virtuais convincentes. Este trabalho tem como objetivo estudar e analisar a presença das técnicas cinematográficas nos jogos digitais e o seu impacto na experiência do jogador. A análise feita teve como objeto de estudo quatro jogos da série Final Fantasy, e com ela pretendeu-se demonstrar a importância das técnicas cinematográficas na sua construção, desde os ângulos de câmara, aos efeitos sonoros usados. A metodologia adotada para a realização deste trabalho passou, primeiramente, por pesquisas bibliográficas e na internet, pelo visionamento de documentários, e, finalmente, pela análise dos jogos em estudo. Conclui-se que os elementos cinematográficos nos videojogos são fundamentais na construção da narrativa, que se quer imersiva.
+:::
+
+Identifique:
+
+- A principal conclusão apresentada pela autora.
+- Premissas que podem ajudar a compreender ou sustentar a conclusão.
+- Frases que não desempenham função de premissa ou conclusão.
+- Funçao das frases que não desempenham função de premissa ou conclusão.
+
+!-- Aqui começa o campo de respostas --
+
+<details class="resposta-escondida">
+
+<summary>...</summary>
+
+A conclusão mais explícita aparece ao final:
+
+Os elementos cinematográficos nos videojogos são fundamentais na construção da narrativa, que se quer imersiva.
+
+O resumo também apresenta afirmações relacionadas ao problema investigado, entre elas a afirmação inicial de que técnicas cinematográficas são utilizadas na construção de mundos virtuais convincentes.
+
+Entretanto, nem todas as asserções do resumo funcionam necessariamente como premissas de um único argumento.
+
+Algumas desempenham outras funções textuais:
+
+- apresentar o objetivo da pesquisa;
+- delimitar o objeto de estudo;
+- descrever a metodologia utilizada.
+
+Isso é importante porque premissa e conclusão são funções argumentativas, e não categorias fixas associadas a determinados tipos de frase.
+
+Para determinar se uma afirmação funciona como premissa, é necessário perguntar se, naquele contexto, ela está sendo apresentada como razão para sustentar determinada conclusão.
+
+</details>
+
+!-- Aqui encerra o campo de respostas --
+
+<br/>
+
+::: destaque
+Em textos reais, analisar argumentos não significa classificar mecanicamente todas as frases como “premissa” ou “conclusão”.
+
+É necessário reconhecer a **função que cada asserção desempenha no contexto**.
+
+Uma frase pode apresentar uma informação, descrever um procedimento, indicar um objetivo ou contextualizar um problema sem, necessariamente, funcionar como premissa ou conclusão.
+:::
+
+## Sistematização
+
+Uma **asserção** é uma frase que pode ser encarada como verdadeira ou falsa.
+
+Um **argumento** ocorre quando uma ou mais asserções são apresentadas como razões para sustentar outra asserção.
+
+Em sua estrutura mais básica:
+
+> **premissas → conclusão**
+
+As:
+
+- **premissas** apresentam as razões;
+- **conclusão** apresenta aquilo que se pretende sustentar;
+- **inferência** corresponde à relação pela qual as premissas são apresentadas como razões para aceitarmos a conclusão.
+
+::: enfase
+**Premissa e conclusão não são tipos diferentes de frase.**
+
+São **funções desempenhadas por asserções dentro de um argumento**.
+:::
+
+Por isso, uma mesma asserção pode desempenhar funções diferentes em contextos distintos.
+
+Observe:
+
+> O laboratório está fechado.
+
+Isoladamente, temos apenas uma asserção.
+
+Agora:
+
+> Hoje é domingo.\
+> O laboratório não abre aos domingos.\
+> Portanto, o laboratório está fechado.
+
+Nesse argumento, a mesma asserção — “O laboratório está fechado” — desempenha a função de **conclusão**.
+
+Em outro contexto:
+
+> O laboratório está fechado.\
+> Portanto, precisamos realizar o experimento amanhã.
+
+Agora, “O laboratório está fechado” desempenha a função de **premissa**.
+
+::: destaque
+A função de uma asserção depende da **relação que ela estabelece com as demais asserções no argumento**.
+:::
+
+## Aprendizagem prática
+
+::: subtitulo-nao-numerado
+Mudança de função
+:::
+
+Compare:
+
+::: enfase
+**Situação 1**
+
+O sistema apresentou uma falha grave.
+
+Portanto, precisamos interromper seu funcionamento.
+:::
+
+::: enfase
+**Situação 2**
+
+Precisamos substituir o sistema.
+
+Ele apresentou uma falha grave.
+:::
+
+A asserção:
+
+> O sistema apresentou uma falha grave.
+
+desempenha a mesma função nos dois argumentos?
+
+<details class="resposta-escondida">
+
+<summary>...</summary>
+
+**Sim.**
+
+Nos dois casos, a asserção funciona como **premissa**.
+
+Na primeira situação:
+
+- **Premissa:** O sistema apresentou uma falha grave.
+- **Conclusão:** Precisamos interromper seu funcionamento.
+
+Na segunda:
+
+- **Conclusão:** Precisamos substituir o sistema.
+- **Premissa:** Ele apresentou uma falha grave.
+
+A posição da frase mudou, mas sua função argumentativa permanece a mesma: ela é apresentada como uma **razão** para sustentar uma conclusão.
+
+</details>
+
+<br/>
+
+Agora observe:
+
+::: enfase
+**Situação 3**
+
+O equipamento precisa ser substituído porque apresentou falhas recorrentes.
+
+**Situação 4**
+
+O equipamento precisa ser substituído. Portanto, devemos solicitar imediatamente a compra de um novo.
+:::
+
+Qual função a asserção “O equipamento precisa ser substituído” desempenha em cada caso?
+
+<details class="resposta-escondida">
+
+<summary>...</summary>
+
+Na **Situação 3**, ela funciona como **conclusão**:
+
+- **Premissa:** O equipamento apresentou falhas recorrentes.
+- **Conclusão:** O equipamento precisa ser substituído.
+
+Na **Situação 4**, ela funciona como **premissa**:
+
+- **Premissa:** O equipamento precisa ser substituído.
+- **Conclusão:** Devemos solicitar imediatamente a compra de um novo.
+
+Esse exemplo mostra que uma mesma asserção pode desempenhar funções argumentativas diferentes dependendo do contexto.
+
+</details>
+
+## Leitura em foco
+
+### Como analisar um argumento
+
+Ao encontrar um trecho que parece argumentativo, podemos seguir uma sequência de perguntas.
+
+::: destaque
+**1. Há algo sendo defendido?**
+
+Procure identificar uma asserção cuja aceitação pareça ser o objetivo do autor.
+
+→ provável **conclusão**
+
+**2. Que razões são apresentadas para sustentá-la?**
+
+Procure as asserções utilizadas como fundamento.
+
+→ prováveis **premissas**
+
+**3. Como essas razões se relacionam com a conclusão?**
+
+Procure explicitar a relação entre elas.
+
+→ **inferência**
+
+**4. Há elementos que não integram a estrutura essencial do argumento?**
+
+Comentários, perguntas retóricas e expressões avaliativas podem não desempenhar função argumentativa direta.
+
+→ possível **material argumentativamente irrelevante**
+
+**5. Alguma etapa do raciocínio ficou implícita?**
+
+Pode ser necessário reconstruir uma premissa não expressa, desde que essa reconstrução seja compatível com o texto e com o contexto.
+
+→ possível **premissa implícita**
+:::
+
+## Aprendizagem prática
+
+::: subtitulo-nao-numerado
+Reconstrução
+:::
+
+Leia:
+
+::: enfase
+Francamente, precisamos cancelar a atividade externa. A previsão meteorológica indica chuva intensa durante toda a tarde. Não vejo como alguém poderia considerar prudente manter a programação.
+:::
+
+Reconstrua o argumento, identificando:
+
+- a conclusão;
+- a premissa;
+- os elementos que não são indispensáveis para a estrutura argumentativa.
+
+<details class="resposta-escondida">
+
+<summary>...</summary>
+
+- **Conclusão:** Precisamos cancelar a atividade externa.
+- **Premissa:** A previsão meteorológica indica chuva intensa durante toda a tarde.
+- **Material argumentativamente irrelevante:** “Francamente” e “Não vejo como alguém poderia considerar prudente manter a programação.”
+
+Uma reconstrução mais enxuta seria:
+
+> A previsão meteorológica indica chuva intensa durante toda a tarde.\
+> Portanto, precisamos cancelar a atividade externa.
+
+A reconstrução não repete necessariamente todas as palavras do texto original. Seu objetivo é tornar explícita a **estrutura argumentativa essencial**.
+
+</details>
+
+## Aprendizagem prática
+
+::: subtitulo-nao-numerado
+Premissa implícita
+:::
+
+Leia:
+
+::: enfase
+Não devemos utilizar esse artigo como principal referência do trabalho. Ele foi publicado há mais de trinta anos.
+:::
+
+Identifique:
+
+- a conclusão;
+- a premissa expressa;
+- uma possível premissa implícita.
+
+<details class="resposta-escondida">
+
+<summary>...</summary>
+
+- **Conclusão:** Não devemos utilizar esse artigo como principal referência do trabalho.
+- **Premissa expressa:** O artigo foi publicado há mais de trinta anos.
+- **Possível premissa implícita:** Em determinadas áreas ou para determinados temas, uma referência muito antiga pode não representar adequadamente o estado atual do conhecimento.
+
+Uma reconstrução possível seria:
+
+> O artigo foi publicado há mais de trinta anos.\
+> Para este tema, referências muito antigas podem não representar adequadamente o estado atual do conhecimento.\
+> Portanto, não devemos utilizar esse artigo como principal referência do trabalho.
+
+A reconstrução da premissa implícita deve ser feita com cautela, porque o texto original não a apresenta explicitamente.
+
+</details>
+
+<br/>
+
+::: destaque
+Reconstruir um argumento não significa **inventar** razões para o autor.
+
+Significa explicitar, com cautela, relações que sejam razoavelmente recuperáveis a partir do que foi dito e do contexto em que foi dito.
+:::
+
+## Aprendizagem prática
+
+::: subtitulo-nao-numerado
+Há argumento ou apenas informação?
+:::
+
+Considere:
+
+::: enfase
+O laboratório possui três computadores. Dois foram adquiridos em 2024. O terceiro foi adquirido em 2025.
+:::
+
+Há um argumento?
+
+<details class="resposta-escondida">
+
+<summary>...</summary>
+
+**Não necessariamente.**
+
+O trecho apresenta três asserções, mas nenhuma delas é explicitamente apresentada como razão para sustentar outra.
+
+Temos, nesse caso, uma sequência **informativa ou descritiva**.
+
+Isso mostra que:
+
+> **várias asserções juntas não formam necessariamente um argumento.**
+
+</details>
+
+Agora compare:
+
+::: enfase
+Precisamos adquirir novos computadores para o laboratório. Os três equipamentos atualmente disponíveis são insuficientes para atender simultaneamente às turmas.
+:::
+
+Há um argumento?
+
+<details class="resposta-escondida">
+
+<summary>...</summary>
+
+**Sim.**
+
+- **Premissa:** Os três equipamentos atualmente disponíveis são insuficientes para atender simultaneamente às turmas.
+- **Conclusão:** Precisamos adquirir novos computadores para o laboratório.
+
+A segunda asserção é apresentada como razão para sustentar a primeira.
+
+</details>
+
+## Sistematização
+
+Ao analisar argumentos, podemos representar sua estrutura da seguinte maneira:
+
+> **Premissa 1**\
+> **Premissa 2**\
+> **Premissa 3...**\
+> ↓\
+> **Conclusão**
+
+Entretanto, em textos reais, essa estrutura raramente aparece de forma tão organizada.
+
+A conclusão pode aparecer:
+
+- no início;
+- no meio;
+- no final;
+- de maneira implícita.
+
+As premissas também podem:
+
+- aparecer antes ou depois da conclusão;
+- ser introduzidas por pistas linguísticas;
+- aparecer sem qualquer conectivo;
+- permanecer parcialmente implícitas.
+
+Além disso, o texto pode conter informações que não integram diretamente o argumento.
+
+::: destaque
+Por isso, analisar um argumento é uma atividade de **reconstrução**.
+
+O objetivo é compreender:
+
+**o que está sendo sustentado**\
+e\
+**quais razões são apresentadas para sustentar isso**.
+:::
+
+## Aprendizagem prática
+
+::: subtitulo-nao-numerado
+Síntese
+:::
+
+Leia:
+
+::: enfase
+É evidente que precisamos substituir o equipamento. Ele apresentou falhas em três testes consecutivos e, além disso, o fabricante informou que esse modelo não receberá novas atualizações. Francamente, continuar utilizando esse equipamento não parece uma decisão razoável.
+:::
+
+Antes de abrir a resposta, identifique:
+
+- se há um argumento;
+- a conclusão;
+- as premissas;
+- os elementos que podem ser retirados sem comprometer a estrutura essencial;
+- uma forma mais enxuta de reconstruir o argumento.
+
+<details class="resposta-escondida">
+
+<summary>...</summary>
+
+**Há um argumento.**
+
+Conclusão \> Precisamos substituir o equipamento.
+
+Premissas \> O equipamento apresentou falhas em três testes consecutivos. \> O fabricante informou que esse modelo não receberá novas atualizações.
+
+Material argumentativamente irrelevante \> É evidente que... \> Francamente...
+
+A asserção: \> continuar utilizando esse equipamento não parece uma decisão razoável também pode ser interpretada como uma reformulação avaliativa da própria conclusão, e não como uma razão independente.
+
+Em síntese \> O equipamento apresentou falhas em três testes consecutivos.\
+\> O fabricante informou que esse modelo não receberá novas atualizações.\
+\> Portanto, precisamos substituir o equipamento.
+
+A reconstrução torna explícita a estrutura:
+
+> **premissas → conclusão**
+
+</details>
+
+## Síntese da aula
+
+Nesta aula, partimos de uma unidade já conhecida — a **asserção** — para compreender como as asserções podem ser organizadas em um **argumento**.
+
+Aprendemos que:
+
+- uma **asserção** é uma frase que pode ser encarada como verdadeira ou falsa;
+- um **argumento** ocorre quando uma ou mais asserções são apresentadas como razões para sustentar outra;
+- as asserções que apresentam as razões funcionam como **premissas**;
+- a asserção que se procura sustentar funciona como **conclusão**;
+- a **inferência** corresponde à relação estabelecida entre premissas e conclusão;
+- premissa e conclusão são **funções argumentativas**, e não tipos fixos de frase;
+- a posição das asserções não determina sua função;
+- pistas linguísticas como *porque*, *pois*, *portanto* e *logo* podem ajudar, mas não substituem a análise;
+- nem toda sequência de asserções constitui um argumento;
+- textos reais podem conter **material argumentativamente irrelevante**;
+- alguns argumentos exigem a reconstrução cautelosa de **premissas implícitas**.
+
+::: enfase
+Ao analisar um argumento, duas perguntas são fundamentais:
+
+**O que está sendo defendido?**\
+→ **conclusão**
+
+**Quais razões são apresentadas para sustentar isso?**\
+→ **premissas**
+:::
+
+::: proxima-aula
+[Para a próxima aula:]{.proxima-aula-title}
+
+- **Leia** o texto **O que é um bom argumento** (p. 27-42), capítulo do livro *Pensamento crítico: o poder da lógica e da argumentação*, de Walter Carnielli e Richard Epstein. Disponível na Minha Biblioteca.
+:::
