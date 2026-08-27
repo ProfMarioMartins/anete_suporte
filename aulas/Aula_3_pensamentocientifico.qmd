@@ -204,7 +204,7 @@ Estabeleça a correspondência entre cada forma de pensar cientificamente e sua 
 
 ::: destaque
 | 🔬 Formas de pensar | 🧩 Aplicações práticas |
-|------------------------------------|------------------------------------|
+|----|----|
 | **A) Formular hipóteses testáveis** | **1)** Analisar estudos clínicos publicados em revistas científicas sobre os efeitos de diferentes dietas. |
 | **B) Buscar evidências confiáveis** | **2)** Observar se, após um mês seguindo a dieta, houve melhora nos exames e no bem-estar geral. |
 | **C) Considerar variáveis contextuais** | **3)** Verificar se a dieta escolhida se adequa à rotina pessoal, às condições de saúde e ao orçamento familiar. |
@@ -406,7 +406,7 @@ Na forma 2, a palavra é duplicada completamente e recebe um **k** entre as duas
 **Resumo**
 
 | Tipo | Sentido | Processo | Variação tonal |
-|:-----------------:|------------------|:-----------------:|------------------|
+|:--:|----|:--:|----|
 | 1 | “todo X” ou “cada X” | V₁ + C₁ + V₁ + X | Nenhuma |
 | 2 | “qualquer X” | X + k + X | A primeira vogal da repetição recebe tom alto |
 

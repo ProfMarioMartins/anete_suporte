@@ -19,7 +19,7 @@ Ao final deste encontro, e com base na leitura indicada, espera-se que você sej
 - *distinguir diferentes tipos de frase;*
 - *identificar asserções entre diferentes tipos de frase;*
 - *explicar o que significa uma asserção possuir valor de verdade;*
-- *distinguir possuir valor de verdade de conseguir determinar o valor de verdade de uma asserção.*
+- *distinguir a presença do valor de verdade da possibilidade de o determiná-lo.*
 
 ## Aprendizagem prática
 
@@ -106,7 +106,7 @@ Análise
 Analise cada frase do carrossel conforme a tabela abaixo:
 
 | O que analisar | Possibilidades |
-|---|---|
+|------------------------------------|------------------------------------|
 | **Identifique o tipo de frase** | *Declarativa*; *interrogativa*; *imperativa*; *exclamativa*. |
 | **Verifique se é uma asserção** | *É asserção:* possui valor de verdade e, portanto, pode ser encarada como verdadeira ou falsa.<br><br>*Não é asserção:* não possui valor de verdade. |
 | **Podemos determinar seu valor de verdade?** | *Sim: é verdadeira*; *sim: é falsa*; *não é possível determinar [atualmente]{.underline} se é verdadeira ou falsa*. |
@@ -384,10 +384,10 @@ Até aqui, analisamos frases isoladamente. Agora, vamos observar como diferentes
 Leia o fragmento.
 
 ::: enfase
-Adriana entrou no laboratório e percebeu que todos os computadores estavam desligados. “O que aconteceu aqui?”, perguntou ao colega que estava junto à porta. Marina apontou para o quadro de energia e respondeu: “Houve uma queda de energia durante a madrugada.” De repente, uma das máquinas ligou sozinha. “Que estranho!”, exclamou Adriana. Marina aproximou-se do computador e disse: “Não toque em nada antes de verificarmos o sistema.” As duas permaneceram diante da máquina tentando entender o que havia acontecido.[^texto-narrativo]
+Adriana entrou no laboratório e percebeu que todos os computadores estavam desligados. “O que aconteceu aqui?”, perguntou ao colega que estava junto à porta. Marina apontou para o quadro de energia e respondeu: “Houve uma queda de energia durante a madrugada.” De repente, uma das máquinas ligou sozinha. “Que estranho!”, exclamou Adriana. Marina aproximou-se do computador e disse: “Não toque em nada antes de verificarmos o sistema.” As duas permaneceram diante da máquina tentando entender o que havia acontecido.[^aula_4_assercoes_valordeverdade-1]
 :::
 
-[^texto-narrativo]: Fragmento narrativo elaborado exclusivamente para fins didáticos desta atividade.
+[^aula_4_assercoes_valordeverdade-1]: Fragmento narrativo elaborado exclusivamente para fins didáticos desta atividade.
 
 Analise as frases retiradas do fragmento e, para cada uma, identifique:
 
@@ -478,14 +478,14 @@ Análise
 Leia atentamente o texto.
 
 ::: enfase
-Este estudo investigou a relação entre o uso de ferramentas de inteligência artificial generativa e o desempenho acadêmico de estudantes universitários em atividades de programação. Participaram da pesquisa 84 estudantes matriculados em uma disciplina introdutória de Ciência da Computação, distribuídos em dois grupos. Durante oito semanas, 42 participantes utilizaram uma ferramenta de inteligência artificial como apoio à resolução de exercícios, enquanto os demais realizaram as mesmas atividades sem acesso à ferramenta. O desempenho dos estudantes foi avaliado por meio de testes aplicados antes e depois do período de intervenção. Os resultados mostraram aumento médio de 18% no desempenho do grupo que utilizou a ferramenta e de 11% no grupo que realizou as atividades sem seu uso. Os estudantes do primeiro grupo também relataram maior facilidade para identificar erros nos códigos produzidos durante as atividades. Os resultados sugerem que o uso orientado de ferramentas de inteligência artificial pode contribuir para a aprendizagem de programação em disciplinas introdutórias.[^texto-cientifico]
+Este estudo investigou a relação entre o uso de ferramentas de inteligência artificial generativa e o desempenho acadêmico de estudantes universitários em atividades de programação. Participaram da pesquisa 84 estudantes matriculados em uma disciplina introdutória de Ciência da Computação, distribuídos em dois grupos. Durante oito semanas, 42 participantes utilizaram uma ferramenta de inteligência artificial como apoio à resolução de exercícios, enquanto os demais realizaram as mesmas atividades sem acesso à ferramenta. O desempenho dos estudantes foi avaliado por meio de testes aplicados antes e depois do período de intervenção. Os resultados mostraram aumento médio de 18% no desempenho do grupo que utilizou a ferramenta e de 11% no grupo que realizou as atividades sem seu uso. Os estudantes do primeiro grupo também relataram maior facilidade para identificar erros nos códigos produzidos durante as atividades. Os resultados sugerem que o uso orientado de ferramentas de inteligência artificial pode contribuir para a aprendizagem de programação em disciplinas introdutórias.[^aula_4_assercoes_valordeverdade-2]
 :::
 
-[^texto-cientifico]: Fragmento elaborado exclusivamente para fins didáticos desta atividade. A situação de pesquisa, os procedimentos e os dados apresentados são fictícios e não correspondem a um estudo científico real.
+[^aula_4_assercoes_valordeverdade-2]: Fragmento elaborado exclusivamente para fins didáticos desta atividade. A situação de pesquisa, os procedimentos e os dados apresentados são fictícios e não correspondem a um estudo científico real.
 
 <br>
 
-1. Quantas frases compõem o fragmento? Qual é o tipo de frase predominante?
+1.  Quantas frases compõem o fragmento? Qual é o tipo de frase predominante?
 
 <!-- Aqui começa o campo de respostas -->
 
@@ -503,7 +503,7 @@ Todas são **frases declarativas**. Portanto, esse é o tipo de frase predominan
 
 <br>
 
-2. Analise as frases do fragmento e responda: **são asserções?** Justifique sua resposta com base no conceito de valor de verdade.
+2.  Analise as frases do fragmento e responda: **são asserções?** Justifique sua resposta com base no conceito de valor de verdade.
 
 <!-- Aqui começa o campo de respostas -->
 
@@ -521,7 +521,7 @@ Isso não significa, entretanto, que possamos determinar se cada uma delas é ve
 
 <br>
 
-3. Reconhecer que uma frase possui valor de verdade não significa saber se ela é verdadeira ou falsa. Analise as duas asserções abaixo.
+3.  Reconhecer que uma frase possui valor de verdade não significa saber se ela é verdadeira ou falsa. Analise as duas asserções abaixo.
 
 ::: enfase
 **Asserção 1**
@@ -610,19 +610,24 @@ Para resolver o desafio, observe os dados, formule uma hipótese sobre o padrão
 
 ::: destaque
 <figure style="text-align: center;">
-  <img src="/img/pokepu_obl.png" style="width:100%; display:block; margin:auto;" alt="Árvore de Pokémon híbridos" />
-  <figcaption></figcaption>
+
+<img src="/img/pokepu_obl.png" alt="Árvore de Pokémon híbridos" style="width:100%; display:block; margin:auto;"/>
+
+<figcaption>
+
+</figcaption>
+
 </figure>
 
 <br>
 
 Na árvore acima, os nomes dos personagens híbridos são formados a partir de um padrão geral, com exceção de apenas dois. **Se** os nomes de todos os Pokémon fossem formados seguindo o padrão geral, qual **não** poderia ser um nome possível para o último Pokémon da árvore (o mais de baixo)?
 
-a) **krabgon**  
-b) **elekgon**  
-c) **spinpy**  
-d) **spinky**  
-e) **spinorb**
+a)  **krabgon**\
+b)  **elekgon**\
+c)  **spinpy**\
+d)  **spinky**\
+e)  **spinorb**
 :::
 
 <!-- Aqui começa o campo de respostas -->

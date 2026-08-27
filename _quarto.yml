@@ -52,7 +52,7 @@ book:
         - aulas/Aula_2_conhecimentocientifico.qmd
         - aulas/Aula_3_pensamentocientifico.qmd
         - aulas/Aula_4_assercoes_valordeverdade.qmd
-        #- aulas/Aula_5_argumento.qmd
+        - aulas/Aula_5_estruturaargumental.qmd
         #- aulas/Aula_6.qmd
         #- aulas/Aula_7.qmd
 

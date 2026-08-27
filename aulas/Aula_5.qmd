@@ -12,7 +12,7 @@ Nesta aula, vamos investigar como **diferentes tipos de enunciados** estruturam 
 
 Ao final deste encontro e com base na leitura indicada, espera-se que você seja capaz de:
 
--   *analisar criticamente diferentes tipos de enunciados em textos, distinguindo enunciados que podem ou não ser avaliados como verdadeiros ou falsos e examinando como a precisão ou a vagueza da linguagem afeta a clareza, a verificabilidade e a força argumentativa.*
+- *analisar criticamente diferentes tipos de enunciados em textos, distinguindo enunciados que podem ou não ser avaliados como verdadeiros ou falsos e examinando como a precisão ou a vagueza da linguagem afeta a clareza, a verificabilidade e a força argumentativa.*
 
 ::: leitura
 Leitura indicada:
@@ -69,9 +69,9 @@ Fluxo<br/>
 ::: rmdnote
 **Atalho prático para leitura**
 
--   O autor está afirmando algo? → Asserção<br/>
--   Isso está sendo usado como razão para uma conclusão? → Premissa<br/>
--   Que dados/fontes sustentam essa razão? → Evidência
+- O autor está afirmando algo? → Asserção<br/>
+- Isso está sendo usado como razão para uma conclusão? → Premissa<br/>
+- Que dados/fontes sustentam essa razão? → Evidência
 :::
 
 <br/>
@@ -127,12 +127,12 @@ Orientação para análise
 
 Antes de responder à questão central desta aprendizagem prática, examine o texto e verifique se:
 
--   Há **definições** (enunciados que delimitam o significado de termos)? Identifique-as.
--   Há **expressões vagas** (termos imprecisos ou sem critério mensurável)? Localize exemplos.
--   Quais afirmações são **verificáveis empiricamente** (podem ser consideradas verdadeiras ou falsas com base em dados ou observação)? Indique-as.
--   Há afirmações com **traço avaliativo** (expressam julgamento, valor ou opinião)? Aponte quais.
--   Há casos de **ambiguidade** ou falta de delimitação conceitual? Exemplifique.
--   De que modo a linguagem utilizada afeta a **clareza, a precisão e a possibilidade de verificação científica** dos enunciados?
+- Há **definições** (enunciados que delimitam o significado de termos)? Identifique-as.
+- Há **expressões vagas** (termos imprecisos ou sem critério mensurável)? Localize exemplos.
+- Quais afirmações são **verificáveis empiricamente** (podem ser consideradas verdadeiras ou falsas com base em dados ou observação)? Indique-as.
+- Há afirmações com **traço avaliativo** (expressam julgamento, valor ou opinião)? Aponte quais.
+- Há casos de **ambiguidade** ou falta de delimitação conceitual? Exemplifique.
+- De que modo a linguagem utilizada afeta a **clareza, a precisão e a possibilidade de verificação científica** dos enunciados?
 
 ::: destaque
 Nem todas as categorias precisam aparecer no texto — foque nas que você conseguir identificar e justificar com segurança.
@@ -144,9 +144,9 @@ Com base na leitura do texto, produza uma análise crítica integrada sobre o gr
 
 Em sua resposta, você deve:
 
--   identificar e comentar exemplos de definições, linguagem vaga e diferentes tipos de enunciados;
--   explicar como esses elementos afetam a clareza e a possibilidade de verificação das informações;
--   apresentar uma avaliação global do texto, indicando se ele se aproxima de um padrão científico rigoroso ou se apresenta limitações.
+- identificar e comentar exemplos de definições, linguagem vaga e diferentes tipos de enunciados;
+- explicar como esses elementos afetam a clareza e a possibilidade de verificação das informações;
+- apresentar uma avaliação global do texto, indicando se ele se aproxima de um padrão científico rigoroso ou se apresenta limitações.
 
 **Estrutura da resposta** (template)
 
@@ -223,5 +223,5 @@ Conclusão: O texto se aproxima do padrão científico (pela presença de defini
 ::: proxima-aula
 [Para a próxima aula:]{.proxima-aula-title}
 
--   **Leia** o texto **O que é um bom argumento** (p. 27-42), capítulo do livro *Pensamento crítico: o poder da lógica e da argumentação*, de Walter Carnielli e Richard Epstein.
+- **Leia** o texto **O que é um bom argumento** (p. 27-42), capítulo do livro *Pensamento crítico: o poder da lógica e da argumentação*, de Walter Carnielli e Richard Epstein.
 :::

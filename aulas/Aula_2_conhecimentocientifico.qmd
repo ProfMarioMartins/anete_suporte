@@ -15,10 +15,10 @@ Roteiro de aula elaborado com o apoio de linguagens de programação e ferrament
 
 Ao final deste encontro e com base na leitura indicada, espera-se que você seja capaz de:
 
-- *identificar características do conhecimento do senso comum;*
-- *reconhecer a diferença entre senso comum e conhecimento científico;*
-- *analisar exemplos de linguagem vaga;*
-- *explicar por que a vaguidade dificulta a verificação científica.*
+- *Identificar características do conhecimento do senso comum;*
+- *Reconhecer a diferença entre senso comum e conhecimento científico;*
+- *Analisar exemplos de linguagem vaga;*
+- *Explicar por que a vaguidade dificulta a verificação científica.*
 :::
 
 <br>
