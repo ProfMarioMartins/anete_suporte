@@ -6,134 +6,103 @@ title: "Zotero"
 Tutorial
 :::
 
-Este tutorial apresenta o passo a passo básico para começar a usar o
-**Zotero**, um gerenciador gratuito e de código aberto voltado à
-organização de referências bibliográficas.
+Este tutorial apresenta o passo a passo básico para começar a usar o **Zotero**, um gerenciador gratuito e de código aberto voltado à organização de referências bibliográficas.
 
-O Zotero permite **coletar, organizar, citar e compartilhar** fontes
-com facilidade. Pode ser utilizado como aplicativo independente
-(*standalone*) ou integrado ao navegador por meio do **Zotero
-Connector**. É compatível com os principais editores de texto, como
-**Word**, **LibreOffice** e **Google Docs**.
+O Zotero permite **coletar, organizar, citar e compartilhar** fontes com facilidade. Pode ser utilizado como aplicativo independente (*standalone*) ou integrado ao navegador por meio do **Zotero Connector**. É compatível com os principais editores de texto, como **Word**, **LibreOffice** e **Google Docs**.
 
 <br/>
 
 ::: subtitulo-nao-numerado
-1. Criando sua conta Zotero
+1.  Criando sua conta Zotero
 :::
 
-Antes de instalar o programa, é recomendável criar uma conta gratuita
-no site do Zotero:
+Antes de instalar o programa, é recomendável criar uma conta gratuita no site do Zotero:
 
--   Acessar: <https://www.zotero.org/user/register>
--   Preencher os dados solicitados e confirmar o e-mail.
--   Essa conta será utilizada para **sincronizar sua biblioteca** e
-    **participar de grupos**.
+- Acessar: <https://www.zotero.org/user/register>
+- Preencher os dados solicitados e confirmar o e-mail.
+- Essa conta será utilizada para **sincronizar sua biblioteca** e **participar de grupos**.
 
 <br/>
 
 ::: subtitulo-nao-numerado
-2. Instalação
+2.  Instalação
 :::
 
--   Acessar: <https://www.zotero.org/download>
--   Baixar e instalar o Zotero conforme o sistema operacional
-    (Windows, macOS ou Linux).
--   Instalar também o **Zotero Connector** no navegador preferido
-    (Chrome, Firefox ou Edge), o qual permite capturar referências
-    diretamente da web.
+- Acessar: <https://www.zotero.org/download>
+- Baixar e instalar o Zotero conforme o sistema operacional (Windows, macOS ou Linux).
+- Instalar também o **Zotero Connector** no navegador preferido (Chrome, Firefox ou Edge), o qual permite capturar referências diretamente da web.
 
 <br/>
 
 ::: subtitulo-nao-numerado
-3. Criando itens bibliográficos
+3.  Criando itens bibliográficos
 :::
 
 ::: subsubtitulo-nao-numerado
 3.1 Adição manual
 :::
 
--   **Clicar** no botão **+ Novo item** na barra de ferramentas do
-    Zotero.
--   **Selecionar** o tipo de documento (livro, artigo, tese etc.).
--   **Preencher** os campos com os metadados (título, autor, ano,
-    editora etc.).
+- **Clicar** no botão **+ Novo item** na barra de ferramentas do Zotero.
+- **Selecionar** o tipo de documento (livro, artigo, tese etc.).
+- **Preencher** os campos com os metadados (título, autor, ano, editora etc.).
 
 ::: subsubtitulo-nao-numerado
 3.2 Adição automática a partir da internet
 :::
 
--   **Acessar** uma base de dados confiável (**Portal de Periódicos
-    da CAPES**, **SciELO**, **Google Acadêmico** etc.).
--   **Clicar** no ícone do **Zotero Connector**, localizado na barra
-    do navegador.
--   **Selecionar** os itens desejados e a coleção de destino.
+- **Acessar** uma base de dados confiável (**Portal de Periódicos da CAPES**, **SciELO**, **Google Acadêmico** etc.).
+- **Clicar** no ícone do **Zotero Connector**, localizado na barra do navegador.
+- **Selecionar** os itens desejados e a coleção de destino.
 
 ::: callout-warning
-Atenção: verifique sempre se os metadados capturados automaticamente
-estão corretos. Campos como autores, ano e título podem ser importados
-com erros e precisar de edição manual.
+Atenção: verifique sempre se os metadados capturados automaticamente estão corretos. Campos como autores, ano e título podem ser importados com erros e precisar de edição manual.
 :::
 
 <br/>
 
 ::: subtitulo-nao-numerado
-4. Organizando referências
+4.  Organizando referências
 :::
 
--   **Criar coleções** clicando com o botão direito em
-    *Minha Biblioteca* \> **Nova coleção**.
--   Também é possível **criar grupos online** para compartilhar
-    referências com outras pessoas (requer conta Zotero).
+- **Criar coleções** clicando com o botão direito em *Minha Biblioteca* \> **Nova coleção**.
+- Também é possível **criar grupos online** para compartilhar referências com outras pessoas (requer conta Zotero).
 
 <br/>
 
 ::: subtitulo-nao-numerado
-5. Estilos de citação
+5.  Estilos de citação
 :::
 
--   No Zotero, acessar as preferências do programa:
-    -   **Windows:** **Edit \> Preferences \> Cite \> Styles**
-    -   **macOS:** **Zotero \> Preferences \> Cite \> Styles**
--   Escolher ou adicionar o estilo de formatação bibliográfica
-    desejado.
--   Caso o estilo **ABNT** não esteja listado, clicar em
-    **Get additional styles** e pesquisar por "ABNT".\
-    Uma sugestão é o estilo **Universidade Federal do Rio Grande do
-    Sul – ABNT (autoria completa)**, amplamente utilizado no Brasil.
+- No Zotero, acessar as preferências do programa:
+  - **Windows:** **Edit \> Preferences \> Cite \> Styles**
+  - **macOS:** **Zotero \> Preferences \> Cite \> Styles**
+- Escolher ou adicionar o estilo de formatação bibliográfica desejado.
+- Caso o estilo **ABNT** não esteja listado, clicar em **Get additional styles** e pesquisar por "ABNT".\
+  Uma sugestão é o estilo **Universidade Federal do Rio Grande do Sul – ABNT (autoria completa)**, amplamente utilizado no Brasil.
 
 <br/>
 
 ::: subtitulo-nao-numerado
-6. Inserindo citações e bibliografias
+6.  Inserindo citações e bibliografias
 :::
 
--   O Zotero se integra a editores como **Word**, **LibreOffice** e
-    **Google Docs**.
--   No editor de texto, **clicar em Add/Edit Citation** para inserir
-    uma citação.
--   Para gerar a bibliografia automaticamente, **clicar em
-    Add/Edit Bibliography**.
--   O estilo pode ser **modificado a qualquer momento** nas
-    configurações do Zotero.
+- O Zotero se integra a editores como **Word**, **LibreOffice** e **Google Docs**.
+- No editor de texto, **clicar em Add/Edit Citation** para inserir uma citação.
+- Para gerar a bibliografia automaticamente, **clicar em Add/Edit Bibliography**.
+- O estilo pode ser **modificado a qualquer momento** nas configurações do Zotero.
 
 <br/>
 
 ::: subtitulo-nao-numerado
-7. Gerando um relatório da coleção
+7.  Gerando um relatório da coleção
 :::
 
-O relatório da coleção é um documento que lista os metadados de todas
-as referências salvas. É o entregável principal desta tarefa.
+O relatório da coleção é um documento que lista os metadados de todas as referências salvas. É o entregável principal desta tarefa.
 
--   **Clicar com o botão direito** sobre a coleção desejada no painel
-    esquerdo do Zotero.
--   Selecionar **"Gerar relatório a partir da coleção..."**
--   Uma página será aberta no navegador com os metadados de todas as
-    obras da coleção.
--   Para salvar: no navegador, use **Arquivo \> Salvar página como**
-    e escolha o formato **Página web completa (\*.html)**.
-
+- **Clicar com o botão direito** sobre a coleção desejada no painel esquerdo do Zotero.
+- Selecionar **"Gerar relatório a partir da coleção..."**
+- Uma página será aberta no navegador com os metadados de todas as obras da coleção.
+- Para salvar: no navegador, use **Arquivo \> Salvar página como** e escolha o formato **Página web completa (\*.html)**.
 
 <br/><br/>
 
@@ -142,13 +111,7 @@ as referências salvas. É o entregável principal desta tarefa.
 Considerações finais
 :::
 
--   O **Zotero** é uma ferramenta essencial para pesquisadores e
-    estudantes que desejam organizar suas fontes com eficiência,
-    mantendo o rigor formal das normas de citação.
--   Permite **padronizar e automatizar** a geração de citações e
-    bibliografias, além de garantir **acesso sincronizado** à
-    biblioteca pessoal em qualquer dispositivo.
--   Para aprofundar o uso do Zotero, consulte a
-    [documentação oficial](https://www.zotero.org/support/), que
-    oferece guias detalhados e atualizados.
+- O **Zotero** é uma ferramenta essencial para pesquisadores e estudantes que desejam organizar suas fontes com eficiência, mantendo o rigor formal das normas de citação.
+- Permite **padronizar e automatizar** a geração de citações e bibliografias, além de garantir **acesso sincronizado** à biblioteca pessoal em qualquer dispositivo.
+- Para aprofundar o uso do Zotero, consulte a [documentação oficial](https://www.zotero.org/support/), que oferece guias detalhados e atualizados.
 ::::

@@ -53,7 +53,8 @@ book:
         - aulas/Aula_3_pensamentocientifico.qmd
         - aulas/Aula_4_assercoes_valordeverdade.qmd
         - aulas/Aula_5_estruturaargumental.qmd
-        #- aulas/Aula_6.qmd
+        - aulas/Aula_6_zotero.qmd
+        #- aulas/Aula_7_citacoesreferencias.qmd
         #- aulas/Aula_7.qmd
 
     #- part: "Unidade II"
@@ -74,8 +75,8 @@ book:
     - part: "Tutoriais"
       chapters:
         - tutoriais/tutorial_lattes.qmd
-        #- tutoriais/tutorial_zotero.qmd
-        #- tutoriais/tutorial_capes.qmd
+        - tutoriais/tutorial_zotero.qmd
+        - tutoriais/tutorial_capes.qmd
 
     #- part: "Modelos"
       #chapters:

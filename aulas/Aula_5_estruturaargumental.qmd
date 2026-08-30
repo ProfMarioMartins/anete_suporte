@@ -104,7 +104,9 @@ Ou você me entrega o celular ou sofrerá as consequências.
 Há um argumento?
 
 <!-- Aqui começa o campo de respostas -->
+
 <details class="resposta-escondida">
+
 <summary>...</summary>
 
 **Não necessariamente.**
@@ -114,7 +116,9 @@ A frase pode funcionar como ameaça ou advertência.
 Embora possa persuadir alguém a agir, não apresenta, nesse contexto, uma asserção como razão para aceitarmos outra asserção como verdadeira.
 
 Isso mostra que **persuadir alguém não é necessariamente argumentar**.
+
 </details>
+
 <!-- Aqui encerra o campo de respostas -->
 
 <br/>
@@ -287,7 +291,9 @@ Mas, apesar de ser o principal tipo, não é só agressão física a responsáve
 :::
 
 <!-- Aqui começa o campo de respostas -->
+
 <details class="resposta-escondida">
+
 <summary>...</summary>
 
 **Conclusão principal**
@@ -325,6 +331,7 @@ Entre as razões apresentadas para sustentar as conclusões, estão:
 > Empresas preferem contratar funcionários do sexo masculino para evitar uma possível licença-maternidade.
 
 </details>
+
 <!-- Aqui encerra o campo de respostas -->
 
 <br>
@@ -360,10 +367,11 @@ Para cada caso:
 ### Fragmento 1
 
 ::: enfase
-Muitas conquistas em prol da garantia dessas igualdades já foram alcançadas [...]. **Entretanto**, essas conquistas não foram suficientes para eliminar o preconceito e a violência existentes na sociedade brasileira.
+Muitas conquistas em prol da garantia dessas igualdades já foram alcançadas \[...\]. **Entretanto**, essas conquistas não foram suficientes para eliminar o preconceito e a violência existentes na sociedade brasileira.
 :::
 
 <details class="resposta-escondida">
+
 <summary>...</summary>
 
 - **Conectivo:** entretanto.
@@ -379,6 +387,7 @@ Muitas conquistas em prol da garantia dessas igualdades já foram alcançadas [.
 :::
 
 <details class="resposta-escondida">
+
 <summary>...</summary>
 
 - **Conectivo:** devido a.
@@ -394,6 +403,7 @@ Pesquisas comprovam que, no Brasil, o salário dado a homens e mulheres é difer
 :::
 
 <details class="resposta-escondida">
+
 <summary>...</summary>
 
 - **Conectivo:** ademais.
@@ -409,6 +419,7 @@ Pesquisas comprovam que, no Brasil, o salário dado a homens e mulheres é difer
 :::
 
 <details class="resposta-escondida">
+
 <summary>...</summary>
 
 - **Conectivo:** portanto.
@@ -424,6 +435,7 @@ Por fim, é dever da sociedade o respeito ao sexo feminino, tratando igualmente 
 :::
 
 <details class="resposta-escondida">
+
 <summary>...</summary>
 
 - **Conectivo:** assim.
@@ -462,7 +474,7 @@ Para identificar a estrutura de um argumento, pergunte:
 → prováveis **premissas**
 :::
 
-
+```{=html}
 <!--
 
 ## Aprendizagem prática
@@ -547,6 +559,7 @@ O que determina sua função é a relação estabelecida entre as asserções.
 :::
 
 -->
+```
 
 ## Leitura em foco
 

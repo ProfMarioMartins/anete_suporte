@@ -206,7 +206,7 @@ Na escrita acadêmica, argumentar não significa apenas afirmar — significa es
 
 ::: destaque
 | 🔍 Estratégia | 📖 O que é |
-|------------------------------------|------------------------------------|
+|----|----|
 | **Argumentação por autoridade** | Apoia a afirmação na opinião de especialistas ou instituições reconhecidas. |
 | **Argumentação por evidência estatística** | Sustenta a afirmação com dados numéricos de fontes identificáveis. |
 | **Argumentação por analogia** | Compara duas situações semelhantes para transferir uma propriedade de uma à outra. |
@@ -316,9 +316,6 @@ Um argumento não é bom apenas porque convence alguém. As pessoas podem ser co
 
 - **Leia** o texto **Citações diretas e indiretas** (p. 89-97), capítulo do livro *Leitura e escrita acadêmicas*, de Nádia Studzinski Estima de Castro e colaboradores. Disponível na Minha Biblioteca.
 :::
-
-
-
 
 ## Aprendizagem prática
 

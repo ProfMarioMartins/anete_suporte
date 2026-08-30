@@ -1,0 +1,301 @@
+---
+title: "Como fazer paráfrases?"
+---
+
+## Contextualização[^aula_9_parafrase-1]
+
+[^aula_9_parafrase-1]: Roteiro de aula elaborado no RStudio com o auxílio de modelos de linguagem (IA) e supervisionado pelo professor antes de sua publicação.
+
+```{=html}
+<div style="max-width:320px; margin: 0 auto;">
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/reel/DDJx5r0JYq3/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:320px; min-width:320px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/reel/DDJx5r0JYq3/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">Ver essa foto no Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/reel/DDJx5r0JYq3/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">Um post compartilhado por Uninter Franco da Rocha (@uninterfranco)</a></p></div></blockquote>
+<script async src="//www.instagram.com/embed.js"></script>
+</div>
+```
+
+<br/>
+
+::: enfase
+A escrita acadêmica exige que todas as ideias, dados e argumentos que não são de sua autoria sejam devidamente atribuídos às fontes de onde foram extraídos. Saber aplicar corretamente citações e referências é essencial para garantir a transparência, a credibilidade e a honestidade intelectual do trabalho acadêmico.
+:::
+
+<br/>
+
+Ao final deste encontro, espera-se que você seja capaz de:
+
+- Compreender o que é **citação direta**, **citação indireta** e **citação de citação**, aplicando corretamente as normas da ABNT;
+- Elaborar paráfrases e citações com o uso apropriado de verbos *dicendi*, respeitando o sentido original do texto original.
+
+::: leitura
+**Leituras indicadas**
+
+**Citações diretas e indiretas** (p. 89-97), capítulo do livro *Leitura e escrita acadêmicas*, de Nádia Studzinski Estima de Castro e colaboradores. Disponível na Minha Biblioteca.
+
+**NBR 10520:2023** e **NBR 6023:2018**. Disponíveis no SIGAA.
+:::
+
+## Leitura em foco
+
+::: citacao
+A escrita acadêmica requer argumentos fundamentados cientificamente, não admitindo senso comum ou simples opinião. **O argumento científico autoral** depende de pesquisa em fontes confiáveis e relevantes, e de **paráfrase honesta**. (Castro *et al*, 2019, p. 7 - destaques meus).
+:::
+
+::: destaque
+**Paráfrase** é a reescrita de um texto alheio com outras palavras, mantendo o sentido original e indicando a fonte.
+:::
+
+::: citacao
+O objetivo da **paráfrase** é apresentar a mesma ideia, mas com uma construção frasal diferente. (...) Assim, a paráfrase funciona como uma tradução das ideias originais para uma linguagem mais acessível. (Castro *et al*, 2019, p. 89-90 - destaques meus).
+
+A paráfrase:
+
+- evidencia que houve leitura crítica;
+- integra a ideia do outro ao próprio raciocínio;
+- mantém a ideia central do texto original;
+- indica a fonte (autor e ano), mesmo sem número de página.
+- pode incluir verbos *dicendi*.
+:::
+
+<br/>
+
+::: subsubtitulo-nao-numerado
+Exemplo 1
+:::
+
+**Texto original de Antonio Carlos Gil, do livro *Como elaborar projetos de pesquisa*, publicado em 2002**<br>
+
+> As pesquisas descritivas têm como objetivo primordial a descrição das características de determinada população ou fenômeno ou, então, o estabelecimento de relações entre variáveis. São inúmeros os estudos que podem ser classificados sob este título e uma de suas características mais significativas está na utilização de técnicas padronizadas de coleta de dados, tais como o questionário e a observação sistemática (Gil, 2002, p. 43).
+
+**Texto parafraseado**<br>
+
+> Conforme **descreve** Gil (2002), as pesquisas podem ser classificadas em diferentes tipos. Entre elas, temos a pesquisa descritiva, utilizada neste trabalho de pesquisa com o objetivo de apresentar as características de determinada população. O autor **afirma que** estudos podem ser classificados nesse tipo de pesquisa, mas é preciso ter atenção à técnica que é padronizada para o processo de coleta de dados, conforme realizado nesta pesquisa.
+
+::: subsubtitulo-nao-numerado
+Estratégias de parafraseamento no exemplo 1
+:::
+
+A paráfrase não resulta apenas da substituição de algumas palavras por sinônimos. Para reformular o texto-fonte, seu autor realiza diferentes operações sobre o conteúdo e sobre a forma de expressão. Observe:
+
+::: {#tbl-parafrase-gil .striped .hover .table-responsive}
+| Estratégia utilizada | Como foi utilizada | Exemplo |
+|------------------------|------------------------|------------------------|
+| **Substituição lexical** | Algumas palavras e expressões do original são substituídas por outras de sentido próximo. | *“descrição das características”* → *“apresentar as características”* |
+| **Reestruturação sintática** | A informação é mantida, mas passa a ser expressa por meio de outra construção gramatical. | *“têm como objetivo primordial a descrição”* → *“com o objetivo de apresentar”* |
+| **Seleção e supressão de informações** | Parte das informações do texto-fonte é selecionada, enquanto outras deixam de aparecer na paráfrase. | São mantidas as características de determinada população, mas são omitidos *“fenômeno”*, *“relações entre variáveis”*, *“questionário”* e *“observação sistemática”*. |
+| **Reorganização das informações** | As informações selecionadas são distribuídas de maneira diferente daquela encontrada no texto original. | A definição e as características da pesquisa descritiva são reorganizadas na construção do novo parágrafo. |
+| **Uso de verbos *dicendi*** | Verbos são empregados para introduzir e atribuir ao autor citado as ideias provenientes da fonte. | *“Conforme descreve Gil (2002)”*; *“O autor afirma que”*. |
+| **Inserção de elementos de coesão** | Expressões são acrescentadas para estabelecer relações entre as partes do novo texto. | *“Entre elas”*; *“mas”*. |
+| **Contextualização autoral** | O autor da paráfrase relaciona as informações provenientes da fonte à pesquisa que está desenvolvendo. | *“utilizada neste trabalho de pesquisa”*; *“conforme realizado nesta pesquisa”*. |
+:::
+
+<br/>
+
+::: {.callout-warning title="Atenção"}
+**⚠️ Parafrasear permite modificar a forma de expressão, mas não permite atribuir à fonte uma ideia que ela não apresenta. ⚠️**
+
+Observe o início da paráfrase:
+
+> “Conforme descreve Gil (2002), **as pesquisas podem ser classificadas em diferentes tipos**.”
+
+Essa afirmação **não aparece no fragmento de Gil apresentado acima**. O trecho original informa quais são os objetivos das pesquisas descritivas e menciona que inúmeros estudos podem ser classificados sob esse título, mas não apresenta, nesse fragmento, uma classificação geral das pesquisas em diferentes tipos.
+
+A afirmação pode até estar fundamentada em outra passagem da obra, mas **não pode ser apresentada como paráfrase deste fragmento específico** sem que haja outra base textual para sustentá-la.
+
+Também é necessário distinguir as ideias da fonte das contribuições do autor da paráfrase. Expressões como *“utilizada neste trabalho de pesquisa”* e *“conforme realizado nesta pesquisa”* não parafraseiam Gil: elas constituem **acréscimos do autor do novo texto**, empregados para relacionar a fonte à própria pesquisa.
+:::
+
+<br/><br/>
+
+::: subsubtitulo-nao-numerado
+Exemplo 2
+:::
+
+**Texto original de Eva Maria Lakatos e Marina de Andrade Marconi, do livro *Metodologia do trabalho científico*, publicado em 1992**<br>
+
+> Ler significa conhecer, interpretar, decifrar. É por meio da leitura que a maior parte dos conhecimentos é obtida, possibilitando a ampliação e o aprofundamento do saber em determinado campo cultural ou científico. Isso faz da leitura um dos fatores mais decisivos para o estudo. Ela é imprescindível em todos os tipos de investigação científica, permitindo a obtenção de informações básicas e específicas.
+
+**Texto parafraseado**<br>
+
+> Lakatos e Marconi (1992) **dizem** que a leitura possibilita a obtenção de conhecimento e o aprofundamento dos saberes culturais e científicos. As autoras **indicam** que esse é um elemento decisivo para o estudo, pois com a leitura é possível interpretar e decifrar para a obtenção de informações básicas e específicas.
+
+::: subsubtitulo-nao-numerado
+Estratégias de parafraseamento no exemplo 2
+:::
+
+A paráfrase modifica tanto as escolhas linguísticas quanto a organização das informações do texto-fonte. Observe as principais estratégias empregadas:
+
+::: {#tbl-parafrase .striped .hover .table-responsive}
+| Estratégia utilizada | Como foi utilizada | Exemplo |
+|------------------------|------------------------|------------------------|
+| **Substituição lexical** | Algumas palavras e expressões são substituídas por outras de sentido próximo. | *“saber”* → *“saberes”*; *“é obtida”* → *“possibilita a obtenção”*. |
+| **Reestruturação sintática** | O mesmo conteúdo passa a ser expresso por meio de construções gramaticais diferentes. | *“É por meio da leitura que a maior parte dos conhecimentos é obtida”* → *“a leitura possibilita a obtenção de conhecimento”*. |
+| **Seleção e supressão de informações** | Algumas informações do original são selecionadas para compor a paráfrase, enquanto outras são omitidas. | A afirmação de que a leitura é *“imprescindível em todos os tipos de investigação científica”* não é retomada explicitamente. |
+| **Reorganização das informações** | Informações que aparecem em diferentes pontos do original são aproximadas e redistribuídas no novo texto. | *“interpretar, decifrar”*, apresentado no início do original, é retomado no final da paráfrase e associado à obtenção de informações. |
+| **Condensação** | Diferentes informações do texto-fonte são reunidas em construções mais sintéticas. | A obtenção de conhecimentos e o aprofundamento do saber são reunidos em *“obtenção de conhecimento e o aprofundamento dos saberes culturais e científicos”*. |
+| **Uso de verbos *dicendi*** | Verbos são empregados para introduzir e atribuir explicitamente às autoras as ideias provenientes da fonte. | *“Lakatos e Marconi (1992) dizem”*; *“As autoras indicam”*. |
+| **Inserção de elementos de coesão** | Elementos são empregados para estabelecer relações entre as informações reorganizadas na paráfrase. | O conectivo *“pois”* estabelece uma relação explicativa entre a importância da leitura para o estudo e as possibilidades proporcionadas por ela. |
+:::
+
+<br/>
+
+::: {.callout-warning title="Atenção"}
+**Ao reorganizar as informações de uma fonte, é preciso preservar não apenas as ideias, mas também as relações de sentido estabelecidas entre elas.**
+
+Observe este trecho da paráfrase:
+
+> “com a leitura é possível **interpretar e decifrar para a obtenção de informações básicas e específicas**.”
+
+No texto original, *“interpretar”* e *“decifrar”* aparecem na definição de leitura:
+
+> “Ler significa conhecer, interpretar, decifrar.”
+
+Já a *“obtenção de informações básicas e específicas”* aparece posteriormente como uma possibilidade proporcionada pela leitura na investigação científica.
+
+Ao reunir essas informações, a paráfrase cria uma relação de finalidade — **interpretar e decifrar para obter informações** — que não é formulada dessa maneira no texto original. A reorganização, portanto, produz uma relação de sentido que precisa ser avaliada com cuidado.
+
+Uma paráfrase pode **substituir palavras, reestruturar frases, selecionar, condensar e reorganizar informações**, mas essas operações não devem criar relações que modifiquem o conteúdo atribuído à fonte.
+:::
+
+<br/><br/>
+
+::: {style="background:#16324F; color:#FFFFFF; padding:1rem 1.2rem; border-left:6px solid #F2C94C; border-radius:10px; margin:1.2rem 0;"}
+**Estratégias de paráfrase**
+
+Ao parafrasear um texto acadêmico, você pode:
+
+- **Substituir** palavras e expressões por outras de sentido equivalente;
+- **Reestruturar** as frases, modificando sua construção sintática;
+- **Selecionar** as informações relevantes e suprimir aquelas que não precisam ser retomadas;
+- **Reorganizar** a ordem em que as informações são apresentadas;
+- **Condensar** diferentes informações em formulações mais sintéticas;
+- **Conectar** as ideias reformuladas por meio de recursos de coesão;
+- **Atribuir** as ideias à fonte por meio de verbos *dicendi*, como *afirma*, *explica*, *argumenta* e *indica*.
+
+**Regra fundamental:** todas essas estratégias podem modificar **a forma de dizer**, mas devem preservar **o sentido atribuído à fonte**.
+:::
+
+Verbos *dicendi* são fundamentais na paráfrase porque...
+
+- permitem indicar com precisão que determinada ideia pertence a outro autor;
+- ajudam a integrar a citação de modo coeso ao raciocínio do autor do texto;
+- ajudam a respeitar a intenção original do autor citado.
+
+::: enfase
+Verbo **dicendi** é um verbo que introduz o discurso de outra pessoa - ou seja, que atribui uma fala, pensamento ou posicionamento a um autor citado. Na escrita acadêmica, os verbos dicendi indicam quem disse o quê, que posição assume e com que grau de comprometimento.
+
+Exemplos de verbo dicendi: afirmar, argumentar, defender, sugerir, questionar...
+:::
+
+<br/>
+
+## Aprendizagem prática
+
+::: subtitulo-nao-numerado
+Identificação
+:::
+
+::: subsubtitulo-nao-numerado
+Verbos *dicendi*
+:::
+
+Identifique, no texto abaixo — criado para os fins desta aula —, os verbos *dicendi*. Em seguida, responda: **que partes do texto são atribuídas às fontes citadas e que partes resultam da organização e articulação feitas pelo autor do texto?**
+
+Ao discutir os desafios da escrita acadêmica no ensino superior, Araújo e Farias (2025) destacam que o maior obstáculo enfrentado pelos estudantes é a dificuldade de articular argumentos com base em fontes confiáveis, o que compromete a credibilidade de seus textos. De modo semelhante, Czolpinski, Brito e Raupp (2024) observam que muitos alunos ainda recorrem ao senso comum ou a fontes não verificadas, em vez de dialogar com autores reconhecidos da área. É nesse sentido que Azevedo e Machado (2024) defendem a necessidade de formar leitores críticos, capazes de interpretar e mobilizar o conhecimento científico de maneira ética e responsável. Conforme afirmam Jaime e Leonel (2024, p. 12), “a competência argumentativa não se desenvolve apenas pela leitura, mas pela prática constante de escrever em diálogo com outras vozes”. Além disso, Silva, Rosa e França (2025) chamam a atenção para o papel dos professores como mediadores desse processo, propondo atividades que estimulem o uso consciente de citações e a construção de um posicionamento autoral no texto acadêmico.
+
+<!-- Aqui começa o campo de respostas-->
+
+<details class="resposta-escondida">
+
+<summary>...</summary>
+
+Os verbos e expressões que introduzem as vozes das fontes são:
+
+**destacam**<br/> Araújo e Farias (2025)
+
+**observam**<br/> Czolpinski, Brito e Raupp (2024)
+
+**defendem**<br/> Azevedo e Machado (2024)
+
+**afirmam**<br/> Jaime e Leonel (2024, p. 12)
+
+**chamam a atenção para**<br/> Silva, Rosa e França (2025)
+
+A maior parte das informações apresentadas é atribuída explicitamente às fontes citadas. O autor do texto, entretanto, não apenas reproduz essas vozes: ele **seleciona, organiza e estabelece relações entre elas**.
+
+Isso pode ser percebido em expressões como:
+
+> **“De modo semelhante”** — estabelece uma relação de aproximação entre duas fontes;
+
+> **“É nesse sentido que”** — relaciona a posição de Azevedo e Machado ao que foi apresentado anteriormente;
+
+> **“Além disso”** — acrescenta outra contribuição ao desenvolvimento do texto.
+
+Portanto, nesse fragmento, a contribuição autoral aparece principalmente na **articulação entre as diferentes vozes**, e não na apresentação de uma nova informação explicitamente formulada como posição própria.
+
+</details>
+
+<!-- Aqui encerra o campo de respostas-->
+
+<br>
+
+## Aprendizagem prática
+
+::: subtitulo-nao-numerado
+Produção escrita
+:::
+
+::: subsubtitulo-nao-numerado
+Paráfrase
+:::
+
+No seu caderno, parafraseie o parágrafo abaixo. Siga estratégias anteriormente apresentadas. Trata-se do primeiro parágrafo do artigo científico "A formação de professores e o uso do ChatGPT® para revisão de textos", escrito por Larissa Alvarenga de Souza Honorato, Helena Maria Ferreira, Jaciluz Dias e publicado em 2024.
+
+::: enfase
+O avanço das tecnologias promoveu substanciais mudanças nos modos de organização e de funcionamento da sociedade. De modo mais específico, merece destaque o surgimento de inteligências artificiais (IA), consideradas como sistemas inteligentes, que utilizam recursos avançados de computação para simular ou replicar aspectos da inteligência humana, por meio da combinação de algoritmos, modelos matemáticos, grandes volumes de dados para realizar tarefas complexas. Essas tecnologias trazem consequências significativas para o processo de ensino e aprendizagem, bem como para a formação de professores, uma vez que incidem sobre os modos de produzir conhecimentos e acessar informações/conteúdos.
+:::
+
+<br/>
+
+<!-- Aqui começa o campo de respostas-->
+
+<details class="resposta-escondida">
+
+<summary>...</summary>
+
+**Sugestão de paráfrase**
+
+Honorato, Ferreira e Dias (2024) afirmam que as inovações tecnológicas vêm provocando transformações profundas na forma como a sociedade se estrutura e opera. Nesse cenário, ganham relevo os sistemas de inteligência artificial, definidos como tecnologias capazes de simular aspectos da cognição humana por meio de algoritmos, modelos matemáticos e grandes bases de dados. As autoras ressaltam que tais recursos impactam diretamente os processos educativos, sobretudo no que se refere à formação docente, pois alteram as dinâmicas de construção do conhecimento e de acesso à informação.
+
+| Estratégia utilizada | Explicação | Exemplos ou observações |
+|------------------------|------------------------|------------------------|
+| **Uso de verbos *dicendi*** | Introdução da voz das autoras com verbos que indicam posicionamento, análise ou afirmação. | *“afirmam”, “ressaltam”* |
+| **Reorganização da estrutura** | Mudança na ordem das ideias originais para favorecer clareza e evitar cópia literal. | Primeiro vem o impacto social, depois os aspectos técnicos e educacionais. |
+| **Reformulação lexical** | Substituição de palavras e expressões por sinônimos ou construções mais acessíveis. | “Modos de organização” → “forma como a sociedade se estrutura”; “grandes volumes” → “grandes bases” |
+| **Inclusão de conectores** | Inserção de expressões de transição para organizar a progressão das ideias. | *“nesse cenário”*, *“sobretudo”*, *“pois”* |
+| **Preservação do sentido** | Manutenção das ideias centrais do texto original, respeitando sua intenção e significado. | A definição de IA e seu impacto na formação docente foram mantidos. |
+
+</details>
+
+<!-- Aqui encerra o campo de respostas-->
+
+<br>
+
+::: callout-warning
+**Na escrita acadêmica, a paráfrase é um tipo de citação: a citação indireta.**
+
+**- A ideia do autor é reescrita com outras palavras, mantendo-se o sentido original e indicando a fonte entre parênteses (sem uso de aspas);**
+
+**- A menção à página não é obrigatória, mas pode ser incluída quando se tratar de um trecho pontual ou relevante da obra.**
+:::
+
+<br>
+
+::: enfase
+Plágio é o ato de utilizar, total ou parcialmente, ideias, trechos, dados ou produções intelectuais de outra pessoa sem **a devida atribuição de autoria**, fazendo-os passar como se fossem de autoria própria (intencionalmente ou não).
+
+Essa prática constitui uma grave violação ética e acadêmica, pois **compromete a integridade do trabalho intelectual, desrespeita os direitos autorais e prejudica o reconhecimento justo da contribuição alheia**.
+
+O plágio abrange desde a **transcrição literal até a paráfrase sem referência adequada**, sendo combatido por meio de normas específicas de citação e pela valorização da honestidade intelectual na produção científica e educacional.
+:::
+
+<br/>
