@@ -1,9 +1,17 @@
 ---
-title: "Como localizar e organizar fontes científicas para uma pesquisa?"
+title: "Como organizar fontes científicas para uma pesquisa?"
 ---
 
 ::: nota-secundaria
 Roteiro de aula elaborado com o apoio de linguagens de programação e ferramentas de inteligência artificial, submetido à revisão, validação e curadoria pedagógica do professor.
+:::
+
+::: leitura
+**Leituras indicadas**
+
+[**Tutorial do Zotero**](../tutoriais/tutorial_zotero.qmd);
+
+[**Tutorial de pesquisa no Portal de Periódicos da CAPES**](../tutoriais/tutorial_capes.qmd).
 :::
 
 <br>
@@ -18,7 +26,20 @@ Ao final deste encontro, e com base na leitura indicada, espera-se que você sej
 
 ## Contextualização
 
-A pesquisa acadêmica começa pela busca e pela organização de conhecimentos já produzidos sobre um tema. Nesta aula, você aprenderá a localizar artigos científicos relacionados ao seu campo de interesse e a organizá-los no Zotero, construindo uma biblioteca de fontes que poderá ser utilizada ao longo do desenvolvimento do seu projeto de pesquisa.
+::: formulario
+
+Antes de começar: **sobre o que você gostaria de pesquisar?**
+
+Pense em um assunto relacionado ao seu curso que desperte a sua curiosidade.
+
+Complete a frase:
+
+> Eu gostaria de pesquisar sobre ___________________________________________________________________________ porque ___________________________________________________________________________.
+
+Não se preocupe em definir agora um tema definitivo. Esta é apenas uma **primeira delimitação**: ao buscar e ler artigos, você poderá modificá-la, restringi-la ou até mesmo substituí-la.
+
+A pesquisa acadêmica começa pela **busca** e pela **organização** dos conhecimentos já produzidos sobre um tema. Nesta aula, você aprenderá a localizar artigos científicos relacionados ao seu campo de interesse e a organizá-los no Zotero, construindo uma biblioteca de fontes que poderá ser utilizada ao longo do desenvolvimento do seu projeto de pesquisa.
+:::
 
 <br>
 
@@ -26,22 +47,21 @@ A pesquisa acadêmica começa pela busca e pela organização de conhecimentos j
 
 Nesta aprendizagem, você vai buscar artigos científicos no Portal de Periódicos da CAPES e organizá-los no Zotero.
 
-Antes de iniciar, consulte:
+**Etapa 1 — Definição das palavras de busca**
 
-- o [Tutorial do Zotero](tutorial_zotero.qmd), disponível no material da disciplina;
-- o tutorial de pesquisa no Portal de Periódicos da CAPES, disponível [aqui](tutorial_capes.qmd).
+Retome o assunto que você indicou anteriormente. Agora, pense em **palavras ou expressões que representem os principais conceitos relacionados ao que você deseja pesquisar**. Elas serão utilizadas para localizar artigos científicos.
 
-::: callout-warning
-O Zotero requer computador. Caso você não tenha um computador pessoal disponível, utilize os computadores da **biblioteca** ou dos **laboratórios de informática** da Ufersa.
-:::
+Por exemplo, se você tem interesse em pesquisar o uso de inteligência artificial no ensino de línguas, algumas palavras de busca poderiam ser:
 
-------------------------------------------------------------------------
+> **inteligência artificial** · **ensino de línguas** · **aprendizagem de línguas**
 
-**Etapa 1 — Escolha do campo de interesse**
+Anote algumas palavras ou expressões relacionadas ao seu interesse:
 
-Pense em temas, assuntos ou áreas que despertem seu interesse — como educação, linguagem, saúde, meio ambiente, tecnologias digitais, cultura popular, leitura, juventudes, inclusão, entre outros. Não é necessário escolher um tema definitivo agora, mas ter em mente um campo de interesse tornará suas buscas mais produtivas e significativas.
+> ___________________________________________________________________________\
+\
+> ___________________________________________________________________________
 
-------------------------------------------------------------------------
+Não se preocupe em encontrar as palavras perfeitas neste momento. Durante as buscas, você poderá **acrescentar, substituir ou combinar termos** à medida que conhecer melhor o tema.
 
 **Etapa 2 — Busca de artigos no Portal de Periódicos da CAPES**
 
@@ -58,8 +78,6 @@ Acesse o **Portal de Periódicos da CAPES** e localize **cinco artigos científi
 ::: callout-warning
 Atenção: **não selecione TCCs, artigos publicados em anais de congresso, dissertações de mestrado ou teses de doutorado**.
 :::
-
-------------------------------------------------------------------------
 
 **Etapa 3 — Organização no Zotero**
 
@@ -78,4 +96,3 @@ Atenção: **não selecione TCCs, artigos publicados em anais de congresso, diss
 5.  **Salve o relatório no formato `.html`** em sua conta institucional no **Google Drive**.
 
 6.  **Compartilhe o link do arquivo** no grupo de WhatsApp da turma.
-::::::
