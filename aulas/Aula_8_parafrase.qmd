@@ -2,9 +2,9 @@
 title: "Como fazer paráfrases?"
 ---
 
-## Contextualização[^aula_9_parafrase-1]
+## Contextualização[^aula_8_parafrase-1]
 
-[^aula_9_parafrase-1]: Roteiro de aula elaborado no RStudio com o auxílio de modelos de linguagem (IA) e supervisionado pelo professor antes de sua publicação.
+[^aula_8_parafrase-1]: Roteiro de aula elaborado no RStudio com o auxílio de modelos de linguagem (IA) e supervisionado pelo professor antes de sua publicação.
 
 ```{=html}
 <div style="max-width:320px; margin: 0 auto;">
@@ -298,4 +298,11 @@ Essa prática constitui uma grave violação ética e acadêmica, pois **comprom
 O plágio abrange desde a **transcrição literal até a paráfrase sem referência adequada**, sendo combatido por meio de normas específicas de citação e pela valorização da honestidade intelectual na produção científica e educacional.
 :::
 
-<br/>
+<br>
+
+::: proxima-aula
+[Para a próxima aula:]{.proxima-aula-title}
+
+- **Leia** o texto **O que é um bom argumento?** (p. 27–42), capítulo do livro *Pensamento crítico: o poder da lógica e da argumentação*, de Walter Carnielli e Richard Epstein. Disponível na Biblioteca Virtual.
+:::
+

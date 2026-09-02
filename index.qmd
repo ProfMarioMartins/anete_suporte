@@ -109,7 +109,7 @@ As atividades devem ser entregues nos prazos estabelecidos. Atrasos podem compro
 <script>
   if (location.protocol !== 'file:' && location.hostname !== 'localhost') {
     var senha = prompt("Este conteúdo é restrito a alunos da disciplina Análise e Expressão Textual. Por favor, digite a senha de acesso:");
-    if (senha !== "anete") {
+    if (senha !== "anete20262") {
       document.body.innerHTML = "<h1>Acesso negado</h1>";
     }
   }
