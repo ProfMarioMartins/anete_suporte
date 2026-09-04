@@ -106,7 +106,7 @@ Análise
 Analise cada frase do carrossel conforme a tabela abaixo:
 
 | O que analisar | Possibilidades |
-|------------------------------------|------------------------------------|
+|----|----|
 | **Identifique o tipo de frase** | *Declarativa*; *interrogativa*; *imperativa*; *exclamativa*. |
 | **Verifique se é uma asserção** | *É asserção:* possui valor de verdade e, portanto, pode ser encarada como verdadeira ou falsa.<br><br>*Não é asserção:* não possui valor de verdade. |
 | **Podemos determinar seu valor de verdade?** | *Sim: é verdadeira*; *sim: é falsa*; *não é possível determinar [atualmente]{.underline} se é verdadeira ou falsa*. |
